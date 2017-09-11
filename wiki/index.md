@@ -1,0 +1,63 @@
+# Welcome to Giveth Wiki
+#
+
+**Hello friend!** You came to the right place to learn about Giveth!
+
+We just started this wiki, but **with your help and input** it will grow strong and healthy!
+
+Join us in building Giveth: [Slack](http://slack.giveth.io/)
+
+The interim website of Giveth: [Giveth.io](http://giveth.io)
+
+Read about the beginnings of Giveth and our first smart contracts *MiniMe* and *Vault*: [Medium](https://medium.com/giveth)
+
+## Where are your donations going?
+##
+
+The traditional charitable system has undergone a slow evolution. It is out of date and out of touch. Too often it provides short-term, one-size-fits-all solutions that fail to address the root causes of the problems they are trying to solve.
+
+## Enter: Giveth!
+##
+
+The Giveth Platform is a rΞvolution in the world of charitable donation, building and empowering communities and enabling new ways to make a difference!
+
+New technologies enable us to rethink and reengineer the distribution of charitable donations to lower transactions costs and so much more.
+
+## Transparent donations on the blockchain
+##
+
+The Giveth community is building a new software system, using [Ethereum](https://www.ethereum.org/) smart contracts, that will radically shift the way people think charity can and should work. Instead of a large centralized organization collecting money from donors and paying people to make a change, the Giveth Platform allows Donors to directly connect to the Change Makers on the ground in a system where accountability and transparency are the default.
+We hope this decentralization will encourage creative solutions to global issues to emerge with a local focus. The methods that are successful for one group can spread virally within the particular cause. In fact, because of the open source nature of this system, successful solutions can scale across all causes. If a cat charity builds a successful governance structure, a homelessness charity can easily use it for their own needs. This is Donation 3.0.
+
+## The Giveth Unicorns believe:
+##
+
+* Donating can be simple, fun and effective.
+* Transparency and accountability can be the default.
+* Every idea has the potential to make a positive impact, and it can be heard and funded in a decentralized fashion.
+* Every Donor can have the ultimate say over how their donation is used.
+* People that want to do good work for their cause can be rewarded for their actions.
+* Real change and innovation comes about when communities join together to make the world a better place.
+
+##  A Solution to directly connect Givers and Makers!
+##
+
+The charitable system is evolving and first projects work on integrating blockchain technology to enable frictionless, global and transparent transactions. Giveth is leap frogging this integration, taking it to the next level, enabling Givers and Makers to interact directly with each other in a safe and trustless manner.
+
+**TLDR; We are building a foundation of smart contracts to allow the creation, administration and funding of Decentralized Altruistic Communities.**
+
+Giveth will allow every DAC to use smart contracts to automate many tasks and subtasks that were expensive and time-consuming before, like accounting, international fund distribution, and other services that favoured the use of large charity organizations before.
+
+At the same time, DACs also enable Givers and Makers to work together to crowdsource without a fee and deploy powerful solutions under their own chosen governance and incentive structures, to bring more impact for their unique set of resources.
+
+Giveth's smart contracts allow donors to take any level of interest they desire. They can tag their donation to send it to a general category (e.g. Ethereum Projects) or to a favorite Decentralized Altruistic Community (DAC). Either way, the Giver will be notified when any portion of their donation is matched to a Maker.
+
+Transparency, accountability, communication and efficiency are core values in Giveth's design. Makers and Givers will be able to connect to exchange ideas and show progress on social media platforms like Slack (for now), but when other Dapps like, Status.im, Colony, and Akasha are launched, they will be integrated into the Giveth Platform for an even more powerful user experience.
+
+Giveth is dedicated to a completely open source development process every step of the way:
+
+* **We will never have a private github repository**
+* We want to enable awesome solutions for everyone to use and improve upon.
+* Makers will be encouraged to use our current Milestone Tracker Contract, where donations are only collected upon the completion of pre-arranged milestones. This creates a result-focused incentive structure naturally aligning everyone's intentions.
+* The Giveth core team (Giveth DAC!) has completed v0.1 of Giveth's DApp (Donation Application) using our own system. This means there is complete transparency on how the donations sent to the Giveth Platform have been used.
+* **Our current DApp is still in the early prototype stage** and focuses on the distribution of funds to Makers. The Dapp is under heavy development, this is our: [Roadmap](roadmap.md)
