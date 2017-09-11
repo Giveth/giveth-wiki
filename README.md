@@ -7,7 +7,7 @@ The wiki is accessible via this link: https://wiki.giveth.io
 It is built with https://netlify.com using the static site generator mkdocs http://www.mkdocs.org/
 
 ## Contributing
-**Contributing content is very easy! Just edit the files contained in the wiki directory. **
+**Contributing content is very easy! Just edit the files contained in the wiki directory.**
 
 For an introduction to markdown, see: https://guides.github.com/features/mastering-markdown/
 
