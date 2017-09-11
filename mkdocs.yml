@@ -1,0 +1,20 @@
+site_name: Giveth Wiki
+site_url: http://learn.giveth.io
+repo_url: https://github.com/Giveth/giveth-wiki/
+edit_uri: edit/development/wiki/
+docs_dir: wiki
+
+google_analytics: ['UA-103956937-1', 'giveth.io']
+
+extra_css:
+    - css/extra.css
+
+pages:
+    - Wikihome: index.md
+    - DOCs: docs.md
+    - FAQ: faq.md
+    - Glossary: glossary.md
+    - Technical Documentation: dev.md
+    - Roadmap: roadmap.md
+    - About: about.md
+theme: readthedocs
