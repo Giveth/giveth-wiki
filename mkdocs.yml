@@ -17,4 +17,5 @@ pages:
     - Technical Documentation: dev.md
     - Roadmap: roadmap.md
     - About: about.md
-theme: readthedocs
+
+theme_dir: 'material'

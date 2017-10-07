@@ -1,5 +1,4 @@
 # FAQ
-#
 
 ## When will this Wiki be finished?
 
@@ -18,3 +17,4 @@ They have a shared social media platform (like Slack, Rocket Chat, Discord, etc.
 **Community:** A group of individuals and organizations working together to achieve their goals.
 
 [*]Giveth’s Smart Contracts have centralizing security features (Like escape hatches) that are necessary in 2017 while working with this young smart contract tech, but all the centralizing security features have the ability to be turned off so the DAC can become truly decentralized; although we don’t recommend it at this stage. 
+
