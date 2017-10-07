@@ -1,3 +1,3 @@
-# DOCs
+# Docs
 
-A list of docs and link goes here until DOCs will be properly integrated with the Wiki
+A list of docs and link goes here until docs are properly integrated with the Wiki
