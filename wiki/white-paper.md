@@ -20,7 +20,7 @@ For clarity, the 4 challenges are briefly restated here:
 3. Safely transfer ownership of ether to said individuals
 4. Determine whether ownership should be transferred
 
-Challenge #1, "Safely give ether without losing ownership," is handled by our [vault](https://github.com/Giveth/vaultcontract) contract. This is a solidity smart contract that can safely store ether on behalf of the ether’s owner. This is how and why a giver may control take back their donations. When a giver donates ether through Giveth, it is actually stored in a vault with them as the owner.
+Challenge #1, "Safely give ether without losing ownership," is handled by our [vault](https://github.com/Giveth/vaultcontract) contract. This is a solidity smart contract that can safely store ether on behalf of the ether’s owner. This is how and why a giver may control or take back their donations. When a giver donates ether through Giveth, it is actually stored in a vault with them as the owner.
 
 Once stored, ether is stuck and cannot be moved without the owners permission.
 
@@ -36,7 +36,7 @@ At it's core, liquid pledging maintains a list of ether transfers and list of ow
 
 Challenge #3, "Safely transfer ownership of ether to said individuals," is again resolved by our vault contract. Ether is only ever released to addresses whitelisted with original donors permission. However, in order to fully meet the requirements of challenge #3, we must set some sort of approval process.
 
-The rules for how transfers are approved are handled by liquid pledging plugins. These plugins are separate contracts reference by the liquid pledging contract.
+The rules for how transfers are approved, challenge #4, are handled by liquid pledging plugins (lpp). These plugins are separate contracts reference by the liquid pledging contract mentioned above.
 
 For example, you could use our [lpp-milestone](https://github.com/Giveth/lpp-milestone) plugin to require reviewer approval as a condition to releasing ether from it's original donor. In this case, the reviewer is another ethereum address. If "acceptMilestone" is called from this approved reviewer address, then the ownership of donated ether can be released to the milestone recipient address.
 
