@@ -16,7 +16,7 @@ But baked into challenge #3, there is a 4th challenge of how to determine whethe
 
 For clarity, the 4 challenges are briefly restated here:
 1. Safely give ether without losing ownership
-2. Allocate donated funds to individuals
+2. Allocate donated funds to individuals who can use it for good
 3. Safely transfer ownership of ether to said individuals
 4. Determine whether ownership should be transferred
 
