@@ -15,12 +15,12 @@ Lastly, how do we securely transfer ownership to the individuals who are making 
 But baked into challenge #3, there is a 4th challenge of how to determine whether ownership of distributed ether should be transferred or not. In other words, how can we be sure a giver deserves the donated ether before we transfer it.
 
 For clarity, the 4 challenges are briefly restated here:
-1. Safely give ether without losing ownership
+1. Safely donate ether without losing ownership
 2. Allocate donated funds to individuals who can use it for good
 3. Safely transfer ownership of ether to said individuals
 4. Determine whether ownership should be transferred
 
-Challenge #1, "Safely give ether without losing ownership," is handled by our [vault](https://github.com/Giveth/vaultcontract) contract. This is a solidity smart contract that can safely store ether on behalf of the ether’s owner. This is how and why a giver may control or take back their donations. When a giver donates ether through Giveth, it is actually stored in a vault with them as the owner.
+Challenge #1, "Safely donate ether without losing ownership," is handled by our [vault](https://github.com/Giveth/vaultcontract) contract. This is a solidity smart contract that can safely store ether on behalf of the ether’s owner. This is how and why a giver may control or take back their donations. When a giver donates ether through Giveth, it is actually stored in a vault with them as the owner.
 
 Once stored, ether is stuck and cannot be moved without the owners permission.
 
