@@ -10,11 +10,11 @@ extra_css:
     - css/extra.css
 
 pages:
-    - Wikihome: index.md
+    - Welcome: index.md
     - DOCs: docs.md
     - FAQ: faq.md
     - Glossary: glossary.md
-    - Technical Documentation: dev.md
+    - White-Paper: white-paper.md
     - Roadmap: roadmap.md
     - About: about.md
 
