@@ -24,13 +24,11 @@ Once stored, ether is stuck and cannot be moved without the owners permission.
 #### Allocate donated funds to individuals who can use it for good
 Challenge #2 is partly handled by our [minime](https://github.com/Giveth/minime) contract. This is a solidity smart contract that can represent ether with tokens.
 
-Instead of transferring actual ether to individuals for their efforts to do good, we can distribute minime tokens with the assurance that the real ether is stored in the vault.
+Instead of transferring actual ether to individuals for their efforts to do good, we can distribute minime tokens with the assurance that the real ether is stored in the vault. Minime tokens are used by a number of big projects in the the ethereum space.
 
-This combined power of safe (vault) and flexible (minime) transfers allows us to redistribute ether in a myriad of networked permutations (aka a graph). Which is where [liquid pledging](https://github.com/Giveth/liquidpledging) comes into play.
+Our latest dapp uses another strategy for flexible transfers. [Liquid pledging](https://github.com/Giveth/liquidpledging) is our solidity smart contract that allows us to redistribute ether in a myriad of networked permutations (aka a graph). It's a bit like liquid democracy, but there is no voting (unless you add that as a plugin).
 
-Liquid pledging is our solidity smart contract that allocates donated ether in a representative fashion. It's a bit like liquid democracy, but there is no voting (unless you add that as a plugin).
-
-At it's core, liquid pledging maintains a list of ether transfers and list of owners. These two lists serve as the data structure for the graph. The contract's api provides the means to donate, delegate, and transfer ether from the vault.
+At it's core, liquid pledging maintains a list of ether transfers and owners. These two lists serve as the data structure for the graph. The contract's api provides the means to donate, delegate, and transfer ether stored in the vault. Its other major innovation is "contract plugins."
 
 #### Safely transfer ownership of ether to said individuals
 Challenge #3 is again resolved by our [vault](https://github.com/Giveth/vaultcontract) contract. Ether is only ever released to addresses whitelisted with original donors permission. However, in order to fully meet the requirements of challenge #3, we must set some sort of approval process.
