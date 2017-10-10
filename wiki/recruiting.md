@@ -6,15 +6,15 @@
 Giveth is an underground cause. It is recreational. To continue development we try to keep things fun and rely on the inspiration of talented contributors.
 
 ### Contributing
-Each contributor starts as a community member of the Giveth slack. All members are free to volunteer efforts to support Giveth projects in any way they want. Tasks can be suggested on slack by one member (let’s say @griff) and completed by another member of the community (for example @jbaylina).
+Each contributor starts as a community member of the Giveth slack. All members are free to volunteer efforts to support Giveth projects in any way they want, or not. Tasks can be suggested on slack by one member (let’s say @griff) and completed by another member of the community (for example @jbaylina).
 
 ### Policy
-Each contributor is their own lead.  They are only accountable to the objectives they set for themselves.
+Each contributor is their own lead. They are only accountable to the objectives they set for themselves.
 
 ### Reward Dao
 The Reward Dao stems from an altruistic notion of community contribution. It is an evolving experiment to find a reward model that could eventually be fully automated.
 
-Instead of “paying” individuals, which devalues their time as a commodity, Giveth aims to reward contributors for their spontaneous inspirations. Volunteers that contribute to Giveth projects are rewarded by team voting that may occur once or every two weeks.
+Instead of “paying” individuals for tasks, which can devalue their time as a commodity, Giveth aims to reward contributors for their spontaneous inspirations. Volunteers that contribute to Giveth projects are rewarded by team voting that may occur once or every two weeks.
 
 ### Join slack
 To learn more join our [slack](http://slack.giveth.io).
