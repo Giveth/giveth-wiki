@@ -32,17 +32,26 @@ Ether is the currency of the [Ethereum Project](https://ethereum.org) blockchain
 ## <a name="glossary-fundraiser"></a>Fundraiser
 Fundraser is an administrator of a [Campagin](#glossary-campaign) he/she created and is the only person who can create [Milestones](#glossary-milestone) and sent the donated money locked in the [Campaign](#glossary-campaign) to these [Milestones](#glossary-milestone).
 
+## <a name="glossary-giveth"></a>Giveth
+The term Giveth refers to the open-source donation system developed by the [Giveth DAC](#glossary-giveth-DAC). You can find more information on our [Website](https://giveth.io) and our [Github Page](https://github.com/Giveth).
+
+## <a name="glossary-giveth-DAC"></a>Giveth DAC
+Giveth DAC is a Decentralised Altruistic Community working on developing, maintaining and promoting the [Giveth system](#glossary-giveth).
+
 ## <a name="glossary-maker"></a>Maker
-Maker is appointed by the [Fundraiser](#glossary-fundraiser) to a [Milestone](#glossary-milestone) within the [Fundraiser's](#glossary-fundraiser) [Campaign](#glossary-campaign). The role of the Maker is to make sure the state and/or actions described in the [Milestone](#glossary-fundraiser) are achieved.
+Maker is appointed by the [Fundraiser](#glossary-fundraiser) to a [Milestone](#glossary-milestone) within the [Fundraiser's](#glossary-fundraiser) [Campaign](#glossary-campaign). The role of the Maker is to make sure the state and/or actions described in the [Milestone](#glossary-milestone) are achieved.
 
 ## <a name="glossary-milestone"></a>Milestone
-Milestones are created within a [Campaign](#glossary-campaign) by the [Fundraiser](#glossary-fundraiser). The Milestones are  is the only way
-
-The money donated to a Milestone are locked in the Milestone and the [Donor](#glossary-donor) can no longer withdraw them. However, should the Milestone be cancelled, the money are returned to the [Donors](#glossary-donor).
+Milestones are created within a [Campaign](#glossary-campaign) by the [Fundraiser](#glossary-fundraiser). The purpose of the Milestones is to provide a secure, transparent way of withdrawing the [Campaign's](#glossary-campaign) donations from the Giveth [Dapp](#glossary-Dapp) to be able to use them for the purpose set in the Milestone description. The money donated to a Milestone are locked in the Milestone and the [Donor](#glossary-donor) can no longer withdraw them. However, should the Milestone be cancelled, the money are returned to the [Donors](#glossary-donor).
 
 ## <a name="glossary-MVP"></a>Minimal Viable Product (MVP)
 Is a minimal version of Giveth system that has all the basic functionality a [Donor](#glossary-donor) and change [Maker](#glossary-maker) would need. You can read more in the [MVP chapter](./MVP.md).
 
 ## <a name="glossary-PoC"></a>Proof of Concept (PoC)
+The Giveth Proof of Concept system is the first [Dapp](#glossary-Dapp) developed by the [Giveth DAC](#glossary-giveth-DAC). It is often referred to as the Milestone Tracker and can be accessed on [dapp.giveth.io](https://dapp.giveth.io). Currently it is used by the [Giveth DAC](#glossary-giveth-DAC) to fund the development of [Giveth](#glossary-giveth). The system is no longer maintained and as of now only works on Google Chrome with [Metamask](#glossary-giveth-DAC) extension.
 
-## Reviewer
+## <a name="glossary-reviewer"></a> Reviewer
+Reviewer is appointed by the [Fundraiser](#glossary-fundraiser) to a [Milestone](#glossary-milestone) within the [Fundraiser's](#glossary-fundraiser) [Campaign](#glossary-campaign). The role of the Reviewer is to confirm that the really [Maker](#glossary-maker) achieved the state and/or actions described in the [Milestone](#glossary-milestone). Only after Reviewer's approval the milestone funds will be paid to [Spender](#glossary-spender).
+
+## <a name="glossary-spender"></a> Spender
+Spender is the recipient of funds from successfully completed [Milestone](#glossary-milestone).
