@@ -1,21 +1,34 @@
 site_name: Giveth Wiki
 site_url: http://learn.giveth.io
 repo_url: https://github.com/Giveth/giveth-wiki/
-edit_uri: edit/development/wiki/
+edit_uri: edit/wiki/
 docs_dir: wiki
 
 google_analytics: ['UA-103956937-1', 'giveth.io']
+
+extra:
+    palette:
+      primary: 'deep purple'
+      accent: 'green'
+    social:
+    - type: 'slack'
+      link: 'http://slack.giveth.io/'
+    - type: 'twitter'
+      link: 'https://twitter.com/givethio'
+    - type: 'github'
+      link: 'https://github.com/giveth'
+    - type: 'facebook'
+      link: 'https://facebook.com/givethio'
+    - type: 'youtube'
+      link: 'https://www.youtube.com/watch?v=VaIbmxk2eio&list=PL4Artm1rmCWGyz-BWv1-8Ip26XIauCLo9'
 
 extra_css:
     - css/extra.css
 
 pages:
-    - Wikihome: index.md
-    - DOCs: docs.md
+    - Welcome: index.md
     - FAQ: faq.md
     - Glossary: glossary.md
-    - Technical Documentation: dev.md
-    - Roadmap: roadmap.md
     - About: about.md
 
 theme_dir: 'material'
