@@ -1,7 +1,7 @@
 site_name: Giveth Wiki
 site_url: http://learn.giveth.io
 repo_url: https://github.com/Giveth/giveth-wiki/
-edit_uri: edit/wiki/
+edit_uri: edit/master/wiki/
 docs_dir: wiki
 
 google_analytics: ['UA-103956937-1', 'giveth.io']
