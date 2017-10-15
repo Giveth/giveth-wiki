@@ -1,5 +1,4 @@
 # Welcome to Giveth Wiki
-#
 
 **Hello friend!** You came to the right place to learn about Giveth!
 
@@ -7,33 +6,29 @@ We just started this wiki, but **with your help and input** it will grow strong 
 
 Join us in building Giveth: [Slack](http://slack.giveth.io/)
 
-The interim website of Giveth: [Giveth.io](http://giveth.io)
+Giveth website: [Giveth.io](http://giveth.io)
 
 Read about the beginnings of Giveth and our first smart contracts *MiniMe* and *Vault*: [Medium](https://medium.com/giveth)
 
 ## Where are your donations going?
-##
 
 The traditional charitable system has undergone a slow evolution. It is out of date and out of touch. Too often it provides short-term, one-size-fits-all solutions that fail to address the root causes of the problems they are trying to solve.
 
 ## Enter: Giveth!
-##
 
 The Giveth Platform is a rΞvolution in the world of charitable donation, building and empowering communities and enabling new ways to make a difference!
 
 New technologies enable us to rethink and reengineer the distribution of charitable donations to lower transactions costs and so much more.
 
 ## Transparent donations on the blockchain
-##
 
-The Giveth community is building a new software system, using [Ethereum](https://www.ethereum.org/) smart contracts, that will radically shift the way people think charity can and should work. So what if, instead of a relying on others to collect and distribute our donations, we did it ourselves. 
+The Giveth community is building a new software system, using [Ethereum](https://www.ethereum.org/) smart contracts, that will radically shift the way people think charity can and should work. So what if, instead of a relying on others to collect and distribute our donations, we did it ourselves.
 
 With blockchain technology we can donate directly to the people who work to make a difference. Using ethereum you can even keep ownersihp of your donations, to ensure they to places you approve of. If you disagree with an allocation of resources you donated, you can veto the transfer or even take your donation back.
- 
+
 We hope this decentralization will encourage creative solutions to global issues to emerge with a local focus. The methods that are successful for one group can spread virally within the particular cause. In fact, because of the open source nature of this system, successful solutions can scale across all causes. If a cat charity builds a successful governance structure, a homelessness charity can easily use it for their own needs. This is Donation 3.0.
 
 ## The Giveth Unicorns believe:
-##
 
 * Donating can be simple, fun and effective.
 * Transparency and accountability can be the default.
@@ -43,7 +38,6 @@ We hope this decentralization will encourage creative solutions to global issues
 * Real change and innovation comes about when communities join together to make the world a better place.
 
 ##  A Solution to directly connect Givers and Makers!
-##
 
 The charitable system is evolving and first projects work on integrating blockchain technology to enable frictionless, global and transparent transactions. Giveth is leap frogging this integration, taking it to the next level, enabling Givers and Makers to interact directly with each other in a safe and trustless manner.
 
