@@ -3,13 +3,13 @@
 This page explains some of the terms commonly used within the Giveth system.
 
 ## <a name="glossary-campaign"></a>Campaign
-A Campaign is a minimal entity that allows [Fundraisers](#glossary-fundraiser) to collect [donations](#glossary-donation) for a project. The donated money can be withdrawn from the Giveth system through [milestones](#glossary-milestone). The funds donated directly to a Campaign are locked in the Campaign and the [Giver](#glossary-giver) can no longer withdraw them.
+A Campaign is a minimal entity that allows [Fundraisers](#glossary-fundraiser) to collect [donations](#glossary-donation) for a project. The donated money can be withdrawn from the Giveth system through [Milestones](#glossary-milestone). The funds donated directly to a Campaign are locked in the Campaign and the [Giver](#glossary-giver) can no longer withdraw them.
 
 ## <a name="glossary-campaign-reviewer"></a>Campaign Reviewer
-The function of a Campaign Reviewer is a safety feature to protect [Givers](#glossary-giver) from fraudulent [Campaigns](#glossary-campaign). The Campaign Reviewer can reject completion of any milestone and, if it comes to the worse, can cancel a whole campaign. For the MVP the list of Campaign Reviewers is limited to Giveth trusted addresses.
+The function of a Campaign Reviewer has been integrated as a safety feature to protect [Givers](#glossary-giver) from fraudulent [Campaigns](#glossary-campaign). The Campaign Reviewer can reject completion of any [Milestone](#glossary-milestone) and, if it comes to the worse, can cancel a whole Campaign. For the MVP the list of Campaign Reviewers is limited to Giveth trusted addresses.
 
-## <a name="glossary-Dapp"></a>Decentralised Application (DApp)
-A DApp is a Decentralized Application and refers here to the Giveth platform, currently available in alpha state at [mvp.giveth.io](https://mvp.giveth.io). It is called decentralised because you can host your own instance and in the future it will be possible to just open the compressed html file from decentralised storage like [Swarm](http://swarm-gateways.net).
+## <a name="glossary-Dapp"></a>DApp
+A DApp is in the context of Giveth the 'Donation Application', which is the Giveth platform, currently available in Alpha state at [mvp.giveth.io](https://mvp.giveth.io). It of course also refers to a 'Decentralized Application': the Giveth DApp is decentralised as you can host your own instance, in the future it will be possible to just open the compressed html file from decentralised storage like [Swarm](http://swarm-gateways.net).
 
 ## <a name="glossary-DAC"></a>Decentralised Altruistic Community (DAC)
 A DAC (pronounced D-A-C) is a minimal entity within the Giveth system allowing users to create a community around a Cause. A DAC is created by a single [Delegate](#glossary-delegate) who has the power of [delegating](#glossary-delegation) the DAC's funds to any [Campaign](#glossary-campaign) they find best fullfils the DAC's goals. The money donated to a DAC can be re-called by the [Giver](#glossary-giver) at any time.
@@ -21,7 +21,7 @@ A Delegate is an administrator of a [DAC](#glossary-DAC) he/she created and is t
 A delegation is a process where a [Delegate](#glossary-delegate) transfers the money from his/her [DAC](#glossary-DAC) to a [Campaign](#glossary-campaign). The [Giver](#glossary-giver) who donated that money to the [DAC](#glossary-DAC) and whose money has been delegated has a certain amount of time (by default 3 days) to disagree with the delegation and cancel it. If no action is taken, the delegated money will be locked in the [Campaign](#glossary-campaign).
 
 ## <a name="glossary-donation"></a>Donation
-A donation is any non-zero amount of [Ether](#glossary-ether) that a user of the Giveth [Dapp](#glossary-Dapp) sends to a [DAC](#glossary-DAC), [Campaign](#glossary-campaign) or to a [Milestone](#glossary-milestone).
+A Donation is any non-zero amount of [Ether](#glossary-ether) that a user of the Giveth [Dapp](#glossary-Dapp) sends to a [DAC](#glossary-DAC), [Campaign](#glossary-campaign) or to a [Milestone](#glossary-milestone).
 
 ## <a name="glossary-ether"></a>Ether
 Ether is the currency of the [Ethereum Project](https://ethereum.org) blockchain which we are using to build our system. Ether is used in our system to both give money to Causes and to pay a small fee for any transaction that happens in the process (these are transaction fees native to the Ethereum blockchain, Giveth will never charge any fees whatsoever). 
