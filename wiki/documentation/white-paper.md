@@ -1,12 +1,12 @@
 # <h3 style="text-align: center;" markdown="1">Giveth Technical White Paper<h3>
 
-<p style="text-align: center;" markdown="1">(Assumes basic knowledge of ethereum)</p>
+<p style="text-align: center;" markdown="1">(Assumes basic knowledge of Ethereum)</p>
 
-The purpose of our technology is to enable ethereum holders to donate ether without losing ownership. As an alternative to traditional donation, our smart contracts allow givers to take back their ether if they disagree with how their donations were allocated. Or if they just feel like it.
+The purpose of our technology is to give Cryptocurrency users the ability to donate effortlessly to Campaigns focused on making the world a better place. They can use the Giveth platform to find those Campaigns and donate directly or they can pledge their ether to a cause and have a Delegate choose for them. As an alternative to traditional donation systems, our Liquid Pledging contract allows Givers to take back their pledge if they disagree with how their donations were allocated, or for whatever reason, as long before it has been locked in to a Campaign, for a specific purpose.
 
 To make this new way of giving possible, we have to overcome a few challenges.
 
-The 1st challenge is how to securely offer a means for givers to donate without losing ownership of their funds. The 2nd challenge is how to allow third parties to distribute these owned ether donations to individuals who can use them effectively. Lastly, how do we securely transfer ownership to the individuals who are making the world a better place.
+The 1st challenge is how to securely offer a means for Givers to donate without losing ownership of their funds. The 2nd challenge is how to allow third parties to distribute these owned ether donations to individuals who can use them effectively. Lastly, how do we securely transfer ownership to the individuals who are making the world a better place.
 
 However, baked into that 3rd challenge, there is a 4th challenge of how to determine whether ownership of distributed ether should be transferred or not. In other words, how can we be sure a recipient deserves the donated ether before we transfer it?
 
