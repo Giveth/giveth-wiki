@@ -45,7 +45,7 @@ A Maker is appointed by the [Fundraiser](#fundraiser) to a [Milestone](#mileston
 Milestones are created within a [Campaign](#campaign) by the [Fundraiser](#fundraiser). The purpose of the Milestones is to provide a secure, transparent way of withdrawing the [Campaign's](#campaign) donations from the Giveth [DApp](#Dapp) to be able to use them for the purpose set in the Milestone description. The funds donated to a Milestone are locked in the Milestone and the [Giver](#giver) can no longer withdraw them. However, should the Milestone be cancelled, the funds are returned to the [Givers](#giver).
 
 ## <a name="MVP">Minimum Viable Product (MVP)</a>
-The MVP is a minimal version of the Giveth system that has all the basic functionalities a [Giver](#giver) and change [Maker](#maker) would need. You can read more in the [MVP chapter](./mvp.md).
+The MVP is a minimal version of the Giveth system that has all the basic functionalities a [Giver](#giver) and change [Maker](#maker) would need. You can read more in the [MVP chapter](../documentation/mvp).
 
 ## <a name="PoC">Proof of Concept (PoC)</a>
 The Giveth Proof of Concept system is the first [DApp](#Dapp) developed by the [Giveth DAC](#giveth-DAC). It is often referred to as the Milestone Tracker and can be accessed on [dapp.giveth.io](https://dapp.giveth.io). Currently it is used by the [Giveth DAC](#giveth-DAC) to fund the development of [Giveth](#giveth). The system is no longer maintained and as of now only works on Google Chrome with the [Metamask](#giveth-DAC) extension.

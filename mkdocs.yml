@@ -1,6 +1,7 @@
-site_name: Giveth Wiki
+site_name: 'Giveth Wiki'
 site_url: https://wiki.giveth.io
-site_author: The Unicorns at Giveth DAC
+site_author: 'The Unicorns at Giveth DAC'
+site_description:
 repo_url: https://github.com/Giveth/giveth-wiki/
 edit_uri: edit/master/wiki/
 docs_dir: wiki
@@ -27,9 +28,19 @@ extra_css:
     - css/extra.css
 
 pages:
-    - Welcome: index.md
-    - FAQ: faq.md
-    - Glossary: glossary.md
-    - About: about.md
+    - Welcome: 'index.md'
+    - Getting Started:
+        - FAQ: 'documentation/faq.md'
+        - Glossary: 'documentation/glossary.md'
+    - Documentation:
+        - DApp MVP: 'documentation/mvp.md'
+        - White Paper: 'documentation/white-paper.md'
+    - The Giveth DAC:
+      - About: 'dac/about.md'
+      - Recruiting: 'dac/recruiting.md'
+    - Protocol:
+        - Government Meetings:
+          - Governance Structure: 'dac/governance.md'
+          - Meeting 1: '/protocol/gov-meeting-1.md'
 
 theme_dir: 'material'
