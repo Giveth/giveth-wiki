@@ -55,4 +55,3 @@ A Reviewer is appointed by the [Fundraiser](#fundraiser) to a [Milestone](#miles
 
 ## <a name="spender">Spender</a>
 A Spender is the final recipient of funds from a successfully completed [Milestone](#milestone).
-mvp
