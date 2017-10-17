@@ -1,5 +1,6 @@
 site_name: Giveth Wiki
-site_url: http://learn.giveth.io
+site_url: https://wiki.giveth.io
+site_author: The Unicorns at Giveth DAC
 repo_url: https://github.com/Giveth/giveth-wiki/
 edit_uri: edit/master/wiki/
 docs_dir: wiki
