@@ -12,4 +12,6 @@ We are moving towards a fully Decentralized governance system. We have been usin
 
 DAC stands for 'Decentralized Altruistic Community' and is a meta-description for anybody engaging in a process to alleviate some problem in this world with time and effort.
 
-## Giveth DAC
+## Can I see a picture?
+
+![Team](../images/giveth-dac.jpeg)
