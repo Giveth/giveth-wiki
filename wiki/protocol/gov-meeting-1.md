@@ -1,11 +1,13 @@
-#1st Giveth DAC governance meeting on 2017-09-22
+#1st Giveth DAC governance meeting
+Held during Team bonding Session September 2017
+
 
 ##Step 1: Check in:
 Vojtec wants to talk mostly about quality
 Grace: wants to talk about the actual output of the holacracy
-Kay:is totally happy about weekly meetings
-OZ: learning,not destructive
-Jordi:  revolution in catalonia, liquid pledging UI worries me
+Kay: is totally happy about weekly meetings
+OZ: learning, not destructive
+Jordi: revolution in Catalonia, liquid pledging UI worries me
 Jen: not destructive, wants to talk about her role
 Z: don’t like to talk in front of people, wants to help more
 Satya came in, big destruction:)! Satya started to make UI/UX, started building the dapp in react

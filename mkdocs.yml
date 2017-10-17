@@ -41,6 +41,11 @@ pages:
     - Protocol:
         - Government Meetings:
           - Governance Structure: 'dac/governance.md'
-          - Meeting 1: 'protocol/gov-meeting-1.md'
+          - Governance Meeting 2017-09-19: 'protocol/gov-meeting-1.md'
+          - Governance Meeting 2017-09-22: 'protocol/gov-meeting-2.md'
+          - Governance Meeting 2017-09-29: 'protocol/gov-meeting-3.md'
+          - Governance Meeting 2017-10-06: 'protocol/gov-meeting-4.md'
+          - Governance Meeting 2017-10-13: 'protocol/gov-meeting-5.md'
+          - Governance Meeting 2017-10-20: 'protocol/gov-meeting-6.md'
 
 theme_dir: 'material'
