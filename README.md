@@ -1,5 +1,5 @@
 # Giveth Wiki
-The wiki for the Giveth Dapp, Website, the Unicorn DAC and everything else included in the Giveth universe. A place to get into detail about concepts, explanations and guides.
+The wiki for the Giveth DApp, the Giveth DAC and everything else included in the Giveth universe. A place to get into detail about concepts, explanations and guides.
 
 ## About
 The wiki is accessible via this link: https://wiki.giveth.io
