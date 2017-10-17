@@ -41,6 +41,6 @@ pages:
     - Protocol:
         - Government Meetings:
           - Governance Structure: 'dac/governance.md'
-          - Meeting 1: '/protocol/gov-meeting-1.md'
+          - Meeting 1: 'protocol/gov-meeting-1.md'
 
 theme_dir: 'material'
