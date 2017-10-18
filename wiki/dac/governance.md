@@ -6,4 +6,4 @@
 
 - Meeting schedule
 
-- Put protocols on the wiki
+- Put protocols on the wiki!
