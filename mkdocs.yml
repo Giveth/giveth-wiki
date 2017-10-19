@@ -27,6 +27,12 @@ extra:
 extra_css:
     - css/extra.css
 
+extra_javascript:
+    - site/js/highlight.pack.js
+    - site/js/jquery-2.1.1.min.js
+    - site/js/modernizr-2.8.3.min.js
+    - site/js/theme.js
+
 pages:
     - Welcome: 'index.md'
     - Getting Started:
