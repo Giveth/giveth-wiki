@@ -37,6 +37,8 @@ pages:
         - White Paper: 'documentation/white-paper.md'
     - The Giveth DAC:
       - About: 'dac/about.md'
+      - Team Organisation: 'dac/team-organisation.md'
+      - Finances: 'dac/finances.md'
       - Recruiting: 'dac/recruiting.md'
     - Protocol:
         - Governance Meetings:
