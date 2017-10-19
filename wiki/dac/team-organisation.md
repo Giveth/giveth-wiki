@@ -1,6 +1,7 @@
-# Tean Organistaion
+# Team Organistaion
 
-## <a name="teamorga_members"></a> Members
+## <a name="teamorga_members">Members</a>
+
 The Giveth team is ever growing and very dynamic. It may be difficult to lose track so this table should help keeping track. The members in bold are working full time.
 
 Name | Slack Handle | Expertise |
@@ -28,7 +29,8 @@ Sonia | |
 Z | @zdenekkuncar | Interaction Designer, UX
 
 
-## <a name="teamorga_roles"></a> Roles
+## <a name="teamorga_roles">Roles</a>
+
 Please note that the information may be outdated and the reference is [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1AgirCB9VSSSxZ5ElD6-UrmYfO1I35gbgm_QEfrGXHc0/edit?usp=sharing).
 
 Role | Purpose | **Lead** & Circle members |
@@ -58,9 +60,12 @@ UX | Find out how we can best accomodate users' needs and translate that into th
 Website | Create, maintain, administrate Web-ressources for Giveth | **Kay**, Grace, Oz, Rj, Vojtech
 White Paper Lead | Write technical white paper we can be proud of. Socialize drafts and gather ideas from other circle leads. | **Oz**, Vojtech, Grace
 
-## <a name="teamorga_online_meetings"></a> Online Meetings
+## <a name="teamorga_online_meetings">Online Meetings</a>
+
 There are two regular online meetings:
-###  Giveth Governance Meetings
+
+### Giveth Governance Meetings
+
 - **When:** Every Friday at 17:00 Barcelona Time (UTC+1)
 - **Where:** [https://meet.jit.si/daily-giveth](https://meet.jit.si/daily-giveth)
 - **Minutes:** [https://drive.google.com/drive/folders/0B-CIs3wLk5T4TE1UbVVkUmp3SzA?usp=sharing](https://drive.google.com/drive/folders/0B-CIs3wLk5T4TE1UbVVkUmp3SzA?usp=sharing)
@@ -81,6 +86,7 @@ There are two regular online meetings:
 1. Everyone in turn checks-out by expressing their opinion on the meeting.
 
 ### Giveth Daily Standup
+
 - **When:** Every day at 19:00 Barcelona Time (UTC+1)
 - **Where:** [https://meet.jit.si/daily-giveth](https://meet.jit.si/daily-giveth)
 - **Historical Meetings:** [Video on YouTube](https://www.youtube.com/playlist?list=PL4Artm1rmCWH35gKXtiD-vZxL6EWH3lEj)
@@ -93,14 +99,16 @@ There are two regular online meetings:
 
 The answers to these questions should not take longer than 3 minutes per person. If you can not attend the meeting, you are invited to share your answers to the `#giveth_daily` Slack channel.
 
-## <a name="teamorga_calendar"></a> Calendar
+## <a name="teamorga_calendar">Calendar</a>
+
 You can see Giveth calendar on our [TeamUp page](https://teamup.com/ksxaryouurz64b83kr).
 - Publicly Sharable Version - [https://teamup.com/ksxaryouurz64b83kr](https://teamup.com/ksxaryouurz64b83kr)
 
 To import the calendar to your favourite calendar app use the link below:
 [```webcal://ics.teamup.com/feed/ksj3tvxdudx3v14mei/0.ics```](webcal://ics.teamup.com/feed/ksj3tvxdudx3v14mei/0.ics)
 
-## <a name="teamorga_online_meetings"></a> Offline Meetings
+## <a name="teamorga_online_meetings">Offline Meetings</a>
+
 The team is meeting every now ant then in person. The list below shows our past/future location. Your expenses to join the Giveth meeting may be refunded
 
 - **2017/11 Cancun**
