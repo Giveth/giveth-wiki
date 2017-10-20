@@ -49,7 +49,7 @@ pages:
       - Recruiting: 'dac/recruiting.md'
     - Protocol:
         - Governance Meetings:
-          - Governance Structure: 'dac/governance.md'
+          - Protocol for Governance Meetings: 'protocol/governance-meetings.md'
           - Governance Meeting 2017-09-19: 'protocol/gov-meeting-1.md'
           - Governance Meeting 2017-09-22: 'protocol/gov-meeting-2.md'
           - Governance Meeting 2017-09-29: 'protocol/gov-meeting-3.md'
