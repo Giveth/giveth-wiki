@@ -39,7 +39,7 @@ pages:
         - FAQ: 'documentation/faq.md'
         - Glossary: 'documentation/glossary.md'
     - Documentation:
-        - DApp MVP: 'documentation/mvp.md'
+        - DApp Alpha: 'documentation/alpha.md'
         - White Paper: 'documentation/white-paper.md'
         - Design Assets: 'documentation/design-assets.md'
     - The Giveth DAC:
