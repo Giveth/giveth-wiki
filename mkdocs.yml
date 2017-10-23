@@ -32,6 +32,9 @@ extra_javascript:
     - site/js/jquery-2.1.1.min.js
     - site/js/modernizr-2.8.3.min.js
     - site/js/theme.js
+    - site/mkdocs/js/search.js
+    - site/mkdocs/js/mustache.min.js
+    - site/mkdocs/js/require.js
 
 pages:
     - Welcome: 'index.md'
