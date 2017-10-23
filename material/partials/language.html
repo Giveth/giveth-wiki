@@ -1,0 +1,11 @@
+{% set languages = "en" %}
+{% if config and config.extra %}
+  {% set languages = config.extra.language | default("en") %}
+{% endif %}
+{% if languages is string %}
+  {% set languages = languages.split(",") | map("trim") %}
+{% endif %}
+{% import "partials/language/" + (languages | first) + ".html" as lang %}
+{% macro t(key) %}{{ {
+  "search.languages": languages | join(", ")
+}[key] or lang.t(key) }}{% endmacro %}

@@ -6,8 +6,7 @@ repo_url: https://github.com/Giveth/giveth-wiki/
 edit_uri: edit/master/wiki/
 docs_dir: wiki
 
-theme:
-    name: material
+theme_dir: material
 
 google_analytics: ['UA-103956937-1', 'giveth.io']
 
