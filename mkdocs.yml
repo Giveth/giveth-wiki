@@ -6,6 +6,9 @@ repo_url: https://github.com/Giveth/giveth-wiki/
 edit_uri: edit/master/wiki/
 docs_dir: wiki
 
+theme:
+    name: material
+
 google_analytics: ['UA-103956937-1', 'giveth.io']
 
 extra:
@@ -26,18 +29,6 @@ extra:
 
 extra_css:
     - css/extra.css
-
-extra_javascript:
-    - site/js/highlight.pack.js
-    - site/js/jquery-2.1.1.min.js
-    - site/js/modernizr-2.8.3.min.js
-    - site/js/theme.js
-    - site/mkdocs/js/search.js
-    - site/mkdocs/js/lunr.min.js
-    - site/mkdocs/js/mustache.min.js
-    - site/mkdocs/js/require.js
-    - site/mkdocs/js/text.js
-    - site/mkdocs/search_index.json
 
 pages:
     - Welcome: 'index.md'
@@ -62,8 +53,3 @@ pages:
           - Governance Meeting 2017-10-06: 'protocol/gov-meeting-4.md'
           - Governance Meeting 2017-10-13: 'protocol/gov-meeting-5.md'
           - Governance Meeting 2017-10-20: 'protocol/gov-meeting-6.md'
-
-theme:
-    name: material
-    custom_dir: material
-    include_sidebar: false

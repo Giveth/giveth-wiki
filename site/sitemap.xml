@@ -3,58 +3,86 @@
 
     
     <url>
-     <loc>http://learn.giveth.io/</loc>
-     <lastmod>2017-10-06</lastmod>
+     <loc>https://wiki.giveth.io/</loc>
+     <lastmod>2017-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
     <url>
-     <loc>http://learn.giveth.io/docs/</loc>
-     <lastmod>2017-10-06</lastmod>
+     <loc>https://wiki.giveth.io/documentation/faq/</loc>
+     <lastmod>2017-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>https://wiki.giveth.io/documentation/glossary/</loc>
+     <lastmod>2017-10-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
+        
     <url>
-     <loc>http://learn.giveth.io/faq/</loc>
-     <lastmod>2017-10-06</lastmod>
+     <loc>https://wiki.giveth.io/documentation/alpha/</loc>
+     <lastmod>2017-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>https://wiki.giveth.io/documentation/white-paper/</loc>
+     <lastmod>2017-10-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://wiki.giveth.io/documentation/design-assets/</loc>
+     <lastmod>2017-10-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
+        
     <url>
-     <loc>http://learn.giveth.io/glossary/</loc>
-     <lastmod>2017-10-06</lastmod>
+     <loc>https://wiki.giveth.io/dac/about/</loc>
+     <lastmod>2017-10-24</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>https://wiki.giveth.io/dac/team-organisation/</loc>
+     <lastmod>2017-10-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://wiki.giveth.io/dac/finances/</loc>
+     <lastmod>2017-10-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://wiki.giveth.io/dac/recruiting/</loc>
+     <lastmod>2017-10-24</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
+        
     <url>
-     <loc>http://learn.giveth.io/dev/</loc>
-     <lastmod>2017-10-06</lastmod>
+     <loc>https://wiki.giveth.io</loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-    <url>
-     <loc>http://learn.giveth.io/roadmap/</loc>
-     <lastmod>2017-10-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>http://learn.giveth.io/about/</loc>
-     <lastmod>2017-10-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
+        
     
 
 </urlset>
