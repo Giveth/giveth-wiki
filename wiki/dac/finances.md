@@ -1,5 +1,9 @@
 # Finances
 
+## <a name="donations">Donations</a>
+
+Giveth is a Decentralized Altruistic Community, meaning we depend on generous Givers ourselves. If you want to help us build the Future of Giving by contributing any amount, big or small, please contact @Griff in our [Slack](http://slack.giveth.io) or donate directly to the address 'Revolution.eth' (or 0xB94c53B0E67FABac3d97173482663Ef597D4174a)  
+
 ## <a name="finances_budget">Budget Overview</a>
 
 One of the core values of Giveth is transparency. We invite everyone to consult our publicly accessible budget at: [https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing)
