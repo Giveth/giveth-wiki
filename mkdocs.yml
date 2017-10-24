@@ -1,6 +1,6 @@
 site_name: 'Giveth Wiki'
 site_url: https://wiki.giveth.io
-site_author: 'The Unicorns at Giveth DAC'
+site_author: 'The Unicorn DAC'
 site_description: 'Learn about Giveth'
 repo_url: https://github.com/Giveth/giveth-wiki/
 edit_uri: edit/master/wiki/
@@ -38,7 +38,7 @@ pages:
         - DApp Alpha: 'documentation/alpha.md'
         - White Paper: 'documentation/white-paper.md'
         - Design Assets: 'documentation/design-assets.md'
-    - The Giveth DAC:
+    - The Unicorn DAC:
       - About: 'dac/about.md'
       - Team Organisation: 'dac/team-organisation.md'
       - Finances: 'dac/finances.md'
