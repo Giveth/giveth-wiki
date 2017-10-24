@@ -25,7 +25,6 @@ Currently full time Givethers are:
 
 Name | Slack Handle | Salary
 -----|--------------|-------
-**Grace** | @grace | 700 CHF / week
 **Griff** | @griff | 640 USD / week
 **Jen** | @justjen | 600 EUR / week
 **Kay** | @gelee_royale | 600 EUR / week
