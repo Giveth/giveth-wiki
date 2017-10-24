@@ -2,7 +2,7 @@
 
 ## When will this Wiki be finished?
 
-Never! It is an evolving document that will continnue to be updated by community members like you! ;-)
+Never! It is an evolving document that will continue to be updated by community members like you! ;-)
 
 ## What is a DAC?
 
