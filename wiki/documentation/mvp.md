@@ -6,17 +6,17 @@ The Giveth system is a minimal product that allows users to give money to commun
 
 The system consists of:
 - **DACs** short for Decentralised Altruistic Communities. Every DAC is community around cause to which users can donate money. DAC is owned by a Delegate who can delegate the donations to Campaigns linked to the DAC.
-- **Campaigns** are individual projects with owned by a Fundraiser. These projects have milestones through which the people behind the Campaign can get funding.
-- **Milestones** can be created within a Campaign and are the only way how to get money out of the Giveth system. The milestones can be proposed by the Fundraiser and follow a workflow where multiple people can interact with it to ensure the milestone has been accomplished.
+- **Campaigns** are individual projects with owned by a Campaign Manager. These projects have Milestones through which the people behind the Campaign can get funding.
+- **Milestones** can be created within a Campaign and are the only way how to get money out of the Giveth system. The Milestones can be proposed by the Campaign Manager and follow a workflow where multiple people can interact with it to ensure the milestone has been accomplished.
 
 There are also 7 roles:
 - **Campaign Reviewer** who can cancel Campaign and who can review completion of any Milestone within the Campaign.
+- **Campaign Manager** who is a sole owner of a Campaign and can fund a Milestone with campaign money.
 - **Delegate** who is a sole owner of a DAC and can delegate money from the DAC to a Campaign or a Milestone within the Campaign.
-- **Fundraiser** who is a sole owner of a Campaign and can fund a Milestone with campaign money.
 - **Giver** who can give (donate) money to a DAC, Campaign or a Milestone.
-- **Maker** who is responsible for making sure that a Milestone is accomplished.
+- **Milestone Manager** who is responsible for making sure that a Milestone is accomplished.
 - **Milestone Reviewer** who reviews the completion of a Milestone.
-- **Spender** who receives the money from a completed Milestone.
+- **Recipient** who receives the money from a completed Milestone.
 
 ## TO BE NAMED PROPERLY
 
@@ -24,7 +24,7 @@ Lets have a second, more in depth look on the Giveth system. There are 3 distinc
 
 ![Relations between DACs, Campaigns and Milestones](../images/mvp-relations.svg)
 
-<a name="mvp-fig-relations">Figure 1</a>: Relations between DACs, Campaigns and Milestones. The DACs and Campaigns can be linked with each other, but can also stand completely alone. On the other hand, every milestone can be linked to exactly one Campaign. Multiple Milestones can exist in one Campaign.
+<a name="mvp-fig-relations">Figure 1</a>: Relations between DACs, Campaigns and Milestones. The DACs and Campaigns can be linked with each other, but can also stand completely alone. On the other hand, every milestone can be linked to exactly one Campaign, but multiple Milestones can exist in one Campaign.
 
 ### Givers
 
@@ -32,12 +32,15 @@ Before we dive in the different entities, lets briefly talk about arguably the m
 
 ![Relations between DACs, Campaigns and Milestones](../images/mvp-role-locality.svg)
 
-<a name="mvp-fig-role-locality">Figure 2</a>: The locality of roles. Every DAC has exactly one Delegate, every Campaign a Fundraiser and Campaign Reviewer and every milestone has a Reviewer, Maker and Spender. The Giver is not associated with any entity explicitely but may interact with all of them.
+<a name="mvp-fig-role-locality">Figure 2</a>: The locality of roles, all the roles have a limited scope and once the entity seize to exist so do the roles. Every DAC contains exactly one Delegate, every Campaign a Fundraiser and Campaign Reviewer and every milestone has a Reviewer, Maker and Spender. The Giver is not associated with any entity explicitely but may interact with all of them.
 
-### DACs and Delegates
-Decentralised Altruistic Communities are the most general entity in the Giveth System. The purpose of a DAC is to provide Givers a mean to give money to a cause without having to research the projects making the change. Any money donated to a DAC can be retrieved by the Giver, however we strongly discourage Givers to do so. The funds are
+### DACs
+Decentralised Altruistic Communities are the most general entity in the Giveth System. The purpose of a DAC is to provide Givers a mean to give money to a cause without having to research the projects making the change. Any money donated to a DAC can be retrieved by the Giver, however we strongly discourage Givers to do so. The funds remain in the DAC until they are delegated to a Campaign or a Milestone.
 
-### Campaigns and Fundraisers
+#### Delegate
+Delegate is the owner of a DAC and can delegate the funds donated to it. 
+
+### Campaigns
 
 ### Milestones
 
