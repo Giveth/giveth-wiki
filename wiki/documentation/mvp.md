@@ -2,7 +2,7 @@
 
 The Giveth system is a minimal product that allows users to give money to communities around causes and to build these communities. The system is a set of [smart contracts]() living on [Ethereum Project blockchain](https://ethereum.org), [caching server]() and [graphical user interface (GUI)](). Currently we are in a closed alpha testing phase, should you be interested to help us test the system, please contact `@vojtech` on the [Giveth Slack](http://slack.giveth.io/).
 
-## Executive summary
+## Executive Summary
 
 The system consists of:
 - **DACs** short for Decentralised Altruistic Communities. Every DAC is community around cause to which users can donate money. DAC is owned by a Delegate who can delegate the donations to Campaigns linked to the DAC.
@@ -18,7 +18,7 @@ There are also 7 roles:
 - **Milestone Reviewer** who reviews the completion of a Milestone.
 - **Recipient** who receives the money from a completed Milestone.
 
-## TO BE NAMED PROPERLY
+## Giveth in Depth
 
 Lets have a second, more in depth look on the Giveth system. There are 3 distinct entities build in the system which are handling the donated money. The relations between them is depicted in [Figure 1](#mvp-fig-relations). Each of the 3 entities corresponds to one or more smart contracts.
 
@@ -38,7 +38,7 @@ Before we dive in the different entities, lets briefly talk about arguably the m
 Decentralised Altruistic Communities are the most general entity in the Giveth System. The purpose of a DAC is to provide Givers a mean to give money to a cause without having to research the projects making the change. Any money donated to a DAC can be retrieved by the Giver, however we strongly discourage Givers to do so. The funds remain in the DAC until they are delegated to a Campaign or a Milestone.
 
 #### Delegate
-Delegate is the owner of a DAC and can delegate the funds donated to it. 
+Delegate is the owner of a DAC and can delegate the funds donated to it. Any delegation
 
 ### Campaigns
 
