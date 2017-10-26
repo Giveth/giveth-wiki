@@ -48,7 +48,19 @@ Decentralised Altruistic Communities are the most general entity in the Giveth S
 
 #### <a name="mvp-delegate">Delegate</a>
 
-Delegate is the owner of a DAC and can delegate the funds donated to it. In the MVP donations can not be split, hence any donation needs to be fully delegated to a Campaign or a Milestone. The delegation is a process where the giver has a 3 days period to reject the delegation. After that time the, money are locked in the Campaign or Milestone to which the money were delegated by the Delegate.
+Delegate a registered user who is the owner of a DAC and can delegate the funds donated to it. The use case diagram in [Figure 5](#mvp-fig-delegate-usecase) shows all the actions Delegate can take. In the MVP, donations can not be split, hence any donation needs to be fully delegated to a Campaign or a Milestone. The delegation is a process where the donation pledge from the DAC is transfered to the Campaign or Milestone. Giver has 3 days to reject the delegation. After that time, the money are locked in the Campaign or a Milestone to which the money were delegated by the Delegate. This process is described in [Figure 6](#mvp-fig-dac-campaign-donation-statediagram) for delegating to Campaign and in [Figure 7](#mvp-fig-dac-milestone-donation-statediagram) for delegating directly to a Milestone.
+
+![Delegate Use Case Diagram](../images/mvp-delegate-usecase.svg)
+
+<a name="mvp-fig-delegate-usecase">Figure 5</a>: State diagram for donations made to DAC that have been delegated to Campaign.
+
+![DAC to Campaign delegation state diagram](../images/mvp-dac-campaign-donation-statediagram.svg)
+
+<a name="mvp-fig-dac-campaign-donation-statediagram">Figure 6</a>: State diagram for donations made to DAC that have been delegated to Campaign.
+
+![DAC to Milestone delegation state diagram](../images/mvp-dac-milestone-donation-statediagram.svg)
+
+<a name="mvp-fig-dac-milestone-donation-statediagram">Figure 7</a>: State diagram for donations made to DAC that have been delegated directly to Milestone.
 
 ### <a name="mvp-campaign">Campaign</a>
 
