@@ -5,11 +5,13 @@ The Giveth system is a minimal product that allows users to give money to commun
 ## Executive Summary
 
 The system consists of:
+
 - [**DACs**](#mvp-dace) short for Decentralised Altruistic Communities. Every DAC is community around cause to which users can donate money. DAC is owned by a Delegate who can delegate the donations to Campaigns linked to the DAC.
 - [**Campaigns**](#mvp-campaign) are individual projects with owned by a Campaign Manager. These projects have Milestones through which the people behind the Campaign can get funding.
 - [**Milestones**](#mvp-milestone) can be created within a Campaign and are the only way how to get money out of the Giveth system. The Milestones can be proposed by the Campaign Manager and follow a workflow where multiple people can interact with it to ensure the milestone has been accomplished.
 
 There are also 7 roles:
+
 - [**Campaign Manager**](#mvp-campaign-manager) who is a sole owner of a Campaign and can fund a Milestone with campaign money.
 - [**Campaign Reviewer**](#mvp-campaign-reviewer) who can cancel Campaign and who can review completion of any Milestone within the Campaign.
 - [**Delegate**](#mvp-delegate) who is a sole owner of a DAC and can delegate money from the DAC to a Campaign or a Milestone within the Campaign.
@@ -40,7 +42,7 @@ Before we dive in the different entities, lets briefly talk about arguably the m
 
 ![Giver Use Case Diagram](../images/mvp-giver-usecase.svg)
 
-<a name="mvp-fig-giver-usecase">Figure 4</a>: Use case diagrem with all the actions the Giver can take.
+<a name="mvp-fig-giver-usecase">Figure 4</a>: Use case diagram with all the actions the [Giver](#mvp-giver) can take.
 
 ### <a name="mvp-dac">DAC</a>
 
@@ -52,7 +54,7 @@ Delegate a registered user who is the owner of a DAC and can delegate the funds 
 
 ![Delegate Use Case Diagram](../images/mvp-delegate-usecase.svg)
 
-<a name="mvp-fig-delegate-usecase">Figure 5</a>: State diagram for donations made to DAC that have been delegated to Campaign.
+<a name="mvp-fig-delegate-usecase">Figure 5</a>: Use case diagram with all the actions the [Delegate](#mvp-delegate) can take.
 
 ![DAC to Campaign delegation state diagram](../images/mvp-dac-campaign-donation-statediagram.svg)
 
