@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="85.45756 752 897 556" width="897pt" height="556pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="85 746 897 570" width="897pt" height="570pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata> Produced by OmniGraffle 7.5 
-    <dc:date>2017-10-26 14:17:11 +0000</dc:date>
+    <dc:date>2017-10-26 19:17:30 +0000</dc:date>
   </metadata>
   <defs>
     <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="500">
@@ -58,8 +58,8 @@
       <text transform="translate(390.13495 890.5551)" fill="black">
         <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x=".244" y="15" textLength="30.512">ETH</tspan>
       </text>
-      <rect x="406.73514" y="987.5" width="41" height="30" fill="white"/>
-      <text transform="translate(411.73514 993.276)" fill="black">
+      <rect x="401.22355" y="987.5" width="41" height="30" fill="white"/>
+      <text transform="translate(406.22355 993.276)" fill="black">
         <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x=".244" y="15" textLength="30.512">ETH</tspan>
       </text>
       <rect x="513.45756" y="931.7564" width="41" height="30" fill="white"/>
@@ -76,6 +76,11 @@
       </text>
       <rect x="529" y="1124.6291" width="41" height="30" fill="white"/>
       <text transform="translate(534 1130.4051)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x=".244" y="15" textLength="30.512">ETH</tspan>
+      </text>
+      <line x1="353.5225" y1="1023.1461" x2="487.36447" y2="1068.8037" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="396.8238" y="1029.9107" width="41" height="30" fill="white"/>
+      <text transform="translate(401.8238 1035.6867)" fill="black">
         <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x=".244" y="15" textLength="30.512">ETH</tspan>
       </text>
     </g>
