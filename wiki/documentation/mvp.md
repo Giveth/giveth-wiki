@@ -24,7 +24,7 @@ There are also 7 roles:
 
 Lets have a second, more in depth look on the Giveth system. There are 3 distinct entities build in the system which are handling the donated money. The relations between them is depicted in [Figure 1](#mvp-fig-relations). Each of the 3 entities corresponds to one or more smart contracts.
 
-![Relations between DACs, Campaigns and Milestones](../images/mvp-relations.svg)
+![Relations between DACs, Campaigns and Milestones](../images/mvp/relations.svg)
 
 <a name="mvp-fig-relations">Figure 1</a>: Relations between DACs, Campaigns and Milestones. The DACs and Campaigns can be linked with each other, but can also stand completely alone. On the other hand, every milestone can be linked to exactly one Campaign, but multiple Milestones can exist in one Campaign.
 
@@ -32,15 +32,15 @@ Lets have a second, more in depth look on the Giveth system. There are 3 distinc
 
 Before we dive in the different entities, lets briefly talk about arguably the most important users in our system - Givers. Under the term Giver we understand anyone who used our platform to give money to a DAC, Campaign or a Milestone. You can see all possible money flows in the [Figure 2](#mvp-fig-money-flow). Givers can interact with these 3 entities, but are not explicitely part of any unless they fullfill some other role as well. You can see the roles locality in [Figure 3](#mvp-fig-role-locality). The full list of Giver's roles is depicted in the use case diagram in [Figure 4](#mvp-fig-giver-usecase).
 
-![Money Flow](../images/mvp-money-flow.svg)
+![Money Flow](../images/mvp/money-flow.svg)
 
 <a name="mvp-fig-money-flow">Figure 2</a>: All possible flows of money in the Giveth system. The Giver can give ETH to DAC, Campaign or Directly to a Milestone. From DAC the money can be delegated to a Campaign and from the Campaign the donations can be locked in a Milestone within the Campaign. The only way how money can be moved out of the system is from the Milestone to the Recipient.
 
-![Relations between DACs, Campaigns and Milestones](../images/mvp-role-locality.svg)
+![Relations between DACs, Campaigns and Milestones](../images/mvp/role-locality.svg)
 
 <a name="mvp-fig-role-locality">Figure 3</a>: The locality of roles, all the roles have a limited scope and once the entity seize to exist so do the roles. Every DAC contains exactly one Delegate, every Campaign a Campaign Manager and Campaign Reviewer and every Milestone has a Milestone Manager, Milestone Reviewer and Recipient. The Giver is not associated with any entity explicitely but may interact with all of them.
 
-![Giver Use Case Diagram](../images/mvp-giver-usecase.svg)
+![Giver Use Case Diagram](../images/mvp/giver-usecase.svg)
 
 <a name="mvp-fig-giver-usecase">Figure 4</a>: Use case diagram with all the actions the [Giver](#mvp-giver) can take.
 
@@ -52,15 +52,15 @@ Decentralised Altruistic Communities are the most general entity in the Giveth S
 
 Delegate a registered user who is the owner of a DAC and can delegate the funds donated to it. The use case diagram in [Figure 5](#mvp-fig-delegate-usecase) shows all the actions Delegate can take. In the MVP, donations can not be split, hence any donation needs to be fully delegated to a Campaign or a Milestone. The delegation is a process where the donation pledge from the DAC is transfered to the Campaign or Milestone. Giver has 3 days to reject the delegation. After that time, the money are locked in the Campaign or a Milestone to which the money were delegated by the Delegate. This process is described in [Figure 6](#mvp-fig-dac-campaign-donation-statediagram) for delegating to Campaign and in [Figure 7](#mvp-fig-dac-milestone-donation-statediagram) for delegating directly to a Milestone.
 
-![Delegate Use Case Diagram](../images/mvp-delegate-usecase.svg)
+![Delegate Use Case Diagram](../images/mvp/delegate-usecase.svg)
 
 <a name="mvp-fig-delegate-usecase">Figure 5</a>: Use case diagram with all the actions the [Delegate](#mvp-delegate) can take.
 
-![DAC to Campaign delegation state diagram](../images/mvp-dac-campaign-donation-statediagram.svg)
+![DAC to Campaign delegation state diagram](../images/mvp/dac-campaign-donation-statediagram.svg)
 
 <a name="mvp-fig-dac-campaign-donation-statediagram">Figure 6</a>: State diagram for donations made to DAC that have been delegated to Campaign.
 
-![DAC to Milestone delegation state diagram](../images/mvp-dac-milestone-donation-statediagram.svg)
+![DAC to Milestone delegation state diagram](../images/mvp/dac-milestone-donation-statediagram.svg)
 
 <a name="mvp-fig-dac-milestone-donation-statediagram">Figure 7</a>: State diagram for donations made to DAC that have been delegated directly to Milestone.
 
@@ -72,18 +72,18 @@ In the Giveth System, a Campaign represents individual projects making changes i
 
 Campaign Manager is a registered users who has created, and is the owner, of a Campaign. The role of the Campaign manager is to create Milestones through which he/she can fund the work and people behind the project. [Figure 8](#mvp-fig-campaign-manager-usecase) depicts all the actions Campaign manager can take.
 
-![Campaign Manager Usecase Diagram](../images/mvp-campaign-manager-usecase.svg)
+![Campaign Manager Usecase Diagram](../images/mvp/campaign-manager-usecase.svg)
 
 <a name="mvp-fig-campaign-manager-usecase">Figure 8</a>: Use case diagram with all the actions the [Campaign Manager](#mvp-campaign-manager) can take.
 
 #### <a name="mvp-campaign-reviewer">Campaign Reviewer</a>
 Because the donations to a Campaign are locked we have added a Campaign Reviewer role to give some oversight on the Campaign. Campaign Reviewer is a registered user who has the power to reject milestones completion, cancel milestones and even cancel campaign if neccessary. You can see all these actions in [Figure 9](#mvp-fig-campaign-reviewer-usecase).
 
-![Campaign Reviewer Usecase Diagram](../images/mvp-campaign-reviewer-usecase.svg)
+![Campaign Reviewer Usecase Diagram](../images/mvp/campaign-reviewer-usecase.svg)
 
 <a name="mvp-fig-campaign-reviewer-usecase">Figure 9</a>: Use case diagram with all the actions the [Campaign Reviewer](#mvp-campaign-reviewer) can take.
 
-![Campaign Donation state diagram](../images/mvp-campaign-donation-statediagram.svg)
+![Campaign Donation state diagram](../images/mvp/campaign-donation-statediagram.svg)
 
 <a name="mvp-fig-campaign-donation-statediagram">Figure 10</a>: State diagram for donations made to Campaign.
 
@@ -95,7 +95,7 @@ Milestones can be created within a Campaign and are the only way how to get mone
 
 Milestone Manager is a registered user who has been nominated by the Campaign Manager. The role of the Milestone Manager is to make sure the work and the status described in the Milestone has been achieved. Once the state has been achived, the Milestone Manager needs to mark the Milestone as complete. Should there be any major issues, he/she also has the ability to cancel the Milestone.
 
-![Milestone Manager Usecase Diagram](../images/mvp-milestone-manager-usecase.svg)
+![Milestone Manager Usecase Diagram](../images/mvp/milestone-manager-usecase.svg)
 
 <a name="mvp-fig-campaign-manager-usecase">Figure 11</a>: Use case diagram with all the actions the [Milestone Manager](#mvp-milestone-manager) can take.
 
@@ -103,7 +103,7 @@ Milestone Manager is a registered user who has been nominated by the Campaign Ma
 
 Because the donations to a Milestone are locked, each Milestone has a Milestone Reviewer role to keep an oversight on the Milestone progress. Milestone Reviewer is a registered user who is appointed by the Campaign Manager when the Milestone is created. He/she has the power to approve milestones completion, reject the completion or even cancel the milestone. You can see all these actions in [Figure 12](#mvp-fig-campaign-reviewer-usecase).
 
-![Milestone Reviewer Usecase Diagram](../images/mvp-milestone-reviewer-usecase.svg)
+![Milestone Reviewer Usecase Diagram](../images/mvp/milestone-reviewer-usecase.svg)
 
 <a name="mvp-fig-campaign-reviewer-usecase">Figure 12</a>: Use case diagram with all the actions the [Milestone Reviewer](#mvp-milestone-reviewer) can take.
 
@@ -111,15 +111,15 @@ Because the donations to a Milestone are locked, each Milestone has a Milestone 
 
 Milestone Recipient is a registered user who will receive payment from successfully completed milestone. In majority of cases, Recipient would be Milestone Manager as he/she is the one working on the milestone, however, there may be some cases where someone else should be rewarded for the work (for example it can be a direct payment for a bill).
 
-![Recipient Usecase Diagram](../images/mvp-recipient-usecase.svg)
+![Recipient Usecase Diagram](../images/mvp/recipient-usecase.svg)
 
 <a name="mvp-fig-recipient-usecase">Figure 13</a>: Use case diagram with all the actions the [Recipient](#mvp-milestone-recipient) can take.
 
-![Milestone Donation State Diagram](../images/mvp-milestone-donation-statediagram.svg)
+![Milestone Donation State Diagram](../images/mvp/milestone-donation-statediagram.svg)
 
 <a name="mvp-fig-milestone-statediagram">Figure 14</a>: State diagram for donations made to a Milestone.
 
-![Milestone State Diagram](../images/mvp-milestone-statediagram.svg)
+![Milestone State Diagram](../images/mvp/milestone-statediagram.svg)
 
 <a name="mvp-fig-milestone-statediagram">Figure 15</a>: Full Milestone workflow as a state diagram. Apart from the states and actions, the diagram is also showing who is the actor that can take these actions.
 
@@ -127,6 +127,6 @@ Milestone Recipient is a registered user who will receive payment from successfu
 
 Many things in the Giveth MVP System are automatic actions that happend with time delay. The first action is delegation approval which is automatically invoked after 3 days if the user does not reject the delegation before this period times out. Second, each milestone has some timespan. Should this date be reached without getting to the `Authorised for Payment` state, the Milestone gets automatically cancelled. The next automatic action is releasing the Milestone payout once it was marked approved as complete. By default, as a security measure, money from successfully completed milestones have a 3 days period during which the funds cannot be retrieved. Lastly, if a Milestone is marked as complete and the Reviewers don't take any action, it is automatically approved to be complete and goes to the state `Authorised for Payment`.
 
-![Automatic Actions Usecase Diagram](../images/mvp-time-usecase.svg)
+![Automatic Actions Usecase Diagram](../images/mvp/time-usecase.svg)
 
 <a name="mvp-fig-recipient-usecase">Figure 16</a>: Use case diagram with all the [Automatic Actions](#mvp-time).
