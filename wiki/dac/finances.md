@@ -2,8 +2,8 @@
 
 ## <a name="donations">Donations</a>
 
-Giveth is a Decentralized Altruistic Community, meaning we depend on generous Givers ourselves. If you want to help us build the Future of Giving by contributing any amount, big or small, please contact @Griff in our [Slack](http://slack.giveth.io) or donate directly to the address 'Revolution.eth' (which resolves to 0xB94c53B0E67FABac3d97173482663Ef597D4174a).   
-We only take eth and it has to be sent from MEW, Metamask, Mist or Parity. 
+Giveth is a Decentralized Altruistic Community, meaning we depend on generous Givers ourselves. If you want to help us build the Future of Giving by contributing any amount, big or small, please contact @Griff in our [Slack](http://slack.giveth.io) or donate directly to the address 'Revolution.eth' (which resolves to 0xB94c53B0E67FABac3d97173482663Ef597D4174a).
+We only take eth and it has to be sent from MEW, Metamask, Mist or Parity.
 In return for your donations you will receive Giveth tokens which one day will be part of our decentralized governance system.
 
 ## <a name="finances_budget">Budget Overview</a>
@@ -15,6 +15,7 @@ One of the core values of Giveth is transparency. We invite everyone to consult 
 If you have any Giveth related expenses you can claim them with the Expense Claim form.
 
 By default Giveth Covers:
+
 - Conference tickets where the whole Giveth Team goes
 - Plane tickets to and from official Giveth Team Meetups
 - Food and non-alcoholic drinks consumed while at official Giveth Team Meetups
