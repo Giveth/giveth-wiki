@@ -18,9 +18,13 @@ If the user picks exact location, the Country and Continent is automatically ded
 ## <a name="future-location-exploration">Location based exploration of DACs & Campaigns</a>
 Assuming each DAC, Campaing and Milestone has a as described in [Locations of DACs, Campaigns and Milestones](#future-location), all these entities could be searched on a map or on a 3D globe. In a DAC you could see to which places the delegations goes and in Campaign the user could see where the individual milestones took place.
 
-![Example of 3D visualised projects](../images/future/location-exploration.png)
+![Example of 3D visualised Campaign](../images/future/location-exploration.png)
 
-<a name="fig-location-exploration">Example of 3D visualisation to see where geographically a Campaign is making difference.</a> The example image is takend from D3js [example page](https://bl.ocks.org/mbostock/4183330).
+<a name="fig-location-exploration-campaign">Example of 3D visualisation to see where geographically a Campaign is making difference.</a> The example image is taken from D3js [example page](https://bl.ocks.org/mbostock/4183330).
+
+![Example of 3D visualised Milestones](../images/future/location-exploration-dac.png)
+
+<a name="fig-location-exploration-dac">Example of 3D visualisation to see where where does a DAC money go to.</a> The example image is taken from D3js [example page](http://mbostock.github.io/d3/talk/20111116/airports.html).
 
 ## <a name="future-money-exploration">Money flow based exploration of DACs & Capaigns</a>
 
