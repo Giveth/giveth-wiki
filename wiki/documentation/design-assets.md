@@ -3,7 +3,7 @@
 ## Logo and Typelogo assets
   All assets can be downloaded from the website repo:
 
-  [https://github.com/Giveth/website/tree/master/assets](https://github.com/Giveth/website/tree/master/assets)
+  [https://github.com/Giveth/giveth-design-assets](https://github.com/Giveth/giveth-design-assets)
 
 ## Typeface
   Body-text: 'Raleway' - weight: 400 - size: 18px
