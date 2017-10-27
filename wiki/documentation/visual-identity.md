@@ -38,3 +38,32 @@
     <td bgcolor='#76318f'><font color="white">#76318f<br />RGB 118 49 143<br />CMYK 66 97 2 0</td>
   </tr>
 </table>
+
+## CSS
+
+This template code can be used with Bootstrap4 websites and web-apps:
+```  
+.navbar {
+    background-color: #2c0d54 !important;
+    filter: alpha(opacity=70);
+    opacity: 0.9;
+  }
+
+* {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, .logo-font {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  text-align: center;
+  color: #2c0d53;
+}
+
+.btn {
+  background-color: #2c0d54;
+  border-color: #2c0d54;
+}
+```
