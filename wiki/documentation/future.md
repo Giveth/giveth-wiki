@@ -20,15 +20,27 @@ Assuming each DAC, Campaing and Milestone has a as described in [Locations of DA
 
 ![Example of 3D visualised Campaign](../images/future/location-exploration.png)
 
-<a name="fig-location-exploration-campaign">Example of 3D visualisation to see where geographically a Campaign is making difference.</a> The example image is taken from D3js [example page](https://bl.ocks.org/mbostock/4183330).
+<a name="fig-location-exploration-campaign">Example of 3D visualisation to see where geographically a Campaign is making difference.</a> The concept image is taken from D3js [example page](https://bl.ocks.org/mbostock/4183330).
 
 ![Example of 3D visualised Milestones](../images/future/location-exploration-dac.png)
 
-<a name="fig-location-exploration-dac">Example of 3D visualisation to see where where does a DAC money go to.</a> The example image is taken from D3js [example page](http://mbostock.github.io/d3/talk/20111116/airports.html).
+<a name="fig-location-exploration-dac">Example of 3D visualisation to see where  geographically does a DAC money go to.</a> The concept image is taken from D3js [example page](http://mbostock.github.io/d3/talk/20111116/airports.html).
 
 ## <a name="future-money-exploration">Money flow based exploration of DACs & Capaigns</a>
 
-## Real time and historical fiat conversion
+Giveth already has a lot of information that it is not using at all. By analysing the transactions, we can easily build graphs that would help people understand wheir the DACs money go through and where the Campaign money comes from. This could be an important ascpect that Givers could consider.
+
+![Money flow from DACs](../images/future/money-flow-dac.svg)
+
+<a name="fig-money-flow-DAC">Each DAC could show what are the Campaigns and Milestones that are being funded. By clicking on the Other the user would get a table with all Campaigns and how much % of the DAC money was delegated to them.</a>
+
+![Money flow to Campaign](../images/future/money-flow-campaign.svg)
+
+<a name="fig-money-flow-campaign">This view would show where does all the Campaign funding come from.</a>
+
+## Real-time and Historical Fiat Conversion
+
+
 
 ## Creating Milestones with fiat limit cap
 
@@ -48,8 +60,14 @@ Assuming each DAC, Campaing and Milestone has a as described in [Locations of DA
 
 ## Maker Portfolio
 
-## DAC, Campaign and Milestone Search
+## DAC, Campaign, Milestone Search and Filtering
 
 ## Milestone Conversation
 
 ## Language Mutations
+
+## Reputation
+
+## Repetative Milestones
+
+## Exploration based on Donations and Delegations

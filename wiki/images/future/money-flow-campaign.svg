@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-96 104 897 512" width="897pt" height="512pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.5 
+    <dc:date>2017-10-27 23:04:49 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="500">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -3 5 6" markerWidth="5" markerHeight="6" color="black">
+      <g>
+        <path d="M 2.88 0 L 0 -1.08 L 0 1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M 3.2 0 L 0 -1.2 L 0 1.2 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_4" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="black">
+      <g>
+        <path d="M 2.5142857 0 L 0 -.9428571 L 0 .9428571 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_5" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_6" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Money Flow to Campaign</title>
+    <g>
+      <title>Layer 1</title>
+      <rect x="249.504" y="355.258" width="205" height="49.5" fill="#ffc0c0"/>
+      <rect x="249.504" y="355.258" width="205" height="49.5" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="284.504" y="364.258" width="135" height="30" fill="#ffc0c0"/>
+      <text transform="translate(289.504 370.034)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x=".116" y="15" textLength="124.768">School in Zambia</tspan>
+      </text>
+      <ellipse cx="659" cy="364.25" rx="70.00011" ry="59.750095" fill="#c0ffff"/>
+      <ellipse cx="659" cy="364.25" rx="70.00011" ry="59.750095" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(608 355.026)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="14.992" y="15" textLength="72.016">Education</tspan>
+      </text>
+      <line x1="589.1254" y1="367.83664" x2="476.3752" y2="373.62407" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <rect x="505.1872" y="356.0159" width="44" height="30" fill="white"/>
+      <text transform="translate(510.1872 361.7919)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x=".104" y="15" textLength="33.792">20%</tspan>
+      </text>
+      <ellipse cx="481.9933" cy="546.25" rx="70.00011" ry="59.750095" fill="#c0ffff"/>
+      <ellipse cx="481.9933" cy="546.25" rx="70.00011" ry="59.750095" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(430.9933 537.026)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="24.176" y="15" textLength="53.648">Zambia</tspan>
+      </text>
+      <line x1="443.12604" y1="496.54305" x2="382.99866" y2="419.64676" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line x1="217.85885" y1="228.55753" x2="323.5179" y2="347.84706" marker-end="url(#FilledArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="51" cy="380.008" rx="70.00011" ry="59.750095" fill="#c0ffff"/>
+      <ellipse cx="51" cy="380.008" rx="70.00011" ry="59.750095" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(0 361.56)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="31.592" y="15" textLength="43.264">Local </tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="3.576" y="33.448" textLength="94.848">Development</tspan>
+      </text>
+      <path d="M 153.09846 561.02825 C 127.5625 557 137.7456 523.08875 178.48116 528.875 C 182.26052 517.59575 229.6305 519.4265 229.32082 528.875 C 259.02324 516.79025 296.98116 540.887 271.52104 552.97175 C 302.07192 558.83075 271.13552 590.39825 246.0625 585.125 C 244.0559 593.91425 199.23288 596.99 195.29868 585.125 C 169.91756 597.79625 116.99388 578.3135 153.09846 561.02825 Z" fill="#c0ffff"/>
+      <path d="M 153.09846 561.02825 C 127.5625 557 137.7456 523.08875 178.48116 528.875 C 182.26052 517.59575 229.6305 519.4265 229.32082 528.875 C 259.02324 516.79025 296.98116 540.887 271.52104 552.97175 C 302.07192 558.83075 271.13552 590.39825 246.0625 585.125 C 244.0559 593.91425 199.23288 596.99 195.29868 585.125 C 169.91756 597.79625 116.99388 578.3135 153.09846 561.02825 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(161.2 547.776)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="7.476" y="15" textLength="85.648">Other DACs</tspan>
+      </text>
+      <path d="M 486.7433 111.516 L 504.2542 140.07219 L 537.7578 135.8009 L 526.08995 167.13861 L 550.35735 190.3686 L 518.29686 200.8899 L 515.0542 234.1285 L 486.7433 215.91062 L 458.4324 234.1285 L 455.18975 200.8899 L 423.12926 190.3686 L 447.39667 167.13861 L 435.7288 135.8009 L 469.2324 140.07219 Z" fill="white"/>
+      <path d="M 486.7433 111.516 L 504.2542 140.07219 L 537.7578 135.8009 L 526.08995 167.13861 L 550.35735 190.3686 L 518.29686 200.8899 L 515.0542 234.1285 L 486.7433 215.91062 L 458.4324 234.1285 L 455.18975 200.8899 L 423.12926 190.3686 L 447.39667 167.13861 L 435.7288 135.8009 L 469.2324 140.07219 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(444.1108 147.054)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x="23.9295" y="15" textLength="40.016">Other</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x="22.8975" y="33.448" textLength="20.144">Dir</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x="42.7535" y="33.448" textLength="26.672">ect </tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x="7.6335" y="51.895996" textLength="72.608">Donations</tspan>
+      </text>
+      <line x1="457.1361" y1="220.84062" x2="383.7285" y2="331.9779" marker-end="url(#FilledArrow_Marker_4)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <line x1="235.37964" y1="526.91897" x2="322.47053" y2="417.2111" marker-end="url(#FilledArrow_Marker_5)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line x1="121.00003" y1="380.008" x2="236.604" y2="380.008" marker-end="url(#FilledArrow_Marker_6)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="387.49173" y="438.52847" width="44" height="30" fill="white"/>
+      <text transform="translate(392.49173 444.30447)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x=".104" y="15" textLength="33.792">18%</tspan>
+      </text>
+      <rect x="244.2495" y="263.11027" width="35" height="30" fill="white"/>
+      <text transform="translate(249.2495 268.88627)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x=".052" y="15" textLength="24.896">7%</tspan>
+      </text>
+      <rect x="160.52617" y="365.008" width="35" height="30" fill="white"/>
+      <text transform="translate(165.52617 370.784)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x=".052" y="15" textLength="24.896">8%</tspan>
+      </text>
+      <rect x="256.03292" y="458.1889" width="44" height="30" fill="white"/>
+      <text transform="translate(261.03292 463.9649)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x=".104" y="15" textLength="33.792">13%</tspan>
+      </text>
+      <rect x="403.96236" y="253.03686" width="44" height="30" fill="white"/>
+      <text transform="translate(408.96236 258.81286)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x=".104" y="15" textLength="33.792">34%</tspan>
+      </text>
+      <path d="M 187.25 129.5 L 204.7609 158.05619 L 238.2645 153.7849 L 226.59664 185.12261 L 250.86405 208.3526 L 218.80356 218.8739 L 215.56091 252.1125 L 187.25 233.89462 L 158.93909 252.1125 L 155.69644 218.8739 L 123.63595 208.3526 L 147.90336 185.12261 L 136.2355 153.7849 L 169.7391 158.05619 Z" fill="white"/>
+      <path d="M 187.25 129.5 L 204.7609 158.05619 L 238.2645 153.7849 L 226.59664 185.12261 L 250.86405 208.3526 L 218.80356 218.8739 L 215.56091 252.1125 L 187.25 233.89462 L 158.93909 252.1125 L 155.69644 218.8739 L 123.63595 208.3526 L 147.90336 185.12261 L 136.2355 153.7849 L 169.7391 158.05619 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(144.6175 183.486)" fill="black">
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="black" x="24.9775" y="15" textLength="37.92">Peter</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
