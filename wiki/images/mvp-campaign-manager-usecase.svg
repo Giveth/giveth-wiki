@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="332 -62 896 382" width="896pt" height="382pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.5 
+    <dc:date>2017-10-27 01:09:48 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="bold">
+      <font-face-src>
+        <font-face-name name="Avenir-Heavy"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Avenir" font-size="13" panose-1="2 11 5 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="468" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Avenir-Roman"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Campaign Manager Use Case 2</title>
+    <g>
+      <title>Layer 1</title>
+      <text transform="translate(726.5927 269.008)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".3575" y="13" textLength="64.285">Fundraiser</tspan>
+      </text>
+      <path d="M 764.89205 175.65569 C 761.3618 172.12544 755.6382 172.12544 752.10795 175.65569 C 748.5777 179.18592 748.5777 184.90956 752.10795 188.4398 C 755.6382 191.97004 761.3618 191.97004 764.89205 188.4398 C 768.4223 184.90956 768.4223 179.18592 764.89205 175.65569 M 767.5402 203.7431 C 767.5303 203.34507 767.67725 202.94386 767.981 202.6401 C 768.5694 202.05172 769.5233 202.05172 770.1117 202.6401 C 770.4155 202.94386 770.5624 203.34507 770.5525 203.7431 L 770.5654 203.7431 L 770.5654 221.06926 C 770.5654 224.45917 770.1903 227.84907 773.5662 227.84907 C 776.9422 227.84907 776.5671 224.45917 776.5671 221.06926 L 776.5671 200.72986 L 776.5795 200.72986 C 776.5795 195.73735 771.7228 191.69012 765.7318 191.69012 L 758.5 191.69012 L 751.2682 191.69012 C 745.2772 191.69012 740.4205 195.73735 740.4205 200.72986 L 740.4329 200.72986 L 740.4329 221.06926 C 740.4329 224.45917 740.0578 227.84907 743.4338 227.84907 C 746.8097 227.84907 746.4346 224.45917 746.4346 221.06926 L 746.4346 203.7431 L 746.4475 203.7431 C 746.45675 203.37018 746.6037 203.00003 746.8883 202.71543 C 747.4767 202.12705 748.4306 202.12705 749.019 202.71543 C 749.3036 203.00003 749.4505 203.37018 749.4598 203.7431 L 749.4603 203.7431 L 749.4603 203.77926 C 749.4603 203.78027 749.4603 203.78127 749.4603 203.78228 L 749.4603 230.8623 L 749.4764 230.8623 L 749.4764 254.96827 C 749.4764 259.48814 748.98875 264.008 753.3775 264.008 C 757.7662 264.008 757.2786 259.48814 757.2786 254.96827 L 757.2786 230.8623 L 757.2953 230.8623 C 757.2853 230.54142 757.4028 230.2173 757.6477 229.97237 C 758.1184 229.50167 758.8816 229.50167 759.3523 229.97237 C 759.5972 230.2173 759.7147 230.54142 759.7047 230.8623 L 759.7214 230.8623 L 759.7214 254.96827 C 759.7214 259.48814 759.2338 264.008 763.6225 264.008 C 768.01125 264.008 767.5236 259.48814 767.5236 254.96827 L 767.5236 230.8623 L 767.5397 230.8623 L 767.5397 203.7431 Z" fill="#00a2ff"/>
+      <text transform="translate(710.0927 44.508)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".1265" y="13" textLength="97.747">Registered User</tspan>
+      </text>
+      <path d="M 764.89205 -48.84431 C 761.3618 -52.37456 755.6382 -52.37456 752.10795 -48.84431 C 748.5777 -45.31408 748.5777 -39.590443 752.10795 -36.06021 C 755.6382 -32.529957 761.3618 -32.529957 764.89205 -36.06021 C 768.4223 -39.590443 768.4223 -45.31408 764.89205 -48.84431 M 767.5402 -20.756895 C 767.5303 -21.15493 767.67725 -21.556136 767.981 -21.859903 C 768.5694 -22.448278 769.5233 -22.448278 770.1117 -21.859903 C 770.4155 -21.556136 770.5624 -21.15493 770.5525 -20.756895 L 770.5654 -20.756895 L 770.5654 -3.4307356 C 770.5654 -.040834855 770.1903 3.349066 773.5662 3.349066 C 776.9422 3.349066 776.5671 -.040834855 776.5671 -3.4307356 L 776.5671 -23.77014 L 776.5795 -23.77014 C 776.5795 -28.762648 771.7228 -32.809876 765.7318 -32.809876 L 758.5 -32.809876 L 751.2682 -32.809876 C 745.2772 -32.809876 740.4205 -28.762648 740.4205 -23.77014 L 740.4329 -23.77014 L 740.4329 -3.4307356 C 740.4329 -.040834855 740.0578 3.349066 743.4338 3.349066 C 746.8097 3.349066 746.4346 -.040834855 746.4346 -3.4307356 L 746.4346 -20.756895 L 746.4475 -20.756895 C 746.45675 -21.129823 746.6037 -21.499965 746.8883 -21.784571 C 747.4767 -22.372947 748.4306 -22.372947 749.019 -21.784571 C 749.3036 -21.499965 749.4505 -21.129823 749.4598 -20.756895 L 749.4603 -20.756895 L 749.4603 -20.72074 C 749.4603 -20.719733 749.4603 -20.718726 749.4603 -20.717718 L 749.4603 6.362311 L 749.4764 6.362311 L 749.4764 30.468272 C 749.4764 34.98814 748.98875 39.508008 753.3775 39.508008 C 757.7662 39.508008 757.2786 34.98814 757.2786 30.468272 L 757.2786 6.362311 L 757.2953 6.362311 C 757.2853 6.041418 757.4028 5.7173015 757.6477 5.472372 C 758.1184 5.001672 758.8816 5.001672 759.3523 5.472372 C 759.5972 5.7173014 759.7147 6.041418 759.7047 6.362311 L 759.7214 6.362311 L 759.7214 30.468272 C 759.7214 34.98814 759.2338 39.508008 763.6225 39.508008 C 768.01125 39.508008 767.5236 34.98814 767.5236 30.468272 L 767.5236 6.362311 L 767.5397 6.362311 L 767.5397 -20.756895 Z" fill="#666"/>
+      <path d="M 754.7594 70.00803 L 762.2406 70.00803 L 762.2406 150.53416 L 770.1207 150.53416 L 758.5 165.50797 L 746.8793 150.53416 L 754.7594 150.53416 Z" fill="white"/>
+      <path d="M 754.7594 70.00803 L 762.2406 70.00803 L 762.2406 150.53416 L 770.1207 150.53416 L 758.5 165.50797 L 746.8793 150.53416 L 754.7594 150.53416 Z" stroke="black" stroke-opacity=".75" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="943" cy="116.61114" rx="47.500076" ry="30.000048" fill="white"/>
+      <ellipse cx="943" cy="116.61114" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(911 98.61114)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="12.3635" y="13" textLength="13.728">Cr</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="25.8575" y="13" textLength="29.393">eate </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="2.0285" y="31" textLength="59.943">Milestone</tspan>
+      </text>
+      <ellipse cx="967.5" cy="281.1152" rx="47.500076" ry="30.11525" fill="white"/>
+      <ellipse cx="967.5" cy="281.1152" rx="47.500076" ry="30.11525" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(935.5 263.1152)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="17.1865" y="13" textLength="33.241">Fund </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="2.0285" y="31" textLength="59.943">Milestone</tspan>
+      </text>
+      <ellipse cx="579.5" cy="160" rx="47.500076" ry="30.000048" fill="white"/>
+      <ellipse cx="579.5" cy="160" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(547.5 142)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="12.3635" y="13" textLength="13.728">Cr</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="25.8575" y="13" textLength="29.393">eate </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="1.3005" y="31" textLength="61.399">Campaign</tspan>
+      </text>
+      <ellipse cx="980.5" cy="195.508" rx="49.00008" ry="30.000048" fill="white"/>
+      <ellipse cx="980.5" cy="195.508" rx="49.00008" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(947.3 177.508)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="13.3295" y="13" textLength="43.355">Cancel </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="3.2285" y="31" textLength="59.943">Milestone</tspan>
+      </text>
+      <ellipse cx="579.5" cy="259.5" rx="47.500076" ry="30.000048" fill="white"/>
+      <ellipse cx="579.5" cy="259.5" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(547.5 241.5)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="11.525" y="13" textLength="27.456">Mod</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="38.994" y="13" textLength="17.095">ify </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="1.3005" y="31" textLength="61.399">Campaign</tspan>
+      </text>
+      <line x1="721.0764" y1="215.3714" x2="629.6178" y2="179.60137" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="720.26205" y1="236.30808" x2="635.7428" y2="250.23345" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="796.5216" y1="239.3055" x2="913.0465" y2="267.7996" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="794.5873" y1="207.82813" x2="900.0529" y2="143.00715" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="796.758" y1="224.0625" x2="922.7091" y2="204.48902" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

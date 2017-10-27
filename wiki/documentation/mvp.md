@@ -66,9 +66,26 @@ Delegate a registered user who is the owner of a DAC and can delegate the funds 
 
 ### <a name="mvp-campaign">Campaign</a>
 
+In the Giveth System, a Campaign represents individual projects making changes in the world. Donations made to Campaing are locked and unless the Campaign gets cancelled, the Giver no longer has control over the donated money. The reasone why we lock the donations, is to give the people behind Campaign some level of certainty they can count on having the donated money. The previously mentioned [Figure 6](#mvp-fig-dac-campaign-donation-statediagram) describes the donation flow from a DAC and [Figure 10](#mvp-fig-campaign-donation-statediagram) shows the state diagram for direct donations to Campaign.
+
 #### <a name="mvp-campaign-manager">Campaign Manager</a>
 
+Campaign Manager is a registered users who has created, and is the owner, of a Campaign. The role of the Campaign manager is to create Milestones through which he/she can fund the work and people behind the project. [Figure 8](#mvp-fig-campaign-manager-usecase) depicts all the actions Campaign manager can take.
+
+![Campaign Manager Usecase Diagram](../images/mvp-campaign-manager-usecase.svg)
+
+<a name="mvp-fig-campaign-manager-usecase">Figure 8</a>: Use case diagram with all the actions the [Campaign Manager](#mvp-campaign-manager) can take.
+
 #### <a name="mvp-campaign-reviewer">Campaign Reviewer</a>
+Because the donations to a Campaign are locked we have added a Campaign Reviewer role to give some oversight on the Campaign. Campaign Reviewer is a registered user who has the power to reject milestones completion, cancel milestones and even cancel campaign if neccessary. You can see all these actions in [Figure 9](#mvp-fig-campaign-reviewer-usecase).
+
+![Campaign Reviewer Usecase Diagram](../images/mvp-campaign-reviewer-usecase.svg)
+
+<a name="mvp-fig-campaign-reviewer-usecase">Figure 9</a>: Use case diagram with all the actions the [Campaign Reviewer](#mvp-campaign-reviewer) can take.
+
+![Campaign Donation state diagram](../images/mvp-campaign-donation-statediagram.svg)
+
+<a name="mvp-fig-campaign-reviewer-usecase">Figure 10</a>: State diagram for donations made to Campaign.
 
 ### <a name="mvp-milestone">Milestone</a>
 

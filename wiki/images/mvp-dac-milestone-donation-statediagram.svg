@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="989 739 897 661" width="897pt" height="661pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata> Produced by OmniGraffle 7.5 
-    <dc:date>2017-10-26 18:08:55 +0000</dc:date>
+    <dc:date>2017-10-27 00:34:59 +0000</dc:date>
   </metadata>
   <defs>
     <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="bold">
@@ -80,9 +80,9 @@
       <circle cx="1607.947" cy="901.7077" r="15.000024" fill="white"/>
       <circle cx="1607.947" cy="901.7077" r="15.000024" stroke="#3f4243" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <circle cx="1607.947" cy="901.7077" r="10.500017" fill="#3f4243"/>
-      <path d="M 1373.447 1063.6105 L 1362.047 1063.6105 L 1268.3732 1063.6105 L 1268.3732 989.9964 L 1268.3732 901.7077 L 1362.047 901.7077 L 1363.547 901.7077" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="1208.8732" y="1005.8727" width="119" height="28" fill="white"/>
-      <text transform="translate(1213.8732 1010.8727)" fill="#515556">
+      <path d="M 1373.447 1063.6105 L 1362.047 1063.6105 L 1268.3732 1063.6105 L 1268.3732 989.9964 L 1268.3732 933.2197 L 1363.4149 933.2197 L 1364.7036 933.2197" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="1208.8732" y="1018.0141" width="119" height="28" fill="white"/>
+      <text transform="translate(1213.8732 1023.0141)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".082" y="13" textLength="108.836">Reject Delegation</tspan>
       </text>
       <path d="M 1373.447 1211.1125 L 1362.047 1211.1125 L 1178.2028 1211.1125 L 1178.2028 1202.215 L 1178.2028 901.8203 L 1227.2441 901.8203 L 1362.047 901.7077 L 1363.547 901.7077" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -99,6 +99,11 @@
       </text>
       <text transform="translate(1630.977 892.7077)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="0" y="13" textLength="66.69">Withdrawn</tspan>
+      </text>
+      <path d="M 1462.579 870.1956 L 1474.479 870.1956 L 1607.947 870.1956 L 1607.947 886.7077 L 1607.947 874.8077 L 1607.947 876.8077" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="1493.5741" y="856.1956" width="83" height="28" fill="white"/>
+      <text transform="translate(1498.5741 861.1956)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".269" y="13" textLength="72.462">Cancel DAC</tspan>
       </text>
     </g>
   </g>

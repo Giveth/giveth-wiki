@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="397 729 897 842" width="897pt" height="842pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata> Produced by OmniGraffle 7.5 
-    <dc:date>2017-10-26 17:58:55 +0000</dc:date>
+    <dc:date>2017-10-27 00:34:59 +0000</dc:date>
   </metadata>
   <defs>
     <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="bold">
@@ -95,9 +95,9 @@
       <text transform="translate(1057.2329 882.3874)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="0" y="13" textLength="66.69">Withdrawn</tspan>
       </text>
-      <path d="M 799.7028 1053.2902 L 788.3028 1053.2902 L 694.6291 1053.2902 L 694.6291 979.676 L 694.6291 891.3874 L 788.3028 891.3874 L 789.8028 891.3874" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="635.1291" y="995.5524" width="119" height="28" fill="white"/>
-      <text transform="translate(640.1291 1000.5524)" fill="#515556">
+      <path d="M 799.7028 1053.2902 L 788.3028 1053.2902 L 694.6291 1053.2902 L 694.6291 979.676 L 694.6291 922.8994 L 789.6707 922.8994 L 790.9595 922.8994" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="635.1291" y="1007.6938" width="119" height="28" fill="white"/>
+      <text transform="translate(640.1291 1012.6938)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".082" y="13" textLength="108.836">Reject Delegation</tspan>
       </text>
       <path d="M 800.7028 1215.1931 L 788.8028 1215.1931 L 604.4587 1215.1931 L 604.4587 1191.8947 L 604.4587 891.5 L 653.5 891.5 L 788.3028 891.3874 L 789.8028 891.3874" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -116,6 +116,11 @@
       <rect x="634" y="1316.7899" width="115" height="28" fill="white"/>
       <text transform="translate(639 1321.7899)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".3765" y="13" textLength="104.247">Cancel Milestone</tspan>
+      </text>
+      <path d="M 888.8349 859.8753 L 900.7349 859.8753 L 1034.2028 859.8753 L 1034.2028 876.3874 L 1034.2028 864.4874 L 1034.2028 866.4874" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="917.8878" y="845.8753" width="83" height="28" fill="white"/>
+      <text transform="translate(922.8878 850.8753)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".269" y="13" textLength="72.462">Cancel DAC</tspan>
       </text>
     </g>
   </g>
