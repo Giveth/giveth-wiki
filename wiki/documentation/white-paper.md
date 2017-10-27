@@ -11,6 +11,7 @@ The 1st challenge is how to securely offer a means for Givers to donate without 
 However, baked into that 3rd challenge, there is a 4th challenge of how to determine whether ownership of distributed ether should be transferred or not. In other words, how can we be sure a recipient deserves the donated ether before we transfer it?
 
 For clarity, the 4 challenges are briefly restated here:
+
 1. Safely donate ether without losing ownership
 2. Allocate donated funds to individuals who can use it for good
 3. Safely transfer ownership of ether to said individuals

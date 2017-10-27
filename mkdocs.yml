@@ -36,6 +36,7 @@ pages:
         - Glossary: 'documentation/glossary.md'
     - Documentation:
         - MVP: 'documentation/mvp.md'
+        - Future: 'documentation/future.md'
         - DApp Alpha: 'documentation/alpha.md'
         - White Paper: 'documentation/white-paper.md'
         - Visual Identity Guide: 'documentation/visual-identity.md'
