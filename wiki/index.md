@@ -39,15 +39,15 @@ We hope this decentralization will encourage creative solutions to global issues
 
 ##  A Solution to directly connect Givers and Makers!
 
-The charitable system is evolving and first projects work on integrating blockchain technology to enable frictionless, global and transparent transactions. Giveth is leap frogging this integration, taking it to the next level, enabling Givers and Makers to interact directly with each other in a safe and trustless manner.
+The charitable system is evolving and several projects are working on integrating blockchain technology to enable frictionless, global and transparent transactions. Giveth is leap frogging this integration, taking it to the next level, enabling Givers and Makers to interact directly with each other in a safe and trustless manner.
 
 **TLDR; We are building a foundation of smart contracts to allow the creation, administration and funding of Decentralized Altruistic Communities.**
 
-Giveth will allow every DAC to use smart contracts to automate many tasks and subtasks that were expensive and time-consuming before, like accounting, international fund distribution, and other services that favoured the use of large charity organizations before.
+Giveth will allow every DAC to use smart contracts and social media to automate many tasks and subtasks that were expensive and time-consuming before, like accounting, international fund distribution, networking across the globe and other services that needed large charity organizations before.
 
-At the same time, DACs also enable Givers and Makers to work together to crowdsource without a fee and deploy powerful solutions under their own chosen governance and incentive structures, to bring more impact for their unique set of resources.
+At the same time, DACs also enable Givers and Makers to work together to crowdsource without a central party taking a cut and deploy powerful solutions under their own chosen governance and incentive structures, to bring more impact for their unique set of resources.
 
-Giveth's smart contracts allow donors to take any level of interest they desire. They can tag their donation to send it to a general category (e.g. Ethereum Projects) or to a favorite Decentralized Altruistic Community (DAC). Either way, the Giver will be notified when any portion of their donation is matched to a Maker.
+Giveth's smart contracts allow donors to take any level of interest they desire. They can send their donation to a Decentralized Altruistic Community (DAC) which acts like a general category, or they can send directly to the Campaigns and Milestones they like. Either way, the Giver will be notified when any portion of their donation is used and connected to the people that are using it.
 
 Transparency, accountability, communication and efficiency are core values in Giveth's design. Makers and Givers will be able to connect to exchange ideas and show progress on social media platforms like Slack (for now), but when other Dapps like, Status.im, Colony, and Akasha are launched, they will be integrated into the Giveth Platform for an even more powerful user experience.
 
