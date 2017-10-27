@@ -38,7 +38,7 @@ pages:
         - MVP: 'documentation/mvp.md'
         - DApp Alpha: 'documentation/alpha.md'
         - White Paper: 'documentation/white-paper.md'
-        - Design Assets: 'documentation/design-assets.md'
+        - Visual Identity Guide: 'documentation/visual-identity.md'
     - The Unicorn DAC:
       - About: 'dac/about.md'
       - Team Organisation: 'dac/team-organisation.md'
