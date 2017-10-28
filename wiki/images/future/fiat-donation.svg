@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="896" height="235" viewBox="0, 0, 896, 235">
+  <g id="Background">
+    <rect x="0" y="0" width="896" height="235" fill="#FFFFFF"/>
+  </g>
+  <g id="Layer_1">
+    <g>
+      <path d="M193.118,9.755 L689.115,9.755 C694.362,9.755 698.617,13.176 698.617,17.396 L698.617,219.114 C698.617,223.334 694.362,226.755 689.115,226.755 L193.118,226.755 C187.871,226.755 183.617,223.334 183.617,219.114 L183.617,17.396 C183.617,13.176 187.871,9.755 193.118,9.755 z" fill="#FFFFFF"/>
+      <path d="M193.118,9.755 L689.115,9.755 C694.362,9.755 698.617,13.176 698.617,17.396 L698.617,219.114 C698.617,223.334 694.362,226.755 689.115,226.755 L193.118,226.755 C187.871,226.755 183.617,223.334 183.617,219.114 L183.617,17.396 C183.617,13.176 187.871,9.755 193.118,9.755 z" fill-opacity="0" stroke="#B8B8B8" stroke-width="1"/>
+    </g>
+    <path d="M698.117,183.255 L183.117,183.255 L183.117,182.255 L698.117,182.255 z" fill="#BABABD"/>
+    <path d="M441.567,183.255 L441.567,226.255 L439.666,226.255 L439.666,183.255 z" fill="#BABABD"/>
+    <text transform="matrix(1, 0, 0, 1, 569.842, 205.255)">
+      <tspan x="-28.339" y="6" font-family="HelveticaNeue-Medium" font-size="17" fill="#383838">Donate</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 311.391, 205.255)">
+      <tspan x="-24.61" y="5" font-family="HelveticaNeue-Light" font-size="16.5" fill="#B8B8B8">Cancel</tspan>
+    </text>
+    <g>
+      <text transform="matrix(1, 0, 0, 1, 440.616, 45.755)">
+        <tspan x="-185.796" y="1.5" font-family="HelveticaNeue-Medium" font-size="24" fill="#000000">Donation to </tspan>
+        <tspan x="-49.764" y="1.5" font-family="HelveticaNeue-Bold" font-size="24" fill="#000000">Education</tspan>
+        <tspan x="65.772" y="1.5" font-family="HelveticaNeue-Medium" font-size="24" fill="#000000"> Campaign</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 437.616, 92.755)">
+        <tspan x="-217.298" y="5.5" font-family="HelveticaNeue-Light" font-size="15" fill="#000000">Please choose the </tspan>
+        <tspan x="-94.192" y="5.5" font-family="HelveticaNeue-Medium" font-size="15" fill="#000000">amount</tspan>
+        <tspan x="-41.693" y="5.5" font-family="HelveticaNeue-Light" font-size="15" fill="#000000"> and </tspan>
+        <tspan x="-8.903" y="5.5" font-family="HelveticaNeue-Medium" font-size="15" fill="#000000">currency</tspan>
+        <tspan x="51.412" y="5.5" font-family="HelveticaNeue-Light" font-size="15" fill="#000000"> you would like to donate.</tspan>
+      </text>
+      <text transform="matrix(1, 0, 0, 1, 437.616, 163.755)">
+        <tspan x="-211.47" y="5.5" font-family="HelveticaNeue-Light" font-size="15" fill="#000000">At a current rate, your donation will be approximately</tspan>
+        <tspan x="128.085" y="5.5" font-family="HelveticaNeue-Medium" font-size="15" fill="#000000"> 0.3367 ETH</tspan>
+      </text>
+      <g>
+        <text transform="matrix(1.056, 0, 0, 1, 622.617, 128.255)">
+          <tspan x="-12.396" y="4" font-family="HelveticaNeue" font-size="13" fill="#B8B8B8">ETH</tspan>
+        </text>
+        <path d="M652.117,114.255 C654.878,114.255 657.117,116.494 657.117,119.255 L657.117,137.255 C657.117,140.017 654.878,142.255 652.117,142.255 L588.117,142.255 L588.117,114.255 z M589.117,115.255 L589.117,141.255 L652.117,141.255 C654.326,141.255 656.117,139.464 656.117,137.255 L656.117,119.255 C656.117,117.046 654.326,115.255 652.117,115.255 z" fill="#B8B8B8"/>
+        <path d="M525.117,114.255 C522.355,114.255 520.117,116.494 520.117,119.255 L520.117,137.255 C520.117,140.017 522.355,142.255 525.117,142.255 L589.117,142.255 L589.117,114.255 z" fill="#B8B8B8"/>
+        <text transform="matrix(1.056, 0, 0, 1, 554.617, 128.255)">
+          <tspan x="-13.481" y="4" font-family="HelveticaNeue" font-size="13" fill="#515151">USD</tspan>
+        </text>
+      </g>
+      <g>
+        <path d="M215.117,113.255 L510.117,113.255 C512.878,113.255 515.117,114.748 515.117,116.589 L515.117,139.922 C515.117,141.763 512.878,143.255 510.117,143.255 L215.117,143.255 C212.355,143.255 210.117,141.763 210.117,139.922 L210.117,116.589 C210.117,114.748 212.355,113.255 215.117,113.255 z" fill="#FFFFFF"/>
+        <path d="M510.116,113.255 C512.878,113.255 515.117,114.748 515.117,116.589 L515.117,139.922 C515.117,141.763 512.878,143.255 510.117,143.255 L215.117,143.255 C212.355,143.255 210.117,141.763 210.117,139.922 L210.117,116.589 C210.117,114.748 212.355,113.255 215.117,113.255 L510.116,113.255 z M510.116,114.255 L215.117,114.255 C212.842,114.255 211.117,115.406 211.117,116.589 L211.117,139.922 C211.117,141.105 212.842,142.255 215.117,142.255 L510.116,142.255 C512.391,142.255 514.117,141.105 514.117,139.922 L514.117,116.589 C514.117,115.406 512.391,114.255 510.116,114.255 z" fill="#000000"/>
+      </g>
+      <text transform="matrix(1, 0, 0, 1, 237.615, 128.755)">
+        <tspan x="-21.498" y="6.5" font-family="HelveticaNeue-Medium" font-size="18" fill="#000000">100</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

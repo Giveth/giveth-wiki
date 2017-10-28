@@ -38,9 +38,22 @@ Giveth already has a lot of information that it is not using at all. By analysin
 
 <a name="fig-money-flow-campaign">This view would show where does all the Campaign funding come from.</a>
 
-## Real-time and Historical Fiat Conversion
+## <a name="future-money-conversion">Real-time and Historical Fiat Conversion</a>
 
+For most People, even the ones already invested in crypto, it is difficult to evaluate how much money certain Ether amount is. Therefore, it would be great to provide a way where they can name a second (fiat) currency to Ether, that would be displayed and used. When donating, they could say "I want to donate 100 USD", instead of having to put in the value in Ether. Because we know when every transaction happen, we could easily (up to small error) display how much money any past donation was in fiat. This is especially necessary if Ether rapidly gains or loses in value as it becomes unclear how much money Campaign or DAC had and could lead to a confusion where Campaigns could look overfunded due to dramatic price increase.
 
+![Donations in Fiat](../images/future/fiat-donation.svg)
+
+<a name="fig-fiat-donation">Donating amount of Ether expressed in fiat currency.</a> The actual donation would still be in Ether, but the value could be expressed in Ether based on recent average value from some major exchange.
+
+Amount ETH | Est. Amount USD | Date             |  Name |
+-----------|-----------------|------------------|-------|
+Ξ0.551     | $155            | 2017-10-15 10:15 | Jen
+Ξ1         | $312.15         | 2017-10-15 9:09  | perissology
+Ξ1         | $298.11         | 2017-10-09 18:33 | Vojtech
+Ξ2.531     | $100            | 2017-04-19 13:14 | Jim
+
+<a name="table-fiat-dac-donation">Example how could past donation look with value estimated in fiat currency</a>.
 
 ## Creating Milestones with fiat limit cap
 
