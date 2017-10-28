@@ -80,11 +80,11 @@ Even now, the system contains enough information to provide some simple accounti
 
 ![Overtime Balance](../images/future/analytics-overtime.svg)
 
-<a name="fig-fiat-donation">Example of overtime balance graph.</a> The data are taken from Giveth budget. Note that id does not reflect the real spending well as ether was 60 times lower before march 2017.
+<a name="fig-fiat-donation">Example of overtime balance graph.</a> The data are taken from Giveth budget. Note that it does not reflect the well the actual value spent as Ether was 60 times lower before March 2017.
 
 ![Monthly Spending](../images/future/analytics-monthly-spending.svg)
 
-<a name="fig-fiat-donation">Example of monthly spending breakdown.</a> The data are taken from Giveth budget. Note that id does not reflect the real spending well as ether was 60 times lower before march 2017.
+<a name="fig-fiat-donation">Example of monthly spending breakdown.</a> The data are taken from Giveth budget. Note that it does not reflect the well the actual value spent as Ether was 60 times lower before March 2017.
 
 ## DAC Governance
 
@@ -109,3 +109,7 @@ Even now, the system contains enough information to provide some simple accounti
 ## Repetative Milestones
 
 ## Exploration based on Donations and Delegations
+
+## Donation message
+
+## 
