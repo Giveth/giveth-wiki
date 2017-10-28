@@ -53,13 +53,17 @@ Amount ETH | Est. Amount USD | Date             |  Name |
 Ξ1         | $298.11         | 2017-10-09 18:33 | Vojtech
 Ξ2.531     | $100            | 2017-04-19 13:14 | Jim
 
-<a name="table-fiat-dac-donation">Example how could past donation look with value estimated in fiat currency</a>.
+<a name="table-fiat-dac-donation">Example how could past donation look with value estimated in fiat currency</a>. Note the significant price change between the last and first donation in the list.
 
-## Creating Milestones with fiat limit cap
+## <a name="future-categories">Categories for Milestones</a>
 
-## Categories for Milestones
+Currently it is not clear what a Campaign spent their money on. Should users decide to gain this insight, they would have to read through all the Milestones and maybe even then it would not be clear. Adding spending categories could help, both the Givers and the Makers, evaluate what were the money spent on. The list of categories should be predefined by Giveth and any new category should be created on request. The overhead for the user consists of selecting a category from a list when the milestone is being created. Of course, setting spending category should be optional.
 
-## Simple Accounting
+![Spending Categories for Milestones](../images/future/categories.svg)
+
+<a name="fig-categories">Overview of spending for a Campaign.</a> The aim is to provide Givers and Makers with better idea how is the Campaign spending the money.
+
+## <a name="future-accounting">Simple Accounting</a>
 
 ## DAC Governance
 

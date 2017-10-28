@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="900" height="466" viewBox="0, 0, 900, 466">
+  <g id="Background">
+    <rect x="0" y="0" width="900" height="466" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Layer_1">
+    <path d="M322,235 L322,13 C289.683,13 257.756,20.056 228.449,33.674 z" fill="#5F5F5F"/>
+    <path d="M322,235 L228.449,33.674 C194.208,49.585 164.591,73.966 142.398,104.512 z" fill="#C24885"/>
+    <path d="M322,235 L142.398,104.512 C114.842,142.44 100,188.118 100,235 z" fill="#FF2600"/>
+    <path d="M322,235 L100,235 C100,285.555 117.255,334.596 148.912,374.013 z" fill="#F8BA00"/>
+    <path d="M322,235 L148.912,374.013 C225.687,469.607 365.419,484.863 461.013,408.088 C476.373,395.752 490.022,381.426 501.602,365.488 z" fill="#61D836"/>
+    <path d="M322,235 L501.602,365.488 C573.669,266.297 551.68,127.465 452.488,55.398 C414.56,27.842 368.882,13 322,13 z" fill="#00A2FF"/>
+    <text transform="matrix(1, 0, -0, 1, 285.952, 78)">
+      <tspan x="-29.952" y="12" font-family="HelveticaNeue" font-size="34" kerning="0" fill="#FFFFFF">7%</tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 219.952, 111)">
+      <tspan x="-32.952" y="12" font-family="HelveticaNeue" font-size="34" kerning="0" fill="#FFFFFF">8%</tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 172.904, 185)">
+      <tspan x="-44.904" y="12" font-family="HelveticaNeue" font-size="34" fill="#FFFFFF">1</tspan>
+      <tspan x="-26" y="12" font-family="HelveticaNeue" font-size="34" kerning="0" fill="#FFFFFF">0%</tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 183.904, 289)">
+      <tspan x="-54.904" y="12" font-family="HelveticaNeue" font-size="34" fill="#FFFFFF">1</tspan>
+      <tspan x="-36" y="12" font-family="HelveticaNeue" font-size="34" kerning="0" fill="#FFFFFF">1%</tspan>
+    </text>
+    <text transform="matrix(1, 0, -0, 1, 334.904, 397)">
+      <tspan x="-49.904" y="12" font-family="HelveticaNeue" font-size="34" fill="#FFFFFF">2</tspan>
+      <tspan x="-31" y="12" font-family="HelveticaNeue" font-size="34" kerning="0" fill="#FFFFFF">9%</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 457.741, 163)">
+      <tspan x="-48.548" y="12" font-family="HelveticaNeue" font-size="34" fill="#FFFFFF">3</tspan>
+      <tspan x="-29.644" y="12" font-family="HelveticaNeue" font-size="34" kerning="0" fill="#FFFFFF">5%</tspan>
+    </text>
+    <path d="M636,41.5 C636,48.404 630.404,54 623.5,54 C616.596,54 611,48.404 611,41.5 C611,34.596 616.596,29 623.5,29 C630.404,29 636,34.596 636,41.5 z" fill="#00A2FF"/>
+    <text transform="matrix(1, 0, 0, 1, 712.38, 42)">
+      <tspan x="-61.38" y="9" font-family="HelveticaNeue" font-size="26" kerning="0" fill="#000000">Office</tspan>
+    </text>
+    <path d="M636,72.5 C636,79.404 630.404,85 623.5,85 C616.596,85 611,79.404 611,72.5 C611,65.596 616.596,60 623.5,60 C630.404,60 636,65.596 636,72.5 z" fill="#61D836"/>
+    <text transform="matrix(1, 0, -0, 1, 695.968, 74)">
+      <tspan x="-45.968" y="9" font-family="HelveticaNeue" font-size="26" fill="#000000">Salarie</tspan>
+      <tspan x="32.968" y="9" font-family="HelveticaNeue" font-size="26" kerning="0" fill="#000000">s</tspan>
+    </text>
+    <path d="M636,103.5 C636,110.404 630.404,116 623.5,116 C616.596,116 611,110.404 611,103.5 C611,96.596 616.596,91 623.5,91 C630.404,91 636,96.596 636,103.5 z" fill="#F8BA00"/>
+    <text transform="matrix(1, 0, -0, 1, 709.032, 105)">
+      <tspan x="-58.032" y="9" font-family="HelveticaNeue" font-size="26" fill="#000000">Marketin</tspan>
+      <tspan x="43.108" y="9" font-family="HelveticaNeue" font-size="26" kerning="0" fill="#000000">g</tspan>
+    </text>
+    <path d="M636,135.5 C636,142.404 630.404,148 623.5,148 C616.596,148 611,142.404 611,135.5 C611,128.596 616.596,123 623.5,123 C630.404,123 636,128.596 636,135.5 z" fill="#FF2600"/>
+    <text transform="matrix(1, 0, -0, 1, 684.345, 136)">
+      <tspan x="-33.345" y="9" font-family="HelveticaNeue" font-size="26" kerning="-1.196" fill="#000000">T</tspan>
+      <tspan x="-22.009" y="9" font-family="HelveticaNeue" font-size="26" fill="#000000">rave</tspan>
+      <tspan x="27.573" y="9" font-family="HelveticaNeue" font-size="26" kerning="0" fill="#000000">l</tspan>
+    </text>
+    <path d="M636,166.5 C636,173.404 630.404,179 623.5,179 C616.596,179 611,173.404 611,166.5 C611,159.596 616.596,154 623.5,154 C630.404,154 636,159.596 636,166.5 z" fill="#C24885"/>
+    <text transform="matrix(1, 0, -0, 1, 697.078, 168)">
+      <tspan x="-46.078" y="9" font-family="HelveticaNeue" font-size="26" kerning="-0.741" fill="#000000">W</tspan>
+      <tspan x="-24.226" y="9" font-family="HelveticaNeue" font-size="26" fill="#000000">ebsit</tspan>
+      <tspan x="32.117" y="9" font-family="HelveticaNeue" font-size="26" kerning="0" fill="#000000">e</tspan>
+    </text>
+    <path d="M636,197.5 C636,204.404 630.404,210 623.5,210 C616.596,210 611,204.404 611,197.5 C611,190.596 616.596,185 623.5,185 C630.404,185 636,190.596 636,197.5 z" fill="#5F5F5F"/>
+    <text transform="matrix(1, 0, -0, 1, 683.513, 199)">
+      <tspan x="-32.513" y="9" font-family="HelveticaNeue" font-size="26" fill="#000000">Othe</tspan>
+      <tspan x="23.855" y="9" font-family="HelveticaNeue" font-size="26" kerning="0" fill="#000000">r</tspan>
+    </text>
+  </g>
+</svg>
