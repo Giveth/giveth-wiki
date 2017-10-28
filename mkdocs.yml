@@ -40,6 +40,7 @@ pages:
         - DApp Alpha: 'documentation/alpha.md'
         - White Paper: 'documentation/white-paper.md'
         - Visual Identity Guide: 'documentation/visual-identity.md'
+        - Deployments: 'documentation/deployments.md'
     - The Unicorn DAC:
       - About: 'dac/about.md'
       - Team Organisation: 'dac/team-organisation.md'
