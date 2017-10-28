@@ -63,7 +63,28 @@ Currently it is not clear what a Campaign spent their money on. Should users dec
 
 <a name="fig-categories">Overview of spending for a Campaign.</a> The aim is to provide Givers and Makers with better idea how is the Campaign spending the money.
 
-## <a name="future-accounting">Simple Accounting</a>
+## <a name="future-accounting">Accounting, Analytics, Business Inteligence</a>
+
+Even now, the system contains enough information to provide some simple accounting, analytical and business inteligence information. This does not need to be part of the Giveth platform, but could be external tool. Note that these tools, however, work best if the value is expressed in relatively stable currency. One option is to use the [Real-time and Historical Fiat Conversion](future-money-conversion) concept. Below are some examples of what could be achieved.
+
+- Daily cashflow of the Campaign
+  - Donation frequency
+  - Average amount
+  - Target DAC audience
+  - Donations and spendings per days/months/years
+  - Spending categories (Assumes system has [Categories for Milestones](#future-categories))
+  - Recurring Givers
+- Spending breakdown at Milestone granularity
+  - How much time it takes to raise funds for Milestone
+- Future forecasts
+
+![Overtime Balance](../images/future/analytics-overtime.svg)
+
+<a name="fig-fiat-donation">Example of overtime balance graph.</a> The data are taken from Giveth budget. Note that id does not reflect the real spending well as ether was 60 times lower before march 2017.
+
+![Monthly Spending](../images/future/analytics-monthly-spending.svg)
+
+<a name="fig-fiat-donation">Example of monthly spending breakdown.</a> The data are taken from Giveth budget. Note that id does not reflect the real spending well as ether was 60 times lower before march 2017.
 
 ## DAC Governance
 
