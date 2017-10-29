@@ -32,11 +32,29 @@ Giveth already has a lot of information that it is not using at all. By analysin
 
 ![Money flow from DACs](../images/future/money-flow-dac.svg)
 
-<a name="fig-money-flow-DAC">Each DAC could show what are the Campaigns and Milestones that are being funded. By clicking on the Other the user would get a table with all Campaigns and how much % of the DAC money was delegated to them.</a>
+<a name="fig-money-flow-DAC">Where is the Education DAC spending money?</a> Each DAC could show what are the Campaigns and Milestones that are being funded. By clicking on the Other the user would get a table with all Campaigns and how much % of the DAC money was delegated to them. The blue elements are DACs, red are Campaigns and green Milestones.
+
+Name | Type | Percentage |
+-----|------|------------|
+We help kids | Campaign | 35% |
+Shool in Zambia | Campaign | 20% |
+It Teacher Salary | Milestone | 12% |
+Learn to code | Campaign | 10% |
+Purchase Graphics Software | Milestone | 6% |
+Buy equipment for Computer Lab | Milestone | 4% |
+Internet bill February | Milestone | 3% |
+Internet bill March | Milestone | 3% |
+Internet bill April | Milestone | 3% |
+Internet bill June | Milestone | 3% |
+Installation of new language education software| Milestone | 2% |
+IT olympics for High School Students | Campaign | 1% |
+
+<a name="table-money-flow-DAC">Tabular view of all delegations.</a> 
+
 
 ![Money flow to Campaign](../images/future/money-flow-campaign.svg)
 
-<a name="fig-money-flow-campaign">This view would show where does all the Campaign funding come from.</a>
+<a name="fig-money-flow-campaign">Where is the Campaign getting funding from?</a> The blue elements are DACs, red are Campaigns, green Milestones and white starts are users.
 
 ## <a name="future-money-conversion">Real-time and Historical Fiat Conversion</a>
 
@@ -147,3 +165,9 @@ There is also a freeze action which can be called by any delegate to temporarily
 ## Donation message
 
 ## Notifications
+
+### In App
+
+### External
+
+## If This Then That (IFTTT) Integration
