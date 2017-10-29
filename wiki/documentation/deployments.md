@@ -28,7 +28,7 @@ The Main Donation address is the Campaign contract which catches tokens and issu
 
 ### Required Set Up Parameters
 
-#### Token Factory (Deployed, everything is static)
+#### Token Factory 
 
 
 Allows you to clone the token to upgrade the token, create a vote, offer ICO access, basically give anyone that has this token the ability to do something special… this is permissionless too ;-) anyone can do this :-D
@@ -37,13 +37,13 @@ Allows you to clone the token to upgrade the token, create a vote, offer ICO acc
 #### Campaign, Token Controller! 
 
 
+1.  escapeDestination    0x97B47fE3Ed8d68Ee4b930b27598d08097F8eA9C6
+2.  escapeCaller    0xDdA882a62600C452419145781e45052fdC06382C
 3.  owner    0xDdA882a62600C452419145781e45052fdC06382C
 4.  maximumFunding    10000000000000000000000 (Can only collect 1,000,000 ETH!!! MUST BE CHANGED IN THE CODE) 
 5.  startFundingTime    1484933219 (the past)
 6.  totalCollected    46741000000000000000  (Current balance: 46.741 ETH, 9953.259 to go)
 7.  endFundingTime    1742699619 (some time in distant future)
-8.  escapeDestination    0x97B47fE3Ed8d68Ee4b930b27598d08097F8eA9C6
-9.  escapeCaller    0xDdA882a62600C452419145781e45052fdC06382C
 
 This contract creates MYD and sends it to the Giver  
 
@@ -60,14 +60,14 @@ Owner will be changed to 0xDdA882a62600C452419145781e45052fdC06382C
 Parent Token: 0xf7e983781609012307f2514f63d526d83d24f466
 
 1.  name    MyEtherWallet Donations Token 
-4.  decimals    18
-9.  symbol    MYD 
-11.  transfersEnabled    NO
-15.  controller    Address of the campaign 
+2.  decimals    18
+3.  symbol    MYD 
+4.  transfersEnabled    NO
+5.  controller    Address of the campaign 
 
 
 
-#### Vault (Deployed, very changeable) 
+#### Vault
 
 1.  maxSecurityGuardDelay    1209600 The amount of time the security guard can delay a payment
 3.  owner    0xDdA882a62600C452419145781e45052fdC06382C 
