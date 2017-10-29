@@ -2,7 +2,7 @@
 
 ## <a name="donations">Donations</a>
 
-Giveth is a Decentralized Altruistic Community, meaning we depend on generous Givers ourselves. If you want to help us build the Future of Giving by contributing any amount, big or small, please contact @Griff in our [Slack](http://slack.giveth.io) or donate directly to the address 'Revolution.eth' (which resolves to 0xB94c53B0E67FABac3d97173482663Ef597D4174a).
+Giveth is a Decentralized Altruistic Community, meaning we depend on generous Givers ourselves. If you want to help us build the Future of Giving by contributing any amount, big or small, please contact @Griff in our [Slack](http://slack.giveth.io) or donate directly to the address 'Revolution.eth' (which resolves to 0x5ADF43DD006c6C36506e2b2DFA352E60002d22Dc).
 We only take eth and it has to be sent from MEW, Metamask, Mist or Parity.
 In return for your donations you will receive Giveth tokens which one day will be part of our decentralized governance system.
 
