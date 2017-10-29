@@ -55,6 +55,10 @@ Amount ETH | Est. Amount USD | Date             |  Name |
 
 <a name="table-fiat-dac-donation">Example how could past donation look with value estimated in fiat currency</a>. Note the significant price change between the last and first donation in the list.
 
+![Expenses in Fiat](../images/future/fiat-spent.svg)
+
+<a name="fig-fiat-spent">Comparison between monthly expenses in ETH and in USD</a>. Example on how it can be deceiving to use Ether vs how much money is actually spent. The data are from the [Giveth budget](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing).
+
 ## <a name="future-categories">Categories for Milestones</a>
 
 Currently it is not clear what a Campaign spent their money on. Should users decide to gain this insight, they would have to read through all the Milestones and maybe even then it would not be clear. Adding spending categories could help, both the Givers and the Makers, evaluate what were the money spent on. The list of categories should be predefined by Giveth and any new category should be created on request. The overhead for the user consists of selecting a category from a list when the milestone is being created. Of course, setting spending category should be optional.
@@ -63,9 +67,9 @@ Currently it is not clear what a Campaign spent their money on. Should users dec
 
 <a name="fig-categories">Overview of spending for a Campaign.</a> The aim is to provide Givers and Makers with better idea how is the Campaign spending the money.
 
-## <a name="future-accounting">Accounting, Analytics, Business Inteligence</a>
+## <a name="future-accounting">Accounting, Analytics, Business Intelligence</a>
 
-Even now, the system contains enough information to provide some simple accounting, analytical and business inteligence information. This does not need to be part of the Giveth platform, but could be external tool. Note that these tools, however, work best if the value is expressed in relatively stable currency. One option is to use the [Real-time and Historical Fiat Conversion](future-money-conversion) concept. Below are some examples of what could be achieved.
+Even now, the system contains enough information to provide some simple accounting, analytical and business intelligence information. This does not need to be part of the Giveth platform, but could be external tool. Note that these tools, however, work best if the value is expressed in relatively stable currency. One option is to use the [Real-time and Historical Fiat Conversion](future-money-conversion) concept. Below are some examples of what could be achieved.
 
 - Daily cashflow of the Campaign
   - Donation frequency
@@ -80,19 +84,23 @@ Even now, the system contains enough information to provide some simple accounti
 
 ![Overtime Balance](../images/future/analytics-overtime.svg)
 
-<a name="fig-fiat-donation">Example of overtime balance graph.</a> The data are taken from Giveth budget. Note that it does not reflect the well the actual value spent as Ether was 60 times lower before March 2017.
+<a name="fig-analytics-overtime">Example of overtime balance graph.</a> The data are taken from [Giveth budget](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing). Note that it does not reflect the well the actual value spent as Ether was 60 times lower before March 2017.
 
 ![Monthly Spending](../images/future/analytics-monthly-spending.svg)
 
-<a name="fig-fiat-donation">Example of monthly spending breakdown.</a> The data are taken from Giveth budget. Note that it does not reflect the well the actual value spent as Ether was 60 times lower before March 2017.
+<a name="fig-analytics-monthly-spending">Example of monthly spending breakdown.</a> The data are taken from [Giveth budget](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing).
 
-## DAC Governance
+## <a name="future-dac-governance">DAC Governance</a>
 
-## Campaign governance
+In the MVP there is one Delegate per DAC who is the owner and the only person that can delegate Money.
+
+## Campaign Governance
 
 ## Delegating from DAC to DAC
 
 ## Multiple Wallets
+
+## Wallet Recovery Phrase
 
 ## Giver Portfolio
 
@@ -112,4 +120,4 @@ Even now, the system contains enough information to provide some simple accounti
 
 ## Donation message
 
-## 
+##
