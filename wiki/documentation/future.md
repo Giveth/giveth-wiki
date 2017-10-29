@@ -101,13 +101,14 @@ In the MVP there is one Delegate per DAC who is the owner and the only person th
 5. Freeze a delegate
 
 In reality we could then see DACs that have for example the following settings:
+
 1. At least 51% of DAC's Delegates to nominate new Delegate
 2. At least 70% to remove a Delegate
 3. At least 30% to change the DAC information (description, DAC's name,...)
 4. Everyone can delegate without need to vote (0 votes on donation delegation)
 5. Everyone can freeze a delegate and the freeze time is 3 days
 
-There is also a freeze action which can be called by any delegate to temporarily freeze another delegate. Such delegate can not do any action until he/she is unfrozen
+There is also a freeze action which can be called by any delegate to temporarily freeze another delegate. Such delegate can not do any action until he/she is unfrozen.
 
 ![Usecase diagram for Delegate](../images/future/dac-governance-delegate.svg)
 
