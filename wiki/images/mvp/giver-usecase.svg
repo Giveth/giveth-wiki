@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="359 46 896 527" width="896pt" height="527pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="359 46 896 583" width="896pt" height="583pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata> Produced by OmniGraffle 7.5 
-    <dc:date>2017-10-27 05:11:14 +0000</dc:date>
+    <dc:date>2017-10-29 03:36:51 +0000</dc:date>
   </metadata>
   <defs>
     <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="bold">
@@ -39,9 +39,9 @@
       <text transform="translate(859.5 221.008)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="7.924" y="13" textLength="48.152">Register</tspan>
       </text>
-      <ellipse cx="947.25" cy="391" rx="47.500076" ry="30.000048" fill="white"/>
-      <ellipse cx="947.25" cy="391" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(915.25 373)" fill="#515556">
+      <ellipse cx="907.5" cy="324" rx="47.500076" ry="30.000048" fill="white"/>
+      <ellipse cx="907.5" cy="324" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(875.5 306)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="10.2055" y="13" textLength="47.203">Update </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="13.332" y="31" textLength="26.988">Profi</tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="40.32" y="31" textLength="10.348">le</tspan>
@@ -70,7 +70,7 @@
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="2.477" y="13" textLength="62.66">Donate to </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="2.0285" y="31" textLength="59.943">Milestone</tspan>
       </text>
-      <line x1="795.9639" y1="449.9215" x2="897.0801" y2="410.5397" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="792.0371" y1="432.8997" x2="873.4666" y2="356.09885" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <line x1="796.92055" y1="230.008" x2="833.6" y2="230.008" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <line x1="728.66125" y1="189.3682" x2="679.6619" y2="122.63197" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <line x1="720.1285" y1="233.27655" x2="639.9423" y2="240.10696" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -80,9 +80,9 @@
       <text transform="translate(971.3264 227.32436)" fill="black">
         <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" x=".385" y="10" textLength="44.23">&lt;include&gt;</tspan>
       </text>
-      <ellipse cx="557.75" cy="448" rx="49.75008" ry="30.000048" fill="white"/>
-      <ellipse cx="557.75" cy="448" rx="49.75008" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(523.95 430)" fill="#515556">
+      <ellipse cx="557.75" cy="435" rx="49.75008" ry="30.000048" fill="white"/>
+      <ellipse cx="557.75" cy="435" rx="49.75008" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(523.95 417)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="15.6195" y="13" textLength="39.975">Reject </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="1.5275" y="31" textLength="64.545">Delegation</tspan>
       </text>
@@ -92,35 +92,49 @@
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="8.385" y="13" textLength="54.444">Approve </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="1.5275" y="31" textLength="64.545">Delegation</tspan>
       </text>
-      <ellipse cx="568.75" cy="533" rx="49.75008" ry="30.000048" fill="white"/>
-      <ellipse cx="568.75" cy="533" rx="49.75008" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(534.95 515)" fill="#515556">
+      <ellipse cx="557.75" cy="503" rx="49.75008" ry="30.000048" fill="white"/>
+      <ellipse cx="557.75" cy="503" rx="49.75008" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(523.95 485)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="5.629" y="13" textLength="59.956">Withdraw </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="6.812" y="31" textLength="53.976">Donation</tspan>
       </text>
-      <line x1="720.9656" y1="478.0593" x2="621.27634" y2="514.04115" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="720.35846" y1="471.81983" x2="615.4048" y2="491.9447" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <line x1="721.9934" y1="444.51743" x2="626.28336" y2="392.175" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="720.1574" y1="461.3464" x2="617.41645" y2="452.9033" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="720.25715" y1="458.8764" x2="616.3954" y2="443.6165" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <text transform="translate(710.125 503.5)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".1265" y="13" textLength="97.747">Registered User</tspan>
       </text>
       <path d="M 764.9243 410.1477 C 761.3941 406.61744 755.6705 406.61744 752.1402 410.1477 C 748.61 413.6779 748.61 419.40156 752.1402 422.9318 C 755.6705 426.46204 761.3941 426.46204 764.9243 422.9318 C 768.4546 419.40156 768.4546 413.6779 764.9243 410.1477 M 767.5725 438.2351 C 767.5626 437.83707 767.7095 437.43586 768.0133 437.1321 C 768.6017 436.5437 769.5556 436.5437 770.144 437.1321 C 770.44775 437.43586 770.5947 437.83707 770.5848 438.2351 L 770.5977 438.2351 L 770.5977 455.56126 C 770.5977 458.95117 770.2226 462.34107 773.5985 462.34107 C 776.9745 462.34107 776.5994 458.95117 776.5994 455.56126 L 776.5994 435.22186 L 776.6118 435.22186 C 776.6118 430.22935 771.7551 426.1821 765.7641 426.1821 L 758.5323 426.1821 L 751.3005 426.1821 C 745.3095 426.1821 740.4528 430.22935 740.4528 435.22186 L 740.4652 435.22186 L 740.4652 455.56126 C 740.4652 458.95117 740.0901 462.34107 743.4661 462.34107 C 746.842 462.34107 746.4669 458.95117 746.4669 455.56126 L 746.4669 438.2351 L 746.4798 438.2351 C 746.489 437.8622 746.636 437.49203 746.9206 437.20743 C 747.509 436.61905 748.4629 436.61905 749.0513 437.20743 C 749.3359 437.49203 749.4828 437.8622 749.4921 438.2351 L 749.49255 438.2351 L 749.49255 438.27126 C 749.49255 438.27227 749.49255 438.2733 749.49255 438.2743 L 749.49255 465.3543 L 749.5087 465.3543 L 749.5087 489.4603 C 749.5087 493.98014 749.021 498.5 753.4098 498.5 C 757.7985 498.5 757.3109 493.98014 757.3109 489.4603 L 757.3109 465.3543 L 757.3276 465.3543 C 757.3176 465.0334 757.4351 464.7093 757.68 464.46437 C 758.1507 463.99367 758.9139 463.99367 759.3846 464.46437 C 759.6295 464.7093 759.747 465.0334 759.737 465.3543 L 759.7537 465.3543 L 759.7537 489.4603 C 759.7537 493.98014 759.2661 498.5 763.6548 498.5 C 768.0435 498.5 767.5559 493.98014 767.5559 489.4603 L 767.5559 465.3543 L 767.572 465.3543 L 767.572 438.2351 Z" fill="#666"/>
       <path d="M 754.7683 294.50855 L 762.2495 294.5075 L 762.26195 385.02565 L 770.1421 385.02456 L 758.5234 399.99997 L 746.9006 385.02776 L 754.7807 385.0267 Z" fill="white"/>
       <path d="M 754.7683 294.50855 L 762.2495 294.5075 L 762.26195 385.02565 L 770.1421 385.02456 L 758.5234 399.99997 L 746.9006 385.02776 L 754.7807 385.0267 Z" stroke="black" stroke-opacity=".75" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <ellipse cx="963.375" cy="464.5" rx="52.625084" ry="30.000048" fill="white"/>
-      <ellipse cx="963.375" cy="464.5" rx="52.625084" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(927.275 446.5)" fill="#515556">
+      <ellipse cx="956.625" cy="384" rx="52.625084" ry="30.000048" fill="white"/>
+      <ellipse cx="956.625" cy="384" rx="52.625084" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(920.525 366)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x=".571" y="13" textLength="74.672">Accept Role </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="1.7735" y="31" textLength="68.653">Nomination</tspan>
       </text>
-      <ellipse cx="957.625" cy="533" rx="52.625084" ry="30.000048" fill="white"/>
-      <ellipse cx="957.625" cy="533" rx="52.625084" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(921.525 515)" fill="#515556">
+      <ellipse cx="968.7014" cy="453" rx="52.625084" ry="30.000048" fill="white"/>
+      <ellipse cx="968.7014" cy="453" rx="52.625084" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(932.6014 435)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="3.106" y="13" textLength="69.602">Reject Role </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="1.7735" y="31" textLength="68.653">Nomination</tspan>
       </text>
-      <line x1="796.9528" y1="464.5" x2="900.35" y2="464.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="796.1747" y1="477.45126" x2="902.6668" y2="514.091" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="795.8797" y1="449.3229" x2="904.0658" y2="405.35877" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="796.9326" y1="462.3988" x2="905.9285" y2="456.4348" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="956.625" cy="522" rx="47.500076" ry="30.000048" fill="white"/>
+      <ellipse cx="956.625" cy="522" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(924.625 504)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="12.2465" y="13" textLength="43.121">Create </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="17.921" y="31" textLength="28.158">DAC</tspan>
+      </text>
+      <line x1="796.3942" y1="475.4901" x2="903.4369" y2="506.5612" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="907.5" cy="582" rx="47.500076" ry="30.000048" fill="white"/>
+      <ellipse cx="907.5" cy="582" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(875.5 564)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="12.2465" y="13" textLength="43.121">Create </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="1.3005" y="31" textLength="61.399">Campaign</tspan>
+      </text>
+      <line x1="793.3154" y1="491.9356" x2="869.6029" y2="552.10826" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
     </g>
   </g>
 </svg>

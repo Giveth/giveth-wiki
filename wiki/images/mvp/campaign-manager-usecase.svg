@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="332 -62 896 389" width="896pt" height="389pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="332 -62 896 380" width="896pt" height="380pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata> Produced by OmniGraffle 7.5 
-    <dc:date>2017-10-27 03:10:05 +0000</dc:date>
+    <dc:date>2017-10-29 03:37:18 +0000</dc:date>
   </metadata>
   <defs>
     <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="bold">
@@ -22,7 +22,7 @@
     </marker>
   </defs>
   <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
-    <title>Campaign Manager Use Case 2</title>
+    <title>Campaign Manager Use Case</title>
     <g>
       <title>Layer 1</title>
       <text transform="translate(699.0927 269.008)" fill="#515556">
@@ -47,36 +47,29 @@
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="17.1865" y="13" textLength="33.241">Fund </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="2.0285" y="31" textLength="59.943">Milestone</tspan>
       </text>
-      <ellipse cx="583.5" cy="141" rx="47.500076" ry="30.000048" fill="white"/>
-      <ellipse cx="583.5" cy="141" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(551.5 123)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="12.2465" y="13" textLength="43.121">Create </tspan>
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="1.3005" y="31" textLength="61.399">Campaign</tspan>
-      </text>
       <ellipse cx="980.5" cy="195.508" rx="49.00008" ry="30.000048" fill="white"/>
       <ellipse cx="980.5" cy="195.508" rx="49.00008" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       <text transform="translate(947.3 177.508)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="13.3295" y="13" textLength="43.355">Cancel </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="3.2285" y="31" textLength="59.943">Milestone</tspan>
       </text>
-      <ellipse cx="558.5" cy="219.5" rx="47.500076" ry="30.000048" fill="white"/>
-      <ellipse cx="558.5" cy="219.5" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(526.5 201.5)" fill="#515556">
+      <ellipse cx="558" cy="189.5" rx="47.500076" ry="30.000048" fill="white"/>
+      <ellipse cx="558" cy="189.5" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(526 171.5)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="11.5315" y="13" textLength="44.551">Modify </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="1.3005" y="31" textLength="61.399">Campaign</tspan>
       </text>
-      <line x1="721.72275" y1="211.30246" x2="629.8133" y2="164.55575" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="720.0981" y1="227.99037" x2="616.22455" y2="222.53285" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="720.3531" y1="222.301" x2="613.462" y2="200.70526" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <line x1="796.5216" y1="239.3055" x2="913.0465" y2="267.7996" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <line x1="794.5873" y1="207.82813" x2="900.0529" y2="143.00715" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <line x1="796.758" y1="224.0625" x2="922.7091" y2="204.48902" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <ellipse cx="564.5" cy="290" rx="47.500076" ry="30.000048" fill="white"/>
-      <ellipse cx="564.5" cy="290" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(532.5 272)" fill="#515556">
+      <ellipse cx="564" cy="260" rx="47.500076" ry="30.000048" fill="white"/>
+      <ellipse cx="564" cy="260" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(532 242)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="12.1295" y="13" textLength="43.355">Cancel </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="1.3005" y="31" textLength="61.399">Campaign</tspan>
       </text>
-      <line x1="720.7117" y1="241.69356" x2="617.1392" y2="273.722" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="720.2395" y1="235.90778" x2="620.4405" y2="251.29685" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
     </g>
   </g>
 </svg>

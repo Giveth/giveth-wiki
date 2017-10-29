@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="332 -62 896 391" width="896pt" height="391pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="332 -62 896 362" width="896pt" height="362pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata> Produced by OmniGraffle 7.5 
-    <dc:date>2017-10-27 01:16:04 +0000</dc:date>
+    <dc:date>2017-10-29 03:35:39 +0000</dc:date>
   </metadata>
   <defs>
     <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="bold">
@@ -42,20 +42,13 @@
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="11.856" y="31" textLength="73.502">Donation to </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="16.1005" y="49" textLength="61.399">Campaign</tspan>
       </text>
-      <ellipse cx="598.5" cy="137.35714" rx="47.500076" ry="30.000048" fill="white"/>
-      <ellipse cx="598.5" cy="137.35714" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(566.5 119.35714)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="12.2465" y="13" textLength="43.121">Create </tspan>
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="17.921" y="31" textLength="28.158">DAC</tspan>
-      </text>
-      <ellipse cx="573.5" cy="210.5" rx="47.500076" ry="30.000048" fill="white"/>
-      <ellipse cx="573.5" cy="210.5" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(541.5 192.5)" fill="#515556">
+      <ellipse cx="573.5" cy="178.85714" rx="47.500076" ry="30.000048" fill="white"/>
+      <ellipse cx="573.5" cy="178.85714" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(541.5 160.85714)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="11.5315" y="13" textLength="44.551">Modify </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="17.921" y="31" textLength="28.158">DAC</tspan>
       </text>
-      <line x1="722.1712" y1="208.97116" x2="642.5577" y2="162.86952" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="720.15456" y1="225.96452" x2="630.7031" y2="216.532" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="720.5873" y1="219.52547" x2="627.0755" y2="193.6703" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <line x1="795.449" y1="212.28537" x2="880.5671" y2="171.45838" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <ellipse cx="956" cy="241.5" rx="66.000105" ry="40.500065" fill="white"/>
       <ellipse cx="956" cy="241.5" rx="66.000105" ry="40.500065" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
@@ -65,13 +58,13 @@
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="16.8285" y="49" textLength="59.943">Milestone</tspan>
       </text>
       <line x1="796.8976" y1="232.24226" x2="879.9085" y2="237.07244" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <ellipse cx="579.5" cy="283.64286" rx="47.500076" ry="30.000048" fill="white"/>
-      <ellipse cx="579.5" cy="283.64286" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(547.5 265.64286)" fill="#515556">
+      <ellipse cx="579.5" cy="252" rx="47.500076" ry="30.000048" fill="white"/>
+      <ellipse cx="579.5" cy="252" rx="47.500076" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(547.5 234)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="12.1295" y="13" textLength="43.355">Cancel </tspan>
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="black" x="17.921" y="31" textLength="28.158">DAC</tspan>
       </text>
-      <line x1="720.6739" y1="241.34207" x2="632.41916" y2="267.78637" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="720.1813" y1="234.71585" x2="636.46016" y2="245.00186" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
     </g>
   </g>
 </svg>
