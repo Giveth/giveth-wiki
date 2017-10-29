@@ -50,10 +50,15 @@ Allows you to clone the token to upgrade the token, create a vote, offer ICO acc
 This contract creates MYD and sends it to the Giver  
 
 Special complications
+
 Owner: Will start off as Quazia
+
 Old Campaign will send 46.741 ETH  to new campaign
+
 To keep tokens and total collected consistent, we will destroy the tokens created in step 2
+
 We do a bunch of testing :-D
+
 Owner will be changed to 0xDdA882a62600C452419145781e45052fdC06382C 
 
 
