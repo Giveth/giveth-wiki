@@ -92,7 +92,32 @@ Even now, the system contains enough information to provide some simple accounti
 
 ## <a name="future-dac-governance">DAC Governance</a>
 
-In the MVP there is one Delegate per DAC who is the owner and the only person that can delegate Money.
+In the MVP there is one Delegate per DAC who is the owner and the only person that can delegate donation. The tension is that should the Delate be unavailable (temporarilly or permanently) the DAC will just accumulate donations that could be already making difference. In addition to that, bigger organisations will need multiple people being able to delegate money. One solution would be to enrich the Delegate role to be able to nominate other Delegates and build a governance system in the DAC. It could then be up to the settings of the DAC to define how many votes are necessary to:
+
+1. Nominate new Delegate
+2. Remove a Delegate
+3. Change the DAC information (description, DAC's name,...)
+4. Delegate Donations
+5. Freeze a delegate
+
+In reality we could then see DACs that have for example the following settings:
+1. At least 51% of DAC's Delegates to nominate new Delegate
+2. At least 70% to remove a Delegate
+3. At least 30% to change the DAC information (description, DAC's name,...)
+4. Everyone can delegate without need to vote (0 votes on donation delegation)
+5. Everyone can freeze a delegate and the freeze time is 3 days
+
+There is also a freeze action which can be called by any delegate to temporarily freeze another delegate. Such delegate can not do any action until he/she is unfrozen
+
+![Usecase diagram for Delegate](../images/future/dac-governance-delegate.svg)
+
+<a name="fig-dac-governance-delegate-usecase">Use case diagram for Delegate role if the DAC Governance is implemented.</a> The white actions are about changing the DAC information, green about donation delegation, blue are security actions, red are actions to remove delegate and the color yellow shows new delegate nomination actions.
+
+
+
+![Usecase diagram for Time](../images/future/dac-governance-time.svg)
+
+<a name="fig-dac-governance-time-usecase">Use case diagram for automatic actions if the DAC Governance is implemented.</a> Should there be delegates that did not vote yet, all their votes go to: Support the DAC modification, Support donation delegation, Support nomination of new Delegate, Oppose the removal of a Delegate. If the delegate is frozen for longer than the time limit, he/she is unfrozen.
 
 ## Campaign Governance
 
@@ -120,4 +145,4 @@ In the MVP there is one Delegate per DAC who is the owner and the only person th
 
 ## Donation message
 
-##
+## Notifications

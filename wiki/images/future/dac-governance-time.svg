@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="310 73 897 291" width="897pt" height="291pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.5 
+    <dc:date>2017-10-29 04:12:48 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="bold">
+      <font-face-src>
+        <font-face-name name="Avenir-Heavy"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Avenir" font-size="13" panose-1="2 11 5 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="468" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Avenir-Roman"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>DAC Governance Time</title>
+    <g>
+      <title>Layer 1</title>
+      <text transform="translate(744.0927 269.008)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".193" y="13" textLength="29.614">Time</tspan>
+      </text>
+      <path d="M 764.89205 175.65569 C 761.3618 172.12544 755.6382 172.12544 752.10795 175.65569 C 748.5777 179.18592 748.5777 184.90956 752.10795 188.4398 C 755.6382 191.97004 761.3618 191.97004 764.89205 188.4398 C 768.4223 184.90956 768.4223 179.18592 764.89205 175.65569 M 767.5402 203.7431 C 767.5303 203.34507 767.67725 202.94386 767.981 202.6401 C 768.5694 202.05172 769.5233 202.05172 770.1117 202.6401 C 770.4155 202.94386 770.5624 203.34507 770.5525 203.7431 L 770.5654 203.7431 L 770.5654 221.06926 C 770.5654 224.45917 770.1903 227.84907 773.5662 227.84907 C 776.9422 227.84907 776.5671 224.45917 776.5671 221.06926 L 776.5671 200.72986 L 776.5795 200.72986 C 776.5795 195.73735 771.7228 191.69012 765.7318 191.69012 L 758.5 191.69012 L 751.2682 191.69012 C 745.2772 191.69012 740.4205 195.73735 740.4205 200.72986 L 740.4329 200.72986 L 740.4329 221.06926 C 740.4329 224.45917 740.0578 227.84907 743.4338 227.84907 C 746.8097 227.84907 746.4346 224.45917 746.4346 221.06926 L 746.4346 203.7431 L 746.4475 203.7431 C 746.45675 203.37018 746.6037 203.00003 746.8883 202.71543 C 747.4767 202.12705 748.4306 202.12705 749.019 202.71543 C 749.3036 203.00003 749.4505 203.37018 749.4598 203.7431 L 749.4603 203.7431 L 749.4603 203.77926 C 749.4603 203.78027 749.4603 203.78127 749.4603 203.78228 L 749.4603 230.8623 L 749.4764 230.8623 L 749.4764 254.96827 C 749.4764 259.48814 748.98875 264.008 753.3775 264.008 C 757.7662 264.008 757.2786 259.48814 757.2786 254.96827 L 757.2786 230.8623 L 757.2953 230.8623 C 757.2853 230.54142 757.4028 230.2173 757.6477 229.97237 C 758.1184 229.50167 758.8816 229.50167 759.3523 229.97237 C 759.5972 230.2173 759.7147 230.54142 759.7047 230.8623 L 759.7214 230.8623 L 759.7214 254.96827 C 759.7214 259.48814 759.2338 264.008 763.6225 264.008 C 768.01125 264.008 767.5236 259.48814 767.5236 254.96827 L 767.5236 230.8623 L 767.5397 230.8623 L 767.5397 203.7431 Z" fill="#666"/>
+      <ellipse cx="543" cy="236" rx="66.000105" ry="40.500065" fill="#c0ffc0"/>
+      <ellipse cx="543" cy="236" rx="66.000105" ry="40.500065" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(496.2 218)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="23.192" y="13" textLength="50.83">Support </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="14.5275" y="31" textLength="64.545">Delegation</tspan>
+      </text>
+      <line x1="720.0847" y1="231.07614" x2="619.32925" y2="233.87766" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="1001.5" cy="123" rx="66.000105" ry="40.500065" fill="#ffffc0"/>
+      <ellipse cx="1001.5" cy="123" rx="66.000105" ry="40.500065" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(954.7 105)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="23.192" y="13" textLength="50.83">Support </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="12.4735" y="31" textLength="68.653">Nomination</tspan>
+      </text>
+      <ellipse cx="1001.5" cy="218" rx="66.000105" ry="40.500065" fill="#ffc0c0"/>
+      <ellipse cx="1001.5" cy="218" rx="66.000105" ry="40.500065" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(954.7 200)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="23.192" y="13" textLength="54.444">Oppose  </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="21.749" y="31" textLength="50.102">Removal</tspan>
+      </text>
+      <line x1="795.6693" y1="213.64006" x2="938.303" y2="150.82958" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="796.904" y1="228.11024" x2="925.3229" y2="221.76434" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="545.5" cy="148.5" rx="63.5001" ry="30.000048" fill="white"/>
+      <ellipse cx="545.5" cy="148.5" rx="63.5001" ry="30.000048" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(500.7 130.5)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="5.306" y="13" textLength="50.83">Support </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="56.136" y="13" textLength="28.158">DAC</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="84.294" y="13" textLength="3.614"> </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="8.5495" y="31" textLength="36.842">modifi</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="45.3915" y="31" textLength="35.659">cation</tspan>
+      </text>
+      <line x1="721.0354" y1="215.67154" x2="604.6908" y2="171.15035" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="983.5" cy="313" rx="66.000105" ry="40.500065" fill="#c0ffff"/>
+      <ellipse cx="983.5" cy="313" rx="66.000105" ry="40.500065" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(936.7 295)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="18.382" y="13" textLength="60.45">Un-freeze </tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="500" fill="#515556" x="19.9485" y="31" textLength="53.703">Delegate</tspan>
+      </text>
+      <line x1="796.0301" y1="243.8511" x2="917.1185" y2="288.51495" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
