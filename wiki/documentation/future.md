@@ -28,7 +28,7 @@ Assuming each DAC, Campaing and Milestone has a as described in [Locations of DA
 
 ## <a name="future-money-exploration">Money flow based exploration of DACs & Capaigns</a>
 
-Giveth already has a lot of information that it is not using at all. By analysing the transactions, we can easily build graphs that would help people understand wheir the DACs money go through and where the Campaign money comes from. This could be an important ascpect that Givers could consider.
+Giveth already has a lot of information that it is not using at all. By analysing the transactions, we can easily build graphs that would help people understand where the DACs money go to and where the Campaign money comes from. This could be an important aspect that Givers could consider.
 
 ![Money flow from DACs](../images/future/money-flow-dac.svg)
 
@@ -49,8 +49,7 @@ Internet bill June | Milestone | 3% |
 Installation of new language education software| Milestone | 2% |
 IT olympics for High School Students | Campaign | 1% |
 
-<a name="table-money-flow-DAC">Tabular view of all delegations.</a> 
-
+<a name="table-money-flow-DAC">Tabular view of all delegations.</a>
 
 ![Money flow to Campaign](../images/future/money-flow-campaign.svg)
 
@@ -144,7 +143,7 @@ There is also a freeze action which can be called by any delegate to temporarily
 
 ## Multiple Wallets
 
-## Wallet Recovery Phrase
+## Wallet Recovery System
 
 ## Giver Portfolio
 
@@ -156,7 +155,7 @@ There is also a freeze action which can be called by any delegate to temporarily
 
 ## Language Mutations
 
-## Reputation
+## Reputation System
 
 ## Repetative Milestones
 
@@ -169,5 +168,15 @@ There is also a freeze action which can be called by any delegate to temporarily
 ### In App
 
 ### External
+- Email
+- Slack
+- SMS
+- Instant messages..
 
 ## If This Then That (IFTTT) Integration
+
+## Push content to external tools
+- Facebook
+- Twitter
+
+## Video as a proof of work
