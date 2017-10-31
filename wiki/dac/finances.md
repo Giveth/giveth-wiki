@@ -22,7 +22,7 @@ By default Giveth Covers:
 - Suitable accomodation for the duration of official Giveth Team Meetups chosen by Giveth Team.
 - Office expenses (rent,  utility bills, equipment, groceries for Giveth Team Meetups)
 
-By default only expenses with valid receipt are covered. Any expense will be judged by the Finance lead, its value converted to US dollars (according to [xe.com](http://www.xe.com)) and then Ether (using [ethereumprice.org](https://ethereumprice.org)) at noon on the day the expense took place. The refund will be made at earliest convenience through the Expenses campaign on Milestone Tracker [http://dapp.giveth.io/#/campaigns/4](http://dapp.giveth.io/#/campaigns/4).
+By default only expenses with valid receipt are covered. Any expense will be judged by the Finance lead, its value converted to US dollars (according to [xe.com](http://www.xe.com)) and then Ether (using [EtherPrice API](https://etherchain.org/documentation/api/)) at noon on the day the expense took place. The refund will be made at earliest convenience through the Expenses Campaign on Milestone Tracker [http://dapp.giveth.io/#/campaigns/4](http://dapp.giveth.io/#/campaigns/4).
 
 ## <a name="finances_regular">Regular Rewards</a>
 

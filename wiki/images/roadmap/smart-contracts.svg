@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="96" height="16" viewBox="0, 0, 96, 16">
+  <g id="Background">
+    <rect x="0" y="0" width="96" height="16" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Layer_1">
+    <path d="M3,-0 L93,-0 C94.657,-0 96,1.343 96,3 L96,13 C96,14.657 94.657,16 93,16 L3,16 C1.343,16 -0,14.657 -0,13 L-0,3 C-0,1.343 1.343,-0 3,-0 z" fill="#282C34"/>
+    <text transform="matrix(1, 0, 0, 1, 48, 8)">
+      <tspan x="-44.892" y="4" font-family="HelveticaNeue-Bold" font-size="12" fill="#7E58C2">Smart Contacts</tspan>
+    </text>
+  </g>
+</svg>
