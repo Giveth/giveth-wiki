@@ -31,18 +31,19 @@ Creating a white list of plugins that are allowed to be added to the Liquid Pled
 **Whitelist of Reviewers**
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg) -
-Creating a white list of Campaign and Milestone
+Creating a white list of Reviewers that can be used and modifying the UI to support it https://github.com/Giveth/giveth-dapp/issues/47.
 
 **Whitelist of Campaign Managers**
 ![Feathers](../images/roadmap/feathers.svg)
-![React](../images/roadmap/react.svg)
-Build a list of Addresses ther can create Campaign
+![React](../images/roadmap/react.svg) -
+Build a list of addresses ther can create Campaigns. Any Campaign that is not created with these addresses will not be visible in the Giveth Platform.
 
 **Whitelist of Delegates**
 ![Feathers](../images/roadmap/feathers.svg)
-![React](../images/roadmap/react.svg)
+![React](../images/roadmap/react.svg) -
+Build a list of addresses ther can create DACs. Any DAC that is not created with these addresses will not be visible in the Giveth Platform.
 
-**Role definitions**
+**Role Definitions**
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg) -
 Adding the Campaign Manager and Milestone Manager role. The roles should comply with the [Product Definition](https://wiki.giveth.io/documentation/product-definition/) especially with the [Milestone State Diagram](https://wiki.giveth.io/documentation/product-definition/#product-definition-fig-milestone-statediagram).
@@ -50,30 +51,35 @@ Adding the Campaign Manager and Milestone Manager role. The roles should comply 
 **Gas Price input**
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg)
-![Smart Contracts](../images/roadmap/smart-contracts.svg)
+![Smart Contracts](../images/roadmap/smart-contracts.svg) -
+Allow users to set a gas price for any blockchain transaction.
 
-**Verify feathers data permisions**
-![Feathers](../images/roadmap/feathers.svg)
-
-**Deploy Contracts to Main net**
-![Smart Contracts](../images/roadmap/smart-contracts.svg)
-
-**Deploy Feathers.js**
-![Feathers](../images/roadmap/feathers.svg)
-
-**Deploy DApp UI**
-![React](../images/roadmap/react.svg)
+**Verify Feathers Data Permisions**
+![Feathers](../images/roadmap/feathers.svg) -
+Verify that there are no permission problems in the Feathers js.
 
 **Donate without Registering**
-![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg)
 ![Smart Contracts](../images/roadmap/smart-contracts.svg)
-(Potentially through MEW?)
+Add functionalitty to the Donate button which would give you an option to donate through MyEtherWallet (just like on our [website](https://giveth.io)). The smart contracts need to be altered as well to allow donations from un-registered users.
 
 **In House Testing**
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg)
-![Smart Contracts](../images/roadmap/smart-contracts.svg)
+![Smart Contracts](../images/roadmap/smart-contracts.svg) -
+All team members get to test on the test network and provide us with a feedback. `@vojtech` will facilitate the testing and collecting feedback.
+
+**Deploy Contracts to Main Network**
+![Smart Contracts](../images/roadmap/smart-contracts.svg) -
+Deploy and verify all the smart contracts and plugins to the Main Ethereum Network.
+
+**Deploy Feathers.js**
+![Feathers](../images/roadmap/feathers.svg) -
+Deploy final clean production version of Feathers js.
+
+**Deploy DApp UI**
+![React](../images/roadmap/react.svg) -
+Deploy final version of UI and freeze it on Netlify.
 
 ## First Campaign - (2018 January 15)
 **DAC Approval for adding campaign**
