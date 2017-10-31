@@ -82,66 +82,75 @@ Deploy final clean production version of Feathers js.
 Deploy final version of UI and freeze it on Netlify.
 
 ## First Campaign - (2018 January 15)
-**DAC Approval for adding campaign**
+**DAC Approval for Adding Campaign**
 ![Feathers](../images/roadmap/feathers.svg)
-![React](../images/roadmap/react.svg)
+![React](../images/roadmap/react.svg) -
+The DAC has to aprove that it wants to be associated with a Campaign. For now we will only do that in the frontend by not showing the unapproved Campaigns in DAC.
 
 **External Notifications**
 ![Feathers](../images/roadmap/feathers.svg)
+![React](../images/roadmap/react.svg) -
+Adding email notifications to the DApp and hooking it to events like new donations, new delegation , milestone status change and others.
 
 **Propose New Milestones (offchain)**
 ![Feathers](../images/roadmap/feathers.svg)
-![React](../images/roadmap/react.svg)
+![React](../images/roadmap/react.svg) -
+Allow anyone to propose a new milestone to a Campaign. The proposal will not be visible to anyone except for Campaign Manager.
 
-**Dedicated person to hold hand of the 1st Campaign**
+**On-boarding 1st Campaign** -
+A dedicated person who will be in contact with the first Campaign to use our system. This includes gathering requirements, guided introduction to the platform and collecting feedback.
 
-**Gathering requiremenst from 1st Campaign**
-
-**Tutorials, Videos, Documentation**
+**Tutorials, Videos, Documentation** -
+Preparing tutorials, video and other documentation for the launch based on the feedback from the first Campaign.
 
 **Link to Dashboard/Milestone Workflow in Campaign**
 ![Feathers](../images/roadmap/feathers.svg)
-![React](../images/roadmap/react.svg)
-Milestone Workflow in Campaign
+![React](../images/roadmap/react.svg) -
+Milestone Workflow added to the Campaign (all the buttons right in the milestones).
 
 **User Customisation - Logo, Page Color**
 ![Feathers](../images/roadmap/feathers.svg)
-![React](../images/roadmap/react.svg)
+![React](../images/roadmap/react.svg) -
+Allow users to customise their Campaign page by changing background color and adding their logo.
 
 **Mist Integration**
 ![Feathers](../images/roadmap/feathers.svg)
-![React](../images/roadmap/react.svg)
-Signup with Mist
+![React](../images/roadmap/react.svg) -
+Allow signing up with Mist Address and interacting with the app through Mist.
 
 **Metamask Integration**
 ![Feathers](../images/roadmap/feathers.svg)
-![React](../images/roadmap/react.svg)
-Signup with metamask
+![React](../images/roadmap/react.svg) -
+Allow signing up with Meatamask Address and interacting with the app with Meatamask.
 
-**All transactions through MEW**
+**Allow Executing Transactions from MEW** -
 ![React](../images/roadmap/react.svg)
-Redirect to MEW for any transaction with prefilled data
+Add to every transaction button option to redirect to MyEthereumWallet with the data and addresses pre-filled.
 
 **Testing**
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg)
 ![Smart Contracts](../images/roadmap/smart-contracts.svg)
-In-house testing, User
+All team members and the Campaign get to test on the test network and provide us with a feedback. `@vojtech` will facilitate the testing and collecting feedback.
 
 ## First DAC - (2018 February 15)
-**Gathering Campaigns**
+**Gathering DACs (and Campaigns)** -
+On-going process of gathering and on-boarding other DACs and Campaigns.
 
 **Multiple Delegates in DAC**
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg)
-![Smart Contracts](../images/roadmap/smart-contracts.svg)
+![Smart Contracts](../images/roadmap/smart-contracts.svg) -
+Allow multiple delegates that can propose delegation and can approve/reject the delegation (just the green actions in the [DAC governance diagram](https://wiki.giveth.io/documentation/future/fig-dac-governance-delegate-usecase))
 
 ## Official Release - (2018 March 1)
+**Gathering DACs and Campaigns**
+On-going process of gathering and on-boarding other DACs and Campaigns for the main release.
 
 ## At earliest opportunity
-Fix Feathers
+Fix Feathers, Tests
 React Tests
-Add onboarding
 Anonymous Donations from Exchanges
+Mutual DAC an Campaign Linking
 **Token Support**	Smart Contracts	Fearherjs	React
 Token support UI
