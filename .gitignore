@@ -2,3 +2,4 @@ site/
 .idea/
 node_modules/
 yarn.lock
+wiki/documentation/mvp.md

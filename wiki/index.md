@@ -57,4 +57,4 @@ Giveth is dedicated to a completely open source development process every step o
 * We want to enable awesome solutions for everyone to use and improve upon.
 * Makers will be encouraged to use our current Milestone Tracker Contract, where donations are only collected upon the completion of pre-arranged milestones. This creates a result-focused incentive structure naturally aligning everyone's intentions.
 * The Giveth core team (Giveth DAC!) has completed v0.1 of Giveth's DApp (Donation Application) using our own system. This means there is complete transparency on how the donations sent to the Giveth Platform have been used.
-* **Our current DApp is still in the early prototype stage** and focuses on the distribution of funds to Makers. The Dapp is currently in alpha testing, have a look here: [Giveth Donation Application](https://mvp.giveth.io)
+* **Our current DApp is still in the early prototype stage** and focuses on the distribution of funds to Makers.<!-- The Dapp is currently in alpha testing, have a look here: [Giveth Donation Application](https://mvp.giveth.io)-->
