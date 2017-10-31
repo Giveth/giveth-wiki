@@ -1,25 +1,25 @@
 # Roadmap for Giveth Product
-This chapter, details the Giveth Product roadmap until the platform is released = open for general public on the Main Ethereum Network. The aim is to reach this state on 1st of March 2018.
+This chapter details the Giveth Product roadmap until release = open for the general public on the Main Ethereum Network. The aim is to reach this state by 1st of March 2018.
 
 ## As Soon as Possible
 **Contributors** -
-Allowing external contributors to meaningfully join the application development. We need to create and mark issues suitable for external contributors (=fully defined an clear), write contribution guidelines and continuisly review and merge the contributors pull requests. The responsibles are:
+Allow for meaningful external contributions to application development. We need to create and mark issues suitable for external contributors (=fully defined and clear requests), write contribution guidelines and continuously review and merge the contributors pull requests. The responsible people on the Giveth team are:
 
-- `@perrisology` for Smart Contracts and Plugins
-- `@perrisology` and `@satya` for Feathers
-- `@satya` and `@vojtech` for Reactjs
+- `@perissology` for Smart Contracts and Plugins
+- `@perissology` and `@satyaVH` for FeathersJS
+- `@satyaVH` and `@vojtech` for Reactjs
 
 **User Experience Review** -
-Reviewing the platform screen by screen and improving the overall user experience. The workflow would consist of proposal for improvement, review of the proposal and implementation
+Review the platform screen by screen and improve the overall user experience. The workflow consists of proposals for improvement, reviews of proposals and implementation.
 
-## Mainnet for Giveth - (2017 November 23)
-To get live on the Ethereum Main Network the following is steps are necessary:
+## Launchin Giveth on the Ethereum main net - (planned for 2017 November 23)
+In order to successfully launch the Giveth donation platform on the Ethereum Main Network, following steps are necessary:
 
-**MiniME Integration**
+**Minime Integration**
 ![Smart Contracts](../images/roadmap/smart-contracts.svg)
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg) -
-Write and add MiniME plugin to Liquid Pledging. Add display of the token to UI which would allow the Delegates and Campaign managers to name the token they will issue and to all the Givers see how much of what tokens they have. We agreed that tokens are issued only in the following cases:
+Write a Minime plugin and add the plugin to Liquid Pledging. Add display of the token to UI, which allows Delegates and Campaign managers to name the token to be issued and to all the Givers see how much of what tokens they have. We agreed that tokens are issued only in the following cases:
 
 1. Giver donates to Campaign he receives Campaign tokens
 2. Giver donated to DAC, the DAC delegated the donation to Campaign and the delegation is commited. Only then the Giver receives both the DAC tokens and Campaign tokens. When we allow delegation from DAC to DAC, only the DAC to which the Giver donated in the first place will issue tokens for him.
