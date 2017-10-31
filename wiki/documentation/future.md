@@ -180,3 +180,9 @@ There is also a freeze action which can be called by any delegate to temporarily
 - Twitter
 
 ## Video as a proof of work
+
+## Donation Splitting
+
+## Data Import
+
+## Fiat Paygates

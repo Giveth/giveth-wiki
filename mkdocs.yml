@@ -35,7 +35,8 @@ pages:
         - FAQ: 'documentation/faq.md'
         - Glossary: 'documentation/glossary.md'
     - Documentation:
-        - MVP: 'documentation/mvp.md'
+        - Product Definition: 'documentation/product-definition.md'
+        - Roadmap: 'documentation/roadmap.md'
         - Future: 'documentation/future.md'
         - DApp Alpha: 'documentation/alpha.md'
         - White Paper: 'documentation/white-paper.md'
