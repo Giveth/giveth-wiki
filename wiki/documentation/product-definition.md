@@ -6,7 +6,7 @@ The Giveth is currently in the minimal viable product(MVP) state that allows use
 
 The system consists of:
 
-- [**DACs**](#product-definition-dac) short for Decentralised Altruistic Communities. Every DAC is community around cause to which users can donate money. DAC is owned by a Delegate who can delegate the donations to Campaigns linked to the DAC.
+- [**DACs**](#product-definition-dac) short for Decentralised Altruistic Communities. Every DAC is a community built around cause to which users can donate money. A DAC is owned by a Delegate who can delegate the donations to Campaigns linked to the DAC.
 - [**Campaigns**](#product-definition-campaign) are individual projects with owned by a Campaign Manager. These projects have Milestones through which the people behind the Campaign can get funding.
 - [**Milestones**](#product-definition-milestone) can be created within a Campaign and are the only way how to get money out of the Giveth system. The Milestones can be proposed by the Campaign Manager and follow a workflow where multiple people can interact with it to ensure the milestone has been accomplished.
 
