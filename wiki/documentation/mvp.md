@@ -1,12 +1,12 @@
 # MVP
 
-The Giveth MVP is a minimal viable product that allows users to give money to communities around causes and to build these communities. The system is a set of [smart contracts](https://github.com/Giveth) living on [Ethereum Project blockchain](https://ethereum.org), with a [caching server](https://github.com/Giveth/feathers-giveth) and [graphical user interface (GUI)](https://github.com/Giveth/giveth-dapp). Currently we are in a closed alpha testing phase, should you be interested to help us test the system, please contact `@vojtech` on the [Giveth Slack](http://slack.giveth.io/).
+The Giveth MVP is a minimal viable product that allows users to give money to communities built around causes. The system is a set of [smart contracts](https://github.com/Giveth) living on the [Ethereum Project blockchain](https://ethereum.org), with a [caching server](https://github.com/Giveth/feathers-giveth) and a [graphical user interface (GUI)](https://github.com/Giveth/giveth-dapp). Currently we are in a closed alpha testing phase, should you be interested to help us test the system, please contact `@vojtech` on the [Giveth Slack](http://slack.giveth.io/).
 
 ## Executive Summary
 
 The system consists of:
 
-- [**DACs**](#mvp-dac) short for Decentralised Altruistic Communities. Every DAC is community around cause to which users can donate money. DAC is owned by a Delegate who can delegate the donations to Campaigns linked to the DAC.
+- [**DACs**](#mvp-dac) short for Decentralised Altruistic Communities. Every DAC is a community built around cause to which users can donate money. A DAC is owned by a Delegate who can delegate the donations to Campaigns linked to the DAC.
 - [**Campaigns**](#mvp-campaign) are individual projects with owned by a Campaign Manager. These projects have Milestones through which the people behind the Campaign can get funding.
 - [**Milestones**](#mvp-milestone) can be created within a Campaign and are the only way how to get money out of the Giveth system. The Milestones can be proposed by the Campaign Manager and follow a workflow where multiple people can interact with it to ensure the milestone has been accomplished.
 
