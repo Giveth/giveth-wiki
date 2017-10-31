@@ -148,9 +148,27 @@ Allow multiple delegates that can propose delegation and can approve/reject the 
 On-going process of gathering and on-boarding other DACs and Campaigns for the main release.
 
 ## At earliest opportunity
-Fix Feathers, Tests
-React Tests
-Anonymous Donations from Exchanges
-Mutual DAC an Campaign Linking
-**Token Support**	Smart Contracts	Fearherjs	React
-Token support UI
+**Verify Feathers**
+![Feathers](../images/roadmap/feathers.svg) -
+Fully verify feathers models and restrictions
+
+**Tests**
+![Feathers](../images/roadmap/feathers.svg)
+![React](../images/roadmap/react.svg) -
+Add frontend and backend tests.
+
+**Anonymous Donations from Exchanges**
+![Smart Contracts](../images/roadmap/smart-contracts.svg) -
+Allow donating from exchanges and emitting the donation tokens.
+
+**Mutual DAC an Campaign Linking**
+![Feathers](../images/roadmap/feathers.svg)
+![React](../images/roadmap/react.svg)
+![Smart Contracts](../images/roadmap/smart-contracts.svg) -
+Allow bi-directional linking of DACs and Campaigns (currently only Campaigns can link with DACs).
+
+**Token Support**
+![Feathers](../images/roadmap/feathers.svg)
+![React](../images/roadmap/react.svg)
+![Smart Contracts](../images/roadmap/smart-contracts.svg) -
+Support using the ERC20 and ERC223 tokens in the platform for all the actions.
