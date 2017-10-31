@@ -1,20 +1,37 @@
 # Roadmap for Giveth Product
+This chapter, details the Giveth Product roadmap until the platform is released = open for general public on the Main Ethereum Network. The aim is to reach this state on 1st of March 2018.
 
-## ASAP
-**Contributors**
+## As Soon as Possible
+**Contributors** -
+Allowing external contributors to meaningfully join the application development. We need to create and mark issues suitable for external contributors (=fully defined an clear), write contribution guidelines and continuisly review and merge the contributors pull requests. The responsibles are:
+
+- `@perrisology` for Smart Contracts and Plugins
+- `@perrisology` and `@satya` for Feathers
+- `@satya` and `@vojtech` for Reactjs
+
+**User Experience Review** -
+Reviewing the platform screen by screen and improving the overall user experience. The workflow would consist of proposal for improvement, review of the proposal and implementation
 
 ## Mainnet for Giveth - (2017 November 23)
 To get live on the Ethereum Main Network the following is steps are necessary:
 
-[**MiniMe Integration**]()
+**MiniME Integration**
 ![Smart Contracts](../images/roadmap/smart-contracts.svg)
+![Feathers](../images/roadmap/feathers.svg)
+![React](../images/roadmap/react.svg) -
+Write and add MiniME plugin to Liquid Pledging. Add display of the token to UI which would allow the Delegates and Campaign managers to name the token they will issue and to all the Givers see how much of what tokens they have. We agreed that tokens are issued only in the following cases:
+
+1. Giver donates to Campaign he receives Campaign tokens
+2. Giver donated to DAC, the DAC delegated the donation to Campaign and the delegation is commited. Only then the Giver receives both the DAC tokens and Campaign tokens. When we allow delegation from DAC to DAC, only the DAC to which the Giver donated in the first place will issue tokens for him.
 
 **Whitelist of Plugins**
-![Smart Contracts](../images/roadmap/smart-contracts.svg)
+![Smart Contracts](../images/roadmap/smart-contracts.svg) -
+Creating a white list of plugins that are allowed to be added to the Liquid Pledging for the Giveth Platform.
 
 **Whitelist of Reviewers**
 ![Feathers](../images/roadmap/feathers.svg)
-![React](../images/roadmap/react.svg)
+![React](../images/roadmap/react.svg) -
+Creating a white list of Campaign and Milestone
 
 **Whitelist of Campaign Managers**
 ![Feathers](../images/roadmap/feathers.svg)
@@ -25,9 +42,10 @@ Build a list of Addresses ther can create Campaign
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg)
 
-**Role definitions** 	plugin
+**Role definitions**
 ![Feathers](../images/roadmap/feathers.svg)
-![React](../images/roadmap/react.svg)
+![React](../images/roadmap/react.svg) -
+Adding the Campaign Manager and Milestone Manager role. The roles should comply with the [Product Definition](https://wiki.giveth.io/documentation/product-definition/) especially with the [Milestone State Diagram](https://wiki.giveth.io/documentation/product-definition/#product-definition-fig-milestone-statediagram).
 
 **Gas Price input**
 ![Feathers](../images/roadmap/feathers.svg)
@@ -57,7 +75,7 @@ Build a list of Addresses ther can create Campaign
 ![React](../images/roadmap/react.svg)
 ![Smart Contracts](../images/roadmap/smart-contracts.svg)
 
-## 1st Campaign - (2018 January 15)
+## First Campaign - (2018 January 15)
 **DAC Approval for adding campaign**
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg)
@@ -111,6 +129,8 @@ In-house testing, User
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg)
 ![Smart Contracts](../images/roadmap/smart-contracts.svg)
+
+## Official Release - (2018 March 1)
 
 ## At earliest opportunity
 Fix Feathers
