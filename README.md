@@ -20,10 +20,12 @@ See a detailed guide here: [http://www.mkdocs.org/user-guide/writing-your-docs/]
 
 ### To add a new page:
   1 - Create a new markdown file (.md) in a subfolder of /wiki/
+
   2 - Add a new entry that points to your newly created file under pages: in mkdocs.yml
 
 ### To add a new category:
   1 - Create a subfolder in /wiki/
+
   2 - Add a new entry that points to your newly created folder under pages: in mkdocs.yml
 
 ### Visual Identity:
