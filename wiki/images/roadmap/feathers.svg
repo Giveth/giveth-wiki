@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="55" height="16" viewBox="0, 0, 55, 16">
-  <g id="Background">
-    <rect x="0" y="0" width="55" height="16" fill="#000000" fill-opacity="0"/>
-  </g>
-  <g id="Layer_1">
-    <path d="M3,0 L52,0 C53.657,0 55,1.343 55,3 L55,13 C55,14.657 53.657,16 52,16 L3,16 C1.343,16 -0,14.657 -0,13 L-0,3 C-0,1.343 1.343,0 3,0 z" fill="#282C34"/>
-    <text transform="matrix(1, 0, 0, 1, 27.5, 8)">
-      <tspan x="-25.116" y="4" font-family="HelveticaNeue-Bold" font-size="12" fill="#75D2B6">Feathers</tspan>
-    </text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="20"><linearGradient id="b" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="a"><rect width="66" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#a)"><path fill="#555" d="M0 0h55v20H0z"/><path fill="#4c1" d="M55 0h11v20H55z"/><path fill="url(#b)" d="M0 0h66v20H0z"/></g><g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="110"><text x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">feathers</text><text x="285" y="140" transform="scale(.1)" textLength="450">feathers</text><text x="595" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="10"></text><text x="595" y="140" transform="scale(.1)" textLength="10"></text></g> </svg>
