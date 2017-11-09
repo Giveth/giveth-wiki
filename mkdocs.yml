@@ -37,7 +37,8 @@ pages:
         - Glossary: 'documentation/glossary.md'
     - Documentation:
         - Product Definition: 'documentation/product-definition.md'
-        - Roadmap: 'documentation/roadmap.md'
+        - Product Roadmap: 'documentation/product-roadmap.md'
+        - Smart Contracts Roadmap: 'documentation/smart-contracts-roadmap.md'
         - Future: 'documentation/future.md'
         - DApp Alpha: 'documentation/alpha.md'
         - White Paper: 'documentation/white-paper.md'
