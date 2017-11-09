@@ -1,13 +1,14 @@
 # Ideas, Proposals and Concepts for Future versions
 
-The purpose of this part of the wiki is to list all the ideas, proposals and concept that could be included in future versions of the Giveth System. However, we do not guarantee that any of these ideas will be included.
+The purpose of this part of the wiki is to list all the ideas, proposals and concepts that might be included in future versions of the Giveth System. However, we do not guarantee that any of these ideas will be included.
 
 ## <a name="future-location">Locations of DACs, Campaigns and Milestones</a>
-It would be useful to add multiple locations where the DACs, Campaigns and Milestones are happening. The proposal is:
+It would be useful to add multiple locations to where the DACs, Campaigns and Milestones are happening/located.
 
-1. Pick exact locations (e.g. Address or GPS coordinates)
-2. Pick a Country
-3. Pick a Continent
+The proposal is:
+  1. Pick exact locations (e.g. Address or GPS coordinates)
+  2. Pick a Country
+  3. Pick a Continent
 
 If the user picks an exact location, the Country and Continent is automatically deduced. If the Country is chosen, Continent is also automatically deduced. Because DACs, Campaigns and even some milestones can be in multiple locations, the location field should be a list and not just single location. However, there should not be inheritance where the DAC would inherit the locations of its Campaigns.
 
@@ -16,19 +17,21 @@ If the user picks an exact location, the Country and Continent is automatically 
 <a name="fig-location-map">Map Preview of a Milestone with Location</a>: Example on how Milestones could be visually represented on the map.
 
 ## <a name="future-location-exploration">Location based exploration of DACs & Campaigns</a>
-Assuming each DAC, Campaigns and Milestone has as described in [Locations of DACs, Campaigns and Milestones](#future-location), all these entities could be searched on a map or on a 3D globe. In a DAC you could see to which places the delegations goes and in Campaign the user could see where the individual milestones took place.
+Assuming each DAC, Campaign and Milestone has a location set, as described in [Locations of DACs, Campaigns and Milestones](#future-location), all these entities could be searched on a map or on a 3D globe. In a DAC you could see to which places the delegations goes and in Campaign the user could see where the individual milestones took place.
 
 ![Example of 3D visualised Campaign](../images/future/location-exploration.png)
 
 <a name="fig-location-exploration-campaign">Example of 3D visualisation to see where geographically a Campaign is making difference.</a> The concept image is taken from D3js [example page](https://bl.ocks.org/mbostock/4183330).
 
+Additionally, we started to play with above implementation to display the origin locations of current [Unicorn DAC team members](https://giveth.io/world/). For contributions, please fork the [GitHub repo of giveth-world ](https://github.com/giveth/giveth-world)
+
 ![Example of 3D visualised Milestones](../images/future/location-exploration-dac.png)
 
-<a name="fig-location-exploration-dac">Example of 3D visualisation to see where  geographically does a DAC money go to.</a> The concept image is taken from D3js [example page](http://mbostock.github.io/d3/talk/20111116/airports.html).
+<a name="fig-location-exploration-dac">Example of 3D visualisation to track donation flow geographically.</a> The concept image is taken from D3js [example page](http://mbostock.github.io/d3/talk/20111116/airports.html).
 
 ## <a name="future-money-exploration">Money flow based exploration of DACs & Capaigns</a>
 
-Giveth already has a lot of information that is not in use yet. By analysing the transactions, we can easily build graphs that would help people understand where the DAC's money go to and where the Campaign money comes from. This could be an important aspect that Givers could consider.
+Giveth already has a lot of information that is not in use yet. By analysing the transactions, we can easily build graphs that would help people understand where the DAC's money go to and where the Campaign money comes from.
 
 ![Money flow from DACs](../images/future/money-flow-dac.svg)
 
@@ -57,7 +60,7 @@ IT olympics for High School Students | Campaign | 1% |
 
 ## <a name="future-money-conversion">Real-time and Historical Fiat Conversion</a>
 
-For most People, even the ones already invested in crypto, it is difficult to evaluate how much money certain Ether amount is. Therefore, it would be great to provide a way where they can name a second (fiat) currency to Ether, that would be displayed and used. When donating, they could say "I want to donate 100 USD", instead of having to put in the value in Ether. Because we know when every transaction happen, we could easily (up to small error) display how much money any past donation was in fiat. This is especially necessary if Ether rapidly gains or loses in value as it becomes unclear how much money Campaign or DAC had and could lead to a confusion where Campaigns could look overfunded due to dramatic price increase.
+For most People, even the ones already invested in cryptocurrencies, it is difficult to evaluate the fiat value of a certain amount of Ether. Therefore, it would be great to provide a way where they can name a second (fiat) currency to Ether, to use alongside or replacing the system's Ether values. When donating, they could say "I want to donate 100 USD", instead of having to put in the value in Ether. Because we know the exact moment a transaction is happening, we could easily (given acceptance for minor rounding errors) display how much money any past donation was in fiat. This is especially necessary if Ether rapidly gains or loses in value as it becomes unclear how much money a Campaign or DAC had and could lead to a confusion where Campaigns could look overfunded due to dramatic price increase.
 
 ![Donations in Fiat](../images/future/fiat-donation.svg)
 
@@ -70,46 +73,48 @@ Amount ETH | Est. Amount USD | Date             |  Name |
 Ξ1         | $298.11         | 2017-10-09 18:33 | Vojtech
 Ξ2.531     | $100            | 2017-04-19 13:14 | Jim
 
-<a name="table-fiat-dac-donation">Example how could past donation look with value estimated in fiat currency</a>. Note the significant price change between the last and first donation in the list.
+<a name="table-fiat-dac-donation">This example illustrates a snapshot of past donations and how it could look with value estimated in a fiat currency</a>. Note the significant price change between the last and first donation in the list.
 
 ![Expenses in Fiat](../images/future/fiat-spent.svg)
 
-<a name="fig-fiat-spent">Comparison between monthly expenses in ETH and in USD</a>. Example on how it can be deceiving to use Ether vs how much money is actually spent. The data are from the [Giveth budget](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing).
+<a name="fig-fiat-spent">Comparison between monthly expenses in ETH and in USD</a>. Example on how it can be deceiving to use Ether vs how much money is actually spent. The data shown here is taken from the [Giveth budget](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing).
 
 ## <a name="future-categories">Categories for Milestones</a>
 
-Currently it is not clear what a Campaign spent their money on. Should users decide to gain this insight, they would have to read through all the Milestones and maybe even then it would not be clear. Adding spending categories could help, both the Givers and the Makers, evaluate what were the money spent on. The list of categories should be predefined by Giveth and any new category should be created on request. The overhead for the user consists of selecting a category from a list when the milestone is being created. Of course, setting spending category should be optional.
+Currently it is not clear what a Campaign spent their money on. Should users decide to gain this insight, they would have to read through all the Milestones and maybe even then it would not be clear. Adding spending categories could help: Both, the Givers and the Makers, gani the ability to evaluate what the money was spent on. The list of categories should be predefined by Giveth and new categories should be created on request. The overhead for the user consists of selecting a category from a list when the milestone is being created. Usage of this feature should be optional.
 
 ![Spending Categories for Milestones](../images/future/categories.svg)
 
-<a name="fig-categories">Overview of spending for a Campaign.</a> The aim is to provide Givers and Makers with better idea how is the Campaign spending the money.
+<a name="fig-categories">Overview of spending for an example Campaign.</a> The aim is to provide Givers and Makers with a better overview on how this Campaign is spending the money.
 
 ## <a name="future-accounting">Accounting, Analytics, Business Intelligence</a>
 
-Even now, the system contains enough information to provide some simple accounting, analytical and business intelligence information. This does not need to be part of the Giveth platform, but could be external tool. Note that these tools, however, work best if the value is expressed in relatively stable currency. One option is to use the [Real-time and Historical Fiat Conversion](future-money-conversion) concept. Below are some examples of what could be achieved.
+Even now, the system contains enough information to provide some simple accounting, analytical and business intelligence information. Analytics do not need to be part of the Giveth platform, but could be plugged-in via an external tool. Note that some of these tools work best if the value is expressed in a stable currency. One option to mitigate the stable currency problem is to integrate the [Real-time and Historical Fiat Conversion](future-money-conversion) proposal.
+
+Here are some examples of what could be achieved with this feature:
 
 - Daily cashflow of the Campaign
   - Donation frequency
   - Average amount
   - Target DAC audience
-  - Donations and spendings per days/months/years
+  - Donations and spendings per day/months/years
   - Spending categories (Assumes system has [Categories for Milestones](#future-categories))
   - Recurring Givers
 - Spending breakdown at Milestone granularity
-  - How much time it takes to raise funds for Milestone
+  - Amount of time required to raise funds for Milestone
 - Future forecasts
 
 ![Overtime Balance](../images/future/analytics-overtime.svg)
 
-<a name="fig-analytics-overtime">Example of overtime balance graph.</a> The data are taken from [Giveth budget](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing). Note that it does not reflect the well the actual value spent as Ether was 60 times lower before March 2017.
+<a name="fig-analytics-overtime">Example of overtime balance graph.</a> The data is taken from [Giveth budget](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing). Note that this graph does not reflect actual value all that well, as one can easily see the actual value spent in Ether was 60 times lower before March 2017.
 
 ![Monthly Spending](../images/future/analytics-monthly-spending.svg)
 
-<a name="fig-analytics-monthly-spending">Example of monthly spending breakdown.</a> The data are taken from [Giveth budget](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing).
+<a name="fig-analytics-monthly-spending">Example of monthly spending breakdown.</a> The data is taken from [Giveth budget](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing).
 
 ## <a name="future-dac-governance">DAC Governance</a>
 
-In the MVP there is one Delegate per DAC who is the owner and the only person that can delegate donation. The tension is that should the Delate be unavailable (temporarilly or permanently) the DAC will just accumulate donations that could be already making difference. In addition to that, bigger organisations will need multiple people being able to delegate money. One solution would be to enrich the Delegate role to be able to nominate other Delegates and build a governance system in the DAC. It could then be up to the settings of the DAC to define how many votes are necessary to:
+In the Giveth MVP there is one Delegate per DAC who is the owner and the only person that can delegate donation. The tension is that should the Delegate be unavailable (temporarily or permanently), the DAC will just accumulate donations that could be already making difference. In addition to that, bigger organisations will need multiple people being able to delegate money. One solution would be to enrich the Delegate role to be able to nominate other Delegates and build a governance system in the DAC. It could then be up to the individual settings of the DAC to define how many votes are necessary to:
 
 1. Nominate new Delegate
 2. Remove a Delegate
@@ -117,7 +122,7 @@ In the MVP there is one Delegate per DAC who is the owner and the only person th
 4. Delegate Donations
 5. Freeze a delegate
 
-In reality we could then see DACs that have for example the following settings:
+As an example, we can assume following setting for DACs:
 
 1. At least 51% of DAC's Delegates to nominate new Delegate
 2. At least 70% to remove a Delegate
@@ -125,23 +130,31 @@ In reality we could then see DACs that have for example the following settings:
 4. Everyone can delegate without need to vote (0 votes on donation delegation)
 5. Everyone can freeze a delegate and the freeze time is 3 days
 
-There is also a freeze action which can be called by any delegate to temporarily freeze another delegate. Such delegate can not do any action until he/she is unfrozen.
+**Freeze:** We propose a 'freeze' user action, which can be called by any delegate to temporarily freeze another delegate. Frozen delegates can not set actions until they are unfrozen.
 
 ![Usecase diagram for Delegate](../images/future/dac-governance-delegate.svg)
 
-<a name="fig-dac-governance-delegate-usecase">Use case diagram for Delegate role if the DAC Governance is implemented.</a> The white actions are about changing the DAC information, green about donation delegation, blue are security actions, red are actions to remove delegate and the color yellow shows new delegate nomination actions.
+<a name="fig-dac-governance-delegate-usecase">Use case diagram for Delegate role if the DAC Governance is implemented.</a> The white actions are about changing the DACs information, green refers to donation delegation, blue are security actions, red are actions to remove delegate and the yellow shows new delegate nomination actions.
 
 
 
 ![Usecase diagram for Time](../images/future/dac-governance-time.svg)
 
-<a name="fig-dac-governance-time-usecase">Use case diagram for automatic actions if the DAC Governance is implemented.</a> Should there be delegates that did not vote yet, all their votes go to: Support the DAC modification, Support donation delegation, Support nomination of new Delegate, Oppose the removal of a Delegate. If the delegate is frozen for longer than the time limit, he/she is unfrozen.
+<a name="fig-dac-governance-time-usecase">Use case diagram for automatic actions if the DAC Governance is implemented.</a> Should there be delegates that did not vote yet, all their votes go to:
+  - Support the DAC modification
+  - Support donation delegation
+  - Support nomination of new Delegate
+  - Oppose the removal of a Delegate.
+
+If the delegate is frozen for longer than the time limit, he/she is unfrozen.
 
 ## Campaign Governance
 
 ## Delegating from DAC to DAC
 
 ## Multiple Wallets
+
+## Mobile Wallet integration
 
 ## Wallet Recovery System
 
@@ -157,7 +170,7 @@ There is also a freeze action which can be called by any delegate to temporarily
 
 ## Reputation System
 
-## Repetative Milestones
+## Repetitive Milestones
 
 ## Exploration based on Donations and Delegations
 
