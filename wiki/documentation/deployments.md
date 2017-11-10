@@ -29,11 +29,17 @@ The Main Donation address is the Campaign contract which catches tokens and issu
 
 ### Contracts Deployed
 
+
 Token Factory: 0x63a5aeb18c893943b6bc72f013f6c4c545182854
+
 Campaign/Token Controller: 0x809Af635bb8f1541EAe4Ecd00351c08700B5b476
+
 MYD Token Contract: 0xa5a8ab2c69c27169a93fb52b8d52072ca61a4cdc
+
 Vault: 0x598ab825d607ace3b00d8714c0a141c7ae2e6822 
-MilestoneTracker: Not yet Deployed
+
+MilestoneTracker: [Not yet Deployed]
+
 
 ### Required Set Up Parameters
 
