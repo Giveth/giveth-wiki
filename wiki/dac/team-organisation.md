@@ -66,23 +66,24 @@ There are two regular online meetings:
 
 ### Giveth Governance Meetings
 
-- **When:** Every Friday at 17:00 Barcelona Time (UTC+1)
+- **When:** Every Friday at 18:00 Barcelona Time (UTC+1)
 - **Where:** [https://meet.jit.si/daily-giveth](https://meet.jit.si/daily-giveth)
 - **Minutes:** [https://drive.google.com/drive/folders/0B-CIs3wLk5T4TE1UbVVkUmp3SzA?usp=sharing](https://drive.google.com/drive/folders/0B-CIs3wLk5T4TE1UbVVkUmp3SzA?usp=sharing)
 - **Historical Meetings:** [Video on YouTube](https://www.youtube.com/playlist?list=PL4Artm1rmCWEw5I7y1KOtj26iBsTAebPx)
 - **Description:** The aim is to discuss tensions and find solutions within Giveth. The format of a meeting follows holacracy where:
 
-
+1. A meeting Facilitator and Secratary are determined before the meeting begins, the facilitator moderates the discussion and the Secratary takes notes.
 1. Everyone checks-in by telling what is currently distracting them.
-1. A meeting agenda is created. Every meeting participant can propose topics describing them by no more than 3 words.
-1. The meeting chairman goes in turns over the topics and for every topic:
-  - The topic proposer describes the tension and in one sentence makes a proposal. The proposal should in general be creation of a circle or role.
-  - All the meetings participants are entitled to ask clarifying questions about the tension or proposal.
+1. A meeting agenda is created. Agenda items are always proposals for new Policies or Roles described by 3 words or less.
+1. The meeting facilitator goes in turns over the agenda and for every item:
+  - The Proposer describes the tension and in one sentence makes a proposal. The proposal should in general be creation of a circle, role or policy.
+  - All the meetings participants are can ask clarifying questions about the tension or proposal.
   - The topic proposer repeats the proposal if there were any questions.
   - All meeting participants in turn express their reactions.
   - After the reaction round, the topic proposer can amend their proposal.
   - Any meeting participant can object to the proposal.
   - The topic proposer can amend their proposal and if there are no more objections the topic passes.
+1. The Secratary summarizes the meeting.
 1. Everyone in turn checks-out by expressing their opinion on the meeting.
 
 ### Giveth Daily Standup
