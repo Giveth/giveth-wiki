@@ -9,6 +9,7 @@ Name | Slack Handle | Expertise |
 Adria | @adria | Smart Contracs, Security
 Ariel | @arielrae |
 Alan | @alanborger | Graphics Designer
+Arthur | @quazia | Smart Contracts Dev and more!
 Barry | @barrythewhitehat | Smart Contracs, Security
 Faffy | @faffy_dee |
 **Grace** | @grace | Startup Consultant, DACs & Campaigns on-boarding
@@ -26,6 +27,7 @@ Ricardo | @3esmit |
 **Satya** | @satya | Fullstack Developer
 Sonia | |
 **Vojtech** | @vojtech | Fullstack Developer
+Xavi | @xavivives | Fullstack Developer
 Z | @zdenekkuncar | Interaction Designer, UX
 
 
