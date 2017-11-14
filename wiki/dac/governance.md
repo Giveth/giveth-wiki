@@ -54,9 +54,3 @@ Description: Optional daily standup meeting lead by Vojtech. Every participant i
 2. What are they going to work on in the next day(s).
 3. What is blocking their progress.
 The answers to these questions should not take longer than 3 minutes per person. If you can not attend the meeting, you are invited to share your answers to the #giveth_daily Slack channel.
-
-##Holacracy
-
-- Meeting schedule
-
-- Put protocols on the wiki!
