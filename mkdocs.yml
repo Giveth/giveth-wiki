@@ -30,7 +30,6 @@ extra_css:
     - css/extra.css
 
 pages:
-    - World: 'dac/world.md'
     - Welcome: 'index.md'
     - Getting Started:
         - FAQ: 'documentation/faq.md'
