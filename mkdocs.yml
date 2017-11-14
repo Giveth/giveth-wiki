@@ -41,7 +41,7 @@ pages:
         - Future: 'documentation/future.md'
         - DApp Alpha: 'documentation/alpha.md'
         - White Paper: 'documentation/white-paper.md'
-        - Video Content Policy: '\documentation\video-content-policy.md'
+        - Video Content Policy: 'documentation/video-content-policy.md'
         - Visual Identity Guide: 'documentation/visual-identity.md'
         - Deployments: 'documentation/deployments.md'
     - The Unicorn DAC:
