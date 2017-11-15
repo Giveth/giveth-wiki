@@ -6,6 +6,8 @@
   [https://github.com/Giveth/giveth-design-assets](https://github.com/Giveth/giveth-design-assets)
 
 ## Typeface
+  We use Google Fonts API to grab our fonts
+
   Body-text: 'Raleway' - weight: 400 - size: 18px
 
   Headlines: 'Raleway' - weight: 600
@@ -41,7 +43,7 @@
 
 ## CSS
 
-This template code can be used with Bootstrap4 websites and web-apps:
+This template code can be used with Bootstrap4 websites and web-apps to set button, navbar styling and specify body and headline fonts:
 ```  
 .navbar {
     background-color: #2c0d54 !important;
