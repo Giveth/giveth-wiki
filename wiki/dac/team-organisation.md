@@ -17,7 +17,7 @@ Faffy | @faffy_dee |
 **Jen** | @justjen | Team Organisation
 Jordi | @jbaylina | Smart Contracts
 Jason | @jsteele | Smart Contracts, Fullstack Developer
-**Kay** | @gelee_royale | Audio & Video, Website
+**Kay** | @gelee_royale | Audio & Video, Website, Wiki
 Kirch | @kirch | Finance
 kkx | @kkx |
 **Kris** | @krrisis | Public Relations, Social Media

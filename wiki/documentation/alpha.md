@@ -1,6 +1,6 @@
 # Alpha
 
-The Giveth Donation Platform is live in alpha stage on the ethereum testnet.
+The Giveth Donation Platform is live in alpha stage on Ethereum Ropsten testnet.
 
 We are currently testing with a small group, if you have questions or would like to participate in the process,
 contact @vojtech on our [Slack](http://slack.giveth.io) for a tour!
