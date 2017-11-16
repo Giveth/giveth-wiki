@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="540 626 896 1039" width="896pt" height="1039pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="540 756 896 924" width="896pt" height="77pc" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata> Produced by OmniGraffle 7.5 
-    <dc:date>2017-11-16 21:16:42 +0000</dc:date>
+    <dc:date>2017-11-16 21:50:58 +0000</dc:date>
   </metadata>
   <defs>
     <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="bold">
@@ -28,22 +28,17 @@
       <path d="M 804.4699 882.2077 L 886.4699 882.2077 C 888.679 882.2077 890.4699 883.9985 890.4699 886.2077 L 890.4699 943.2077 C 890.4699 945.4168 888.679 947.2077 886.4699 947.2077 L 804.4699 947.2077 C 802.2608 947.2077 800.4699 945.4168 800.4699 943.2077 L 800.4699 886.2077 C 800.4699 883.9985 802.2608 882.2077 804.4699 882.2077 Z" fill="white"/>
       <path d="M 804.4699 882.2077 L 886.4699 882.2077 C 888.679 882.2077 890.4699 883.9985 890.4699 886.2077 L 890.4699 943.2077 C 890.4699 945.4168 888.679 947.2077 886.4699 947.2077 L 804.4699 947.2077 C 802.2608 947.2077 800.4699 945.4168 800.4699 943.2077 L 800.4699 886.2077 C 800.4699 883.9985 802.2608 882.2077 804.4699 882.2077 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       <text transform="translate(806.4699 905.7077)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="6.734" y="13" textLength="64.532">In Funding</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="9.763" y="13" textLength="58.474">Proposed</tspan>
       </text>
-      <line x1="845.8432" y1="796.6504" x2="845.5131" y2="872.3078" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <path d="M 804.2028 1020.7902 L 886.2028 1020.7902 C 888.412 1020.7902 890.2028 1022.5811 890.2028 1024.7902 L 890.2028 1081.7902 C 890.2028 1083.9994 888.412 1085.7902 886.2028 1085.7902 L 804.2028 1085.7902 C 801.9937 1085.7902 800.2028 1083.9994 800.2028 1081.7902 L 800.2028 1024.7902 C 800.2028 1022.5811 801.9937 1020.7902 804.2028 1020.7902 Z" fill="white"/>
       <path d="M 804.2028 1020.7902 L 886.2028 1020.7902 C 888.412 1020.7902 890.2028 1022.5811 890.2028 1024.7902 L 890.2028 1081.7902 C 890.2028 1083.9994 888.412 1085.7902 886.2028 1085.7902 L 804.2028 1085.7902 C 801.9937 1085.7902 800.2028 1083.9994 800.2028 1081.7902 L 800.2028 1024.7902 C 800.2028 1022.5811 801.9937 1020.7902 804.2028 1020.7902 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       <text transform="translate(806.2028 1044.2902)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="15.886" y="13" textLength="46.228">Funded</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="6.734" y="13" textLength="64.532">In Funding</tspan>
       </text>
       <line x1="845.4699" y1="947.2077" x2="845.2387" y2="1010.8903" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="820.1891" y="817.9624" width="51" height="28" fill="white"/>
-      <text transform="translate(825.1891 822.9624)" fill="#515556">
+      <rect x="819.8566" y="964.4156" width="51" height="28" fill="white"/>
+      <text transform="translate(824.8566 969.4156)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".038" y="13" textLength="40.924">Create</tspan>
-      </text>
-      <rect x="824.8566" y="964.4156" width="41" height="28" fill="white"/>
-      <text transform="translate(829.8566 969.4156)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".212" y="13" textLength="30.576">Fund</tspan>
       </text>
       <path d="M 804.7028 1182.6931 L 886.7028 1182.6931 C 888.912 1182.6931 890.7028 1184.484 890.7028 1186.6931 L 890.7028 1243.6931 C 890.7028 1245.9023 888.912 1247.6931 886.7028 1247.6931 L 804.7028 1247.6931 C 802.4937 1247.6931 800.7028 1245.9023 800.7028 1243.6931 L 800.7028 1186.6931 C 800.7028 1184.484 802.4937 1182.6931 804.7028 1182.6931 Z" fill="white"/>
       <path d="M 804.7028 1182.6931 L 886.7028 1182.6931 C 888.912 1182.6931 890.7028 1184.484 890.7028 1186.6931 L 890.7028 1243.6931 C 890.7028 1245.9023 888.912 1247.6931 886.7028 1247.6931 L 804.7028 1247.6931 C 802.4937 1247.6931 800.7028 1245.9023 800.7028 1243.6931 L 800.7028 1186.6931 C 800.7028 1184.484 802.4937 1182.6931 804.7028 1182.6931 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
@@ -92,8 +87,8 @@
       <text transform="translate(951.2806 1286.449)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".4525" y="13" textLength="95.095">Review timeout</tspan>
       </text>
-      <circle cx="844.9605" cy="636.0931" r="10.000016" fill="#3f4243"/>
-      <text transform="translate(854.9605 626.09306)" fill="#515556">
+      <circle cx="844.9605" cy="781.5" r="10.000016" fill="#3f4243"/>
+      <text transform="translate(854.9605 771.5)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="3.532047" y="13" textLength="28.158">New</tspan>
       </text>
       <line x1="891.5731" y1="1214.7006" x2="1026.8538" y2="1138.1465" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -151,10 +146,8 @@
       <text transform="translate(1237.5 884.3195)" fill="black">
         <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="15" textLength="136.912">Milestone Manager</tspan>
       </text>
-      <rect x="877.1891" y="821.795" width="18.5" height="18.5" fill="#00a2ff"/>
       <rect x="871.7028" y="970.289" width="18.5" height="18.5" fill="#00a2ff"/>
       <rect x="933.5" y="882.2077" width="18.5" height="18.5" fill="#00a2ff"/>
-      <rect x="896.049" y="970.289" width="18.5" height="18.5" fill="#1db100"/>
       <rect x="800.2028" y="1145.9918" width="18.5" height="18.5" fill="#01a99d"/>
       <rect x="970.7151" y="1061.2643" width="18.5" height="18.5" fill="#01a99d"/>
       <rect x="973.1614" y="1185.3567" width="18.5" height="18.5" fill="#01a99d"/>
@@ -183,14 +176,9 @@
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".0885" y="13" textLength="134.823">Release delay timeout</tspan>
       </text>
       <rect x="918.0205" y="1445.5962" width="18.5" height="18.5" fill="#666a6b"/>
-      <path d="M 804.8432 731.6504 L 886.8432 731.6504 C 889.0523 731.6504 890.8432 733.4412 890.8432 735.6504 L 890.8432 792.6504 C 890.8432 794.8595 889.0523 796.6504 886.8432 796.6504 L 804.8432 796.6504 C 802.6341 796.6504 800.8432 794.8595 800.8432 792.6504 L 800.8432 735.6504 C 800.8432 733.4412 802.6341 731.6504 804.8432 731.6504 Z" fill="white"/>
-      <path d="M 804.8432 731.6504 L 886.8432 731.6504 C 889.0523 731.6504 890.8432 733.4412 890.8432 735.6504 L 890.8432 792.6504 C 890.8432 794.8595 889.0523 796.6504 886.8432 796.6504 L 804.8432 796.6504 C 802.6341 796.6504 800.8432 794.8595 800.8432 792.6504 L 800.8432 735.6504 C 800.8432 733.4412 802.6341 731.6504 804.8432 731.6504 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(806.8432 755.1504)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="9.763" y="13" textLength="58.474">Proposed</tspan>
-      </text>
-      <line x1="844.9605" y1="646.0931" x2="845.7359" y2="721.2509" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="814.828" y="667.71495" width="61" height="28" fill="white"/>
-      <text transform="translate(819.828 672.71495)" fill="#515556">
+      <line x1="844.9605" y1="791.5" x2="845.4115" y2="871.8078" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="814.6727" y="815.2789" width="61" height="28" fill="white"/>
+      <text transform="translate(819.6727 820.2789)" fill="#515556">
         <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".358" y="13" textLength="50.284">Propose</tspan>
       </text>
     </g>
