@@ -15,7 +15,7 @@ Review the platform screen by screen and improve the overall user experience. Th
 ## Launching Giveth on the Ethereum main net - (planned for 2017 November 23)
 In order to successfully launch the Giveth donation platform on the Ethereum Main Network, following steps are necessary:
 
-**Minime Integration**
+[**Minime Integration**](https://github.com/Giveth/giveth-dapp/issues/143)
 ![Smart Contracts](../images/roadmap/smart-contracts.svg)
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg) -
@@ -43,12 +43,17 @@ Build a white-list of addresses that can create Campaigns. Any Campaign that is 
 ![React](../images/roadmap/react.svg) -
 Build a white-list of addresses that can create DACs. Any DAC that is not created with these addresses will not be visible in the Giveth Platform before release.
 
-**Role Definitions**
+[**Role Definitions**](https://github.com/Giveth/giveth-dapp/issues/148)
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg) -
-Adding the Campaign Manager and Milestone Manager role. The roles should comply with the [Product Definition](https://wiki.giveth.io/documentation/product-definition/), especially with the [Milestone State Diagram](https://wiki.giveth.io/documentation/product-definition/#product-definition-fig-milestone-statediagram).
+Adding the Campaign Reviewer. The roles should comply with the [Product Definition](https://wiki.giveth.io/documentation/product-definition/), especially with the [Milestone State Diagram](https://wiki.giveth.io/documentation/product-definition/#product-definition-fig-milestone-statediagram).
 
-**Gas Price input**
+[**Propose New Milestones (offchain)**](https://github.com/Giveth/giveth-dapp/issues/147)
+![Feathers](../images/roadmap/feathers.svg)
+![React](../images/roadmap/react.svg) -
+Allow anyone to propose a new milestone to a Campaign. The proposal will not be visible to anyone except the Campaign Manager.
+
+**POSTPONED: Gas Price input**
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg)
 ![Smart Contracts](../images/roadmap/smart-contracts.svg) -
@@ -58,7 +63,7 @@ Allow users to set a gas price for Ethereum blockchain transactions.
 ![Feathers](../images/roadmap/feathers.svg) -
 Verify that there are no permission problems in with our FeathersJS middle-layer.
 
-**Donate without Registering**
+[**Donate without Registering**](https://github.com/Giveth/giveth-dapp/issues/145)
 ![React](../images/roadmap/react.svg)
 ![Smart Contracts](../images/roadmap/smart-contracts.svg)
 Add functionality to the Donate button which would give you an option to donate through MyEtherWallet (just like on our [website](https://giveth.io)). The smart contracts need to be altered as well to allow donations from un-registered users.
@@ -68,6 +73,11 @@ Add functionality to the Donate button which would give you an option to donate 
 ![React](../images/roadmap/react.svg)
 ![Smart Contracts](../images/roadmap/smart-contracts.svg) -
 All team members get to test the MVP on the Ropsten test network and provide us with feedback. `@vojtech` will facilitate the testing and collecting feedback.
+
+[**Money Transfer from Dapp**](https://github.com/Giveth/giveth-dapp/issues/149)
+![Feathers](../images/roadmap/feathers.svg)
+![React](../images/roadmap/react.svg)
+Allow users to transfer money from Giveth DApp to any other address.
 
 **Deploy Contracts to Main Network**
 ![Smart Contracts](../images/roadmap/smart-contracts.svg) -
@@ -91,11 +101,6 @@ The DAC has to approve that it wants to be associated with a Campaign. For now w
 ![Feathers](../images/roadmap/feathers.svg)
 ![React](../images/roadmap/react.svg) -
 Adding email notifications to the DApp and hooking it to events like new donation, new delegation, milestone status change and others.
-
-**Propose New Milestones (offchain)**
-![Feathers](../images/roadmap/feathers.svg)
-![React](../images/roadmap/react.svg) -
-Allow anyone to propose a new milestone to a Campaign. The proposal will not be visible to anyone except the Campaign Manager.
 
 **On-boarding 1st Campaign** -
 A dedicated person who will be in contact with the first Campaign to use our system. This includes gathering requirements, guided introduction to the platform and collecting feedback.
