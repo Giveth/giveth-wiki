@@ -1,5 +1,7 @@
 #2nd Giveth DAC governance meeting on 2017-09-22
 
+[Link to Stream](https://youtu.be/WXF8qciUU-U)
+
 Check in and beginning of the meeting: 5pm central european time
 
 Check in: any distractions?

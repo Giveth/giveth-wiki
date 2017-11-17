@@ -1,4 +1,5 @@
 #1st Giveth DAC governance meeting
+
 Held during Team bonding Session September 2017
 
 

@@ -1,5 +1,7 @@
 #3rd Giveth DAC governance meeting on 2017-09-29
 
+[Link to Stream](https://youtu.be/5Y-6RBvRvN0)
+
 Note: names are shortened
 
 Check in and beginning of the meeting: 5pm central european time

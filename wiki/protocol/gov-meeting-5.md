@@ -1,5 +1,7 @@
 #5th Giveth DAC governance meeting on 2017-10-13
 
+[Link to Stream](https://youtu.be/O4qQkgP3LX8)
+
 Note: names are shortened
 
 <span style="text-decoration:underline;">Check in and beginning of the meeting</span>: 5:05 pm central european time
