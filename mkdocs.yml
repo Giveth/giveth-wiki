@@ -34,6 +34,8 @@ pages:
     - Getting Started:
         - FAQ: 'documentation/faq.md'
         - Glossary: 'documentation/glossary.md'
+        - Who can donate to causes on Giveth: 'documentation/different-donors.md'
+        - Different types of possible communities: 'different-possible-categories.md'
     - Documentation:
         - Product Definition: 'documentation/product-definition.md'
         - Product Roadmap: 'documentation/product-roadmap.md'
