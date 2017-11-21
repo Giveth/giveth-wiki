@@ -1,4 +1,4 @@
-# Roadmap for Givet
+# Roadmap for Giveth
 This chapter details the Giveth platform roadmap until release (= open for the general public on the Main Ethereum Network). We aim to reach this state by 1st of March 2018.
 
 ## As Soon as Possible
