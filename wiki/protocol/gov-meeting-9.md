@@ -1,4 +1,4 @@
-#9 governance meeting Nov 17th**
+# 9th governance meeting Nov 17th**
 
 [Link to Live Stream](https://youtu.be/avWMwI5HIOI)
 
