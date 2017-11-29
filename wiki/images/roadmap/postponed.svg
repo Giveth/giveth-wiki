@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="66" height="20" viewBox="0, 0, 66, 20">
+  <defs>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="20">
+      <stop offset="0" stop-color="#BBBBBB" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.1"/>
+    </linearGradient>
+    <clipPath id="Clip_1">
+      <path d="M3,0 L63,0 C64.657,0 66,1.343 66,3 L66,17 C66,18.657 64.657,20 63,20 L3,20 C1.343,20 0,18.657 0,17 L0,3 C0,1.343 1.343,0 3,0 z"/>
+    </clipPath>
+  </defs>
+  <g id="Background">
+    <path d="M0,0 L66,0 L66,20 L0,20 z" fill="#FFFFFF"/>
+  </g>
+  <g id="Layer_1">
+    <g clip-path="url(#Clip_1)">
+      <path d="M0,20 L0,0 L66,0 L66,20 L0,20 z" fill="#515151"/>
+      <path d="M0,0 L66,0 L66,20 L0,20 z" fill="url(#Gradient_1)"/>
+    </g>
+    <g>
+      <text transform="matrix(0.1, 0, 0, 0.1, 32.998, 11.037)">
+        <tspan x="-262.996" y="40.5" font-family="Helvetica" font-size="110" fill="#010101" fill-opacity="0.3">Postponed</tspan>
+      </text>
+      <text transform="matrix(0.1, 0, 0, 0.1, 32.998, 10.037)">
+        <tspan x="-262.996" y="40.5" font-family="Helvetica" font-size="110" fill="#FFFFFF">Postponed</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
