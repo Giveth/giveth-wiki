@@ -4,6 +4,10 @@
 
 Never! It is an evolving document that will continue to be updated by community members like you! ;-)
 
+## What stuff is Giveth working on?
+
+![Giveth Timeline](../images/giveth-timeline.svg)
+
 ## What is a DAC?
 
 A DAC is a **Decentralized Altruistic Community**.
