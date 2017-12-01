@@ -163,7 +163,7 @@ On-going process of gathering and on-boarding other DACs and Campaigns.
 ![Smart Contracts](../images/roadmap/smart-contracts.svg) -
 Allow multiple delegates that can propose delegation and can approve/reject the delegation (just the green actions in the [DAC governance diagram](https://wiki.giveth.io/documentation/future/fig-dac-governance-delegate-usecase))
 
-## Official Release - (2018 March 1)
+## Official Release - (2018 - Q2)
 **Gathering DACs and Campaigns**
 On-going process of gathering and on-boarding other DACs and Campaigns for main release.
 
