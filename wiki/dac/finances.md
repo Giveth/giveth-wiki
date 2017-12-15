@@ -2,9 +2,9 @@
 
 ## <a name="donations">Donations</a>
 
-Giveth is a Decentralized Altruistic Community, meaning we depend on generous Givers ourselves. If you want to help us build the Future of Giving by contributing any amount, big or small, please contact @Griff in our [Slack](http://slack.giveth.io) or donate directly to the address 'Revolution.eth' (which resolves to 0x5ADF43DD006c6C36506e2b2DFA352E60002d22Dc).
+Giveth is a Decentralized Altruistic Community, meaning we depend on generous Givers ourselves. If you want to help us build the Future of Giving by contributing any amount, big or small, please contact @griffgreen on [Riot](http://riot.giveth.io) or donate directly to the address 'revolution.eth' (which resolves to 0x5ADF43DD006c6C36506e2b2DFA352E60002d22Dc).
 We take any erc20 tokens but if you donate eth and send it from MEW, Metamask, Mist or Parity you'll receive Giveth tokens in return!
-Giveth tokens will one day be part of our decentralized governance system - talk to us in [Slack](http://slack.giveth.io) for any questions on this.
+Giveth tokens will one day be part of our decentralized governance system - talk to us in [Riot](http://riot.giveth.io) for any questions on this.
 
 ## <a name="finances_budget">Budget Overview</a>
 

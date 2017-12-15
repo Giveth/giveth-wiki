@@ -1,6 +1,6 @@
 # Product Definition
 
-The Giveth platform is currently in a minimal viable product(MVP) state, that allows users to give Ether contributions to communities around causes. The system is a set of [smart contracts](https://github.com/Giveth) living on the [Ethereum blockchain](https://ethereum.org), with a [caching server](https://github.com/Giveth/feathers-giveth) middle-layer and [graphical user interface (GUI)](https://github.com/Giveth/giveth-dapp). Currently we are in closed alpha testing, should you be interested to help us test the system, please contact `@vojtech` on the [Giveth Slack](http://slack.giveth.io/).
+The Giveth platform is currently in a minimal viable product(MVP) state, that allows users to give Ether contributions to communities around causes. The system is a set of [smart contracts](https://github.com/Giveth) living on the [Ethereum blockchain](https://ethereum.org), with a [caching server](https://github.com/Giveth/feathers-giveth) middle-layer and [graphical user interface (GUI)](https://github.com/Giveth/giveth-dapp). Currently we are in closed alpha testing, should you be interested to help us test the system, please contact `@vojtech` on the [Giveth community](http://join.giveth.io/).
 
 ## Executive Summary
 

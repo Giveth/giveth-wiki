@@ -15,8 +15,10 @@ extra:
       primary: 'deep purple'
       accent: 'green'
     social:
-    - type: 'slack'
-      link: 'http://slack.giveth.io/'
+    - type: 'comment-o'
+      link: 'http://join.giveth.io/'
+    - type: 'medium'
+      link: 'https://medium.com/giveth'
     - type: 'twitter'
       link: 'https://twitter.com/givethio'
     - type: 'github'

@@ -4,7 +4,7 @@
 
 We just started this wiki, but **with your help and input** it will grow strong and healthy!
 
-Join us in building Giveth: [Slack](http://slack.giveth.io/)
+We invite all interested parties to build Giveth: [Join the Giveth community!](http://join.giveth.io)
 
 Giveth website: [Giveth.io](http://giveth.io)
 

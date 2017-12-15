@@ -45,4 +45,4 @@ For example, you could use our [lpp-milestone](https://github.com/Giveth/lpp-mil
 
 You don’t have to use our lpp-milestone plugin. You can make your own with whatever you want. Use a contract that mandates the rules you need for your community.
 
-This concludes the Giveth Technical White Paper for now. Reach out to us on [Slack](http://slack.giveth.io) if you have something you want to do with the ideas listed. We are an open-source project and it is our mission to help communities.
+This concludes the Giveth Technical White Paper for now. Reach out to us on [Riot](http://riot.giveth.io) if you have something you want to do with the ideas listed. We are an open-source project and it is our mission to help communities.
