@@ -51,7 +51,7 @@ Direct link to join Slack community - [http://slack.giveth.io](http://slack.give
 3. Join whichever rooms you like, all Giveth rooms can be found via main room search as well.
 
 ## Short Riot.im user manual and best practices
-- Address all people in a room with: **@room @channel** (@room is for Riot and @channel is for Slack ... please use both in the transition period)
+- Address all people in a room with: **@room @channel** (@room is for Riot and @channel is for Slack ... please use both when posting from Riot)
 - Please *refrain from editing in Slack* as it then gets posted to Riot again
 - *Threading* is not supported in Riot. However, **quotes are supported in both: Riot and Slack**
 - You can share rooms in chats with #roomname.
