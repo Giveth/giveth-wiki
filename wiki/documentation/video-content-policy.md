@@ -9,7 +9,7 @@ The following video formats(in terms of content) are currently being produced by
   - Giveth Daily (daily - RT: ~7min)
 
 ## Tension
-There has been a dramatic rise in volume of production of video content from Unicorn DAC without properly thinking about an overall content strategy.
+There has been a dramatic rise in volume of production of video content from Giveth DAC without properly thinking about an overall content strategy.
 
 ## Proposal
 Use the tools and opportunities we have to develop a serious video online presence, focusing on tapping into unused potential and a stricter distribution concept

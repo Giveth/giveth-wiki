@@ -23,7 +23,7 @@ Assuming each DAC, Campaign and Milestone has a location set, as described in [L
 
 <a name="fig-location-exploration-campaign">Example of 3D visualisation to see where geographically a Campaign is making a difference.</a> The concept image is taken from D3js [example page](https://bl.ocks.org/mbostock/4183330).
 
-Additionally, we started to play with above implementation to display the origin locations of current [Unicorn DAC team members](https://giveth.io/world/). For contributions, please fork the [GitHub repo of giveth-world ](https://github.com/giveth/giveth-world)
+Additionally, we started to play with above implementation to display the origin locations of current [Giveth DAC team members](https://giveth.io/world/). For contributions, please fork the [GitHub repo of giveth-world ](https://github.com/giveth/giveth-world)
 
 ![Example of 3D visualised Milestones](../images/future/location-exploration-dac.png)
 
