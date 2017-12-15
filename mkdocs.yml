@@ -46,6 +46,8 @@ pages:
         - Video Content Policy: 'documentation/video-content-policy.md'
         - Visual Identity Guide: 'documentation/visual-identity.md'
         - Deployments: 'documentation/deployments.md'
+    - Tutorials:
+      - Riot.im: 'tutorials/riot-migration.md'
     - The Giveth DAC:
       - About: 'dac/about.md'
       - Team Organisation: 'dac/team-organisation.md'
