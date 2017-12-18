@@ -1,14 +1,14 @@
 # Product Definition
 
-The Giveth platform is currently in a minimal viable product(MVP) state, that allows users to give Ether contributions to communities around causes. The system is a set of [smart contracts](https://github.com/Giveth) living on the [Ethereum blockchain](https://ethereum.org), with a [caching server](https://github.com/Giveth/feathers-giveth) middle-layer and [graphical user interface (GUI)](https://github.com/Giveth/giveth-dapp). Currently we are in closed alpha testing, should you be interested to help us test the system, please contact `@vojtech` on the [Giveth community](http://join.giveth.io/).
+The Giveth platform is currently in a minimal viable product (MVP) state, and will allow users to give Ether contributions to Communities organized around causes. The system is a set of [smart contracts](https://github.com/Giveth) living on the [Ethereum blockchain](https://ethereum.org), with a [caching server](https://github.com/Giveth/feathers-giveth) middle-layer and a [graphical user interface (GUI)](https://github.com/Giveth/giveth-dapp). Currently we are in closed alpha testing, should you be interested to help us test the system, please contact `@vojtech` in the [Giveth community](http://join.giveth.io/).
 
 ## Executive Summary
 
 The system consists of:
 
-- [**DACs**](#product-definition-dac) short for Decentralised Altruistic Community. Every DAC is a community built around cause to which users can donate. A DAC is owned by a Delegate who can delegate the donations to Campaigns linked to the DAC.
+- [**DACs**](#product-definition-dac) short for Decentralised Altruistic Community. Every DAC is a Community built around a cause to which users can donate. A DAC is owned by a Delegate who can delegate the donations to Campaigns linked to the DAC.
 - [**Campaigns**](#product-definition-campaign) are individual projects which are owned by a Campaign Manager. These projects have Milestones through which the Campaign can get funding.
-- [**Milestones**](#product-definition-milestone) can be created within a Campaign and are the only way how to get donations out of the Giveth system. Milestones can be proposed by the Campaign Manager and follow a workflow where multiple people can interact with it, to ensure the milestone has been accomplished.
+- [**Milestones**](#product-definition-milestone) can be created within a Campaign and are the only way to get donations out of the Giveth system. Milestones can be proposed by the Campaign Manager and follow a workflow where multiple people can interact with it, to ensure the Milestone has been accomplished.
 
 **There are 7 roles:**
 
@@ -28,7 +28,7 @@ Lets have a second, more in-depth, look at the Giveth system. There are 3 distin
 
 ![Relations between DACs, Campaigns and Milestones](../images/product-definition/relations.svg)
 
-<a name="product-definition-fig-relations">Figure 1</a>: **Relationships between DACs, Campaigns and Milestones.** DACs and Campaigns can be linked with each other, but can also exist as stand-alone entities without more complex relations. Special rules apply to milestones: Every milestone can be linked to exactly one Campaign, but multiple Milestones can exist in one Campaign. A milestone can not exist by itself without a parent Campaign.
+<a name="product-definition-fig-relations">Figure 1</a>: **Relationships between DACs, Campaigns and Milestones.** DACs and Campaigns can be linked with each other, but can also exist as stand-alone entities without more complex relations. Special rules apply to Milestones: Every Milestone can be linked to exactly one Campaign, but multiple Milestones can exist in one Campaign. A Milestone can not exist by itself without a parent Campaign.
 
 ### <a name="product-definition-giver">Giver</a>
 
@@ -36,11 +36,11 @@ Before we dive in the different entities, lets briefly talk about arguably the m
 
 ![Money Flow](../images/product-definition/money-flow.svg)
 
-<a name="product-definition-fig-money-flow">Figure 2</a>: **Donation flow within the Giveth system.** A Giver can give ETH to a DAC, a Campaign or directly to a Milestone. From a DAC the money can be delegated to a Campaign and from a Campaign donations can be locked in a Milestone within the Campaign the funds were donated to. The only way for a Recipient to move funds out of the system is via successfully completing a Milestone.
+<a name="product-definition-fig-money-flow">Figure 2</a>: **Donation flow within the Giveth system.** A Giver can give ETH to a DAC, a Campaign or directly to a Milestone. From a DAC the money can be delegated to a Campaign and from a Campaign donations can be locked in a Milestone within the Campaign the funds were donated to. The only way for a Recipient to move funds out of the system is by successfully completing a Milestone.
 
 ![Relations between DACs, Campaigns and Milestones](../images/product-definition/role-locality.svg)
 
-<a name="product-definition-fig-role-locality">Figure 3</a>: **The locality of roles.** All roles have a limited scope and once an entity seizes to exist, so do the connected roles. Every DAC contains exactly one Delegate, every Campaign a Campaign Manager and Campaign Reviewer and every Milestone has a Milestone Manager, Milestone Reviewer and Recipient. The Giver is not explicitly associated with any entity, but may interact with all of them.
+<a name="product-definition-fig-role-locality">Figure 3</a>: **The locality of roles.** All roles have a limited scope and once an entity seizes to exist, so do the connected roles. Every DAC contains exactly one Delegate, every Campaign has one Campaign Manager and Campaign Reviewer and every Milestone has a Milestone Manager, a Milestone Reviewer and a Recipient. The Giver is not explicitly associated with any entity, but may interact with all of them.
 
 ![Giver Use Case Diagram](../images/product-definition/giver-usecase.svg)
 
@@ -52,7 +52,7 @@ DACs (Decentralised Altruistic Communities), are the most general entity in the 
 
 #### <a name="product-definition-delegate">Delegate</a>
 
-A Delegate is a registered user owning a DAC. They can delegate the funds donated to their DACs. The 'use case diagram' in [Figure 5](#product-definition-fig-delegate-usecase) shows all possible actions a Delegate can take. Currently, in the MVP version of Giveth, donations can not be split, hence any donation needs to be fully delegated with the total amount to a Campaign or a Milestone. Delegation is a process, where the donation pledged to a DAC is transferred to a Campaign or Milestone. Once delegated, the Giver has 3 days to reject the delegation. After that time, the money is locked in the Campaign or  Milestone to which the money was delegated to. This process is visualised in [Figure 6](#product-definition-fig-dac-campaign-donation-statediagram) for delegating to a Campaign and in [Figure 7](#product-definition-fig-dac-milestone-donation-statediagram) for delegating directly to a Milestone.
+A Delegate is a registered user owning a DAC. They can delegate the funds donated to their DACs. The 'use case diagram' in [Figure 5](#product-definition-fig-delegate-usecase) shows all possible actions a Delegate can take. Currently, in the MVP version of Giveth, donations can not be split, hence any donation needs to be fully delegated with the total amount to a Campaign or a Milestone. A delegation is a process, where the donation pledged to a DAC is transferred to a Campaign or Milestone. Once delegated, the Giver has 3 days to reject the delegation. After that time, the money is locked in the Campaign or Milestone to which the money was delegated. This process is visualised in [Figure 6](#product-definition-fig-dac-campaign-donation-statediagram) for delegating to a Campaign and in [Figure 7](#product-definition-fig-dac-milestone-donation-statediagram) for delegating directly to a Milestone.
 
 ![Delegate Use Case Diagram](../images/product-definition/delegate-usecase.svg)
 
@@ -68,7 +68,7 @@ A Delegate is a registered user owning a DAC. They can delegate the funds donate
 
 ### <a name="product-definition-campaign">Campaign</a>
 
-In the Giveth System, a Campaign represents one or more individual project(s) about taking action to make a change in the world. Donations made to a Campaign are locked and unless the Campaign gets cancelled, the Giver no longer has control over the donation. The reasone why we lock the donations, is to give the people behind the Campaign some level of certainty that they can count on getting the pledged donations and pledge them to one of their milestones. The previously mentioned [Figure 6](#product-definition-fig-dac-campaign-donation-statediagram) describes the donation flow from a DAC to a Campaign and [Figure 10](#product-definition-fig-campaign-donation-statediagram) shows the state diagram for direct donations to a Milestone.
+In the Giveth System, a Campaign represents one or more individual project(s) which take action to make a change in the world. Donations made to a Campaign are locked and unless the Campaign gets cancelled, the Giver no longer has control over the donation. The reasone why we lock the donations, is to give the people behind the Campaign some level of certainty that they can count on getting the pledged donations and pledge them to one of their Milestones. The previously mentioned [Figure 6](#product-definition-fig-dac-campaign-donation-statediagram) describes the donation flow from a DAC to a Campaign and [Figure 10](#product-definition-fig-campaign-donation-statediagram) shows the state diagram for direct donations to a Milestone.
 
 #### <a name="product-definition-campaign-manager">Campaign Manager</a>
 
@@ -79,7 +79,7 @@ A Campaign Manager is a registered user who has created a Campaign (and therefor
 <a name="product-definition-fig-campaign-manager-usecase">Figure 8</a>: **Use case diagram** with all possible actions the [Campaign Manager](#product-definition-campaign-manager) can take.
 
 #### <a name="product-definition-campaign-reviewer">Campaign Reviewer</a>
-Because donations to a Campaign are locked, we have added a Campaign Reviewer role to give some oversight over the Campaign's progress. A Campaign Reviewer is a registered user who has the power to reject a milestones completion (set goal unfulfilled), cancel milestones (duplicates, prevent fraud) and even cancel campaign if necessary (prevent fraud). You can see all possible actions for Campaign Reviewers in [Figure 9](#product-definition-fig-campaign-reviewer-usecase).
+Because donations to a Campaign are locked, we have added a Campaign Reviewer role to give some oversight over the Campaign's progress. A Campaign Reviewer is a registered user who has the power to reject a Milestone's completion (set goal unfulfilled), cancel Milestones (duplicates, prevent fraud) and even cancel a Campaign if necessary (to prevent fraud). You can see all possible actions for Campaign Reviewers in [Figure 9](#product-definition-fig-campaign-reviewer-usecase).
 
 ![Campaign Reviewer Usecase Diagram](../images/product-definition/campaign-reviewer-usecase.svg)
 
@@ -91,13 +91,13 @@ Because donations to a Campaign are locked, we have added a Campaign Reviewer ro
 
 ### <a name="product-definition-milestone">Milestone</a>
 
-Milestones can be created within a Campaign and are the only way how to get donations out of the Giveth system. Givers can donate money directly to a Milestone: The actual donation flow is very simple and is depicted in [Figure 14](#product-definition-fig-milestone-donation-statediagram).
+Milestones can be created within a Campaign and are the only way to get donations out of the Giveth system. Givers can donate money directly to a Milestone: The actual donation flow is very simple and is depicted in [Figure 14](#product-definition-fig-milestone-donation-statediagram).
 
 Milestones require a specific workflow, where several roles have to work with the Milestone in order for it to be completed and for the donated funds to transfer ownership to the Receiver and allow the donations to be taken out of the Giveth system (see [Figure 15](#product-definition-fig-milestone-statediagram)). Each Milestone has a completion date, by which it needs to be completed or it will be cancelled.
 
 Required information upon creation of a Milestone are:
   - requested amount of Ether
-  - description of conditions to be fulfilled to complete the milestone.
+  - description of conditions to be fulfilled to complete the Milestone.
 
 #### <a name="product-definition-milestone-manager">Milestone Manager</a>
 
@@ -109,7 +109,7 @@ A Milestone Manager is a registered user who has been nominated by the Campaign 
 
 #### <a name="product-definition-milestone-reviewer">Milestone Reviewer</a>
 
-Because direct donations by Givers to a Milestone are locked immediately, each Milestone requires a Milestone Reviewer role to keep an oversight on the Milestone progress. A Milestone Reviewer is a registered user who is appointed by the Campaign Manager upon creation of a Milestone. They have the power to approve successful completion, reject successful completion or even cancel the milestone in case of suspected fraud. You can see all possible actions for Milestone Reviewers in [Figure 12](#product-definition-fig-campaign-reviewer-usecase).
+Because direct donations by Givers to a Milestone are locked immediately, each Milestone requires a Milestone Reviewer role to keep an oversight on the Milestone progress. A Milestone Reviewer is a registered user who is appointed by the Campaign Manager upon creation of a Milestone. They have the power to approve successful completion, reject successful completion or even cancel the Milestone in case of suspected fraud. You can see all possible actions for Milestone Reviewers in [Figure 12](#product-definition-fig-campaign-reviewer-usecase).
 
 ![Milestone Reviewer Usecase Diagram](../images/product-definition/milestone-reviewer-usecase.svg)
 
@@ -117,7 +117,7 @@ Because direct donations by Givers to a Milestone are locked immediately, each M
 
 #### <a name="product-definition-recipient">Recipient</a>
 
-A Milestone Recipient is a registered user, who will receive payment from their successfully completed milestone. In the majority of cases, the Recipient would be the Milestone Manager as they are the ones working on the milestone. However, there may be some cases where someone else is being rewarded (for example direct payments to settle a suppliers bill).
+A Recipient is a registered user, who will receive payment from their successfully completed Milestone. In the majority of cases, the Recipient would be the Milestone Manager as they are the ones working on the Milestone. However, there may be some cases where someone else is being rewarded (for example direct payments to settle a suppliers bill).
 
 ![Recipient Usecase Diagram](../images/product-definition/recipient-usecase.svg)
 
@@ -137,9 +137,9 @@ Many actions within the Giveth MVP System are automatic actions that are execute
 
 The first action is **delegation approval** which is automatically invoked after 3 days if the user does not reject the delegation before time-out.
 
-Additionally, each milestone has some **timespan for fulfillment**. Should this date be reached without achieving the `Authorisation for Payment` state, the Milestone gets cancelled automatically.
+Additionally, each Milestone has some **timespan for fulfillment**. Should this date be reached without achieving the `Authorisation for Payment` state, the Milestone gets cancelled automatically.
 
-Another automated action is **releasing Milestone payout once it was marked approved as complete**. By default, as a security measure, donations for successfully completed milestones have a 3 days period after which the funds can be retrieved.
+Another automated action is **releasing Milestone payout once it was marked as complete**. By default, as a security measure, donations for successfully completed Milestones have a 3 days period after which the funds can be retrieved.
 
 Lastly, if a **Milestone is marked as complete and the Reviewers don't take any action**, the Milestone is automatically approved to be complete and achieves the state `Authorised for Payment`.
 
@@ -149,7 +149,7 @@ Lastly, if a **Milestone is marked as complete and the Reviewers don't take any 
 
 ## <a name="product-definition-token">Tokens</a>
 
-Every DAC and Campaign creates a non-transferable MiniMe token which in future could be used for governance. When someone donates to a DAC or Campaign they receive these tokens in return proportional to their donation in ETH. The rules for emitting the tokens are:
+Every DAC and Campaign creates a non-transferable MiniMe token which in the future could be used for governance. When someone donates to a DAC or Campaign they receive these tokens in return proportional to their donation in ETH. The rules for emitting the tokens are:
 
-1. Giver donates to Campaign -> Giver receives Campaign tokens
-2. Giver donated to DAC, the DAC delegated the donation to Campaign and the delegation is committed. Only then the Giver receives both: DAC tokens and Campaign tokens.
+1. The Giver donates to a Campaign -> The Giver receives Campaign tokens
+2. The Giver donates to a DAC, the DAC delegates the donation to a Campaign and the delegation is committed. Only then the Giver receives both: DAC tokens and Campaign tokens.
