@@ -56,6 +56,7 @@ Direct link to join Slack community - [http://slack.giveth.io](http://slack.give
 - *Threading* is not supported in Riot. However, **quotes are supported in both: Riot and Slack**
 - You can share rooms in chats with #roomname.
 - With standard room settings you will be able to invite other people to the room as a user
+- To make a new-line while typing, use ```shift-enter```
 
 ## Support
 If you run into any problems, or need to ask a question, find me on Riot
