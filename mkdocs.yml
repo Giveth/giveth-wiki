@@ -52,9 +52,8 @@ pages:
       - About: 'dac/about.md'
       - Team Organisation: 'dac/team-organisation.md'
       - Finances: 'dac/finances.md'
-      - Governance: 'dac/governance.md'
       - Recruiting: 'dac/recruiting.md'
-      - Holacracy: 'dac/holacracy.md'
+
     - Protocol:
         - Governance Meetings:
           - Protocol for Governance Meetings: 'protocol/governance-meetings.md'
