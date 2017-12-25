@@ -6,20 +6,10 @@ The purpose of our technology is to give Cryptocurrency users the ability to don
 
 To make this new way of giving possible, we have to overcome a few challenges:
 
-The first challenge is **how to securely offer a means for Givers to donate without losing ownership of their funds.**
-
-The second challenge is **how to allow third parties to distribute these Ether donations to individuals who can use them effectively.**
-
-The third challenge is **how do we securely transfer ownership to the individuals who are making the world a better place.**
-
-However, baked into that 3rd challenge, there is a 4th challenge of **how to determine whether ownership of distributed Ether should be transferred or not.** In other words: How can we be sure a recipient deserves the donated Ether before we transfer it?
-
-For clarity, the 4 challenges are briefly restated here:
-
-1. Safely donate Ether without losing ownership
-2. Distribute collected funds to individuals who can use it for good
-3. Safely transfer ownership of Ether to said individuals
-4. Determine whether ownership should be transferred
+1. How do we offer a means for Givers to donate without losing ownership of their funds.
+2. How do we allow third parties to distribute these Ether donations to individuals who can use them effectively.
+3. How do we securely transfer ownership to the individuals who are making the world a better place.
+4. How to determine whether ownership of distributed Ether should be transferred or not. In other words: How can we be sure a recipient deserves the donated Ether before we transfer it?
 
 #### Donate without losing ownership
 Challenge #1 is handled by our [vault](https://github.com/Giveth/vaultcontract) contract. This is a solidity smart contract that can safely store Ether on behalf of the Ether’s owner. This is how and why a Giver may control or take back their donations. When a giver donates Ether through Giveth, the coins are actually stored in a vault with the Giver as the owner.
