@@ -17,16 +17,16 @@ However, baked into that 3rd challenge, there is a 4th challenge of **how to det
 For clarity, the 4 challenges are briefly restated here:
 
 1. Safely donate Ether without losing ownership
-2. Allocate donated funds to individuals who can use it for good
+2. Distribute collected funds to individuals who can use it for good
 3. Safely transfer ownership of Ether to said individuals
 4. Determine whether ownership should be transferred
 
-#### Safely donate Ether without losing ownership
+#### Donate without losing ownership
 Challenge #1 is handled by our [vault](https://github.com/Giveth/vaultcontract) contract. This is a solidity smart contract that can safely store Ether on behalf of the Ether’s owner. This is how and why a Giver may control or take back their donations. When a giver donates Ether through Giveth, the coins are actually stored in a vault with the Giver as the owner.
 
 Once stored in the Vault, the Ether gets stuck and cannot be moved further without the owners permission.
 
-#### Allocate donated funds to individuals who can use it for good
+#### Distribute collected funds
 Challenge #2 is partly handled by our [Minime](https://github.com/Giveth/minime) contract. This is a solidity smart contract that can represent Ether with tokens.
 
 Instead of transferring actual Ether to individuals for their efforts to do good, we can distribute Minime tokens with the assurance that the real Ether is stored in the vault. Minime tokens are used by a number of well-known projects in the Ethereum space.
@@ -35,10 +35,10 @@ Our latest DApp uses another strategy for flexible transfers. [Liquid pledging](
 
 At its core, liquid-pledging maintains a list of Ether transfers and owners. These two lists serve as the data structure for the graph. The contract's API provides the means to donate, delegate, and transfer Ether stored in the Vault. Its other major innovation is 'contract plugins'.
 
-#### Safely transfer ownership of Ether
+#### Transfer ownership
 Challenge #3 is again resolved by our [vault](https://github.com/Giveth/vaultcontract) contract. Ether is only ever released to addresses whitelisted with the permission of the original donor. However, in order to fully meet the requirements of challenge #3, we must set some sort of approval process.
 
-#### Determine whether ownership should be transferred
+#### Determine if should transfer
 The rules for how transfers are approved (challenge #4), are handled by liquid-pledging plugins (lpp). These plugins are separate contracts reference by the liquid pledging contract (see challenge #2).
 
 For example, you could use our [lpp-milestone](https://github.com/Giveth/lpp-milestone) plugin to require reviewer approval as a condition to releasing Ether from its original donor. In this case, the reviewer is another Ethereum address. If 'acceptMilestone' is called from this approved reviewer address, then the ownership of donated Ether can be released to the milestone recipient address.
