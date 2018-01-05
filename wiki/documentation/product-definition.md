@@ -20,7 +20,7 @@ The system consists of:
 - [**Milestone Reviewer**](#product-definition-milestone-reviewer) reviews the completion of a Milestone.
 - [**Recipient**](#product-definition-recipient) receives donations upon completion of Milestones.
 
-Please note: Any entity within the Giveth system is represented by an Ethereum wallet address (created upon registration).
+Please note: Any entity within the Giveth system is represented by an Ethereum address. For now these are simple accounts created upon registration; eventually, these roles could be filled by a multisig, oracle, DAO, etc.
 
 ## Giveth in Depth
 
