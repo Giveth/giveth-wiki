@@ -88,7 +88,7 @@ There are two regular online meetings:
 1. The Secratary summarizes the meeting.
 1. Everyone in turn checks-out by expressing their opinion on the meeting.
 
-### Giveth Daily Standup
+### Giveth Daily Standup (Currently waiting for someone to take the lead on this)
 
 - **When:** Every day at 19:00 Barcelona Time (UTC+1)
 - **Where:** [https://meet.jit.si/daily-giveth](https://meet.jit.si/daily-giveth)
@@ -97,10 +97,10 @@ There are two regular online meetings:
 
 
 1. What have they been working on since last time they attended the meeting.
-1. What are they going to work on in the next day(s).
-1. What is blocking their progress.
+2. What are they going to work on in the next day(s).
+3. Is anything blocking their progress.
 
-The answers to these questions should not take longer than 3 minutes per person. If you can not attend the meeting, you are invited to share your answers to the `#giveth_daily` Slack channel.
+The answers to these questions should not take longer than 2 minutes per person. If you can not attend the meeting, you are invited to share your answers to the `#contributors` Slack channel.
 
 ## <a name="teamorga_calendar">Calendar</a>
 
