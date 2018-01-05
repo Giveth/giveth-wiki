@@ -2,11 +2,17 @@ site_name: 'Giveth Wiki'
 site_url: https://wiki.giveth.io
 site_author: 'The Giveth DAC'
 site_description: 'Learn about Giveth'
+repo_name: '/giveth-wiki'
 repo_url: https://github.com/Giveth/giveth-wiki/
 edit_uri: edit/master/wiki/
 docs_dir: wiki
 
-theme_dir: material
+theme:
+  name: 'material'
+  palette:
+    primary: 'deep purple'
+    accent: 'deep purple'
+  language: 'en'
 
 google_analytics: ['UA-103956937-1', 'giveth.io']
 
