@@ -6,6 +6,11 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <!-- ADDED by @geleeroyale -->
+            <meta property="og:title" content="Giveth Wiki" />
+            <meta property="og:type" content="website" />
+            <meta property="og:image" content="https://github.com/Giveth/giveth-design-assets/blob/master/PNG-JPG/giveth-logo.jpg?raw=true" />
+
       {% if page and page.meta.description %}
         <meta name="description" content="{{ page.meta.description | first }}">
       {% elif config.site_description %}
@@ -19,11 +24,6 @@
       {% elif config.site_author %}
         <meta name="author" content="{{ config.site_author }}">
       {% endif %}
-
-<!-- ADDED by @geleeroyale -->
-      <meta property="og:title" content="Giveth Wiki" />
-      <meta property="og:type" content="website" />
-      <meta property="og:image" content="https://github.com/Giveth/giveth-design-assets/blob/master/PNG-JPG/giveth-logo.jpg?raw=true" />
 
       {% for key in [
         "clipboard.copy",
