@@ -9,7 +9,7 @@ docs_dir: wiki
 
 theme:
   name: 'material'
-  custom_dir: 'theme'
+  custom_dir: 'material'
   palette:
     primary: 'deep purple'
     accent: 'deep purple'
