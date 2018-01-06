@@ -9,6 +9,7 @@ docs_dir: wiki
 
 theme:
   name: 'material'
+  custom_dir: 'theme'
   palette:
     primary: 'deep purple'
     accent: 'deep purple'
@@ -39,30 +40,36 @@ extra_css:
 
 pages:
     - Welcome: 'index.md'
+
     - Getting Started:
         - FAQ: 'documentation/faq.md'
         - Glossary: 'documentation/glossary.md'
-    - Documentation:
+        - Tutorials:
+            - Riot.im: 'tutorials/riot-migration.md'
+
+    - Giveth Donation Application (DApp):
+        - DApp White Paper: 'documentation/white-paper.md'
+        - DApp Alpha: 'documentation/alpha.md'
         - Product Definition: 'documentation/product-definition.md'
         - Product Roadmap: 'documentation/product-roadmap.md'
         - Smart Contracts Roadmap: 'documentation/smart-contracts-roadmap.md'
         - Future: 'documentation/future.md'
-        - DApp Alpha: 'documentation/alpha.md'
-        - White Paper: 'documentation/white-paper.md'
         - Video Content Policy: 'documentation/video-content-policy.md'
         - Visual Identity Guide: 'documentation/visual-identity.md'
         - Deployments: 'documentation/deployments.md'
-    - Tutorials:
-      - Riot.im: 'tutorials/riot-migration.md'
-    - The Giveth DAC:
-      - About: 'dac/about.md'
+
+    - Giveth Community (DAC):
+      - About the Team: 'dac/about.md'
       - Team Organisation: 'dac/team-organisation.md'
       - Finances: 'dac/finances.md'
       - Recruiting: 'dac/recruiting.md'
 
+    - Policy:
+        - Protocol for Governance Meetings: 'protocol/governance-meetings.md'
+        -
+
     - Protocol:
         - Governance Meetings:
-          - Protocol for Governance Meetings: 'protocol/governance-meetings.md'
           - Governance Meeting 01 2017-09-19: 'protocol/gov-meeting-1.md'
           - Governance Meeting 02 2017-09-22: 'protocol/gov-meeting-2.md'
           - Governance Meeting 03 2017-09-29: 'protocol/gov-meeting-3.md'
@@ -79,3 +86,8 @@ pages:
           - Governance Meeting 14 2017-12-22: 'protocol/gov-meeting-14.md'
           - Governance Meeting 15 2017-12-29: 'protocol/gov-meeting-15.md'
           - Governance Meeting 16 2018-01-05: 'protocol/gov-meeting-16.md'
+        - Circle Meetings:
+          - Dev Circle:
+          - Communication Circle:
+          - Governance Circle:
+          - Social Coding Circle:
