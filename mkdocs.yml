@@ -66,6 +66,7 @@ pages:
 
     - Policy:
         - Protocol for Governance Meetings: 'protocol/governance-meetings.md'
+        - Code of Conduct: 'policy/codeofconduct.md'
 
     - Protocol:
         - Governance Meetings:
