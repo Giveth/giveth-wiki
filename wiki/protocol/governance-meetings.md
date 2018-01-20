@@ -16,7 +16,7 @@ There are Specific Roles to be filled… In general we use roles to avoid things
 
 The Facilitator needs to stay curious and calm. They make sure the meeting process is RESPECTED at all costs, like a referee. If anyone is disrespecting the meeting process, they are disrespecting every other attendee of the meeting and it should not be tolerated. The Facilitator is encouraged to interrupt when people are getting off topic and is discouraged from making extra commentary or from coaching. It is very important that the Facilitator stay neutral.   
 
-The Facilitator holds the space so that people can process their tension on their own and react as they need to express themselves freely in a safe controlled and.
+The Facilitator holds the space so that people can process their tension on their own and react as they need to express themselves freely in a safe, controlled environment.
 
 RIGIDLY hold the process and keep it sacred! Be the most stubborn person in the room!
 Ruthlessly crush out of process interactions! INTERRUPT! This might start out awkward slow and clunky… like the first time you do Yoga… but it will get better. When everyone is on board, the meetings can go quickly and efficiently. We want fast meetings, not slow ones, but you must let people have their space during the reaction round and it is important to address every person every time.
@@ -25,7 +25,7 @@ Ruthlessly crush out of process interactions! INTERRUPT! This might start out aw
 
 The Secretary needs to stay curious and calm. The Facilitator can be the Secretary as well for smaller meetings but in general it is best if they are 2 different people. The secretary takes notes the best they can, this often will help us create a blog post out of our weekly meeting.
 
-The most important task is to record the agenda items. Everything else recorded after that is bonus :-D, but the Secratary has the responcibility to be the go to person when there is a conflict in interpretting the results of the meeting
+The most important task is to record the agenda items. Everything else recorded after that is bonus :-D, but the Secretary has the responsibility to be the go to person when there is a conflict in interpretting the results of the meeting
 
 ### The Proposer  
 
@@ -62,7 +62,7 @@ A simple space to triage any administrative and logistical issues to take into a
 The goal is to build an agenda of tensions to process. Each agenda item is limited to 3 words MAX. There is no specific order and anyone can add items to the agenda. The Secretary captures the agenda items for everyone. The facilitator will determine the order these agenda items are processed.
 
 
-### **4. Process each agenda item with the Integrative Decision Making process**
+### **4. Process each agenda item with the Interactive Decision Making process**
 
 
 *The Facilitator encourages everyone to take notes and determines the order these agenda items are processed on the fly.*
