@@ -17,7 +17,7 @@ One of the core values of Giveth is transparency. We invite everyone to consult 
 
 Giveth related expenses can be claimed through the Expense Claim form. If you never had an expense with Giveth before, you need to contact the team first.
 
-The individual Circles (see [Team Organization](team-organisation.html)) are responsible for expenses of their members:
+The individual Circles (see [Team Organization](../dac/team-organisation/)) are responsible for expenses of their members:
 
 - Conference tickets
 - Transportation tickets to and from official Giveth Team Meetups
