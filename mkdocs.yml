@@ -65,10 +65,10 @@ pages:
 
     - Giveth Community (DAC):
         - Governance model: 'dac/governance.md'
+        - History: 'dac/history.md'
         - Team Organisation: 'dac/team-organisation.md'
         - Tools for DACs: 'dac/tools-for-dacs.md'
         - Finances: 'dac/finances.md'
-        - History: 'dac/history.md'
 
     - Policy:
         - Protocol for Governance Meetings: 'protocol/governance-meetings.md'
