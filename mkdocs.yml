@@ -41,50 +41,56 @@ extra_css:
 pages:
     - Welcome: 'index.md'
 
-    - Getting Started:
+    - General Info:
+        - About the Team: 'dac/about.md'
         - FAQ: 'documentation/faq.md'
         - Glossary: 'documentation/glossary.md'
-        - Tutorials:
-            - Riot.im: 'tutorials/riot-migration.md'
+
+    - Tutorials and Guides:
+        - Contributors Guide: 'dac/contributors-guide.md'
+        - Riot.im: 'tutorials/riot-migration.md'
+        - Video Content Strategy: 'documentation/video-content-strategy.md'
+        - Visual Identity Guide: 'documentation/visual-identity.md'
 
     - Giveth Donation Application (DApp):
-        - DApp White Paper: 'documentation/white-paper.md'
         - DApp Alpha: 'documentation/alpha.md'
+        - DApp White Paper: 'documentation/white-paper.md'
         - Product Definition: 'documentation/product-definition.md'
         - Product Roadmap: 'documentation/product-roadmap.md'
-        - Smart Contracts Roadmap: 'documentation/smart-contracts-roadmap.md'
         - Future: 'documentation/future.md'
-        - Video Content Policy: 'documentation/video-content-policy.md'
-        - Visual Identity Guide: 'documentation/visual-identity.md'
+
+    - Giveth Smart Contracts:
         - Deployments: 'documentation/deployments.md'
+        - Smart Contracts Roadmap: 'documentation/smart-contracts-roadmap.md'
 
     - Giveth Community (DAC):
-      - About the Team: 'dac/about.md'
-      - Team Organisation: 'dac/team-organisation.md'
-      - Finances: 'dac/finances.md'
-      - Recruiting: 'dac/recruiting.md'
+        - Governance model: 'dac/governance.md'
+        - Team Organisation: 'dac/team-organisation.md'
+        - Tools for DACs: 'dac/tools-for-dacs.md'
+        - Finances: 'dac/finances.md'
+        - History: 'dac/history.md'
 
     - Policy:
         - Protocol for Governance Meetings: 'protocol/governance-meetings.md'
         - Code of Conduct: 'policy/codeofconduct.md'
 
     - Protocol:
-        - Governance Meetings:
-          - Governance Meeting 01 2017-09-19: 'protocol/gov-meeting-1.md'
-          - Governance Meeting 02 2017-09-22: 'protocol/gov-meeting-2.md'
-          - Governance Meeting 03 2017-09-29: 'protocol/gov-meeting-3.md'
-          - Governance Meeting 04 2017-10-06: 'protocol/gov-meeting-4.md'
-          - Governance Meeting 05 2017-10-13: 'protocol/gov-meeting-5.md'
-          - Governance Meeting 06 2017-10-20: 'protocol/gov-meeting-6.md'
-          - Governance Meeting 07 2017-10-27: 'protocol/gov-meeting-7.md'
-          - Governance Meeting 08 2017-11-10: 'protocol/gov-meeting-8.md'
-          - Governance Meeting 09 2017-11-17: 'protocol/gov-meeting-9.md'
-          - Governance Meeting 10 2017-11-24: 'protocol/gov-meeting-10.md'
-          - Governance Meeting 11 2017-12-01: 'protocol/gov-meeting-11.md'
-          - Governance Meeting 12 2017-12-08: 'protocol/gov-meeting-12.md'
-          - Governance Meeting 13 2017-12-15: 'protocol/gov-meeting-13.md'
-          - Governance Meeting 14 2017-12-22: 'protocol/gov-meeting-14.md'
-          - Governance Meeting 15 2017-12-29: 'protocol/gov-meeting-15.md'
-          - Governance Meeting 16 2018-01-05: 'protocol/gov-meeting-16.md'
-          - Governance Meeting 17 2018-01-12: 'protocol/gov-meeting-17.md'
-          - Governance Meeting 18 2018-01-19: 'protocol/gov-meeting-18.md'
+          - Governance Meetings:
+            - Governance Meeting 01 2017-09-19: 'protocol/gov-meeting-1.md'
+            - Governance Meeting 02 2017-09-22: 'protocol/gov-meeting-2.md'
+            - Governance Meeting 03 2017-09-29: 'protocol/gov-meeting-3.md'
+            - Governance Meeting 04 2017-10-06: 'protocol/gov-meeting-4.md'
+            - Governance Meeting 05 2017-10-13: 'protocol/gov-meeting-5.md'
+            - Governance Meeting 06 2017-10-20: 'protocol/gov-meeting-6.md'
+            - Governance Meeting 07 2017-10-27: 'protocol/gov-meeting-7.md'
+            - Governance Meeting 08 2017-11-10: 'protocol/gov-meeting-8.md'
+            - Governance Meeting 09 2017-11-17: 'protocol/gov-meeting-9.md'
+            - Governance Meeting 10 2017-11-24: 'protocol/gov-meeting-10.md'
+            - Governance Meeting 11 2017-12-01: 'protocol/gov-meeting-11.md'
+            - Governance Meeting 12 2017-12-08: 'protocol/gov-meeting-12.md'
+            - Governance Meeting 13 2017-12-15: 'protocol/gov-meeting-13.md'
+            - Governance Meeting 14 2017-12-22: 'protocol/gov-meeting-14.md'
+            - Governance Meeting 15 2017-12-29: 'protocol/gov-meeting-15.md'
+            - Governance Meeting 16 2018-01-05: 'protocol/gov-meeting-16.md'
+            - Governance Meeting 17 2018-01-12: 'protocol/gov-meeting-17.md'
+            - Governance Meeting 18 2018-01-19: 'protocol/gov-meeting-18.md'
