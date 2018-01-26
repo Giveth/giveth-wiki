@@ -2,17 +2,17 @@
 We share these learnings in the hope it can inspire other communities, that want to work in a decentralized way.
 
 ## 2016
-In the second half of 2016, Giveth is founded by Griff Green and Jordi Baylina. A little later the first members join the founding circle: Vojtech Simetka and Grace Torrellas. A Giveth Slack team is formed.
+In the second half of 2016, Giveth is founded by Griff Green, Jordi Baylina and couple other members of the White Hat Group. They write the MiniMe Token contract, Vault contract and MilestoneTracker contract.  Near the end of the year Vojtech Simetka and Grace Torrellas join to round out the team and the Giveth Slack is created.
 
 ## 2017
 ### Q1
 A first project website is published under https://giveth.io
 
 ### Q2
-A first version of the Donation Application is launched on the Ethereum main-net.
+A first version of the Donation Application is launched on the Ethereum mainnet.
 
 ### June
-Meeting of Founders and contributors to talk about the concept and vision of Giveth
+Meeting of core contributors in Berlin to talk about the concept and vision behind Giveth
 
 ### July
 Team meeting in Barcelona to set a governance structure for team organization and to talk about the Giveth culture and the technology that has to be built.
@@ -29,7 +29,7 @@ Team meeting in Barcelona is held to organize and align the team efforts for Dev
 Reorganization of roles and circles commences, the resulting structures are getting clearer. This is still an experiment, the team is not yet at the “end” of it's exploration.
 
 ### October
-Preparation for Devcon. The team concentrates on organizing and preparing for the event, every circle is contributing in its own way and the team is making a big effort.
+Preparation for Devcon3. The team concentrates on organizing and preparing for the event, every circle is contributing in its own way and the team is making a big effort.
 Governance meetings are maintaned, the general structure of holacracy is working well.
 
 ### November
