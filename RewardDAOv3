@@ -1,0 +1,94 @@
+# How RewardDAOv3 Works (aka What Are Points??)
+
+Giveth is pioneering a system, RewardDAOv3, for rewarding our open source contributors. Rewarding contributions remains a huge challenge in the open source space. We hope our reward system experiments will inspire other projects to experiment as well. 
+
+You may have noticed people getting “points” on [Riot](https://riot.im/app/#/group/+giveth:matrix.org), our community platform. This is how we reward the contributors who help push Giveth forward, often in a permissionless way. 
+
+## What are points??
+While most major Giveth projects are rewarded by regular rewards and bounty-type milestone completions, we use RewardDAOv3 to reward people for their smaller, less formal (but no less awesome!) contributions. 
+
+![Yay points! Get those points.](https://cdn-images-1.medium.com/max/1200/1*jA8gS49QQsqzPMWV6STFzw.gif)
+
+If someone contributes in a meaningful way, a core contributor from each of the Giveth Campaigns can dish them points to recognize the contribution. 
+
+## What are points worth?
+Points are worth a varying amount of ether. The amount changes from month to month, and each circle’s points may be of different value. We don’t know what the points are worth until we crunch the numbers at the month’s close. 
+
+Keeping the value of the rewards a surprise is fun! It also creates a community where people contribute out of intrinsic motivation, but still get meaningful rewards. Which brings us to our RewardDAO slogan:
+
+![Do it for the love, get rewarded with some ETH](https://cdn-images-1.medium.com/max/1600/1*ax_OUVKOpSfQaEU_LO-IOw.png)
+
+#### How is the amount of ETH determined?
+Each month has a RewardDAO fund of ETH worth $3k using the official [Giveth exchange rate](https://docs.google.com/spreadsheets/d/1S3LvfwrwShKA5_jcKzAMTcjySsxH6f7Mq8JazkgRhyU/edit?usp=sharing) on the 15th of every month (the end of each RewardDAO cycle). The team can vote to add up to $1k of bonus funds, so the fund actually has a variable value of $3k - $4k+. 
+
+The team next votes on what percentage of the fund each circle gets. There are four circles that dish out points: 
+⋅⋅* Communications
+⋅⋅* Social Coding
+⋅⋅* DApp
+⋅⋅* Governance
+
+Each circle then takes their percentage of the fund and divides that by the total number of points they awarded. 
+
+![Just like with any good game, the rules are a little complicated.](https://cdn-images-1.medium.com/max/1200/1*Yqf4olqT9Xsrk_ApAk-uiA.gif)
+
+#### Confused? Let’s run through an example:
+
+Say the month’s fund is $3k and the team votes that the DApp circle should get 33% of the fund. DApp would take that $1k and divide it by the number of points they awarded. If they gave out 250 points that month, each DApp point would be worth $4. 
+
+This means that if you are awarded points by different circles, your points may have different values even if they were given in the same month. 
+
+Point allocation and valuation is completely transparent. [See the spreadsheet](https://docs.google.com/spreadsheets/d/1g3Pl9EOeZ1jnMnzzPSUmRsA7UTcysoDKYkEbLqeY6sY/edit?usp=sharing). 
+
+## How Are Points Awarded?
+
+Points are awarded publicly by four people: 
+⋅⋅* Head of Communications
+⋅⋅* Head of Social Coding
+⋅⋅* Head of DApp
+⋅⋅* Head of Governance. 
+
+![Oprah also could have put someone in charge of awarding cars.](https://cdn-images-1.medium.com/max/1200/1*s5Hnl8GnbxqXsIgFQgowpA.gif)
+
+These people can also put others in charge of awarding the points. For example, Perissology has been appointed by Vojtech to award points for helping with the DApp. Some heads might also choose to gamify it more, like Head of Social Coding might put whomever got the most points in Social Coding last month in charge of awarding Social Coding points for the following month.
+
+There aren’t set rules about how to give out points or how many, every point disher gets to build their own system. As soon as we have a system that’s working, we’re going to build the system on chain likely using an Aragon app. 
+
+That being said, points aren’t guaranteed:
+
+*“There’s no promises in any of this. The second people stop showing up, the second it stops being a thing.” - Quazia*
+
+![Points recipient on their way to PM their ether address & make a video.](https://cdn-images-1.medium.com/max/1200/1*hP6X7P5KAfm5d0qT_bpv9Q.gif) 
+
+## I got rewarded points!  Now what?
+PM the person who gave you your points with your ether address. 
+Create a video and post it to the [Wall of Fame](https://fame.giveth.io/).
+
+Once you post your video and submit your ETH address, you’ll get your ETH sometime in the following month. Remember that RewardDAO months run from the 16th to the 15th. If you were dished points multiple times, you only need to create one video per RewardDAO month. 
+
+## I Have to Create a Video?
+
+Yup! We use videos to humanize collaboration and provide transparency. It’s fun! Just see the past videos on the [Wall of Fame](https://fame.giveth.io/) (the site’s in progress). 
+
+![Oleksii proves that your video can be about anything.](https://cdn-images-1.medium.com/max/1200/1*8ZoV8ah7EVt-fmC8rQzhXQ.gif)
+
+#### What does my video have to be about?
+It doesn’t have to be about anything. Just look at [Oleksii playing a ukulele](https://fame.giveth.io/GivethVWOF_v2/view/-L342EAIESzZr53jI1In). 
+
+If you’re stumped about what to create a video about, here’s some ideas:
+⋅⋅* What are you working on right now? How’s it going?
+⋅⋅* What’s a project you’d like to take on?
+⋅⋅* Who helped you this month that you’d like to give a shoutout to?
+
+#### What happens if I don’t create a video?
+If you don’t create a video, your points will be rolled over to the next month. If you don’t ever make a video, you won’t get your ETH.
+
+#### Do I have to be in the video?
+NO! We are building a community able to reward anonymous contributors, if you want to disguise your voice and just do a screen share, that is fine. In the past, people have used puppets. Have fun with this! The videos are a tool to bring us closer together as a community and to bring transparency to our donations, but it still feels like bureaucracy sometimes so feel free to be cheerfully irreverent.
+
+##TL;DR
+Points are worth a varying amount of ETH. You probably won’t know how much your points are worth until after you get your ETH. 
+
+If you got awarded points, be sure to message the person that awarded them to you with your ETH address and upload a video to [Wall of Fame](https://fame.giveth.io/).
+
+Points are our way of saying THANK YOU for showing up and building the future of giving! You’re awesome. 
+![THANK YOU! You’re awesome. :)](https://cdn-images-1.medium.com/max/1600/1*W-bQgMC0TIUWIbC2FZkaHQ.gif)
