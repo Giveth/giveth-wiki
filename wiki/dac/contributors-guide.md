@@ -2,7 +2,7 @@
 
 In the near future Giveth is launching its DApp. To Build the Future of Giving we need **your help**: may you be a developer, designer, writer, organizer, blogger, tester ... whatever you do or make, **we value your contribution** in the Giveth Decentralized Altruistic Community.
 
-Every month the 4 Circles or ‘Campaigns’ of the Giveth DAC (Product Development, Communication, Governance, Social Coding) award a considerable amount in eth to contributors who add value to our Community. Below we explain how you can become a contributor and how you can be awarded and rewarded for your efforts!
+Every month the 4 Circles or ‘Campaigns’ of the Giveth DAC (Product Development, Communication, Governance, Social Coding) award a considerable amount in eth to contributors who add value to our Community, via our [RewardDAO](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a). Below we explain how you can become a contributor and how you can be awarded and rewarded for your efforts! 
 
 ## Step 1: Join us
 
@@ -27,8 +27,10 @@ At Giveth we strongly believe in transparency and accountability, so we take thi
 
 ## Step 4: Get rewarded
 
-  - On the 15th of each month the representatives of the 4 circles convene and discuss how much points they awarded to each contributor. Representatives can make changes to the points they awarded upto this date.
+  - On the 15th of each month [the representatives of the 4 circles convene](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a) and discuss how much points they awarded to each contributor. Representatives can make changes to the points they awarded upto this date.
   - After discussion, the representatives assign ‘weight’ to the different circles for that month, which is translated into percentages and recalibrates the final amount of ether that is attributed to every contributor.
-  - The document with the final points and awarded ether is shared in the #contributors channel on the 18th of each month. Internally, we use the Giveth DApp (running on [Rinkeby testnet](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060)) to track and pay out contributor rewards as soon as possible through Milestones.
+  - The document with the final points and awarded ether is shared in the #contributors channel on the 18th of each month. Internally, we use the Giveth DApp (running on [Rinkeby testnet](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060)) to track and pay out contributor rewards as soon as possible through Milestones. 
 
 Before data enters our DApp, we use a spreadsheet to keep track of awarded points. Review an archived spreadsheet as example [here](https://docs.google.com/spreadsheets/d/1g3Pl9EOeZ1jnMnzzPSUmRsA7UTcysoDKYkEbLqeY6sY/edit?usp=sharing).
+
+More info [here](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a) on how the RewardDAO works. A contribution for which Giveth contributor Cleo received points. :)
