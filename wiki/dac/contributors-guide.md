@@ -15,7 +15,7 @@ Every month the 4 Circles or ‘Campaigns’ of the Giveth DAC (Product Developm
   - Once your task is completed and approved by the task requester, do *share the result* in the appropriate channel.
   - The task requester will *dish out points* for what you did in the relevant channel. These points will be paid out in ether at the end of the monthly reward period (15th of each month).
 
-## Step 3: Proof your work
+## Step 3: 'Proof' your work
 
   - Please *make a video* as proof of what you did:
     - Go to our [Wall of Fame](https://fame.giveth.io/), where you start by tapping/clicking on the ‘+’ (bottom right). Please note: Currently the Wall of Fame only supports Chrome browser
