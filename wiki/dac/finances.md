@@ -38,10 +38,10 @@ Name | Handle | Salary
 **Arthur** | @quazia | 600 EUR / week
 **Griff** | @griff | 640 USD / week
 **Kay** | @gelee_royale | 600 EUR / week
-**Kris** | @krrisis | 2500 EUR / month
-**Oz** | @oz | 881 USD / week
-**Satya** | @satya | 800 EUR / week
-**Perrisology** | @perrisology | 881 USD / week
+**Kris** | @krrisis | 600 EUR / week
+**Vojtech** | @vojtech | 1,234.75 EUR / week
+**Satya** | @satya | 987.80 EUR / week
+**Perrisology** | @perrisology | 1,620.60 EUR / week
 
 ## <a name="finances_reward_dao">Rewards DAO</a>
 
