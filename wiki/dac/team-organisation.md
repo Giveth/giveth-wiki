@@ -33,7 +33,7 @@ Jason | @jsteele | Smart Contracts, Fullstack Developer
 Kirch | @kirch | Finance
 kkx | @kkx |
 **Kris** | @krrisis | Public Relations, Social Media
-Oz | @oz | Development Team Coordination & Reporting
+Oz | @oz | Blockchain engineer
 **Perrisology** | @perrisology | Fullstack Developer
 Ricardo | @3esmit |
 **Satya** | @satya | Fullstack Developer
