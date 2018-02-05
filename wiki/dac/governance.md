@@ -1,7 +1,7 @@
 # Description of Giveth DACs governance model
 
 ## Philosophy
-Every single person within the Giveth team is seen as a unique part of the whole, a Unicorn as you will. Unicorns as such don't like to be ruled or overpowered, they like to be free in their decision making. This is why our governance model is always in progress and not fixed.
+Every single person within the Giveth team is seen as a unique part of the whole, a Unicorn as you will. Unicorns don't like to be ruled or overpowered, they like to be free in their decision making. This is why our governance model is always in progress and not fixed.
 
 As a Decentralized Altruistic Community we understand that people need time and space to develop new skills. Nevertheless a team needs some kind of organization. This is why we work with the system of holacracy but we adapt it the way we need it. We use online work-chat and have regular online team meetings to structure and organize the team.
 
