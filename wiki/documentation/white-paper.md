@@ -1,4 +1,4 @@
-# <h3 style="text-align: center;" markdown="1">Giveth Technical White Paper<h3>
+# <h3 style="text-align: center;" markdown="1">DApp Technical Challenges<h3>
 
 <p style="text-align: center;" markdown="1">(Assumes basic knowledge of Ethereum)</p>
 
