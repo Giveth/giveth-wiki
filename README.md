@@ -11,7 +11,7 @@ It is built with https://netlify.com using the static site generator mkdocs http
 ## Contributing
 **Contributing content is very easy!** Just edit the files contained in the wiki directory.
 
-**Please note:** If you are a **first time contributor to the Wiki**, please talk to us on Slack first to get you started (#documentation)
+**Please note:** If you are a **first time contributor to the Wiki**, please talk to us on Riot first to get you started (#giveth-contributors)
 
 For an introduction to markdown, see: https://guides.github.com/features/mastering-markdown/
 
