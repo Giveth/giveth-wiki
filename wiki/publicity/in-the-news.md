@@ -12,10 +12,12 @@ A collection of articles about Giveth and it's history
 
 # Written by the Giveth team and supporters
 
+The [Giveth Archive](https://medium.com/giveth/archive) contains a collection of articles written by the Giveth Team
+<!-- 
 - [Tackling Ethereum scalability issues](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060) _23 Jan 2018_ -- Vojtěch, Yalor, Griff, Kris
 - [Liquid Democracy…What That?!?](https://medium.com/giveth/liquid-democracy-what-that-bd3c63e8df52) _12 Jan 2018_ -- Yalor
 - [What is the Future of Giving?](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4) _26 Oct 2017_ -- Kris
-
+ -->
 
 
 # Links to Giveth
