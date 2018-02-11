@@ -7,6 +7,8 @@ A detailed guide on how Giveth branding should be implemented, as well as ideas 
 
 ## Giveth Design Assets
 
+  A collection of links and assets
+
 ### Logo and Typelogo assets
   All assets can be downloaded from the website repo:
 
