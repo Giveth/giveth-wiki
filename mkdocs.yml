@@ -53,11 +53,12 @@ pages:
         - Visual Identity Guide: 'documentation/visual-identity.md'
 
     - Giveth Donation Application (DApp):
-        - DApp Alpha: 'documentation/alpha.md'
-        - DApp White Paper: 'documentation/white-paper.md'
-        - Product Definition: 'documentation/product-definition.md'
-        - Product Roadmap: 'documentation/product-roadmap.md'
-        - Future: 'documentation/future.md'
+        - DApp Alpha: 'documentation/DApp/alpha.md'
+        - DApp White Paper: 'documentation/DApp/white-paper.md'
+        - Product Definition: 'documentation/DApp/product-definition.md'
+        - Development Process & Quality Assurance: 'documentation/DApp/product-development-testing.md'
+        - Roadmap: 'documentation/DApp/product-roadmap.md'
+        - Future: 'documentation/DApp/future.md'
 
     - Giveth Smart Contracts:
         - Deployments: 'documentation/deployments.md'

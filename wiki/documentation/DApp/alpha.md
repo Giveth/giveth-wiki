@@ -1,6 +1,6 @@
 # Giveth Donation Application (Alpha)
 
-![MVP in Progress](../images/screenshot-mvp.png)
+![MVP in Progress](../../images/screenshot-mvp.png)
 
 ## Current status
 The Giveth Donation Platform is live in *alpha* stage on the Rinkeby Ethereum-testnet.
