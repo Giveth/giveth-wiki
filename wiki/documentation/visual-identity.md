@@ -1,18 +1,27 @@
-# Giveth Design Assets
+## Giveth Design Guide
+A detailed guide on how Giveth branding should be implemented, as well as ideas on how to play with Giveth assets to achieve good visual consistency in official design assets.
 
-## Logo and Typelogo assets
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPb9T__ae4HzAW2i9ii776ESLzY9vqWbsRlewgVFr1irIZqE86uR6Q0hDz3lcLIY-KQIs1b-uRzPzp/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+## Giveth Design Assets
+
+  A collection of links and assets
+
+### Logo and Typelogo assets
   All assets can be downloaded from the website repo:
 
   [https://github.com/Giveth/giveth-design-assets](https://github.com/Giveth/giveth-design-assets)
 
-## Typeface
+### Typeface
   We use Google Fonts API to grab our fonts
 
   Body-text: 'Raleway' - weight: 400 - size: 18px
 
   Headlines: 'Raleway' - weight: 600
 
-## Color palette
+## [Legacy Color palette]
 
 <table>
   <tr>
@@ -44,6 +53,7 @@
 ## CSS
 
 This template code can be used with Bootstrap4 websites and web-apps to set button, navbar styling and specify body and headline fonts:
+
 ```  
 .navbar {
     background-color: #2c0d54 !important;
