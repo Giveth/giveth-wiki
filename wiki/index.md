@@ -24,7 +24,7 @@ New technologies enable us to rethink and reengineer the distribution of charita
 
 The Giveth community is building a new software system, using [Ethereum](https://www.ethereum.org/) smart contracts, that will radically shift the way people think charity can and should work. So what if, instead of a relying on others to collect and distribute our donations, we did it ourselves.
 
-With blockchain technology we can donate directly to the people who work to make a difference. Using ethereum you can even keep ownersihp of your donations, to ensure they to places you approve of. If you disagree with an allocation of resources you donated, you can veto the transfer or even take your donation back.
+With blockchain technology we can donate directly to the people who work to make a difference. Using ethereum you can even keep ownership of your donations, to ensure they go to places you approve of. If you disagree with an allocation of resources you donated, you can veto the transfer or even take your donation back.
 
 We hope this decentralization will encourage creative solutions to global issues to emerge with a local focus. The methods that are successful for one group can spread virally within the particular cause. In fact, because of the open source nature of this system, successful solutions can scale across all causes. If a cat charity builds a successful governance structure, a homelessness charity can easily use it for their own needs. This is Donation 3.0.
 
@@ -39,7 +39,7 @@ We hope this decentralization will encourage creative solutions to global issues
 
 ##  A Solution to directly connect Givers and Makers!
 
-The charitable system is evolving and several projects are working on integrating blockchain technology to enable frictionless, global and transparent transactions. Giveth is leap frogging this integration, taking it to the next level, enabling Givers and Makers to interact directly with each other in a safe and trustless manner.
+The charitable system is evolving and several projects are working on integrating blockchain technology to enable frictionless, global and transparent transactions. Giveth is leapfrogging this integration, taking it to the next level, enabling Givers and Makers to interact directly with each other in a safe and trustless manner.
 
 **TLDR; We are building a foundation of smart contracts to allow the creation, administration and funding of Decentralized Altruistic Communities.**
 
