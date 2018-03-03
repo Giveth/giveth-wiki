@@ -16,7 +16,7 @@ For an introduction to markdown, see: https://guides.github.com/features/masteri
 You can edit the files either directly on GitHub, or clone the project and push changes to a separate branch. It is possible to preview your changes directly in your pull request via netlify's preview build option.
 
 ## Installation
-Requires MKdocs to test locally.  [http://www.mkdocs.org/](http://www.mkdocs.org/).
+Requires MKdocs and Material theme to test locally.  [http://www.mkdocs.org/](http://www.mkdocs.org/). [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)
 
 ## User Guide
 See a detailed guide here: [http://www.mkdocs.org/user-guide/writing-your-docs/](http://www.mkdocs.org/user-guide/writing-your-docs/)
