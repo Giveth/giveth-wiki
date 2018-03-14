@@ -1,8 +1,6 @@
 # Giveth Wiki
 The wiki for the Giveth DApp, the Giveth DAC and everything else included in the Giveth universe. A place to get into detail about concepts, explanations and guides./customize parts of the wiki, please refer to: [http://www.mkdocs.org/](http://www.mkdocs.org/)
 
-
-
 ## About
 The wiki is accessible via this link: https://wiki.giveth.io
 
@@ -16,6 +14,9 @@ It is built with https://netlify.com using the static site generator mkdocs http
 For an introduction to markdown, see: https://guides.github.com/features/mastering-markdown/
 
 You can edit the files either directly on GitHub, or clone the project and push changes to a separate branch. It is possible to preview your changes directly in your pull request via netlify's preview build option.
+
+## Installation
+Requires MKdocs and Material theme to test locally.  [http://www.mkdocs.org/](http://www.mkdocs.org/). [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)
 
 ## User Guide
 See a detailed guide here: [http://www.mkdocs.org/user-guide/writing-your-docs/](http://www.mkdocs.org/user-guide/writing-your-docs/)
