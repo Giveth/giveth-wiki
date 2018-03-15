@@ -1,7 +1,7 @@
-# Giveth Governance Meeting 
+# Giveth Governance Meeting #25
 
 
-## March 15th, 2018
+March 15th, 2018
 
 
 Youtube Livestream - [https://youtu.be/JNiOgxzoyY4](https://youtu.be/JNiOgxzoyY4)
@@ -41,14 +41,12 @@ Toggled-Off: Yalda
 
 
 
-# Agenda
-
-
+## Agenda
 
 *   DAppNode
 
 
-## DAppNode
+### DAppNode
 
 
 #### Tension
