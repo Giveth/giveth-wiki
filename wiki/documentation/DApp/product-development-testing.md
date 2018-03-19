@@ -1,11 +1,11 @@
 # Development, Testing, Quality Assurance and Deployment
-This chapter details the development process, the deployment setup, how are new features included, tested and how is quality assurance handled. The aim is to provide answers to questions like how are new features decided, what is the deployment setup, git organisation and how are new changes introduced and tested.
+This chapter details the development process, the deployment setup, how are new features included, tested and how is quality assurance handled. The aim is to provide answers to questions like how are new features decided, what is the deployment setup, git organization and how are new changes introduced and tested.
 
 ![Development sprint planning](../../images/product-development/dapp-dev-cycle.svg)
 <a name="product-development-testing-fig-release">**The Product Development Cycle**</a> spans 4 weeks and consists of 1 week of planning, 2 weeks of development, and 1 week of integration, testing and release. The cycle is repeated every 2 weeks which means there is new release every 2 weeks and the new feature development is continuous.
 
 ## Design & Development Planning
-The development losely follows the [product definition outlined in the wiki page](https://wiki.giveth.io/documentation/DApp/product-definition/). The planning is decided and presented every second week during the weekly [DApp Governance and Development Meeting](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com) which is open for anyone to attend. The rough development plan can be found in the [product roadmap page](https://wiki.giveth.io/documentation/product-roadmap/) and the more detailed in the [repository board](https://github.com/Giveth/giveth-dapp/issues#boards?repos=98920496,99012473) (you may need to install ZenHub).
+The development loosely follows the [product definition outlined in the wiki page](https://wiki.giveth.io/documentation/DApp/product-definition/). The planning is decided and presented every second week during the weekly [DApp Governance and Development Meeting](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com) which is open for anyone to attend. The rough development plan can be found in the [product roadmap page](https://wiki.giveth.io/documentation/product-roadmap/) and the more detailed in the [repository board](https://github.com/Giveth/giveth-dapp/issues#boards?repos=98920496,99012473) (you may need to install ZenHub).
 
 
 ## Deployments and Branch Organisation
@@ -44,7 +44,7 @@ Integration of new features is done by the **development team** after a DApp dev
 After new features are integrated and tested in the [`develop`](https://develop.giveth.io) environment, they get merged and deployed to the [`release`](https://release.giveth.io) environment. The QA testing takes time over weekend and is guided by [corresponding procedure](https://drive.google.com/drive/folders/1_wzYp-Clb2VZGR201hUmiFSAL4tgHcll?usp=sharing) which also serves as collection system for testing reports. The QA testing is open to outside contributors and should not be done by the development team. New testing is triggered by posting new testing procedure to the `#alpha_testing` channels on Slack and Riot. 
 
 ## Production Deployment
-Only once all the newly introduced bugs are removed in the release branch, the release can be merged to master and pushed to production. It is done manually by DApp devteam (by `@perissology` and `@vojtech`). If there are no issues, the deployment shoul take less than 5 minutes:
+Only once all the newly introduced bugs are removed in the release branch, the release can be merged to master and pushed to production. It is done manually by DApp devteam (by `@perissology` and `@vojtech`). If there are no issues, the deployment should take less than 5 minutes:
 
 First, deploy the newest version of feathers-giveth 
 ```
@@ -62,7 +62,7 @@ Next, check the feathers deploy status
 $ pm2 logs
 ```
 
-If the logs are clear, the last step is to deploy the latest master banch commit on [Netlify](http://netlify.com/) and locking the deploy.
+If the logs are clear, the last step is to deploy the latest master branch commit on [Netlify](http://netlify.com/) and locking the deploy.
 
 ## FAQ
 **What is the deadline for new features to be included?**
@@ -83,7 +83,7 @@ The QA testing is announced in the `#alpha_testing` channel and guided by [corre
 
  **Who performs the tests and how much time it takes?**
 
- The development testing is done by the dev team for maximum of 2 days after DApp integration meetin on Wednesday. The QA testing is done by contributors from the `#alpha_testing` channel after the integration testing. It starts on Friday at latest and is made iteratively until all the issues are resolved and tested. There is a test review next Wednesday and release to production if it did not happen before.
+ The development testing is done by the dev team for maximum of 2 days after DApp integration meeting on Wednesday. The QA testing is done by contributors from the `#alpha_testing` channel after the integration testing. It starts on Friday at latest and is made iteratively until all the issues are resolved and tested. There is a test review next Wednesday and release to production if it did not happen before.
 
 **How do we prioritize when tests fail / bug fixes?**
 
@@ -91,7 +91,7 @@ Bug fixes are done ad-hoc as soon as discovered during the testing process. The 
 
 **Who and how deploys?**
 
-The `develop` and `release` branches are autodeployed to their environments. The `master` branch is deployed by the dev team (`@vojtech` and `@perissology`) once there are no new known bugs in the `release` bacnch. The process is manual and there is a deployment procedure.
+The `develop` and `release` branches are autodeployed to their environments. The `master` branch is deployed by the dev team (`@vojtech` and `@perissology`) once there are no new known bugs in the `release` branch. The process is manual and there is a deployment procedure.
  
 **What is the release cycle frequency?**
  
