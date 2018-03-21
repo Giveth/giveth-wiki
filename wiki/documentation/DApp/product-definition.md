@@ -68,7 +68,7 @@ A Delegate is a registered user owning a DAC. They can delegate the funds donate
 
 ### <a name="product-definition-campaign">Campaign</a>
 
-In the Giveth System, a Campaign represents one or more individual project(s) which take action to make a change in the world. Donations made to a Campaign are locked and unless the Campaign gets cancelled, the Giver no longer has control over the donation. The reasone why we lock the donations, is to give the people behind the Campaign some level of certainty that they can count on getting the pledged donations and pledge them to one of their Milestones. The previously mentioned [Figure 6](#product-definition-fig-dac-campaign-donation-statediagram) describes the donation flow from a DAC to a Campaign and [Figure 10](#product-definition-fig-campaign-donation-statediagram) shows the state diagram for direct donations to a Milestone.
+In the Giveth System, a Campaign represents one or more individual project(s) which take action to make a change in the world. Donations made to a Campaign are locked and unless the Campaign gets cancelled, the Giver no longer has control over the donation. The reason why we lock the donations, is to give the people behind the Campaign some level of certainty that they can count on getting the pledged donations and pledge them to one of their Milestones. The previously mentioned [Figure 6](#product-definition-fig-dac-campaign-donation-statediagram) describes the donation flow from a DAC to a Campaign and [Figure 10](#product-definition-fig-campaign-donation-statediagram) shows the state diagram for direct donations to a Milestone.
 
 #### <a name="product-definition-campaign-manager">Campaign Manager</a>
 
