@@ -1,194 +1,76 @@
 # Roadmap for Giveth
-This chapter details the Giveth platform roadmap until release (= open for the general public on the Main Ethereum Network). We aim to reach this state by 1st of March 2018.
+This chapter details the Giveth Donation Application (DApp) roadmap for the immenent future until the official release (= open for the general public). There are no dates nor deadlines in this roadmap, only a list of milestones and set of goals.
 
-## As Soon as Possible
-**Contributors** -
-Allow for meaningful external contributions to application development. We need to create and mark issues suitable for external contributors (=fully defined and clear requests), write contribution guidelines and continuously review and merge the contributors pull requests. The responsible people on the Giveth team are:
+## 1. Adding Missing Features
+The only DApp users for the foreseable future is Giveth team and projects within Giveth. We have identified several features that are currently missing and are preventing us from using the DApp's full potential. [See all still open feature issues on GitHub](https://github.com/Giveth/giveth-dapp/issues?q=is%3Aissue+is%3Aopen+label%3A%22on+roadmap%22).
 
-- `@perissology` for Smart Contracts and Plugins
-- `@perissology` and `@satyaVH` for FeathersJS
-- `@satyaVH` and `@vojtech` for Reactjs
+**Pagination, Sorting & Filtering**
+[[#256](https://github.com/Giveth/giveth-dapp/issues/256)]
+![Feathers](../../images/roadmap/feathers.svg)
+![React](../../images/roadmap/react.svg) -
+The tables in views like My Milestones, My Communities, My Donations... currently don't have any pagination and once user creates certain ammount of the given entities they are hidden. Add support for a pagination of the content and multiple column sorting & filtering. The currently applied filters and sorting should be saved in the user preference.
+
+**ScalingNOW Bridge**
+![Feathers](../../images/roadmap/feathers.svg)
+![React](../../images/roadmap/react.svg)
+![Smart Contracts](../../images/roadmap/smart-contracts.svg) -
+Allow recieving donations and paying out recipients on the mainnet but keep all the DApp logic on the sidechain with linked tokens.
+
+**Token Integration**
+[[#257](https://github.com/Giveth/giveth-dapp/issues/257)]
+![Feathers](../../images/roadmap/feathers.svg)
+![React](../../images/roadmap/react.svg)
+![Smart Contracts](../../images/roadmap/smart-contracts.svg) -
+Add support for donating and working with any ERC20 tokens. The aim is to integrate tokens like DAI to decrease value fluctuation.
+
+**IPFS Integration**
+[[#258](https://github.com/Giveth/giveth-dapp/issues/258)]
+![Feathers](../../images/roadmap/feathers.svg)
+![React](../../images/roadmap/react.svg)
+![Smart Contracts](../../images/roadmap/smart-contracts.svg)
+
+1. Set up the IPFS consortium node(s) that we can run with Swarm City.
+2. Modify the DApp to store profile data in there rather than on chain/just feathers.
+3. Create components for uploading, replacing and viewing pictures, videos and other files uploaded to IPFS. Bonus points for integrating the uploads to wall of fame.
+
+**Support Injected web3 Instances**
+[[#173](https://github.com/Giveth/giveth-dapp/issues/173),
+ [#174](https://github.com/Giveth/giveth-dapp/issues/174)]
+![React](../../images/roadmap/react.svg) -
+Allow signing up and using the DApp with Metamask and other web3 instances.
+
+**Donation Splitting**
+[[#177](https://github.com/Giveth/giveth-dapp/issues/177)]
+![React](../../images/roadmap/react.svg) -
+Delegate should be able to just define how much money should be delegated to a Campaign or Milestone and the system should figure out which donations will be used and split them if necessary.
+
+**Milestone Conversation**
+[[#99](https://github.com/Giveth/giveth-dapp/issues/99)]
+![Feathers](../../images/roadmap/feathers.svg)
+![React](../../images/roadmap/react.svg) -
+Right now it is difficult to understand what is the status of Milestones, Campaings and DACs and what exactly happened when. Adding comments and status change reportinig (similar to GitHub) should greatly improve the transparency.
+
+**Deleting Proposed Milestone by Proposer**
+[[#259](https://github.com/Giveth/giveth-dapp/issues/259)]
+![Feathers](../../images/roadmap/feathers.svg)
+![React](../../images/roadmap/react.svg) -
+The proposer of a milestone should be able to delete the milestone when it is in the state `proposed` or `rejected`.
+
+## 2. Performance Optimisation & Design Review
+Once all the features are implemented, we would like to show the product to other projects and charities. The aim is to see how they can use the system and what functionality are they missing. During this period the devteam will focus on improving the platform reliability and designing new UI to improve user experience.
+
+**Models and Services**
+![Feathers](../../images/roadmap/feathers.svg)
+![React](../../images/roadmap/react.svg) -
+Simplifying the architecture and externalising the logic from components. The aim is to have a set of models that can be shared between frontend and backend to guarantee data consistency. The component model should be reviewed and systems like Redux used to simplify the workflow.
+
+**Tests & Testing Data**
+![Feathers](../../images/roadmap/feathers.svg)
+![React](../../images/roadmap/react.svg) -
+Writing automatised tests for the frontend and backend. There is no plan to write UI regression tests but rather verify the models, services and create automated integration tests. A set of testing data will be created such that all the 5 testrpc keystore addresses play all the roles and can perform any action. A script will be created to clear the `/data` folder and deploy the test data.
 
 **User Experience Review** -
-Review the platform screen by screen and improve the overall user experience. The workflow consists of proposals for improvement, reviews of proposals and implementation.
+Review the platform screen by screen and improve the overall user experience. The idea is to create a graphical interface overhaul in some prototyping tool and review it with the team. The aim is to create single view for exploring DACs, Campaigns and Milestones and redesigning the user profiles as well as milestone workflow.
 
-## Launching Giveth on the Ethereum main net - (planned for 2017 November 23)
-In order to successfully launch the Giveth donation platform on the Ethereum Main Network, following steps are necessary:
-
-![Done](../../images/roadmap/done.svg)
-[**Minime Integration**](https://github.com/Giveth/giveth-dapp/issues/143)
-![Smart Contracts](../../images/roadmap/smart-contracts.svg)
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-Write a Minime plugin and add the plugin to Liquid Pledging. Add display of the token to UI, which allows Delegates and Campaign managers to name the token to be issued and to all the Givers see how much of which tokens they have. We agreed that tokens are issued only in the following cases:
-
-1. Giver donates to Campaign -> Giver receives Campaign tokens
-2. Giver donated to DAC, the DAC delegated the donation to Campaign and the delegation is committed. Only then the Giver receives both: DAC tokens and Campaign tokens. Once we allow delegation from DAC to DAC, only the DAC to which the Giver donated in the first place will issue tokens for them.
-
-![Done](../../images/roadmap/done.svg)
-**Whitelist of Plugins**
-![Smart Contracts](../../images/roadmap/smart-contracts.svg) -
-Creating a white list of plugins that are allowed to be added to Liquid Pledging for the Giveth Platform.
-
-![Done](../../images/roadmap/done.svg)
-**Whitelist of Reviewers**
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-Build a white list of Reviewers that can be used by the devteam, as well as modifying the UI to support the whitelist https://github.com/Giveth/giveth-dapp/issues/47.
-
-![Done](../../images/roadmap/done.svg)
-**Whitelist of Campaign Managers**
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-Build a white-list of addresses that can create Campaigns. Any Campaign that is not created with these addresses will not be visible in the Giveth Platform before release.
-
-![Done](../../images/roadmap/done.svg)
-**Whitelist of Delegates**
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-Build a white-list of addresses that can create DACs. Any DAC that is not created with these addresses will not be visible in the Giveth Platform before release.
-
-![Done](../../images/roadmap/done.svg)
-[**Role Definitions**](https://github.com/Giveth/giveth-dapp/issues/148)
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-Adding the Campaign Reviewer. The roles should comply with the [Product Definition](https://wiki.giveth.io/documentation/product-definition/), especially with the [Milestone State Diagram](https://wiki.giveth.io/documentation/product-definition/#product-definition-fig-milestone-statediagram).
-
-![Done](../../images/roadmap/done.svg)
-[**Propose New Milestones (offchain)**](https://github.com/Giveth/giveth-dapp/issues/147)
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-Allow anyone to propose a new milestone to a Campaign. The proposal will not be visible to anyone except the Campaign Manager.
-
-![Postponed](../../images/roadmap/postponed.svg)
-**Gas Price input**
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg)
-![Smart Contracts](../../images/roadmap/smart-contracts.svg) -
-Allow users to set a gas price for Ethereum blockchain transactions.
-
-![Done](../../images/roadmap/done.svg)
-**Verify Feathers Data Permisions**
-![Feathers](../../images/roadmap/feathers.svg) -
-Verify that there are no permission problems in with our FeathersJS middle-layer.
-
-![Done](../../images/roadmap/done.svg)
-[**Donate without Registering**](https://github.com/Giveth/giveth-dapp/issues/145)
-![React](../../images/roadmap/react.svg)
-![Smart Contracts](../../images/roadmap/smart-contracts.svg)
-Add functionality to the Donate button which would give you an option to donate through MyEtherWallet (just like on our [website](https://giveth.io)). The smart contracts need to be altered as well to allow donations from un-registered users.
-
-![Planned](../../images/roadmap/planned.svg)
-**In House Testing**
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg)
-![Smart Contracts](../../images/roadmap/smart-contracts.svg) -
-All team members get to test the MVP on the Ropsten test network and provide us with feedback. `@vojtech` will facilitate the testing and collecting feedback.
-
-![Done](../../images/roadmap/done.svg)
-[**Money Transfer from Dapp**](https://github.com/Giveth/giveth-dapp/issues/149)
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg)
-Allow users to transfer money from Giveth DApp to any other address.
-
-![Planned](../../images/roadmap/planned.svg)
-**Deploy Contracts to Main Network**
-![Smart Contracts](../../images/roadmap/smart-contracts.svg) -
-Deploy and verify all the smart contracts and plugins to the Main Ethereum Network.
-
-![Planned](../../images/roadmap/planned.svg)
-**Deploy Feathers.js**
-![Feathers](../../images/roadmap/feathers.svg) -
-Deploy final clean production version of FeathersJS.
-
-![Planned](../../images/roadmap/planned.svg)
-**Deploy DApp UI**
-![React](../../images/roadmap/react.svg) -
-Deploy final version of UI and freeze it on Netlify.
-
-## First Campaign - (2018 January 15)
-[**DAC Approval for Adding Campaign**](https://github.com/Giveth/giveth-dapp/issues/169)
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-The DAC has to approve that it wants to be associated with a Campaign. For now we will only do that in the frontend by not showing unapproved Campaigns as part of a DAC.
-
-[**External Notifications**](https://github.com/Giveth/giveth-dapp/issues/170)
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-Adding email notifications to the DApp and hooking it to events like new donation, new delegation, milestone status change and others.
-
-**On-boarding 1st Campaign** -
-A dedicated person who will be in contact with the first Campaign to use our system. This includes gathering requirements, guided introduction to the platform and collecting feedback.
-
-**Tutorials, Videos, Documentation** -
-Preparing tutorials, video and other documentation for the launch based on the feedback from the first Campaign.
-
-[**Link to Dashboard/Milestone Workflow in Campaign**](https://github.com/Giveth/giveth-dapp/issues/171)
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-Milestone Workflow added to the Campaign (all the buttons right in the milestones).
-
-[**User Customisation - Logo, Page Color**](https://github.com/Giveth/giveth-dapp/issues/172)
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-Allow users to customise their Campaign page by changing background-color and adding a custom logo.
-
-[**Mist Integration**](https://github.com/Giveth/giveth-dapp/issues/173)
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-Allow signing up with a Mist Address and interacting with the DApp through Mist.
-
-[**Metamask Integration**](https://github.com/Giveth/giveth-dapp/issues/174)
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-Allow signing up with a Metamask Address and interacting with the DApp through Metamask.
-
-[**Allow Executing Transactions from MEW**](https://github.com/Giveth/giveth-dapp/issues/175)
-![React](../../images/roadmap/react.svg) -
-Add an option to every transaction button to redirect to MyEthereumWallet with the data and addresses pre-filled.
-
-[**External Testing**](https://github.com/Giveth/giveth-dapp/issues/176)
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg)
-![Smart Contracts](../../images/roadmap/smart-contracts.svg)
-All team members of Giveth, as well as pre-approved Campaigns get to test Giveth on the Ropsten test network and provide us with a feedback. `@vojtech` will facilitate the testing and collect feedback.
-
-## First DAC - (2018 February 15)
-**Gathering DACs (and Campaigns)** -
-On-going process of gathering and on-boarding other DACs and Campaigns.
-
-**Multiple Delegates in DAC**
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg)
-![Smart Contracts](../../images/roadmap/smart-contracts.svg) -
-Allow multiple delegates that can propose delegation and can approve/reject the delegation (just the green actions in the [DAC governance diagram](https://wiki.giveth.io/documentation/future/fig-dac-governance-delegate-usecase))
-
-## Official Release - (2018 - Q2)
-**Gathering DACs and Campaigns**
-On-going process of gathering and on-boarding other DACs and Campaigns for main release.
-
-## At earliest opportunity
-**Verify Feathers**
-![Feathers](../../images/roadmap/feathers.svg) -
-Fully verify FeathersJS models and restrictions
-
-**Tests**
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg) -
-Add frontend and backend tests.
-
-**Anonymous Donations from Exchanges**
-![Smart Contracts](../../images/roadmap/smart-contracts.svg) -
-Allow donating from exchanges and receiving donation tokens.
-
-**Mutual DAC an Campaign Linking**
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg)
-![Smart Contracts](../../images/roadmap/smart-contracts.svg) -
-Allow bi-directional linking of DACs and Campaigns (currently only Campaigns can link with DACs).
-
-**Token Support**
-![Feathers](../../images/roadmap/feathers.svg)
-![React](../../images/roadmap/react.svg)
-![Smart Contracts](../../images/roadmap/smart-contracts.svg) -
-Support using the ERC20 and ERC223 token standard in the Giveth platform for all possible actions.
+## 3. Release of v1.0, Planning v2.0
+Once the system has been battle tested by Giveth and shown to several projects and charities outside of Giveth, the team selects new set of features that are necessary for version 1.0 and finalises the UI redesign for v1.0. The v1.0 is released once the new design and features are implemented and work on v2.0 starts.
