@@ -58,7 +58,7 @@ Documentation | Oversight and quality control for documentation on the Wiki, tut
 External Communications: Public Outreach, Social media | Presenting Giveth and reaching out to the world on different social media platforms and blogs | **Kris**
 Finance | To make sure we have enough money to build this thing and that everyone is reimbursed | **Vojtech**
 Frontend development | Make blockchain interaction possible in the browser in the most user friendly way | **Satya**
-Internal Comms Lead | To make sure the relevant people obtain the pertinant information | **Griff**
+Internal Comms Lead | To make sure the relevant people obtain the pertinent information | **Griff**
 Legal Lead | To oversee the creation of the legal structure for the our DAC as needed | **Griff**
 Product Definition | What we are building, what is the end goal? | **Vojtech**
 Quality | To make sure our product and its different parts are up to the very high standard. | **Vojtech**
