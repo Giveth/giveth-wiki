@@ -64,7 +64,7 @@ obligated to maintain confidentiality with regard to the reporter of an incident
 Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may lose their legitamacy and likely be replaced by other community members.
+faith may lose their legitimacy and likely be replaced by other community members.
 
 ## Attribution
 
