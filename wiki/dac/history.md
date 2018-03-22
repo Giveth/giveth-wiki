@@ -30,7 +30,7 @@ Reorganization of roles and circles commences, the resulting structures are gett
 
 ### October
 Preparation for Devcon3. The team concentrates on organizing and preparing for the event, every circle is contributing in its own way and the team is making a big effort.
-Governance meetings are maintaned, the general structure of holacracy is working well.
+Governance meetings are maintained, the general structure of holacracy is working well.
 
 ### November
 DEVCON 3 (!) - The team is doing an amazing job in representing and promoting Giveth at Devcon. The effort is amazing and inspiring. We feel the full transcendence of every single team member - Giveth DAC radiates, as the sum of our parts align.

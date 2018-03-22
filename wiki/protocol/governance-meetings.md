@@ -25,7 +25,7 @@ Ruthlessly crush out of process interactions! INTERRUPT! This might start out aw
 
 The Secretary needs to stay curious and calm. The Facilitator can be the Secretary as well for smaller meetings but in general it is best if they are 2 different people. The secretary takes notes the best they can, this often will help us create a blog post out of our weekly meeting.
 
-The most important task is to record the agenda items. Everything else recorded after that is bonus :-D, but the Secretary has the responsibility to be the go to person when there is a conflict in interpretting the results of the meeting
+The most important task is to record the agenda items. Everything else recorded after that is bonus :-D, but the Secretary has the responsibility to be the go to person when there is a conflict in interpreting the results of the meeting
 
 ### The Proposer  
 

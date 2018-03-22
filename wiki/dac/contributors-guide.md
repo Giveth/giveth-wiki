@@ -27,7 +27,7 @@ At Giveth we strongly believe in transparency and accountability, so we take thi
 
 ## Step 4: Get rewarded
 
-  - On the 15th of each month [the representatives of the 4 circles convene](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a) and discuss how much points they awarded to each contributor. Representatives can make changes to the points they awarded upto this date.
+  - On the 15th of each month [the representatives of the 4 circles convene](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a) and discuss how much points they awarded to each contributor. Representatives can make changes to the points they awarded up to this date.
   - After discussion, the representatives assign ‘weight’ to the different circles for that month, which is translated into percentages and recalibrates the final amount of ether that is attributed to every contributor.
   - The document with the final points and awarded ether is shared in the #contributors channel on the 18th of each month. Internally, we use the Giveth DApp (running on [Rinkeby testnet](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060)) to track and pay out contributor rewards as soon as possible through Milestones. 
 
