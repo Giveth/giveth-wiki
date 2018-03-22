@@ -59,6 +59,7 @@ pages:
         - Development Process & Quality Assurance: 'documentation/DApp/product-development-testing.md'
         - Roadmap: 'documentation/DApp/product-roadmap.md'
         - Future: 'documentation/DApp/future.md'
+        - Exchange Rate Calculation: 'documentation/DApp/exchange-rate-calculation.md'
 
     - Giveth Smart Contracts:
         - Deployments: 'documentation/deployments.md'
