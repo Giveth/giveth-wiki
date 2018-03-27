@@ -53,7 +53,7 @@ $ ssh user@146.185.156.117
 $ cd feathers-giveth/
 $ git pull
 
-$ yarn install
+$ yarn install --pure-lockfile
 $ yarn serve
 ```
 
