@@ -51,6 +51,8 @@ First, deploy the newest version of feathers-giveth
 $ ssh user@146.185.156.117
 
 $ cd feathers-giveth/
+$ sudo -u deploy bash
+
 $ git pull
 
 $ yarn install --pure-lockfile
