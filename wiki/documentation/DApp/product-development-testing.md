@@ -48,9 +48,9 @@ Only once all the newly introduced bugs are removed in the release branch, the r
 
 First, deploy the newest version of feathers-giveth 
 ```
-$ ssh user@146.185.156.117
+$ ssh user@feathers.alpha.giveth.io
 
-$ cd feathers-giveth/
+$ cd /home/deploy/feathers-giveth/
 $ sudo -u deploy bash
 
 $ git pull
