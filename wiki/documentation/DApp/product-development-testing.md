@@ -15,7 +15,7 @@ Name | Blockchain | Branch Deployed | Auto Deploy | Use |
 -----|------------|-----------------|-------------|-----|
 [mainnet](https://mainnet.giveth.io) | Ethereum Main Network | master | no | Main network deployment for now abandoned due to high transaction costs until sustainable solution is found.
 [alpha](https://alpha.giveth.io)  | Rinkeby Test Network | master | no | Environment used as a production version until scalability is resolved.
-[release](https://release.giveth.io) | Rinkeby Test Network | release | no | Environment for release candidate quality control testing by non-devs.
+[release](https://release.giveth.io) | Rinkeby Test Network | release | yes | Environment for release candidate quality control testing by non-devs.
 [develop](https://develop.giveth.io) | Rinkeby Test Network | develop | yes | Development environment for integrating new features. Feature and pull request branches are also automatically deployed to this environment.
 
 The gitflow model allows us to iteratively develop the DApp while maintaining high quality standards. The model defines several branches and works well for a release based software workflow.
@@ -48,12 +48,14 @@ Only once all the newly introduced bugs are removed in the release branch, the r
 
 First, deploy the newest version of feathers-giveth 
 ```
-$ ssh user@146.185.156.117
+$ ssh user@feathers.alpha.giveth.io
 
-$ cd feathers-giveth/
+$ cd /home/deploy/feathers-giveth/
+$ sudo -u deploy bash
+
 $ git pull
 
-$ yarn install
+$ yarn install --pure-lockfile
 $ yarn serve
 ```
 

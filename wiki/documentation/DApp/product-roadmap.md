@@ -1,20 +1,20 @@
 # Roadmap for Giveth
-This chapter details the Giveth Donation Application (DApp) roadmap for the immenent future until the official release (= open for the general public). There are no dates nor deadlines in this roadmap, only a list of milestones and set of goals.
+This chapter details the Giveth Donation Application (DApp) roadmap for the imminent future until the official release (= open for the general public). There are no dates nor deadlines in this roadmap, only a list of milestones and set of goals.
 
 ## 1. Adding Missing Features
-The only DApp users for the foreseable future is Giveth team and projects within Giveth. We have identified several features that are currently missing and are preventing us from using the DApp's full potential. [See all still open feature issues on GitHub](https://github.com/Giveth/giveth-dapp/issues?q=is%3Aissue+is%3Aopen+label%3A%22on+roadmap%22).
+The only DApp users for the foreseeable future is Giveth team and projects within Giveth. We have identified several features that are currently missing and are preventing us from using the DApp's full potential. [See all still open feature issues on GitHub](https://github.com/Giveth/giveth-dapp/issues?q=is%3Aissue+is%3Aopen+label%3A%22on+roadmap%22).
 
 **Pagination, Sorting & Filtering**
 [[#256](https://github.com/Giveth/giveth-dapp/issues/256)]
 ![Feathers](../../images/roadmap/feathers.svg)
 ![React](../../images/roadmap/react.svg) -
-The tables in views like My Milestones, My Communities, My Donations... currently don't have any pagination and once user creates certain ammount of the given entities they are hidden. Add support for a pagination of the content and multiple column sorting & filtering. The currently applied filters and sorting should be saved in the user preference.
+The tables in views like My Milestones, My Communities, My Donations... currently don't have any pagination and once user creates certain amount of the given entities they are hidden. Add support for a pagination of the content and multiple column sorting & filtering. The currently applied filters and sorting should be saved in the user preference.
 
 **ScalingNOW Bridge**
 ![Feathers](../../images/roadmap/feathers.svg)
 ![React](../../images/roadmap/react.svg)
 ![Smart Contracts](../../images/roadmap/smart-contracts.svg) -
-Allow recieving donations and paying out recipients on the mainnet but keep all the DApp logic on the sidechain with linked tokens.
+Allow receiving donations and paying out recipients on the mainnet but keep all the DApp logic on the sidechain with linked tokens.
 
 **Token Integration**
 [[#257](https://github.com/Giveth/giveth-dapp/issues/257)]
@@ -48,7 +48,7 @@ Delegate should be able to just define how much money should be delegated to a C
 [[#99](https://github.com/Giveth/giveth-dapp/issues/99)]
 ![Feathers](../../images/roadmap/feathers.svg)
 ![React](../../images/roadmap/react.svg) -
-Right now it is difficult to understand what is the status of Milestones, Campaings and DACs and what exactly happened when. Adding comments and status change reportinig (similar to GitHub) should greatly improve the transparency.
+Right now it is difficult to understand what is the status of Milestones, Campaings and DACs and what exactly happened when. Adding comments and status change reporting (similar to GitHub) should greatly improve the transparency.
 
 **Deleting Proposed Milestone by Proposer**
 [[#259](https://github.com/Giveth/giveth-dapp/issues/259)]
