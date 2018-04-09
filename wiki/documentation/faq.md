@@ -28,7 +28,7 @@ If you came to Giveth because the internet was referring you here to rescue your
 
 ## When will I be able to collect donations for my project with Giveth?
 
-We are currently in alpha-testing. We expect to fully open the platform for the public in March 2018. If you want to be an early adopter and prepare your projects presentation for our release, please read @krrisis medium post on the subject ['What is the future of Giving?'](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4) fill out our [google form for onboarding](https://goo.gl/forms/jvdg6FDeT8Mel4VE2). Please see the official [roadmap](product-roadmap) for further details on public release.
+We are currently in alpha-testing. We expect to fully open the platform for the public in 2018. If you want to be an early adopter and prepare your projects presentation for our release, please read @krrisis medium post on the subject ['What is the future of Giving?'](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4) fill out our [google form for onboarding](https://goo.gl/forms/jvdg6FDeT8Mel4VE2). Please see the official [roadmap](product-roadmap) for further details on public release.
 
 ## What will be the cost of receiving donations with Giveth's DApp?
 
