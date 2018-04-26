@@ -9,7 +9,7 @@ Youtube Livestream - [https://youtu.be/OILhprLCliI](https://youtu.be/OILhprLCliI
 
 ### Attending
 
-Griff, Lindsay, Kay, Lorelei, DappLion, Yalor, Kate, Edu, RJ, Satya
+Griff, Lindsay, Kay, Lorelei, DappLion, Yalor, Kate, Edu, RJ, Satya, Deam, Quazia, Alex, Kris
 
 dropped-in: Andreas, Oz
 left-early: XXX
@@ -17,24 +17,23 @@ left-early: XXX
 
 ###  Check-in
 
-Griff - concise meeting
-Lindsay - concise meeting
-Kay - wants help with notes
-Lindsay - Muted
-DappLion - no distractions
+Griff - Concise meeting
+Lindsay - Concise meeting
+Kay - Wants help with notes
+DappLion - No distractions
 Satya - No distractions
 RJ - No great expectations but lets see.
 Quazia - Same wants to fix payout 
 Alex - Not distracted
 Kris - Not distracted
-Andreas - muted
+Andreas - Muted
 Kate - Not distracted
 Yalor - Lets get through the meeting
 Deam - Fast
 
 ### Logistics
 
-Toggled-Off: Lorelei, Andreas, deam
+Toggled-Off: Lorelei, Andreas, Deam
 
 
 
@@ -119,7 +118,7 @@ Satya - ref1; agree. ref3; better than now, but not THE solution
 Lindsay - ref3; best option for now. two people might not be enough. like what yalor said for satya's proposals in retrospect.
 Edu - ref3; would like to try. ref1; quite good but would like to give preference to propopsal 3. ref2; makes problem worse
 Alex - Have we fixed the slow point of the multisend? ref1; like, ref2; Something should happen ref3; like
-Caitlin - Feels this should be a deciosion that's more centralized
+Kate - Feels this should be a decision that's more centralized
 RJ - ref2; can be gamed needs rules. ref3; wrong answer because of centralization
 Kay - Nobody was taking notes
 Griff - ref1; team cohesion is bad in this proposal. we should use issues that come up to be creative. Believe solving the multisend issue by teaching to many people will solve slow payouts.
