@@ -62,7 +62,7 @@ A simple space to triage any administrative and logistical issues to take into a
 The goal is to build an agenda of tensions to process. Each agenda item is limited to 3 words MAX. There is no specific order and anyone can add items to the agenda. The Secretary captures the agenda items for everyone. The facilitator will determine the order these agenda items are processed.
 
 
-### **4. Process each agenda item with the Interactive Decision Making process**
+### **4. Process each agenda item with the Integrative Decision Making process**
 
 
 *The Facilitator encourages everyone to take notes and determines the order these agenda items are processed on the fly.*
