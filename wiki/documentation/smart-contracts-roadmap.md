@@ -6,8 +6,8 @@
 - White Hat Group members will use to withdraw 50% of donated funds based on their contributions to this summer's rescue of over $200 million worth of ether and tokens.
 
 *11/15* - Critical for promoting MLP to mainnet  
-- Liquid Pledging Plugins (LPPs) should issue tokens on withdrawal. 10 lines of code. 2 days. (Done by perisssolgy)  
-- Whitelist plugins using hash of code. Fast. 2 days.  (Done by perisssolgy)  
+- Liquid Pledging Plugins (LPPs) should issue tokens on withdrawal. 10 lines of code. 2 days. (Done by perissology)  
+- Whitelist plugins using hash of code. Fast. 2 days.  (Done by perissology)  
 - Merge escape hatch and limits into Liquid Pledging (LP) for security. 1 day.    
 
 *11/23* - Promote MLP to mainnet  
@@ -30,6 +30,3 @@
 
 *01/02* - Truffle PoC for Liquid Pledging (LP)  
 - We want to make a PoC once Truffle upgrades to its next release. LP and the LP UI provide a solid use case because LP UI imports contract dependencies from external repos.   
-
-
-
