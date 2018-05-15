@@ -51,6 +51,7 @@ pages:
         - Riot.im: 'tutorials/riot-migration.md'
         - Video Content Strategy: 'documentation/video-content-strategy.md'
         - Visual Identity Guide: 'documentation/visual-identity.md'
+        - Brand Identity Guide: 'documentation/Branding_Guidelines.md'
 
     - Giveth Donation Application (DApp):
         - DApp Alpha: 'documentation/DApp/alpha.md'
