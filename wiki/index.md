@@ -2,11 +2,13 @@
 
 **Hello friend!** You came to the right place to learn about Giveth!
 
-We just started this wiki, but **with your help and input** it will grow strong and healthy!
+We started this wiki in 2017 and **with your help and input** it grows strong and healthy!
 
 We invite all interested parties to build Giveth: [Join the Giveth community!](http://join.giveth.io)
 
 Giveth website: [Giveth.io](http://giveth.io)
+
+We are very active and keep an open [Calendar](../dac/calendar/) where you can find upcoming events and our community video discussions.
 
 Read about the beginnings of Giveth and our first smart contracts *MiniMe* and *Vault*: [Medium](https://medium.com/giveth)
 
