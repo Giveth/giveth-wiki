@@ -182,7 +182,7 @@ The Giveth marks include the Giveth name and logo, and any word, phrase, image, 
 
 
 
-![DApp Logo](../../Giveth Logo Black small.png)
+![DApp Logo](../../Giveth%20Logo%20Black%20small.png)
 
 
 ## 
