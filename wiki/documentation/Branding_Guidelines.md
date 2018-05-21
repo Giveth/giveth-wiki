@@ -182,7 +182,7 @@ The Giveth marks include the Giveth name and logo, and any word, phrase, image, 
 
 
 
-![alt_text](https://github.com/Giveth/giveth-wiki/blob/6d7388aab4249cd0672579a24aa503111a726886/Giveth%20Logo%20Black%20small.png)
+![DApp Logo](../../blob/6d7388aab4249cd0672579a24aa503111a726886/Giveth%20Logo%20Black%20small.png)
 
 
 
