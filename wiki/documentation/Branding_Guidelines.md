@@ -85,8 +85,7 @@ Giveth internal will develop a common slide deck with guidelines for anyone to u
 The Giveth colors represent diversity and optimism. Dark Purple and Dark Blue as used as background color with special accent on the cross positioned of various gradients of green and blue. 
 
 
-
-![alt_text](https://github.com/Giveth/giveth-wiki/blob/02f6dce8232077761a3a44e8c6c97f7590452a63/Giveth%20palette%20(1).jpg)
+![Giveth Color Palette](../images/branding-guidelines/giveth-color-palette.jpg)
 
 
 **Logo**
@@ -96,13 +95,13 @@ Our logo may be the single most important graphic decision we made when developi
 **Giveth Dapp Logo**
 
 
-![alt_text](https://github.com/Giveth/giveth-wiki/blob/6d7388aab4249cd0672579a24aa503111a726886/Giveth%20Logo%20Black%20small.png) 
+![Giveth Logo](../images/branding-guidelines/giveth-logo-black.png) 
 
 
 **Unicorn DAC logo**
 
 
-![alt_text](https://github.com/Giveth/giveth-wiki/blob/02f6dce8232077761a3a44e8c6c97f7590452a63/unicorn%20logo%20(1).png)
+![Unicorn DAC Logo](../images/branding-guidelines/giveth-dac-logo-dark.png)
 
 
 **The Story**
@@ -180,10 +179,7 @@ The Giveth marks include the Giveth name and logo, and any word, phrase, image, 
 
 ## **Logo**
 
-
-
-![DApp Logo](../../Giveth%20Logo%20Black%20small.png)
-
+![Giveth Logo](../images/branding-guidelines/giveth-logo-black.png) 
 
 ## 
 
