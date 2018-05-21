@@ -1,7 +1,8 @@
-### **Giveth Brand Identity**
+# **Giveth Brand Identity**
 
 Giveth Brand commits to develop an open source Dapp (Decentralized Application), that inspires 'Decentralized Altruistic Communities' to connect, transform and empowers and connects (DAC) to create and transform the world through good causes 
 
+## Dapp and DAC
 **Our Brand is represented in two environments: The Dapp vs DAC brand**
 
 Giveth is the Dapp (platform) developed by the Unicorn DAC, both can be viewed as community led projects, not organizations, not charities, not legal entities. The Unicorn DAC's mission is to develop the Giveth platform, it is defined by the team's drives and shared values supporting transparency, open-source development and collaborating like-minded projects. The Unicorn DAC encourages similar initiatives to co-create and to organize themselves as similar DACs and not competitors, sharing similar goals and objectives, we all strive to make the world a better place.  
@@ -44,7 +45,7 @@ We want to create a unique, iconic, brand identity, that strengthens awareness a
 
 The Giveth brand invites the community to connect, get involved, create, transform and essentially allows users to become unicorns.  It is friendly, honest and trustworthy, it speaks from the heart. It is responsible, yet chaotic and ensures delivery of the product and service. It is helpful, it wants to remove any barrier to entry. Our brand wants to be related to projects that can scale and offer limitless possibilities to help a good cause. 
 
-**Brand Culture**
+## **Brand Culture**
 
 The culture is open and transparent. Communication brings harmony and balance. Giveth social culture is about fairness and fun. 
 
@@ -64,7 +65,7 @@ There is a strong advocacy to support open source and innovative projects and bu
 -------------------------------------------------
 
 
-### The branding process
+## The branding process
 
 **Visual Guide**
 
@@ -78,7 +79,7 @@ Giveth internal will develop a common slide deck with guidelines for anyone to u
 -------------------------------------------------
 
 
-### **Logo, name, symbol**
+## **Logo, name, symbol**
 
 **Color**
 
@@ -162,7 +163,7 @@ Quicksand (contender for body, long-format text)
     
 
 
-# **Brand Guidelines**
+## **Brand Guidelines**
 
 Here are some guidelines to help us use our brand and assets, including our logo, word mark and content without having to ask questions about each use. To make any use of our marks in a way not covered by these guidelines, please contact us at info@giveth.io and include a visual mockup of intended use.
 
@@ -181,7 +182,6 @@ The Giveth marks include the Giveth name and logo, and any word, phrase, image, 
 
 ![Giveth Logo](../images/branding-guidelines/giveth-logo-black.png) 
 
-## 
 
 ---
 
@@ -353,8 +353,3 @@ By using the Giveth marks you agree to follow these guidelines. Giveth may chang
    </td>
   </tr>
 </table>
-
-
-
-<!-- GD2md-html version 1.0β11 -->
-
