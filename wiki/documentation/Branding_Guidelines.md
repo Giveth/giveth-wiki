@@ -93,7 +93,7 @@ The Giveth colors represent diversity and optimism. Dark Purple and Dark Blue as
 
 Our logo may be the single most important graphic decision we made when developing our brand identity, thanks to Alan Borger and Joana Scarpelini, lead designers, we have a logo that fully represents the Giveth Brand.  As a hallmark for our brand, the logo is best used in launcher sequences, splash screens, and briefly in app bar applications. It is a high-level touchpoint and should be treated as such in the design hierarchy.
 
-Giveth Dapp Logo
+**Giveth Dapp Logo**
 
 
 ![alt_text](https://github.com/Giveth/giveth-wiki/blob/6d7388aab4249cd0672579a24aa503111a726886/Giveth%20Logo%20Black%20small.png) 
