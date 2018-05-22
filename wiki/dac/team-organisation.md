@@ -14,7 +14,7 @@ For more details, please see [our governance model](../dac/governance/)
 
 
 ## <a name="teamorga_members">Members</a>
-The Giveth team is ever growing and very dynamic. It may be difficult to lose track so this table should help keeping track. The members in bold are working full time.
+The Giveth team is ever growing and very dynamic. It may be easy to lose track, so this table should help. The members in bold are working full time.
 
 Name | Slack Handle | Expertise |
 -----|--------------|-----------|
@@ -111,7 +111,7 @@ Where: https://meet.jit.si/giveth-chat
 
 ## <a name="teamorga_calendar">Calendar</a>
 
-You can see Giveth calendar on our [TeamUp page](https://teamup.com/ksxaryouurz64b83kr).
+You can see what Giveth is up to on [Google Calendar](https://calendar.google.com/calendar?cid=Z2l2ZXRoZG90aW9AZ21haWwuY29t), or on our [TeamUp page](https://teamup.com/ksxaryouurz64b83kr).
 - Publicly Sharable Version - [https://teamup.com/ksxaryouurz64b83kr](https://teamup.com/ksxaryouurz64b83kr)
 
 To import the calendar to your favourite calendar app use the link below:
@@ -121,6 +121,8 @@ To import the calendar to your favourite calendar app use the link below:
 
 Quarterly, most of team meets in person at a dedicated team meeting or a very big conference. The list below shows our past/future events.
 
+- **2018/08 Black Rock City )(**
+- **2018/06 Barcelona**
 - **2018/03 Barcelona**
 - **2017/11 Cancun**
   - [Devcon3](https://ethereumfoundation.org/devcon3/) starts is between 1-4 of November and takes place at [Boulevard Kukulcán KM. 9 1er Piso, Zona Hotelera, 77500 Cancún, Quintana Roo, Mexico](https://goo.gl/maps/ybrroThXjCR2)
