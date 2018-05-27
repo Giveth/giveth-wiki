@@ -1,186 +1,390 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="540 756 896 924" width="896pt" height="77pc" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata> Produced by OmniGraffle 7.5 
-    <dc:date>2017-11-16 21:50:58 +0000</dc:date>
-  </metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="556.4822 748 896 789" width="896" height="789">
   <defs>
-    <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="bold">
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="556.4822" y="748">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity=".5" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in"/>
+    </filter>
+    <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="800">
       <font-face-src>
         <font-face-name name="Avenir-Heavy"/>
       </font-face-src>
     </font-face>
-    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
       <g>
         <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="500">
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
       <font-face-src>
         <font-face-name name="HelveticaNeue"/>
       </font-face-src>
     </font-face>
   </defs>
-  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+  <metadata> Produced by OmniGraffle 7.7.1 
+    <dc:date>2018-05-27 21:39:31 +0000</dc:date>
+  </metadata>
+  <g id="Milestone_States_with_Actors" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
     <title>Milestone States with Actors</title>
-    <g>
+    <g id="Milestone_States_with_Actors: Layer 1">
       <title>Layer 1</title>
-      <path d="M 804.4699 882.2077 L 886.4699 882.2077 C 888.679 882.2077 890.4699 883.9985 890.4699 886.2077 L 890.4699 943.2077 C 890.4699 945.4168 888.679 947.2077 886.4699 947.2077 L 804.4699 947.2077 C 802.2608 947.2077 800.4699 945.4168 800.4699 943.2077 L 800.4699 886.2077 C 800.4699 883.9985 802.2608 882.2077 804.4699 882.2077 Z" fill="white"/>
-      <path d="M 804.4699 882.2077 L 886.4699 882.2077 C 888.679 882.2077 890.4699 883.9985 890.4699 886.2077 L 890.4699 943.2077 C 890.4699 945.4168 888.679 947.2077 886.4699 947.2077 L 804.4699 947.2077 C 802.2608 947.2077 800.4699 945.4168 800.4699 943.2077 L 800.4699 886.2077 C 800.4699 883.9985 802.2608 882.2077 804.4699 882.2077 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(806.4699 905.7077)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="9.763" y="13" textLength="58.474">Proposed</tspan>
-      </text>
-      <path d="M 804.2028 1020.7902 L 886.2028 1020.7902 C 888.412 1020.7902 890.2028 1022.5811 890.2028 1024.7902 L 890.2028 1081.7902 C 890.2028 1083.9994 888.412 1085.7902 886.2028 1085.7902 L 804.2028 1085.7902 C 801.9937 1085.7902 800.2028 1083.9994 800.2028 1081.7902 L 800.2028 1024.7902 C 800.2028 1022.5811 801.9937 1020.7902 804.2028 1020.7902 Z" fill="white"/>
-      <path d="M 804.2028 1020.7902 L 886.2028 1020.7902 C 888.412 1020.7902 890.2028 1022.5811 890.2028 1024.7902 L 890.2028 1081.7902 C 890.2028 1083.9994 888.412 1085.7902 886.2028 1085.7902 L 804.2028 1085.7902 C 801.9937 1085.7902 800.2028 1083.9994 800.2028 1081.7902 L 800.2028 1024.7902 C 800.2028 1022.5811 801.9937 1020.7902 804.2028 1020.7902 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(806.2028 1044.2902)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="6.734" y="13" textLength="64.532">In Funding</tspan>
-      </text>
-      <line x1="845.4699" y1="947.2077" x2="845.2387" y2="1010.8903" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="819.8566" y="964.4156" width="51" height="28" fill="white"/>
-      <text transform="translate(824.8566 969.4156)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".038" y="13" textLength="40.924">Create</tspan>
-      </text>
-      <path d="M 804.7028 1182.6931 L 886.7028 1182.6931 C 888.912 1182.6931 890.7028 1184.484 890.7028 1186.6931 L 890.7028 1243.6931 C 890.7028 1245.9023 888.912 1247.6931 886.7028 1247.6931 L 804.7028 1247.6931 C 802.4937 1247.6931 800.7028 1245.9023 800.7028 1243.6931 L 800.7028 1186.6931 C 800.7028 1184.484 802.4937 1182.6931 804.7028 1182.6931 Z" fill="white"/>
-      <path d="M 804.7028 1182.6931 L 886.7028 1182.6931 C 888.912 1182.6931 890.7028 1184.484 890.7028 1186.6931 L 890.7028 1243.6931 C 890.7028 1245.9023 888.912 1247.6931 886.7028 1247.6931 L 804.7028 1247.6931 C 802.4937 1247.6931 800.7028 1245.9023 800.7028 1243.6931 L 800.7028 1186.6931 C 800.7028 1184.484 802.4937 1182.6931 804.7028 1182.6931 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(806.7028 1206.1931)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="5.057" y="13" textLength="67.886">Completed</tspan>
-      </text>
-      <path d="M 845.2028 1085.7902 C 845.2028 1112.4043 845.6007 1144.9097 845.6866 1172.7951" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="789.9419" y="1118.783" width="111" height="28" fill="white"/>
-      <text transform="translate(794.9419 1123.783)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".424" y="13" textLength="100.152">Mark completed</tspan>
-      </text>
-      <line x1="845.7042" y1="1248.6931" x2="845.8297" y2="1340.5577" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="779.2653" y="1279.4593" width="133" height="28" fill="white"/>
-      <text transform="translate(784.2653 1284.4593)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".4715" y="13" textLength="122.057">Approve completed</tspan>
-      </text>
-      <path d="M 799.8779 1214.6279 C 762.6045 1189.0911 688.1255 1164.7962 688.0467 1138.0098 C 687.97326 1113.0465 752.5163 1085.9054 791.344 1059.6342" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="629.999" y="1120.2905" width="117" height="28" fill="white"/>
-      <text transform="translate(634.999 1125.2905)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".044" y="13" textLength="106.912">Reject completed</tspan>
-      </text>
-      <path d="M 845.1826 1561.0968 C 845.1826 1571.7794 845.047 1605.0498 844.998 1623.8368" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="818.6018" y="1577.4716" width="53" height="28" fill="white"/>
-      <text transform="translate(823.6018 1582.4716)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".31" y="13" textLength="42.38">Collect</tspan>
-      </text>
-      <circle cx="844.9807" cy="1648.7359" r="15.000024" fill="white"/>
-      <circle cx="844.9807" cy="1648.7359" r="15.000024" stroke="#3f4243" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <circle cx="844.9807" cy="1648.7359" r="10.500017" fill="#3f4243"/>
-      <text transform="translate(865.4699 1639.7359)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="2.4396574" y="13" textLength="26.494">Paid</tspan>
-      </text>
-      <path d="M 804.8432 1350.4577 L 886.8432 1350.4577 C 889.0523 1350.4577 890.8432 1352.2485 890.8432 1354.4577 L 890.8432 1411.4577 C 890.8432 1413.6668 889.0523 1415.4577 886.8432 1415.4577 L 804.8432 1415.4577 C 802.6341 1415.4577 800.8432 1413.6668 800.8432 1411.4577 L 800.8432 1354.4577 C 800.8432 1352.2485 802.6341 1350.4577 804.8432 1350.4577 Z" fill="white"/>
-      <path d="M 804.8432 1350.4577 L 886.8432 1350.4577 C 889.0523 1350.4577 890.8432 1352.2485 890.8432 1354.4577 L 890.8432 1411.4577 C 890.8432 1413.6668 889.0523 1415.4577 886.8432 1415.4577 L 804.8432 1415.4577 C 802.6341 1415.4577 800.8432 1413.6668 800.8432 1411.4577 L 800.8432 1354.4577 C 800.8432 1352.2485 802.6341 1350.4577 804.8432 1350.4577 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(806.8432 1364.9577)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="5.421" y="13" textLength="71.006">Authorised </tspan>
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="1.69" y="31" textLength="74.62">for payment</tspan>
-      </text>
-      <line x1="891.0788" y1="1053.7725" x2="1026.7975" y2="1128.4959" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="938.2151" y="1079.7643" width="51" height="28" fill="white"/>
-      <text transform="translate(943.2151 1084.7643)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".272" y="13" textLength="40.456">Cancel</tspan>
-      </text>
-      <path d="M 890.7028 1215.1931 C 926.8923 1241.8656 999.2586 1267.2606 999.282 1295.2185 C 999.3038 1321.268 936.5221 1349.5571 898.7159 1376.9522" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="946.2806" y="1281.449" width="106" height="28" fill="white"/>
-      <text transform="translate(951.2806 1286.449)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".4525" y="13" textLength="95.095">Review timeout</tspan>
-      </text>
-      <circle cx="844.9605" cy="781.5" r="10.000016" fill="#3f4243"/>
-      <text transform="translate(854.9605 771.5)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="3.532047" y="13" textLength="28.158">New</tspan>
-      </text>
-      <line x1="891.5731" y1="1214.7006" x2="1026.8538" y2="1138.1465" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="940.6614" y="1158.4918" width="51" height="28" fill="white"/>
-      <text transform="translate(945.6614 1163.4918)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".272" y="13" textLength="40.456">Cancel</tspan>
-      </text>
-      <line x1="890.4699" y1="914.7077" x2="1009.5699" y2="914.7077" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="928.948" y="900.7077" width="53" height="28" fill="white"/>
-      <text transform="translate(933.948 905.7077)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".31" y="13" textLength="42.38">Discart</tspan>
-      </text>
-      <circle cx="1034.4699" cy="914.7077" r="15.000024" fill="white"/>
-      <circle cx="1034.4699" cy="914.7077" r="15.000024" stroke="#3f4243" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <circle cx="1034.4699" cy="914.7077" r="10.500017" fill="#3f4243"/>
-      <text transform="translate(1049.4699 905.7077)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="3.983511" y="13" textLength="58.032">Discarted</tspan>
-      </text>
-      <circle cx="1050.4699" cy="1133.2707" r="15.000024" fill="white"/>
-      <circle cx="1050.4699" cy="1133.2707" r="15.000024" stroke="#3f4243" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <circle cx="1050.4699" cy="1133.2707" r="10.500017" fill="#3f4243"/>
-      <text transform="translate(1065.4699 1124.2707)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="5.756" y="13" textLength="59.488">Cancelled</tspan>
-      </text>
-      <path d="M 1202.5 771.5 L 1419 771.5 C 1421.7614 771.5 1424 773.7386 1424 776.5 L 1424 985.587 C 1424 988.3484 1421.7614 990.587 1419 990.587 L 1202.5 990.587 C 1199.7386 990.587 1197.5 988.3484 1197.5 985.587 L 1197.5 776.5 C 1197.5 773.7386 1199.7386 771.5 1202.5 771.5 Z" fill="white"/>
-      <path d="M 1202.5 771.5 L 1419 771.5 C 1421.7614 771.5 1424 773.7386 1424 776.5 L 1424 985.587 C 1424 988.3484 1421.7614 990.587 1419 990.587 L 1202.5 990.587 C 1199.7386 990.587 1197.5 988.3484 1197.5 985.587 L 1197.5 776.5 C 1197.5 773.7386 1199.7386 771.5 1202.5 771.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(1202.5 776.5)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="58.922" y="15" textLength="98.656">Actor Colours</tspan>
-      </text>
-      <rect x="1206.5" y="856.9457" width="18.5" height="18.5" fill="#1db100"/>
-      <text transform="translate(1237.5 856.9717)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="15" textLength="37.616">Giver</tspan>
-      </text>
-      <rect x="1206.5" y="829.5978" width="18.5" height="18.5" fill="#00a2ff"/>
-      <text transform="translate(1237.5 829.6238)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="15" textLength="141.072">Campaign Manager</tspan>
-      </text>
-      <rect x="1206.5" y="966.337" width="18.5" height="18.5" fill="#666a6b"/>
-      <text transform="translate(1237.5 966.363)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="15" textLength="34.976">Time</tspan>
-      </text>
-      <rect x="1206.5" y="938.9892" width="18.5" height="18.5" fill="#f9ba00"/>
-      <text transform="translate(1237.5 939.0152)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="15" textLength="67.264">Recipient</tspan>
-      </text>
-      <rect x="1206.5" y="911.6413" width="18.5" height="18.5" fill="#ee220c"/>
-      <text transform="translate(1237.5 911.6673)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="15" textLength="139.536">Milestone Reviewer</tspan>
-      </text>
-      <rect x="1206.5" y="802.25" width="18.5" height="18.5" fill="#e400e4"/>
-      <text transform="translate(1237.5 802.276)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="15" textLength="143.696">Campaign Reviewer</tspan>
-      </text>
-      <rect x="1206.5" y="884.2935" width="18.5" height="18.5" fill="#01a99d"/>
-      <text transform="translate(1237.5 884.3195)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="0" y="15" textLength="136.912">Milestone Manager</tspan>
-      </text>
-      <rect x="871.7028" y="970.289" width="18.5" height="18.5" fill="#00a2ff"/>
-      <rect x="933.5" y="882.2077" width="18.5" height="18.5" fill="#00a2ff"/>
-      <rect x="800.2028" y="1145.9918" width="18.5" height="18.5" fill="#01a99d"/>
-      <rect x="970.7151" y="1061.2643" width="18.5" height="18.5" fill="#01a99d"/>
-      <rect x="973.1614" y="1185.3567" width="18.5" height="18.5" fill="#01a99d"/>
-      <rect x="954.4651" y="1306.449" width="18.5" height="18.5" fill="#666a6b"/>
-      <rect x="784" y="1306.449" width="18.5" height="18.5" fill="#ee220c"/>
-      <rect x="636" y="1148.2905" width="18.5" height="18.5" fill="#ee220c"/>
-      <rect x="872.3432" y="1582.2216" width="18.5" height="18.5" fill="#f9ba00"/>
-      <rect x="824.8566" y="1145.9918" width="18.5" height="18.5" fill="#f9ba00"/>
-      <rect x="659.7442" y="1148.2905" width="18.5" height="18.5" fill="#e400e4"/>
-      <rect x="997.5959" y="1185.3567" width="18.5" height="18.5" fill="#e400e4"/>
-      <rect x="995.2322" y="1061.2643" width="18.5" height="18.5" fill="#e400e4"/>
-      <rect x="808" y="1306.449" width="18.5" height="18.5" fill="#e400e4"/>
-      <rect x="1021.0305" y="1185.3567" width="18.5" height="18.5" fill="#666a6b"/>
-      <rect x="1018.6932" y="1061.2643" width="18.5" height="18.5" fill="#666a6b"/>
-      <rect x="1044.465" y="1185.3567" width="18.5" height="18.5" fill="#ee220c"/>
-      <rect x="1042.465" y="1061.2643" width="18.5" height="18.5" fill="#ee220c"/>
-      <path d="M 804.1826 1496.0968 L 886.1826 1496.0968 C 888.3918 1496.0968 890.1826 1497.8876 890.1826 1500.0968 L 890.1826 1557.0968 C 890.1826 1559.3059 888.3918 1561.0968 886.1826 1561.0968 L 804.1826 1561.0968 C 801.9735 1561.0968 800.1826 1559.3059 800.1826 1557.0968 L 800.1826 1500.0968 C 800.1826 1497.8876 801.9735 1496.0968 804.1826 1496.0968 Z" fill="white"/>
-      <path d="M 804.1826 1496.0968 L 886.1826 1496.0968 C 888.3918 1496.0968 890.1826 1497.8876 890.1826 1500.0968 L 890.1826 1557.0968 C 890.1826 1559.3059 888.3918 1561.0968 886.1826 1561.0968 L 804.1826 1561.0968 C 801.9735 1561.0968 800.1826 1559.3059 800.1826 1557.0968 L 800.1826 1500.0968 C 800.1826 1497.8876 801.9735 1496.0968 804.1826 1496.0968 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <text transform="translate(806.1826 1510.5968)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="9.5095" y="13" textLength="62.829">Ready for </tspan>
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="12.519" y="31" textLength="52.962">Payment</tspan>
-      </text>
-      <line x1="845.8391" y1="1415.9577" x2="845.2678" y2="1485.6971" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="773.0205" y="1440.8462" width="145" height="28" fill="white"/>
-      <text transform="translate(778.0205 1445.8462)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".0885" y="13" textLength="134.823">Release delay timeout</tspan>
-      </text>
-      <rect x="918.0205" y="1445.5962" width="18.5" height="18.5" fill="#666a6b"/>
-      <line x1="844.9605" y1="791.5" x2="845.4115" y2="871.8078" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="814.6727" y="815.2789" width="61" height="28" fill="white"/>
-      <text transform="translate(819.6727 820.2789)" fill="#515556">
-        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x=".358" y="13" textLength="50.284">Propose</tspan>
-      </text>
+      <g id="Graphic_49_shadow" filter="url(#Shadow)">
+        <path d="M 1202.5 771.5 L 1419 771.5 C 1421.7614 771.5 1424 773.7386 1424 776.5 L 1424 985.587 C 1424 988.3484 1421.7614 990.587 1419 990.587 L 1202.5 990.587 C 1199.7386 990.587 1197.5 988.3484 1197.5 985.587 L 1197.5 776.5 C 1197.5 773.7386 1199.7386 771.5 1202.5 771.5 Z" fill="white"/>
+        <path d="M 1202.5 771.5 L 1419 771.5 C 1421.7614 771.5 1424 773.7386 1424 776.5 L 1424 985.587 C 1424 988.3484 1421.7614 990.587 1419 990.587 L 1202.5 990.587 C 1199.7386 990.587 1197.5 988.3484 1197.5 985.587 L 1197.5 776.5 C 1197.5 773.7386 1199.7386 771.5 1202.5 771.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_94">
+        <title>Rectangle</title>
+      </g>
+      <g id="Graphic_89">
+        <path d="M 804.4699 882.2077 L 886.4699 882.2077 C 888.679 882.2077 890.4699 883.9985 890.4699 886.2077 L 890.4699 943.2077 C 890.4699 945.4168 888.679 947.2077 886.4699 947.2077 L 804.4699 947.2077 C 802.2608 947.2077 800.4699 945.4168 800.4699 943.2077 L 800.4699 886.2077 C 800.4699 883.9985 802.2608 882.2077 804.4699 882.2077 Z" fill="white"/>
+        <path d="M 804.4699 882.2077 L 886.4699 882.2077 C 888.679 882.2077 890.4699 883.9985 890.4699 886.2077 L 890.4699 943.2077 C 890.4699 945.4168 888.679 947.2077 886.4699 947.2077 L 804.4699 947.2077 C 802.2608 947.2077 800.4699 945.4168 800.4699 943.2077 L 800.4699 886.2077 C 800.4699 883.9985 802.2608 882.2077 804.4699 882.2077 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(806.4699 905.7077)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="9.763" y="13">Proposed</tspan>
+        </text>
+      </g>
+      <g id="Graphic_88">
+        <path d="M 804.2028 1020.7902 L 886.2028 1020.7902 C 888.412 1020.7902 890.2028 1022.5811 890.2028 1024.7902 L 890.2028 1081.7902 C 890.2028 1083.9994 888.412 1085.7902 886.2028 1085.7902 L 804.2028 1085.7902 C 801.9937 1085.7902 800.2028 1083.9994 800.2028 1081.7902 L 800.2028 1024.7902 C 800.2028 1022.5811 801.9937 1020.7902 804.2028 1020.7902 Z" fill="white"/>
+        <path d="M 804.2028 1020.7902 L 886.2028 1020.7902 C 888.412 1020.7902 890.2028 1022.5811 890.2028 1024.7902 L 890.2028 1081.7902 C 890.2028 1083.9994 888.412 1085.7902 886.2028 1085.7902 L 804.2028 1085.7902 C 801.9937 1085.7902 800.2028 1083.9994 800.2028 1081.7902 L 800.2028 1024.7902 C 800.2028 1022.5811 801.9937 1020.7902 804.2028 1020.7902 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(806.2028 1044.2902)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="6.734" y="13">In Funding</tspan>
+        </text>
+      </g>
+      <g id="Line_87">
+        <line x1="845.4699" y1="947.2077" x2="845.2387" y2="1010.8903" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_86">
+        <rect x="819.8566" y="964.4156" width="51" height="28" fill="white"/>
+        <text transform="translate(824.8566 969.4156)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".038" y="13">Create</tspan>
+        </text>
+      </g>
+      <g id="Graphic_85">
+        <path d="M 804.7028 1182.6931 L 886.7028 1182.6931 C 888.912 1182.6931 890.7028 1184.484 890.7028 1186.6931 L 890.7028 1243.6931 C 890.7028 1245.9023 888.912 1247.6931 886.7028 1247.6931 L 804.7028 1247.6931 C 802.4937 1247.6931 800.7028 1245.9023 800.7028 1243.6931 L 800.7028 1186.6931 C 800.7028 1184.484 802.4937 1182.6931 804.7028 1182.6931 Z" fill="white"/>
+        <path d="M 804.7028 1182.6931 L 886.7028 1182.6931 C 888.912 1182.6931 890.7028 1184.484 890.7028 1186.6931 L 890.7028 1243.6931 C 890.7028 1245.9023 888.912 1247.6931 886.7028 1247.6931 L 804.7028 1247.6931 C 802.4937 1247.6931 800.7028 1245.9023 800.7028 1243.6931 L 800.7028 1186.6931 C 800.7028 1184.484 802.4937 1182.6931 804.7028 1182.6931 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(806.7028 1206.1931)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="5.057" y="13">Completed</tspan>
+        </text>
+      </g>
+      <g id="Line_84">
+        <path d="M 845.2028 1085.7902 C 845.2028 1112.4043 845.6007 1144.9097 845.6866 1172.7951" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_83">
+        <rect x="789.9419" y="1118.783" width="111" height="28" fill="white"/>
+        <text transform="translate(794.9419 1123.783)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".424" y="13">Mark completed</tspan>
+        </text>
+      </g>
+      <g id="Line_82">
+        <line x1="845.7057" y1="1248.6931" x2="845.9718" y2="1342.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_81">
+        <rect x="779.3351" y="1280.1378" width="133" height="28" fill="white"/>
+        <text transform="translate(784.3351 1285.1378)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".4715" y="13">Approve completed</tspan>
+        </text>
+      </g>
+      <g id="Line_80">
+        <path d="M 799.8779 1214.6279 C 762.6045 1189.0911 688.1255 1164.7962 688.0467 1138.0098 C 687.97326 1113.0465 752.5163 1085.9054 791.344 1059.6342" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_79">
+        <rect x="629.999" y="1120.2905" width="117" height="28" fill="white"/>
+        <text transform="translate(634.999 1125.2905)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".044" y="13">Reject completed</tspan>
+        </text>
+      </g>
+      <g id="Line_78">
+        <path d="M 846 1417 C 846 1427.6827 845.8643 1460.953 845.8154 1479.74" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_77">
+        <rect x="819.4192" y="1433.3748" width="53" height="28" fill="white"/>
+        <text transform="translate(824.4192 1438.3748)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".31" y="13">Collect</tspan>
+        </text>
+      </g>
+      <g id="Group_72">
+        <g id="Group_74">
+          <g id="Graphic_76">
+            <circle cx="845.7981" cy="1504.6391" r="15.0000239685285" fill="white"/>
+            <circle cx="845.7981" cy="1504.6391" r="15.0000239685285" stroke="#3f4243" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_75">
+            <circle cx="845.7981" cy="1504.6391" r="10.5000167779699" fill="#3f4243"/>
+          </g>
+        </g>
+        <g id="Graphic_73">
+          <text transform="translate(866.2873 1495.6391)" fill="#515556">
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="2.4396574" y="13">Paid</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_70">
+        <line x1="891.0788" y1="1053.7725" x2="1026.7975" y2="1128.4959" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_69">
+        <rect x="938.2151" y="1079.7643" width="51" height="28" fill="white"/>
+        <text transform="translate(943.2151 1084.7643)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".272" y="13">Cancel</tspan>
+        </text>
+      </g>
+      <g id="Line_68">
+        <path d="M 890.7028 1215.1931 C 926.8923 1241.8656 999.2325 1267.0035 999.282 1295.2185 C 999.3282 1321.5185 936.5636 1350.5068 898.8142 1378.421" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_67">
+        <rect x="946.2765" y="1281.6778" width="106" height="28" fill="white"/>
+        <text transform="translate(951.2765 1286.6778)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".4525" y="13">Review timeout</tspan>
+        </text>
+      </g>
+      <g id="Group_64">
+        <g id="Graphic_66">
+          <circle cx="844.9605" cy="781.5" r="10.0000159790189" fill="#3f4243"/>
+        </g>
+        <g id="Graphic_65">
+          <text transform="translate(854.9605 771.5)" fill="#515556">
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="3.532047" y="13">New</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_63">
+        <line x1="891.5731" y1="1214.7006" x2="1026.8538" y2="1138.1465" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_62">
+        <rect x="940.6614" y="1158.4918" width="51" height="28" fill="white"/>
+        <text transform="translate(945.6614 1163.4918)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".272" y="13">Cancel</tspan>
+        </text>
+      </g>
+      <g id="Line_61">
+        <line x1="890.4699" y1="914.7077" x2="989.085" y2="914.7077" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_60">
+        <rect x="921.1296" y="900.7077" width="48" height="28" fill="white"/>
+        <text transform="translate(926.1296 905.7077)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".0915" y="13">Reject</tspan>
+        </text>
+      </g>
+      <g id="Group_55">
+        <g id="Group_57">
+          <g id="Graphic_59">
+            <circle cx="1114" cy="1022" r="15.0000239685285" fill="white"/>
+            <circle cx="1114" cy="1022" r="15.0000239685285" stroke="#3f4243" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_58">
+            <circle cx="1114" cy="1022" r="10.5000167779699" fill="#3f4243"/>
+          </g>
+        </g>
+        <g id="Graphic_56">
+          <text transform="translate(1129 1013)" fill="#515556">
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="3.983511" y="13">Discarted</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_50">
+        <g id="Group_52">
+          <g id="Graphic_54">
+            <circle cx="1050.4699" cy="1133.2707" r="15.0000239685285" fill="white"/>
+            <circle cx="1050.4699" cy="1133.2707" r="15.0000239685285" stroke="#3f4243" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_53">
+            <circle cx="1050.4699" cy="1133.2707" r="10.5000167779699" fill="#3f4243"/>
+          </g>
+        </g>
+        <g id="Graphic_51">
+          <text transform="translate(1065.4699 1124.2707)" fill="#515556">
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="5.756" y="13">Cancelled</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_27">
+        <g id="Graphic_49">
+          <path d="M 1202.5 771.5 L 1419 771.5 C 1421.7614 771.5 1424 773.7386 1424 776.5 L 1424 985.587 C 1424 988.3484 1421.7614 990.587 1419 990.587 L 1202.5 990.587 C 1199.7386 990.587 1197.5 988.3484 1197.5 985.587 L 1197.5 776.5 C 1197.5 773.7386 1199.7386 771.5 1202.5 771.5 Z" fill="white"/>
+          <path d="M 1202.5 771.5 L 1419 771.5 C 1421.7614 771.5 1424 773.7386 1424 776.5 L 1424 985.587 C 1424 988.3484 1421.7614 990.587 1419 990.587 L 1202.5 990.587 C 1199.7386 990.587 1197.5 988.3484 1197.5 985.587 L 1197.5 776.5 C 1197.5 773.7386 1199.7386 771.5 1202.5 771.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(1202.5 776.5)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="58.922" y="15">Actor Colours</tspan>
+          </text>
+        </g>
+        <g id="Group_46">
+          <g id="Graphic_48">
+            <rect x="1206.5" y="856.9457" width="18.5" height="18.5" fill="#1db100"/>
+          </g>
+          <g id="Graphic_47">
+            <text transform="translate(1237.5 856.9717)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Giver</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_43">
+          <g id="Graphic_45">
+            <rect x="1206.5" y="829.5978" width="18.5" height="18.5" fill="#00a2ff"/>
+          </g>
+          <g id="Graphic_44">
+            <text transform="translate(1237.5 829.6238)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Campaign Manager</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_40">
+          <g id="Graphic_42">
+            <rect x="1206.5" y="966.337" width="18.5" height="18.5" fill="#666a6b"/>
+          </g>
+          <g id="Graphic_41">
+            <text transform="translate(1237.5 966.363)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Time</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_37">
+          <g id="Graphic_39">
+            <rect x="1206.5" y="938.9892" width="18.5" height="18.5" fill="#f9ba00"/>
+          </g>
+          <g id="Graphic_38">
+            <text transform="translate(1237.5 939.0152)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Recipient</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_34">
+          <g id="Graphic_36">
+            <rect x="1206.5" y="911.6413" width="18.5" height="18.5" fill="#ee220c"/>
+          </g>
+          <g id="Graphic_35">
+            <text transform="translate(1237.5 911.6673)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Milestone Reviewer</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_31">
+          <g id="Graphic_33">
+            <rect x="1206.5" y="802.25" width="18.5" height="18.5" fill="#e400e4"/>
+          </g>
+          <g id="Graphic_32">
+            <text transform="translate(1237.5 802.276)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Campaign Reviewer</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_28">
+          <g id="Graphic_30">
+            <rect x="1206.5" y="884.2935" width="18.5" height="18.5" fill="#01a99d"/>
+          </g>
+          <g id="Graphic_29">
+            <text transform="translate(1237.5 884.3195)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Milestone Manager</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_26">
+        <rect x="871.7028" y="970.289" width="18.5" height="18.5" fill="#00a2ff"/>
+      </g>
+      <g id="Graphic_25">
+        <rect x="931.6239" y="928.7077" width="18.5" height="18.5" fill="#00a2ff"/>
+      </g>
+      <g id="Graphic_24">
+        <rect x="800.2028" y="1145.9918" width="18.5" height="18.5" fill="#01a99d"/>
+      </g>
+      <g id="Graphic_23">
+        <rect x="970.7151" y="1061.2643" width="18.5" height="18.5" fill="#01a99d"/>
+      </g>
+      <g id="Graphic_22">
+        <rect x="973.1614" y="1185.3567" width="18.5" height="18.5" fill="#01a99d"/>
+      </g>
+      <g id="Graphic_21">
+        <rect x="1052.2806" y="1284.2093" width="18.5" height="18.5" fill="#666a6b"/>
+      </g>
+      <g id="Graphic_20">
+        <rect x="784" y="1306.449" width="18.5" height="18.5" fill="#ee220c"/>
+      </g>
+      <g id="Graphic_19">
+        <rect x="636" y="1148.2905" width="18.5" height="18.5" fill="#ee220c"/>
+      </g>
+      <g id="Graphic_18">
+        <rect x="873.1606" y="1438.1248" width="18.5" height="18.5" fill="#f9ba00"/>
+      </g>
+      <g id="Graphic_17">
+        <rect x="824.8566" y="1145.9918" width="18.5" height="18.5" fill="#f9ba00"/>
+      </g>
+      <g id="Graphic_16">
+        <rect x="659.7442" y="1148.2905" width="18.5" height="18.5" fill="#e400e4"/>
+      </g>
+      <g id="Graphic_15">
+        <rect x="997.5959" y="1185.3567" width="18.5" height="18.5" fill="#e400e4"/>
+      </g>
+      <g id="Graphic_14">
+        <rect x="995.2322" y="1061.2643" width="18.5" height="18.5" fill="#e400e4"/>
+      </g>
+      <g id="Graphic_13">
+        <rect x="808" y="1306.449" width="18.5" height="18.5" fill="#e400e4"/>
+      </g>
+      <g id="Graphic_12">
+        <rect x="1021.0305" y="1185.3567" width="18.5" height="18.5" fill="#666a6b"/>
+      </g>
+      <g id="Graphic_11">
+        <rect x="1018.6932" y="1061.2643" width="18.5" height="18.5" fill="#666a6b"/>
+      </g>
+      <g id="Graphic_10">
+        <rect x="1044.465" y="1185.3567" width="18.5" height="18.5" fill="#ee220c"/>
+      </g>
+      <g id="Graphic_9">
+        <rect x="1042.465" y="1061.2643" width="18.5" height="18.5" fill="#ee220c"/>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 805 1352 L 887 1352 C 889.2091 1352 891 1353.7909 891 1356 L 891 1413 C 891 1415.2091 889.2091 1417 887 1417 L 805 1417 C 802.7909 1417 801 1415.2091 801 1413 L 801 1356 C 801 1353.7909 802.7909 1352 805 1352 Z" fill="white"/>
+        <path d="M 805 1352 L 887 1352 C 889.2091 1352 891 1353.7909 891 1356 L 891 1413 C 891 1415.2091 889.2091 1417 887 1417 L 805 1417 C 802.7909 1417 801 1415.2091 801 1413 L 801 1356 C 801 1353.7909 802.7909 1352 805 1352 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(807 1366.5)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="9.5095" y="13">Ready for </tspan>
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="12.519" y="31">Payment</tspan>
+        </text>
+      </g>
+      <g id="Line_4">
+        <line x1="845.0111" y1="791.4999" x2="845.4173" y2="871.8078" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3">
+        <rect x="814.7022" y="815.2788" width="61" height="28" fill="white"/>
+        <text transform="translate(819.7022 820.2788)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".358" y="13">Propose</tspan>
+        </text>
+      </g>
+      <g id="Line_96">
+        <path d="M 835.6292 785.1023 C 799.5489 799.4828 670.6392 855.2135 659.7442 921.3729 C 649.0159 986.5204 756.9882 1035.8608 790.4813 1049.5066" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_98">
+        <path d="M 1002.985 882.2077 L 1084.985 882.2077 C 1087.1941 882.2077 1088.985 883.9985 1088.985 886.2077 L 1088.985 943.2077 C 1088.985 945.4168 1087.1941 947.2077 1084.985 947.2077 L 1002.985 947.2077 C 1000.7758 947.2077 998.985 945.4168 998.985 943.2077 L 998.985 886.2077 C 998.985 883.9985 1000.7758 882.2077 1002.985 882.2077 Z" fill="white"/>
+        <path d="M 1002.985 882.2077 L 1084.985 882.2077 C 1087.1941 882.2077 1088.985 883.9985 1088.985 886.2077 L 1088.985 943.2077 C 1088.985 945.4168 1087.1941 947.2077 1084.985 947.2077 L 1002.985 947.2077 C 1000.7758 947.2077 998.985 945.4168 998.985 943.2077 L 998.985 886.2077 C 998.985 883.9985 1000.7758 882.2077 1002.985 882.2077 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(1004.985 905.7077)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="12.2655" y="13">Rejected</tspan>
+        </text>
+      </g>
+      <g id="Line_99">
+        <line x1="1044.3527" y1="947.7077" x2="1093.1339" y2="1014.0251" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_101">
+        <path d="M 1043.7528 881.7077 C 1041.1785 876.3002 1017.0438 829.0201 964.0029 837.7037 C 937.9991 841.9609 910.7015 858.7436 888.8657 875.5588" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_102">
+        <rect x="931.6239" y="822.7843" width="81" height="28" fill="white"/>
+        <text transform="translate(936.6239 827.7843)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".361" y="13">Re-propose</tspan>
+        </text>
+      </g>
+      <g id="Graphic_103">
+        <rect x="634.4672" y="906.1073" width="51" height="28" fill="white"/>
+        <text transform="translate(639.4672 911.1073)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".038" y="13">Create</tspan>
+        </text>
+      </g>
+      <g id="Graphic_104">
+        <rect x="636" y="933.1709" width="18.5" height="18.5" fill="#00a2ff"/>
+      </g>
+      <g id="Graphic_105">
+        <rect x="1040.7504" y="964.8367" width="53" height="28" fill="white"/>
+        <text transform="translate(1045.7504 969.8367)" fill="#515556">
+          <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x=".31" y="13">Discart</tspan>
+        </text>
+      </g>
     </g>
   </g>
 </svg>
