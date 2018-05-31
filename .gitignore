@@ -1,7 +1,2 @@
 site/
-.idea/
-node_modules/
-yarn.lock
-package-lock.json
-wiki/documentation/mvp.md
-
+.DS_Store
