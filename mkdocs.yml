@@ -109,7 +109,6 @@ pages:
             - Governance Meeting 31: 'protocol/gov-meeting-31.md'
             - Governance Meeting 32: 'protocol/gov-meeting-32.md'
             - Governance Meeting 33: 'protocol/gov-meeting-33.md'
-          - Other Meetings:
-            - Onboarding Meeting 01: 'protocol/onboarding-meeting-1.md'
+            - Onboarding Meeting: 'protocol/onboarding-meeting.md'
             - Milestone Brainstorm:  'protocol/milestone-brainstorm.md' 
     - Publicity and News: 'publicity/in-the-news.md'
