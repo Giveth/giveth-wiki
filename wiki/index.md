@@ -39,7 +39,7 @@ We hope this decentralization will encourage creative solutions to global issues
 * People that want to do good work for their cause can be rewarded for their actions.
 * Real change and innovation comes about when communities join together to make the world a better place.
 
-##  A Solution to directly connect Givers and Makers!
+##  A solution to directly connect Givers and Makers!
 
 The charitable system is evolving and several projects are working on integrating blockchain technology to enable frictionless, global and transparent transactions. Giveth is leapfrogging this integration, taking it to the next level, enabling Givers and Makers to interact directly with each other in a safe and trustless manner.
 
