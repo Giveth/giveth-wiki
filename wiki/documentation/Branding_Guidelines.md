@@ -1,6 +1,6 @@
 # **Giveth Brand Identity**
 
-Giveth Brand commits to develop an open source Dapp (Decentralized Application), that inspires 'Decentralized Altruistic Communities' to connect, transform and empowers and connects (DAC) to create and transform the world through good causes 
+Giveth commits to develop an open source Dapp (Decentralized Application), that inspires 'Decentralized Altruistic Communities' to connect, transform and empowers and connects (DAC) to create and transform the world through good causes 
 
 ## Dapp and DAC
 **Our Brand is represented in two environments: The Dapp vs DAC brand**
