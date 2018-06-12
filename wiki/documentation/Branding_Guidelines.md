@@ -5,7 +5,7 @@ Giveth Brand commits to develop an open source Dapp (Decentralized Application),
 ## Dapp and DAC
 **Our Brand is represented in two environments: The Dapp vs DAC brand**
 
-Giveth is the Dapp (platform) developed by the Unicorn DAC, both can be viewed as community led projects, not organizations, not charities, not legal entities. The Unicorn DAC's mission is to develop the Giveth platform, it is defined by the team's drives and shared values supporting transparency, open-source development and collaborating like-minded projects. The Unicorn DAC encourages similar initiatives to co-create and to organize themselves as similar DACs and not competitors, sharing similar goals and objectives, we all strive to make the world a better place.  
+Giveth is the Dapp (platform) developed by the Giveth DAC, both can be viewed as community led projects, not organizations, not charities, not legal entities. The Giveth DAC's mission is to develop the Giveth platform, it is defined by the team's drives and shared values supporting transparency, open-source development and collaborating like-minded projects. The Giveth DAC encourages similar initiatives to co-create and to organize themselves as similar DACs and not competitors, sharing similar goals and objectives, we all strive to make the world a better place.  
 
 Brand identity is a bundle of mental and functional associations with the Giveth Dapp. Associations are not "reasons-to-donate", but provide familiarity and differentiation that's not replicable.
 
@@ -28,7 +28,7 @@ We aim to create a bundle of mental and functional associations with these keywo
 *   **Connection**
 *   **Inclusion**
 
-Our uniqueness may come from the fact that neither Unicorn DAC, nor the Giveth Dapp  are a legal entity in the traditional sense. Certain secondary properties can be identified: 
+Our uniqueness may come from the fact that neither Giveth DAC, nor the Giveth Dapp  are a legal entity in the traditional sense. Certain secondary properties can be identified: 
 
 
 
@@ -55,7 +55,7 @@ We are a community that enables great causes to be supported. We are not a chari
 
 **Personality**
 
-The Unicorn DAC  is friendly, informal, at times it may be a bit chaotic, funny (emojis users), committed, speak from the heart, collaborative and community advocates. The language is colloquial and sounds young in spirit.  The Giveth platform is friendly, minimalistic and inclusive, it sends a consistent message of trust and transparency. 
+The Giveth DAC  is friendly, informal, at times it may be a bit chaotic, funny (emojis users), committed, speak from the heart, collaborative and community advocates. The language is colloquial and sounds young in spirit.  The Giveth platform is friendly, minimalistic and inclusive, it sends a consistent message of trust and transparency. 
 
 **Relationships**
 
@@ -99,7 +99,7 @@ Our logo may be the single most important graphic decision we made when developi
 ![Giveth Logo](../images/branding-guidelines/giveth-logo-black.png) 
 
 
-**Unicorn DAC logo**
+**Giveth DAC logo**
 
 
 ![Unicorn DAC Logo](../images/branding-guidelines/giveth-dac-logo-dark.png)
@@ -128,17 +128,9 @@ _Components:_
 
 -------------------------------------------------
 
-**Tag lines**
+**Tag line**
 
 Building the future of Giving
-
-Giveth is more than Giving  
-
-Transparent donation giving on the blockchain
-
-Unicorns are busy building DACs
-
-Empowering Altruistic Communities 
 
 **Typography**
 
@@ -194,7 +186,6 @@ The colored version of the Giveth logo can ONLY be used on a white background. I
 When using the Giveth logo with other logos and graphic elements, maintain a safety space that equals 200% the size of the circle around the it. 
 
 We politely ask that you don't:
-
 
 
 *   Use any logos or similar imagery to represent Giveth other than what is found in the brand folder
