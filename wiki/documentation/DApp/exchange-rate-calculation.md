@@ -1,5 +1,10 @@
 # How we calculate Ether - Fiat exchange rates
-When you create a milestone within the [Giveth Dapp](https://alpha.giveth.io), you can enter the amount of the milestone either in Ether or in fiat. Our system then automatically calculates the correct conversion rate based on the date of the milestone. This is how we do it:
+
+When Giveth needs exchange rates outside of the Giveth DApp, we use the social coding project: https://giveth.github.io/xchange-rates/ which follows the same methodolagy as the DApp and should give the same result.
+
+When you create a milestone within the [Giveth DApp](https://alpha.giveth.io), you can enter an amount in ether or in fiat. Our system then automatically calculates the conversion rate based on the date of the milestone. 
+
+This is how it works:
 
 In our Feathers backend we keep a cache of the daily average exchange rate for each date. We use Crypto Compare to fetch these rates as we found it the most reliable api. Another plus is that it aggregates data from 80+ exchanges. This is how [Crypto Compare](https://www.cryptocompare.com/api/#-api-data-price) calculates the daily average:
 
@@ -13,7 +18,7 @@ In our Feathers backend we keep a cache of the daily average exchange rate for e
 > 
 > To work out the percentage of volume that an exchange has we only sum
 > exchanges that we include in the price calculation (i.e. we don't
-> include exchange that have poor pricing).
+> include exchanges that have poor pricing).
 > 
 > The price index also has a volume reduction when taking it into
 > account in the average value (CryptoCompare Index). The reduction
