@@ -38,8 +38,8 @@ Name | Handle | Salary
 **Yalor**  | @yalormewn | 600 EUR / week
 **Arthur** | @quazia | 600 EUR / week
 **Griff** | @griff | 600 EUR / week
-**Kay** | @gelee_royale | 600 EUR / week
-**Kris** | @krrisis | 600 EUR / week
+**Kay** | @geleeroyale | 650 EUR / week
+**Kris** | @krrisis | 650 EUR / week
 **Vojtech** | @vojtech | 1,234.75 EUR / week
 **Satya** | @satya | 987.80 EUR / week
 **Perrisology** | @perrisology | 1,620.60 EUR / week
