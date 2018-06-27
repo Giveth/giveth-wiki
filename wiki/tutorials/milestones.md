@@ -1,6 +1,9 @@
 # How to Make a Milestone!
 Welcome! If you are super new to Giveth, join the [Contributors channel](https://riot.im/app/#/room/#giveth-contributors:matrix.org) on Riot. You can introduce yourself and ask questions there!
 
+This is a living document and will change as bugs are fixed and features added to the DApp. Feel free to contribute to this tutorial!
+
+
 1. Go to alpha.giveth.io and select which campaign your milestone is for.
 2. From the campaign page, click “Propose Milestone” which will take you to this page: 
 ![MilestoneTutorialpic1](https://github.com/Giveth/giveth-wiki/blob/master/wiki/images/MilestoneTutorialpic1.png)
