@@ -18,7 +18,7 @@ It had 3 constructor parameters, which for our purposes are set as:
 
 
 
-## MyEtherWallet's Giveth Campaign
+## MyEtherWallet's Giveth Campaign (Deprecated)
 
 MyEtherWallet is one of Giveth's biggest supporters and has volunteered to be our first Public Alpha Tester for the Giveth Platform.
 
