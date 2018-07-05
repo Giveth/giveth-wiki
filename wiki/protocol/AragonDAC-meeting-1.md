@@ -1,5 +1,5 @@
 # Aragon/Giveth DAC Meeting 
-June 5th 2018
+June 5th 2018 <br>
 Attending: Quazia, Vojtech, Lorelei, Griff, Maria, Derek, Tatu, Brett, Kris, Jorge, Luis, Pierre, RJ, Alexa, Jordi, John
 
 
