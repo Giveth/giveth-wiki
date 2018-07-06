@@ -11,7 +11,7 @@ agree: wiggle hand, or two if enthusiastic! <br>
 disagree: arms cross in an x <br>
 wrap it up: hands revolve like a wheel moving fwd <br>
 
-Building the Aragon DAC doc: https://docs.google.com/document/d/1e1e4Y1kFoEsBk-drA333---Abb66sK6OyIaQx1BS2PI/edit
+[Building the Aragon DAC doc](https://docs.google.com/document/d/1e1e4Y1kFoEsBk-drA333---Abb66sK6OyIaQx1BS2PI/edit)
 
 -------------------
 Goal: to use software platform (Giveth), that just released beta, for Aragon DAC. To track all funding visibly.
