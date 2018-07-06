@@ -4,7 +4,7 @@ Attending: Quazia, Vojtech, Lorelei, Griff, Maria, Derek, Tatu, Brett, Kris, Jor
 
 
 
-Helpful Hand Signals:
+Helpful Hand Signals: <br>
 to speak: raise hand <br>
 short comment: raise 1 finger <br>
 agree: wiggle hand, or two if enthusiastic! <br>
