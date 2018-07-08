@@ -1,5 +1,4 @@
-Giveth Governance Meeting #38
-# Giveth Governance Meeting #XXXXX
+# Giveth Governance Meeting #38
 
 
 July 5th, 2018
