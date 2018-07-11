@@ -12,7 +12,9 @@ We are very active and keep an open [Calendar](../dac/calendar/) where you can f
 
 Read about the beginnings of Giveth, our first smart contracts *MiniMe*, the *Vault* and much more on [Medium](https://medium.com/giveth).
 
-Below you can find an intro to the Giveth Donation Application (DApp) and a lot more [here](https://wiki.giveth.io/documentation/DApp/alpha/). Giveth is more than the sum of its parts, so if you are interested to know about some of the other things we focus on and why, head over to our [mission statement](https://wiki.giveth.io/dac/mission/)!
+Below you can find an intro to the Giveth Donation Application (DApp) and a lot more [here](https://wiki.giveth.io/documentation/DApp/alpha/). 
+Giveth is more than the sum of its parts, so if you are interested to know about some of the other things we focus on and why, head over to our [mission statement](https://wiki.giveth.io/dac/mission/)!
+
 
 # The Giveth Donation Application
 
