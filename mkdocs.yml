@@ -42,6 +42,7 @@ pages:
     - Welcome: 'index.md'
 
     - General Info:
+        - Our Mission: 'dac/mission.md'
         - Calendar and Events: 'dac/calendar.md'
         - About the Team: 'dac/about.md'
         - FAQ: 'documentation/faq.md'
