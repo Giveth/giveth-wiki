@@ -7,7 +7,6 @@ For all of this we are aligning ourselves through our shared values ([a work in 
 ### *Giveth is a **Decentralized Altruistic Community (DAC)** focused on using blockchain technology for good, to make the world a better place.*
 
   
-  
 
 ## Giveth promotes **Altruism** 
 
@@ -24,8 +23,6 @@ For all of this we are aligning ourselves through our shared values ([a work in 
 * Giveth believes there can be no true change without Community. That is why the Giveth DApp strives to enable trust within communities by increasing transparency and accountability through blockchain technology. Giving should be all about connecting the Givers with the Makers, the people who are making the change, and creating true and lasting connections between both.
 * Giveth is more than the sum of its parts: while decentralized, our shared values create the energy and inspiration needed to make the world a better place. We call ourselves the Giveth Unicorns. We call the entirety of the 4 Giveth circles (**Dapp Development, Social Coding, Governance, Communication**) the Giveth DAC.  
 
-
-  
-  
+<br>  
 
 Discover more about these four circles and their specific goals [on the DApp](http://beta.giveth.io) where these are represented as Campaigns under the Giveth DAC and or by joining the discussion directly in the respective rooms/channels on [Riot or Slack](http://join.giveth.io). 
