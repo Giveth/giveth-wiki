@@ -1,8 +1,8 @@
-# Welcome to Giveth Wiki
+# Welcome to the Giveth Wiki
 
 **Hello friend!** You came to the right place to learn about Giveth!
 
-We started this wiki in 2017 and **with your help and input** it grows strong and healthy!
+We started this wiki in 2017 and **with your help and input** it's growing every day!
 
 We invite all interested parties to build Giveth: [Join the Giveth community!](http://join.giveth.io)
 
@@ -10,7 +10,11 @@ Giveth website: [Giveth.io](http://giveth.io)
 
 We are very active and keep an open [Calendar](../dac/calendar/) where you can find upcoming events and our community video discussions.
 
-Read about the beginnings of Giveth and our first smart contracts *MiniMe* and *Vault*: [Medium](https://medium.com/giveth)
+Read about the beginnings of Giveth, our first smart contracts *MiniMe*, the *Vault* and much more on [Medium](https://medium.com/giveth).
+
+Below you can find an intro to the Giveth Donation Application (DApp) and a lot more [here](https://wiki.giveth.io/documentation/DApp/alpha/). Giveth is more than the sum of its parts, so if you are interested to know about some of the other things we focus on and why, head over to our [mission statement](https://wiki.giveth.io/dac/mission/)!
+
+# The Giveth Donation Application
 
 ## Where are your donations going?
 
