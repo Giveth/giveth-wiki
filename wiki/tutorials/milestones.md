@@ -4,9 +4,11 @@ Welcome! If you are super new to Giveth, join the [Contributors channel](https:/
 This is a living document and will change as bugs are fixed and features added to the DApp. Feel free to contribute to this tutorial!
 
 
-1. Go to alpha.giveth.io and select which campaign your milestone is for.
+1. Go to beta.giveth.io and select which campaign your milestone is for.
 2. From the campaign page, click “Propose Milestone” which will take you to this page: 
-![MilestoneTutorialpic1](https://github.com/Giveth/giveth-wiki/blob/master/wiki/images/MilestoneTutorialpic1.png)
+
+![MilestoneTutorialpic1](../images/MilestoneTutorialpic1.png) 
+
 3. Create a title! Include the type of milestone (Regular Reward? Reward Dao? Bounty? Expense Reimbursement?), date of the work, and ideally, the name of the recipient.
 4. From this point on, consider copying all of your milestone text to a place where you keep your own records. If your reviewer declines to review this milestone, or if it gets caught in the process for any reason, you will have to re-propose the milestone anew.
 5. Share a little about what you are being paid for. Include proof of work or expenses. You can link to github pages, other documents you worked on, or upload photos of receipts. Show your calculations. ![MilestoneTutorialpic2](https://github.com/Giveth/giveth-wiki/blob/master/wiki/images/MilestoneTutorialpic2.png) For Reward DAO, embed your Wall of Fame video! ![MilestoneTutorialpic3](https://github.com/Giveth/giveth-wiki/blob/master/wiki/images/MilestoneTutorialpic3.png)	If you are listing large sums of money, use standard American denotation rather than european. (e.g: One thousand euro and 55 cents should be 1,000.55 not 1.000,55)
