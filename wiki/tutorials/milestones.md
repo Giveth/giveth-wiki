@@ -20,7 +20,7 @@ If you are listing large sums of money, use standard American denotation rather 
     ![MilestoneTutorialpic4](../images/MilestoneTutorialpic4.png)
 7. Select a Reviewer, and think about who will be the best for the job. The Reviewer is responsible for ensuring that all steps in the milestone have been completed and accomplished, and that it makes sense and is beautiful, before the milestone should be paid out. If possible, choose a different person than the campaign manager. Having the campaign manager, reviewer, and proposer (you) be 3 different people helps ensure against mistakes being overlooked, but the most important thing is that the people approving your milestone understand the work. 
 8. If you are proposing OR EDITING a milestone for someone else, be sure this switch is toggled on and you set the correct address for the recipient! 
-    ![MilestoneTutorialpic5](../wiki/images/MilestoneTutorialpic5.png)
+    ![MilestoneTutorialpic5](../images/MilestoneTutorialpic5.png)
 For Reward DAO, use the address listed on the contributor’s Wall of Fame video. For any others you aren’t sure about, ask a Unicorn on riot for a list of verified addresses of Givethers.  
 9. Set the milestone date to the day of ETH/FIAT conversion.<br>
 a)  Reward Dao: Always on the 15th of the month, at the end of the points period. <br>
