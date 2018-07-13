@@ -57,7 +57,7 @@ pages:
         - Milestones: 'tutorials/milestones.md'
 
     - Giveth Donation Application (DApp):
-        - DApp Alpha: 'documentation/DApp/alpha.md'
+        - DApp Beta: 'documentation/DApp/beta.md'
         - DApp White Paper: 'documentation/DApp/white-paper.md'
         - Product Definition: 'documentation/DApp/product-definition.md'
         - Development Process & Quality Assurance: 'documentation/DApp/product-development-testing.md'
