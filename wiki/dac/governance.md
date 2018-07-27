@@ -28,3 +28,6 @@ Keeping regular video meetings helps the community to get a strong feeling of th
   - Governance Meeting (weekly) - modeled after [holacratic governance meetings](https://www.holacracy.org/governance-meetings) - The aim is to discuss tensions and find solutions within the Giveth DAC.
   - Circle Meetings (weekly per circle)
   - Weekly, informal meetings, like *Fireside chat*
+
+## Decisionmaking
+From the early beginning of the Giveth, the Unicorns have been highly inclusive in their decisionmaking process - integrating new and old voices alike is standard practice. Until recently those decisions have been made solely in weekly governance meetings, but in July 2018 (Governance Meeting #41) we passed a proposal for the primary decisionmaking to take place in our instance of [Loomio - online decisionmaking tool](https://www.loomio.org/g/RQZt4qJ3/giveth) instead and only resolve proposals in meetings that have at least one person disagreeing.
