@@ -56,33 +56,17 @@ pages:
         - Brand Identity Guide: 'documentation/Branding_Guidelines.md'
         - Milestones: 'tutorials/milestones.md'
 
-    - Giveth Donation Application (DApp):
-        - DApp Beta: 'documentation/DApp/beta.md'
-        - DApp White Paper: 'documentation/DApp/white-paper.md'
-        - Product Definition: 'documentation/DApp/product-definition.md'
-        - Development Process & Quality Assurance: 'documentation/DApp/product-development-testing.md'
-        - Roadmap: 'documentation/DApp/product-roadmap.md'
-        - Future: 'documentation/DApp/future.md'
-        - Exchange Rate Calculation: 'documentation/DApp/exchange-rate-calculation.md'
-
-    - Giveth Smart Contracts:
-        - Deployments: 'documentation/deployments.md'
-        - Smart Contracts Roadmap: 'documentation/smart-contracts-roadmap.md'
-
     - Giveth Community (DAC):
         - Governance model: 'dac/governance.md'
         - History: 'dac/history.md'
         - Team Organisation: 'dac/team-organisation.md'
-        - Tools for DACs: 'dac/tools-for-dacs.md'
         - Finances: 'dac/finances.md'
-
-    - Policy:
-        - Adopted Policies: 'policy/approved-policies.md'
-        - Holacratic Governance Meetings: 'protocol/governance-meetings.md'
-        - Code of Conduct: 'policy/codeofconduct.md'
-
-    - Protocol:
-          - Governance Meetings:
+        - Tools for DACs: 'dac/tools-for-dacs.md'
+        - Policy:
+            - Adopted Policies: 'policy/approved-policies.md'
+            - Holacratic Governance Meetings: 'protocol/governance-meetings.md'
+            - Code of Conduct: 'policy/codeofconduct.md'
+        - Protocol:
             - Governance Meeting 01: 'protocol/gov-meeting-1.md'
             - Governance Meeting 02: 'protocol/gov-meeting-2.md'
             - Governance Meeting 03: 'protocol/gov-meeting-3.md'
@@ -124,4 +108,18 @@ pages:
             - Governance Meeting 41: 'protocol/gov-meeting-41.md'
             - Aragon Community R&D Meeting 1: 'protocol/Aragon-Comm-R&D-mtg-1.md'
             - Aragon DAC Meeting 1: 'protocol/AragonDAC-meeting-1.md'
+    
+    - Giveth Donation Application (DApp):
+        - DApp Beta: 'documentation/DApp/beta.md'
+        - DApp White Paper: 'documentation/DApp/white-paper.md'
+        - Product Definition: 'documentation/DApp/product-definition.md'
+        - Development Process & Quality Assurance: 'documentation/DApp/product-development-testing.md'
+        - Roadmap: 'documentation/DApp/product-roadmap.md'
+        - Future: 'documentation/DApp/future.md'
+        - Exchange Rate Calculation: 'documentation/DApp/exchange-rate-calculation.md'
+
+    - Giveth Smart Contracts:
+        - Deployments: 'documentation/deployments.md'
+        - Smart Contracts Roadmap: 'documentation/smart-contracts-roadmap.md'
+
     - Publicity and News: 'publicity/in-the-news.md'
