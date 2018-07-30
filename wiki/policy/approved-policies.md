@@ -21,7 +21,7 @@ The policy forming process at Giveth has been evolved to this flow of actions:
 
 ### How the DAC uses the DApp
 ```"Everybody on the whitelist is allowed to create DACs and campaigns"```
-see [Gove Meeting #39](../protocol/gov-meeting-39/) and [loomio](https://www.loomio.org/p/XQBSc0qa/whitelists-and-creating-dac-s-and-campaigns-at-will)
+see [Gov Meeting #39](../protocol/gov-meeting-39/) and [loomio](https://www.loomio.org/p/XQBSc0qa/whitelists-and-creating-dac-s-and-campaigns-at-will)
 
 ### Governance Process
 
