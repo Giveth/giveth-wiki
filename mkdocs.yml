@@ -77,7 +77,8 @@ pages:
         - Finances: 'dac/finances.md'
 
     - Policy:
-        - Protocol for Governance Meetings: 'protocol/governance-meetings.md'
+        - Adopted Policies: 'policy/approved-policies.md'
+        - Holacratic Governance Meetings: 'protocol/governance-meetings.md'
         - Code of Conduct: 'policy/codeofconduct.md'
 
     - Protocol:
