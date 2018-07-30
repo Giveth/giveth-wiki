@@ -23,6 +23,10 @@ The policy forming process at Giveth has been evolved to this flow of actions:
 ```"Everybody on the whitelist is allowed to create DACs and campaigns"```
 see [Gov Meeting #39](../protocol/gov-meeting-39/) and [loomio](https://www.loomio.org/p/XQBSc0qa/whitelists-and-creating-dac-s-and-campaigns-at-will)
 
+### Finances
+```"If the governance campaign runs out of money, Griff is allowed to donate to it"```
+see [Gove Meeting #35](../protocol/gov-meeting-35/)
+
 ### Governance Process
 
 ```"Proposals have to go on loomio first - If no one objects on loomio, the proposal is passed. If somebody objects the proposal is discussed at the next Governance Meeting"```
@@ -30,3 +34,6 @@ see [Gov meeting #41](../protocol/gov-meeting-41/) and [loomio](https://www.loom
 
 ```"A standardized workflow for policies is in place that new proposals should follow"```
 see [Section1: Process](#process) and [loomio](https://www.loomio.org/p/TB0HaIfi/have-a-standard-workflow-to-record-policies)
+
+```"A roles meeting should commence regularly - proposal suggests one per month"```
+see [Gov Meeting #37](../protocol/gov-meeting-37/)
