@@ -37,3 +37,6 @@ see [Section1: Process](#process) and [loomio](https://www.loomio.org/p/TB0HaIfi
 
 ```"A roles meeting should commence regularly - proposal suggests one per month"```
 see [Gov Meeting #37](../protocol/gov-meeting-37/)
+
+```"In Governance meeting, topics will only be discussed if they have been proposed on loomio **at least 12 hours before**"```
+see [Gov Meeting #21](../protocol/gov-meeting-21/)
