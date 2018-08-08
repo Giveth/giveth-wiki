@@ -37,4 +37,4 @@ More info [here](https://medium.com/giveth/how-rewarddao-works-aka-what-are-poin
 
 If you have any questions about your contribution (and linked award), please contact LinzeeLou (@ljg583:matrix.org) via a direct message on Riot.
 
-'* Note: during 'calm' months (for example during the summer) when less points are dished, circles can decide to roll over part of the available eth to the next month, so that the dished points are a reasonable and fair amount in eth in comparison to previous months. The rolled over amounts are indicated in each sheet.
+&ast; Note: during 'calm' months (for example during the summer) when less points are dished, circles can decide to roll over part of the available eth to the next month, so that the dished points are a reasonable and fair amount in eth in comparison to previous months. The rolled over amounts are indicated in each sheet.
