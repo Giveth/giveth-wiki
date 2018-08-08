@@ -27,10 +27,14 @@ At Giveth we strongly believe in transparency and accountability, so we take thi
 
 ## Step 4: Get rewarded
 
-  - On the 15th of each month [the representatives of the 4 circles convene](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a) and discuss how much points they awarded to each contributor. Representatives can make changes to the points they awarded up to this date.
-  - After discussion, the representatives assign ‘weight’ to the different circles for that month, which is translated into percentages and recalibrates the final amount of ether that is attributed to every contributor.
+  - On the 15th of each month [the representatives of the 4 circles convene](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a) and discuss how much points they awarded to each contributor and which amount is rolled over from the previous month.* Representatives can make changes to the points they awarded up to this date.
+  - After discussion, the representatives assign ‘weight’ to the different circles for that month, which is translated into percentages and recalibrates the final amount of ether that is attributed to every contributor. If more than one person has voted per circle, the awarded points can be changed, so that the total of awarded points per circle still makes sense. 
   - The document with the final points and awarded ether is shared in the #contributors channel on the 18th of each month. Internally, we use the Giveth DApp (running on [Rinkeby testnet](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060)) to track and pay out contributor rewards as soon as possible through Milestones. 
 
-Before data enters our DApp, we use a spreadsheet to keep track of awarded points. Review an archived spreadsheet as example [here](https://docs.google.com/spreadsheets/d/1g3Pl9EOeZ1jnMnzzPSUmRsA7UTcysoDKYkEbLqeY6sY/edit?usp=sharing).
+You can find the live sheet of the awarded points throughout a month [here](https://docs.google.com/spreadsheets/d/12cblUYuYq4NwZX7JdRo0-NWnrOxlDy-XCbvF3ugzb2c/edit?usp=sharing) and the awarded eth per month plus the voting results in one sheet per month [in this folder](https://drive.google.com/open?id=0B2gzflwFITCBdmYyb1BJcVp5bjg).
 
 More info [here](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a) on how the RewardDAO works. A contribution for which Giveth contributor Cleo received points. :)
+
+If you have any questions about your contribution (and linked award), please contact LinzeeLou (@ljg583:matrix.org) via a direct message on Riot.
+
+&ast; Note: during 'calm' months (for example during the summer) when less points are dished, circles can decide to roll over part of the available eth to the next month, so that the dished points are a reasonable and fair amount in eth in comparison to previous months. The rolled over amounts are indicated in each sheet.
