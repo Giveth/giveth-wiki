@@ -1,11 +1,11 @@
-{% set languages = "en" %}
-{% if config and config.extra %}
-  {% set languages = config.extra.language | default("en") %}
-{% endif %}
-{% if languages is string %}
-  {% set languages = languages.split(",") | map("trim") %}
-{% endif %}
-{% import "partials/language/" + (languages | first) + ".html" as lang %}
+{% import "partials/language/" + config.theme.language + ".html" as lang %}
+{% import "partials/language/en.html" as fallback %}
 {% macro t(key) %}{{ {
-  "search.languages": languages | join(", ")
-}[key] or lang.t(key) }}{% endmacro %}
+  "direction": config.theme.direction,
+  "search.language": (
+    config.extra.search | default({})
+  ).language,
+  "search.tokenizer": (
+    config.extra.search | default({})
+  ).tokenizer | default("", true),
+}[key] or lang.t(key) or fallback.t(key) }}{% endmacro %}

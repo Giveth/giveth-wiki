@@ -38,7 +38,7 @@ extra:
 extra_css:
     - css/extra.css
 
-pages:
+nav:
     - Welcome: 'index.md'
 
     - General Info:

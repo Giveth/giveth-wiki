@@ -40,3 +40,10 @@ see [Gov Meeting #37](../protocol/gov-meeting-37/)
 
 ```"In Governance meeting, topics will only be discussed if they have been proposed on loomio **at least 12 hours before**"```
 see [Gov Meeting #21](../protocol/gov-meeting-21/)
+
+### Regular Rewards
+
+```1 - Regular Rewards is our term for what closest comes to a normal *salary*. Who is eligible and how high is the compensation/week is determined by respective circle leads``` - *missing source*
+```2 - Regular Rewards are budgeted per year``` - *missing source*
+```3 - Milestones for RRs should be created per week and use the last day of the week to set the exchange rate``` - *missing source*
+```4 - RR Milestones are written *a posteriori (after the fact, describing tasks that were fulfilled)*``` - *missing source*
