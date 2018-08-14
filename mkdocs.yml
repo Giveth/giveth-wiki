@@ -64,6 +64,7 @@ nav:
         - Tools for DACs: 'dac/tools-for-dacs.md'
         - Policy:
             - Adopted Policies: 'policy/approved-policies.md'
+            - Advice Process: 'policy/advice-process.md'
             - Holacratic Governance Meetings: 'protocol/governance-meetings.md'
             - Code of Conduct: 'policy/codeofconduct.md'
         - Protocol:
