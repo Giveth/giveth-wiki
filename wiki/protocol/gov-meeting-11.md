@@ -188,14 +188,6 @@ diff smart contracts
 
 16.1 gov
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/11-Governance0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/11-Governance0.png "image_tooltip")
-
-
 No objects: Proposal passed
 
 Late objection/clarifying question. Actually this is an new proposal:
