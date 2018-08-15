@@ -49,7 +49,7 @@ Giveth is a decentralized organization based around the principles of self-manag
 
 As individuals, we have different backgrounds, expertise, methodologies and mental frameworks, among other differences - and through self-management we are tapping into the potential of such different angles to solve Giveth's challenges: 
 
-_Everyone is allowed to take any decision that drives us towards our purpose. _
+<p align="center"> _Everyone is allowed to take any decision that drives us towards our purpose._</p>
 
 Everyone has **authority** to take a decision, but they will be fully **accountable **for deploying the practical side (or onboarding those who will have to deal with such) and for the consequences. Everyone? Yes, although the person starting the advice process is expected to have some sort of connection to the topic being decided, be it by being a Circle head, a contributor or a participating member in the Circle relevant to the decision. Accountability here means that they will be responsible for taking the steps to complete the purpose of the decision. 
 
