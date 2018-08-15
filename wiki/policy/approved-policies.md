@@ -30,7 +30,7 @@ see [Gove Meeting #35](../protocol/gov-meeting-35/)
 ### Governance Process
 
 ```"Decisions will be made using the Advice Process as described in the Advice Process document. Namely, following the steps 1)Ideation 2)Sounding / meta-thinking 3)Advice and 4)Decision making"```
-see [Advice Process doc](https://docs.google.com/document/d/1USAodZaQ1_K73c-ice1zDQQLPQBuWHRUPS9xnQct9Ag/edit?usp=sharing) and [loomio](https://www.loomio.org/d/j3mrFUYx/reinventing-is-it-safe-enough-to-try-)
+see [Advice Process doc](https://wiki.giveth.io/policy/advice-process/) and [loomio](https://www.loomio.org/d/j3mrFUYx/reinventing-is-it-safe-enough-to-try-)
 
 ```"Proposals have to go on loomio first - If no one objects on loomio, the proposal is passed. If somebody objects the proposal is discussed at the next Governance Meeting"```
 see [Gov meeting #41](../protocol/gov-meeting-41/) and [loomio](https://www.loomio.org/p/LkOa8KT4/which-proposals-are-proposed-in-governance-meeting)
