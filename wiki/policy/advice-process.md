@@ -31,7 +31,7 @@ What this document is not:
 
 ********************************************************
 
-Note 2:
+Further notes:
 
 
 
@@ -148,7 +148,8 @@ There are a number of steps in the advice process:
 
 
 
-## **Challenges** - preliminary list. Feel free to contact Lanski (@planski:matrix.org) for adding your thoughts:
+## **Challenges**
+This is a preliminary list. Feel free to contact Lanski (@planski:matrix.org) for adding your thoughts:
 
 
 
