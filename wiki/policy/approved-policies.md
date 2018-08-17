@@ -30,7 +30,7 @@ see [Gove Meeting #35](../protocol/gov-meeting-35/)
 ### Governance Process
 
 ```"Decisions will be made using the Advice Process as described in the Advice Process document. Namely, following the steps 1)Ideation 2)Sounding / meta-thinking 3)Advice and 4)Decision making"```
-see [Advice Process doc](https://wiki.giveth.io/policy/advice-process/) and [loomio](https://www.loomio.org/d/j3mrFUYx/reinventing-is-it-safe-enough-to-try-)
+see [Advice Process](../advice-process/) and [loomio](https://www.loomio.org/d/j3mrFUYx/reinventing-is-it-safe-enough-to-try-)
 
 ```"Proposals have to go on loomio first - If no one objects on loomio, the proposal is passed. If somebody objects the proposal is discussed at the next Governance Meeting"```
 see [Gov meeting #41](../protocol/gov-meeting-41/) and [loomio](https://www.loomio.org/p/LkOa8KT4/which-proposals-are-proposed-in-governance-meeting)
@@ -47,9 +47,9 @@ see [Gov Meeting #21](../protocol/gov-meeting-21/)
 ### Working with Giveth
 
 #### How work is assigned
-```Work is created by somebody spotting a problem that needs to be solved. The person/group discovering the problem is usually the best one to come up with a solution and should take responsibility for implementation``` - *missing source*
+```Work is created by somebody spotting a problem that needs to be solved. The person/group discovering the problem is usually the best one to come up with a solution and should take responsibility for implementation``` - [Advice Process](../advice-process/) and [loomio](https://www.loomio.org/d/j3mrFUYx/reinventing-is-it-safe-enough-to-try-)
 
-```The most important guideline to follow is our Advice process, derived from the book 'Reinventing Organizations'.``` - *missing source*
+```The most important guideline to follow is our Advice process, derived from the book 'Reinventing Organizations'.``` - see [Advice Process](../advice-process/) and [loomio](https://www.loomio.org/d/j3mrFUYx/reinventing-is-it-safe-enough-to-try-)
 
 #### Reward DAO
 ```The Reward DAO is an evolving process-in-place to reward freelance contributions to Giveth.``` - *missing source*
