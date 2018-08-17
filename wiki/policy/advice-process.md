@@ -25,9 +25,9 @@ What this document is not:
 
 
 
-*   A process to run Governance Meetings: As a decentralized organization, there are challenges with taking decisions in a confined time slot. The Governance Meeting should be seen as the right moment to do some stages of the advice process and take decisions if all the affected parties are present. 
+*   A process to run Governance Meetings: In a decentralized organization, there are challenges with taking decisions in a confined time slot. The Governance Meeting should be seen as the right moment to do some stages of the advice process and take decisions if all the affected parties are present. 
 *   A dispute mechanism: I think we should have one, even if I hope we never have to use it.
-*   A stone table with fixed rules: it is being created through advise process and it can be modified through advise process
+*   A stone table with fixed rules: it is being created through advice process and it can be modified through advice process
 
 ********************************************************
 
@@ -41,17 +41,17 @@ Further notes:
 1.  **Purpose document: **([mission statement](https://wiki.giveth.io/dac/mission), [goals doc](https://docs.google.com/document/d/15bD4zWmNGseSehNMS2ZYVUcTGXKp3B-REFf8A-0B7Xs/edit))** **To refer to before starting any discussion: are we following our purpose? This can be as broad or as narrow as we want, but there's a benefit on narrowing down.
 1.  **Dispute resolution process**: (reinventing organizations process [here](http://www.reinventingorganizationswiki.com/Conflict_resolution), Lorelei to manage) to have a process to resolve issues like "has the advice process been respected?" or any dispute between Unicorns. We all want to do what's best but sometimes we need a process to force us to solve it in a specific way, a **process that puts ego aside and looks for the best in us**. Hence **the purpose is not to punish, but to solve disputes**. 
 1.  **Roles document:** (link [here](https://docs.google.com/spreadsheets/d/10yFmRviEoeUCg8GfWizHBtkFqU9kgm_OhmIj9Lt-ONU/edit#gid=833931244)) Once you define one's scope, it's easier and clearer who can start what and who needs to be consulted by what. Obviously there's freedom on these roles and they can be delegated to make them flexible and quick of reaction (by that I mean we shouldn't have to wait till the next roles meeting for someone to start working on sth if this sth is time-bound). 
-1.  Finally, in order to put all of this in order: an **onboarding/training document** to train everyone on the process of things? Meaning, self-management is not self-evident and we all need upskilling on this :). That or we make mandatory the reading of reinventing organizations :P
+1.  Finally, in order to put all of this in order: an **onboarding/training document** to train everyone on the process of things. Meaning, self-management is not self-evident and we all need upskilling on this. Furthermore, reading  'Reinventing Organizations' helps to understand our decisions and goals for forming a 'teal' organization.
 
 *****************************************************************
 
-Giveth is a decentralized organization based around the principles of self-management where a number of individuals decide to gather under its [the Giveth] umbrella to act together towards a purpose. 
+Giveth is a decentralized organization based around the principles of self-management, where a number of individuals decide to gather under its [the Giveth DAC] umbrella to act together towards a purpose. 
 
 As individuals, we have different backgrounds, expertise, methodologies and mental frameworks, among other differences - and through self-management we are tapping into the potential of such different angles to solve Giveth's challenges: 
 
-<p align="center"> Everyone is allowed to take any decision that drives us towards our purpose.</p>
+<p align="center"> Everyone is allowed to take any decision that drives us towards our *purpose*.</p>
 
-Everyone has **authority** to take a decision, but they will be fully **accountable **for deploying the practical side (or onboarding those who will have to deal with such) and for the consequences. Everyone? Yes, although the person starting the advice process is expected to have some sort of connection to the topic being decided, be it by being a Circle head, a contributor or a participating member in the Circle relevant to the decision. Accountability here means that they will be responsible for taking the steps to complete the purpose of the decision. 
+Everyone has **authority** to take a decision, but they will be fully **accountable** for deploying the practical side (or onboarding those who will have to deal with such) and for the consequences. Everyone? Yes, although the person starting the advice process is expected to have some sort of connection to the topic being decided, be it by being a Circle head, a contributor or a participating member in the Circle relevant to the decision. Accountability here means that they will be responsible for taking the steps to complete the purpose of the decision. 
 
 Important to notice that accountability doesn't mean blame in case things go wrong. <span style="text-decoration:underline;">If the advice process has been followed there will be an idea of the reasons why one takes an initiative</span> and everyone will have contributed to bring the initiative to the best possible outcome (or to not start it at all). Hence, it's hard to blame the instigator for trying something if the advice process has been properly followed. **<span style="text-decoration:underline;">It's OK to fail, as long as you do it properly!</span>**
 
@@ -75,8 +75,6 @@ The advice process is a tool that helps decision-making via collective intellige
 
 The advice process can proceed in several ways, depending on the mindset people bring to it:
 
-
-
 *   The initiator can approach it authoritatively ("I don't care about what others have said" or, alternatively, "I fully comply with what others - someone highly respected, or the majority - have said").
 *   They can approach from a perspective of negotiation or compromise ("I'll do some of what they say so they're happy, but it will increment my frustration account by 1").
 *   They can approach it **co-creatively**, <span style="text-decoration:underline;">which is the spirit of the advice process</span> ("I will listen to others, understand the real need in what they say, and think creatively about an elegant solution").
@@ -84,12 +82,9 @@ The advice process can proceed in several ways, depending on the mindset people 
 
 ## Process:
 
-
 #### **Steps in the advice process**
 
 There are a number of steps in the advice process:
-
-
 
 1.  **Ideation**: 
 
@@ -97,7 +92,6 @@ There are a number of steps in the advice process:
 
 
     Self-management implies **responsibility**: no boss nor subordinate is going to deal with the tension for anyone as in a traditional organization. If somebody else is better placed to do something about it, this someone will either have to be persuaded to lead the initiative or thoroughly consulted afterwards.
-
 
     **Channels:** This is an informal phase, so chat, face to face discussions, fireside chats, internal ideas... 
 
@@ -115,8 +109,6 @@ There are a number of steps in the advice process:
 
     **Channels:** Also informal and optional, same informal channels as above. 
 
-
-
 1.  **Advice**: 
 
     The initiator makes a proposal and seeks advice from those affected or those with expertise. 
@@ -128,7 +120,7 @@ There are a number of steps in the advice process:
     There is no specific time frame to gather advice. Again, it will depend on the scope of the decision. 
 
 
-    **Channels:** If it is a minor decision, consult via your preferred method with whomever is necessary. If it affects Giveth in general, Loomio is at the moment the platform of choice and a Loomio . Please note that Loomio shouldn't take the responsibility of consulting with the experts and directly affected people.
+    **Channels:** If it is a minor decision, consult via your preferred method with whomever is necessary. If it affects Giveth in general, Loomio is at the moment the platform of choice to create a decision for public discourse. Please note that Loomio shouldn't take the responsibility of consulting with the experts and directly affected people.
 
 
     **IT IS NOT OK TO JUSTIFY NOT CONSULTING AN AFFECTED/EXPERT PARTY UNDER THE EXCUSE THAT THIS PERSON DID NOT CHECK THE LOOMIO PROPOSALS.**
