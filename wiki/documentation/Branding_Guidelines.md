@@ -81,6 +81,12 @@ Giveth internal will develop a common slide deck with guidelines for anyone to u
 
 ## **Logo, name, symbol**
 
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPb9T__ae4HzAW2i9ii776ESLzY9vqWbsRlewgVFr1irIZqE86uR6Q0hDz3lcLIY-KQIs1b-uRzPzp/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
 **Color**
 
 The Giveth colors represent diversity and optimism. Dark Purple and Dark Blue as used as background color with special accent on the cross positioned of various gradients of green and blue. 
