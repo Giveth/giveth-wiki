@@ -156,7 +156,7 @@ I am in <span style="font-family:EXO; font-size:4em;">Giveth.io
 
 Quicksand (contender for body, long-format text)
 
-   <span style="font-family:EXO; font-size:4em;">Giveth.io
+   <span style="font-family:Quicksand; font-size:4em;">Giveth.io
 
 
    Quicksand is a display sans serif with rounded terminals. The project was initiated by Andrew Paglinawan in 2008 using geometric shapes as a core foundation. It is designed for display purposes but kept legible enough to use in small sizes as well. In 2016, in collaboration with Andrew, it was thoroughly revised by Thomas Jockin to improve the quality.</span>
