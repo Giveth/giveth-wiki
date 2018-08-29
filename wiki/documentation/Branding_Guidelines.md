@@ -144,7 +144,7 @@ The Giveth brand identity shall be  futuristic, the effect will be achieved with
 
 EXO
 
-I am in <span style="font-family:Exo; font-size:4em;">Giveth.io
+I am in <span style="font-family:EXO; font-size:4em;">Giveth.io
 
 
    Exo is a contemporary geometric sans serif typeface that tries to convey a technological/futuristic feeling while keeping an elegant design. Exo was meant to be a very versatile font, so it has 9 weights (the maximum on the web) each with a true italic version. It works great as a display face but it also works good for small to intermediate size texts.</span>
@@ -156,10 +156,10 @@ I am in <span style="font-family:Exo; font-size:4em;">Giveth.io
 
 Quicksand (contender for body, long-format text)
 
-   Giveth.io
+   <span style="font-family:EXO; font-size:4em;">Giveth.io
 
 
-   Quicksand is a display sans serif with rounded terminals. The project was initiated by Andrew Paglinawan in 2008 using geometric shapes as a core foundation. It is designed for display purposes but kept legible enough to use in small sizes as well. In 2016, in collaboration with Andrew, it was thoroughly revised by Thomas Jockin to improve the quality.
+   Quicksand is a display sans serif with rounded terminals. The project was initiated by Andrew Paglinawan in 2008 using geometric shapes as a core foundation. It is designed for display purposes but kept legible enough to use in small sizes as well. In 2016, in collaboration with Andrew, it was thoroughly revised by Thomas Jockin to improve the quality.</span>
 
 
     
