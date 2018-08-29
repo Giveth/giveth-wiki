@@ -89,7 +89,7 @@ Giveth internal will develop a common slide deck with guidelines for anyone to u
 
 **Color**
 
-The Giveth colors represent diversity and optimism. Dark Purple and Dark Blue as used as background color with special accent on the cross positioned of various gradients of green and blue. 
+The Giveth colors represent diversity and optimism. Dark Purple and Dark Blue are used as background color with special accent on the cross positioned of various gradients of green and blue. 
 
 
 ![Giveth Color Palette](../images/branding-guidelines/giveth-color-palette.jpg)
@@ -144,8 +144,9 @@ The Giveth brand identity shall be  futuristic, the effect will be achieved with
 
 EXO
 
-
-    Giveth.io
+	I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+   
+   Giveth.io
 
 
     Exo is a contemporary geometric sans serif typeface that tries to convey a technological/futuristic feeling while keeping an elegant design. Exo was meant to be a very versatile font, so it has 9 weights (the maximum on the web) each with a true italic version. It works great as a display face but it also works good for small to intermediate size texts.
@@ -163,7 +164,7 @@ Quicksand (contender for body, long-format text)
 
 ## **Brand Guidelines**
 
-Here are some guidelines to help us use our brand and assets, including our logo, word mark and content without having to ask questions about each use. To make any use of our marks in a way not covered by these guidelines, please contact us at info@giveth.io and include a visual mockup of intended use.
+Here are some guidelines to help you use our brand and assets, including our logo, word mark and content without having to ask questions about each use. To make any use of our marks in a way not covered by these guidelines, please contact us at info@giveth.io and include a visual mockup of intended use.
 
 
 ## **Usage**
