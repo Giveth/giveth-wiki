@@ -144,7 +144,10 @@ The Giveth brand identity shall be  futuristic, the effect will be achieved with
 
 EXO
 
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+I am in <span style="font-family:Exo; font-size:4em;">Giveth.io
+
+
+   Exo is a contemporary geometric sans serif typeface that tries to convey a technological/futuristic feeling while keeping an elegant design. Exo was meant to be a very versatile font, so it has 9 weights (the maximum on the web) each with a true italic version. It works great as a display face but it also works good for small to intermediate size texts.</span>
    
    Giveth.io
 
