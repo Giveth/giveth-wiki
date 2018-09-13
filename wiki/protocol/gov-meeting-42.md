@@ -12,12 +12,10 @@ Youtube Livestream - [https://youtu.be/FPLS6cePfRo](https://youtu.be/FPLS6cePfRo
 Kay, Lorelei, Griff, Bowen, Linds, Oz, Vojtech, Dani, 
 
 dropped-in: Peterpan, Gabi
-left-early: XXX
+left-early: -
 
 
 ###  Check-in
-
-XXX - intentions, expectations, distractions
 
 Griff - no distractions, run a unique meeting
 Linds - mitch's hamburger pants distracting, intending to give input help ppl get back on track
@@ -31,7 +29,7 @@ Gabi - trying to better understand how the team and the organization work
 
 ### Logistics
 
-Toggled-Off: XXX
+Toggled-Off: Everybody can speak! pet3rpan and Gabi toggled on!
 
 Similar to our old style of meeting:
 
