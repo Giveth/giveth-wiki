@@ -38,7 +38,7 @@ extra:
 extra_css:
     - css/extra.css
 
-pages:
+nav:
     - Welcome: 'index.md'
 
     - General Info:
@@ -52,7 +52,6 @@ pages:
         - Contributors Guide: 'dac/contributors-guide.md'
         - Riot.im: 'tutorials/riot-migration.md'
         - Video Content Strategy: 'documentation/video-content-strategy.md'
-        - Visual Identity Guide: 'documentation/visual-identity.md'
         - Brand Identity Guide: 'documentation/Branding_Guidelines.md'
         - Milestones: 'tutorials/milestones.md'
 
@@ -64,6 +63,7 @@ pages:
         - Tools for DACs: 'dac/tools-for-dacs.md'
         - Policy:
             - Adopted Policies: 'policy/approved-policies.md'
+            - Advice Process: 'policy/advice-process.md'
             - Holacratic Governance Meetings: 'protocol/governance-meetings.md'
             - Code of Conduct: 'policy/codeofconduct.md'
         - Protocol:
@@ -89,7 +89,7 @@ pages:
             - Governance Meeting 20: 'protocol/gov-meeting-20.md'
             - Governance Meeting 21: 'protocol/gov-meeting-21.md'
             - Governance Meeting 25: 'protocol/gov-meeting-25.md'
-            - Governance Meeting 28: 'protocol/gov-meeting-26.md'
+            - Governance Meeting 26: 'protocol/gov-meeting-26.md'
             - Governance Meeting 27: 'protocol/gov-meeting-27.md'
             - Governance Meeting 28: 'protocol/gov-meeting-28.md'
             - Governance Meeting 30: 'protocol/gov-meeting-30.md'
@@ -106,9 +106,7 @@ pages:
             - Governance Meeting 39: 'protocol/gov-meeting-39.md'
             - Governance Meeting 40: 'protocol/gov-meeting-40.md'
             - Governance Meeting 41: 'protocol/gov-meeting-41.md'
-            - Governance Meeting 42: 'protocol/gov-meeting-42.md'
-            - Aragon Community R&D Meeting 1: 'protocol/Aragon-Comm-R&D-mtg-1.md'
-            - Aragon DAC Meeting 1: 'protocol/AragonDAC-meeting-1.md'
+            - Roles Meeting 1: 'protocol/roles-meeting-1.md'
     
     - Giveth Donation Application (DApp):
         - DApp Beta: 'documentation/DApp/beta.md'

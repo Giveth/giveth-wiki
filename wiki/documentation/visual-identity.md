@@ -1,3 +1,5 @@
+NOTE: This was incorporated into the brand guidelines page in August 2018 and then deleted as a redundancy. The old navigation for it "  - Visual Identity Guide: 'documentation/visual-identity.md'   " was removed from the mkdocs.yml . 
+
 ## Giveth Design Guide
 A detailed guide on how Giveth branding should be implemented, as well as ideas on how to play with Giveth assets to achieve good visual consistency in official design assets.
 
