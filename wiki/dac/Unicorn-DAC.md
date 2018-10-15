@@ -29,7 +29,7 @@ Unicorns can pay themselves anywhere from €0 to €150 for the week. They can 
 THIS IS SEPARATE FROM SALARY GIVEN BY CIRCLES. That is still their own domain :-) 
 **The goal is for Unicorns to be paid more fairly and to distribute decision power more fairly.**
 
-Once a month we have a big Unicorn party where we go around in a circle and explain the different milestones we donated to. This flows into the roles conversation and helps us keep regular communication going about what we, as collective governing body of Unicorns would like to see Giveth doing, and who we see doing it, how much we value it, where there are pieces missing, etc.  <br>
+Once a month we have a big Unicorn party where we go around in a circle and explain the different milestones we donated to. This flows into the [roles](https://wiki.giveth.io/policy/roles/) conversation and helps us keep regular communication going about what we, as collective governing body of Unicorns would like to see Giveth doing, and who we see doing it, how much we value it, where there are pieces missing, etc.  <br>
 This monthly meeting is a space for:
 a) Sharing about who/what we donated to this month
 b) Using that to understand how well roles are working/not working
