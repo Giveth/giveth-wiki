@@ -14,9 +14,9 @@ This is a process developed for the Unicorn DAC to evaluate and onboard new memb
 - **Make a milestone and complete it to “Paid”**
 - Giveth culture training (yet to be determined - potentially an NVC class)
 - Read the mission statement, manifesto, explore wiki and medium
-- Identify at least 2 givethers who are close to your work. They will **ask around within the DAC and test the waters to get a preliminary idea if you will be voted in or not.** This is an important step before moving to the Commitment Circle. 
+- Identify at least 2 givethers who are close to your work. They will **ask around within the DAC and test the waters to get a preliminary idea if you will be voted in or not.** This is an important step before moving to the Commitment Meeting. 
 
-## Phase 3: Commitment Circle
+## Phase 3: Commitment Meeting
 1. Choose 3 Unicorns to commit to. (Very likely will be the 2 chosen above, plus onboarding person) They: <br>
 a) Know your work well. <br>
 b) Interact with your roles. <br>
@@ -24,19 +24,19 @@ c) Hear your intention and commitment (and have documented). <br>
 d) Are folks you can check in with re: your roles and progress. <br>
 e) Will be present at any appraisals/evaluations of your work/roles. <br>
 2. Meet with these 3 people. 
-3. The commitment circle mtg begins with a wholeness practice, grounding, centering in to the place of deep care that brings and keeps us all at Giveth.
+3. The commitment meeting begins with a wholeness practice, grounding, centering in to the place of deep care that brings and keeps us all at Giveth.
 4. Confirm that the above steps of recruitment and experience in the galaxy have happened. 
 5. **Answer these two questions:** <br>
 a) What is your sense of your life trajectory? How could working here fit with what you sense you are called to be and to do in the world? <br>
 b) What aspect of the Giveth purpose resonates with you? What unique talents and gifts could you contribute to Giveth’s journey? <br>
 6. **Confirm you have read and agree to:** <br>
-a) Mission statement <br>
-b) Manifesto <br>
-c) Advice process <br>
-d) Conflict resolution process <br>
-e) Milestone tutorial <br>
+a) [Mission statement](https://docs.google.com/document/d/1NbdshyZEATW0N7C5_lYIozodvwe8F7pPn5SZfDOKG1Q/edit?usp=sharing) <br>
+b) [Manifesto](https://medium.com/giveth/giveth-masterpiece-manifesto-19649c57c6aa) <br>
+c) [Advice process](https://wiki.giveth.io/policy/advice-process/) <br>
+d) [Conflict resolution process](https://wiki.giveth.io/policy/conflict-res/) <br>
+e) [Milestone tutorial](https://wiki.giveth.io/tutorials/milestones/) <br>
 	If there is no written agreement, this meeting will be recorded.
-7. Present your roles (in Roles Spreadsheet format) to the circle and **make clear your commitments.**
+7. Present your roles (in Roles Spreadsheet format) to the meeting participants and **make clear your commitments.**
 8. Agree to/set a date for evaluation/appraisal meeting in the future. For example: “We agree that if it hasn’t happened organically in the roles meeting already, we will evaluate my roles after 10 years.” ;-P (Jk, probably like 6 months)
 
 ## Phase 4:  Nuts and Bolts
@@ -73,4 +73,4 @@ You receive your Unicorn Horn :) OR,  if this month it is not yet the right fit 
 
 ---------
 
-Note: phases 1&2 can happen in switched order, as can phases 4 & 5. Most of the nuts and bolts will be taken care of at different points throughout this process, and since there are so many pieces to secure, it’s important to have someone who serves as the point person for this part of the Unicorn DAC (chases down/supports new unicorns thru onboarding pieces). For the time being, I nominate myself, Loie, as I am excited and invested in this experiment! But super happy to hear if others are interested in helping steward parts of this process as they become attuned to it. 
+Note: phases 1&2 can happen in switched order, as can phases 4 & 5. Most of the nuts and bolts will be taken care of at different points throughout this process, and since there are so many pieces to secure, it’s important to have someone who serves as the point person for this part of the Unicorn DAC (chases down/supports new unicorns thru onboarding pieces). For the time being, Loie fills this role. If others are interested in helping steward parts of this process (Yay!) as they become attuned to it, they are warmly welcomed to propose that. 
