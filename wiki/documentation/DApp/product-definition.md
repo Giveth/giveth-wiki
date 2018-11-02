@@ -146,10 +146,3 @@ Lastly, if a **Milestone is marked as complete and the Reviewers don't take any 
 ![Automatic Actions Usecase Diagram](../../images/product-definition/time-usecase.svg)
 
 <a name="product-definition-fig-recipient-usecase">Figure 16</a>: **Use case diagram** listing all [Automatic Actions](#product-definition-time).
-
-## <a name="product-definition-token">Tokens</a>
-
-Every DAC and Campaign creates a non-transferable MiniMe token which in the future could be used for governance. When someone donates to a DAC or Campaign they receive these tokens in return proportional to their donation in ETH. The rules for emitting the tokens are:
-
-1. The Giver donates to a Campaign -> The Giver receives Campaign tokens
-2. The Giver donates to a DAC, the DAC delegates the donation to a Campaign and the delegation is committed. Only then the Giver receives both: DAC tokens and Campaign tokens.
