@@ -35,6 +35,7 @@ b) [Manifesto](https://medium.com/giveth/giveth-masterpiece-manifesto-19649c57c6
 c) [Advice process](https://wiki.giveth.io/policy/advice-process/) <br>
 d) [Conflict resolution process](https://wiki.giveth.io/policy/conflict-res/) <br>
 e) [Milestone tutorial](https://wiki.giveth.io/tutorials/milestones/) <br>
+f) [Roles Process](https://wiki.giveth.io/policy/roles/) <br>
 	If there is no written agreement, this meeting will be recorded.
 7. Present your roles (in Roles Spreadsheet format) to the meeting participants and **make clear your commitments.**
 8. Agree to/set a date for evaluation/appraisal meeting in the future. For example: “We agree that if it hasn’t happened organically in the roles meeting already, we will evaluate my roles after 10 years.” ;-P (Jk, probably like 6 months)
