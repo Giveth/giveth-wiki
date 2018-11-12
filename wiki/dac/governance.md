@@ -7,7 +7,7 @@ As a Decentralized Altruistic Community we understand that people need time and 
 
 For details on the current state of the community and a list of active members, please head to [Team Organisation](../dac/team-organisation)
 
-If you are interested in learning more details about the actual tools we use to operate in a decentral way, please see the [DAC Toolbox](../dac/tools-for-dacs)
+If you are interested in learning more details about the actual tools we use to operate in a decentral way, please see the [DAC Toolbox](../tools-for-dacs)
 
 ## Organizational Structure
 Giveth DAC is organized into four different circles to better manage the requirements of the many different engagements of the Giveth DAC. Each circle is appointed a lead person as final decision-maker.
