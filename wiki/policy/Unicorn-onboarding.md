@@ -42,10 +42,10 @@ f) [Roles Process](https://wiki.giveth.io/policy/roles/) <br>
 
 ## Phase 4:  Nuts and Bolts
 - Add your role(s) to the Roles Sheet
+- Get public wallet address, Metamask, hardware wallet etc set up
 - Add your address to the Verified Addresses Doc
 - Schedule any orientation pieces like NVC class
 - Install and get oriented to any tools we use like Zenhub
-- Get public wallet address, metamask, hardware wallet etc set up
 - Ensure you are in all the relevant riot rooms
 - Potentially get @giveth.io email addy
 
