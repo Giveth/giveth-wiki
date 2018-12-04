@@ -4,7 +4,7 @@
 
 Giveth is a Decentralized Altruistic Community, meaning we depend on generous Givers ourselves. If you want to help us build the Future of Giving by contributing any amount, big or small, please contact @griffgreen on [Riot](http://riot.giveth.io) or donate directly to the address ```revolution.eth``` (which resolves to ```0x5ADF43DD006c6C36506e2b2DFA352E60002d22Dc```).
 
-You can see the options in more detail on our [Donation Page](https://giveth.io/donate)
+You can see the options in more detail on our [Donation Page](https://donate.giveth.io)
 
 ## <a name="finances_budget">Budget Overview</a>
 One of the core values of Giveth is transparency. We invite everyone to consult our publicly accessible expenses and budgets:
@@ -29,7 +29,7 @@ By default only expenses with valid receipt are covered. Any expense will be jud
 
 ## <a name="finances_regular">Regular Rewards</a>
 
-The members working full time for Giveth are regularly compensated. Giveth uses a dogfooding approach, so every member makes milestones corresponding to their salary on our [DApp](https://alpha.giveth.io/), which are then paid by their respective circles.
+The members working full time for Giveth are regularly compensated. Giveth uses a dogfooding approach, so every member makes milestones corresponding to their salary on our [DApp](https://beta.giveth.io/), which are then paid by their respective circles.
 
 Currently full time Givethers are:
 

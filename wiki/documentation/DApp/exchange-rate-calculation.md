@@ -2,7 +2,7 @@
 
 When Giveth needs exchange rates outside of the Giveth DApp, we use this [social coding project](https://giveth.github.io/xchange-rates/) which follows the same methodolagy as the DApp and should give the same result.
 
-When you create a milestone within the [Giveth DApp](https://alpha.giveth.io), you can enter an amount in ether or in fiat. Our system then automatically calculates the conversion rate based on the date of the milestone. 
+When you create a milestone within the [Giveth DApp](https://beta.giveth.io), you can enter an amount in ether or in fiat. Our system then automatically calculates the conversion rate based on the date of the milestone. 
 
 This is how it works:
 

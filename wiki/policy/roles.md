@@ -33,7 +33,7 @@ How do you fill out this form? Below a short explanation of what to add in which
 (G) Describe as detailed as possible what you can be held accountable for in your role <br>
 
 
-.. and that’s it for now! Now contact @loie on Riot and let her know you filled this out. 
+.. and that’s it for now! Contact @loie on Riot and let her know you filled this out. 
 
 
 Note: 

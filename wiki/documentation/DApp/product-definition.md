@@ -1,12 +1,12 @@
 # Product Definition
 
-The Giveth platform is currently in a minimal viable product (MVP) state, and will allow users to give Ether contributions to Communities organized around causes. The system is a set of [smart contracts](https://github.com/Giveth) living on the [Ethereum blockchain](https://ethereum.org), with a [caching server](https://github.com/Giveth/feathers-giveth) middle-layer and a [graphical user interface (GUI)](https://github.com/Giveth/giveth-dapp). Currently we are in closed alpha testing, should you be interested to help us test the system, please contact `@vojtech` in the [Giveth community](http://join.giveth.io/).
+The Giveth platform is currently in a beta stage, and will allow users to give Ether contributions to Communities organized around causes. The system is a set of [smart contracts](https://github.com/Giveth) living on the [Ethereum blockchain](https://ethereum.org), with a [caching server](https://github.com/Giveth/feathers-giveth) middle-layer and a [graphical user interface (GUI)](https://github.com/Giveth/giveth-dapp). Currently we are in  beta testing, should you be interested to help us test the system, please contact `@vojtech` in the [Giveth community](http://join.giveth.io/).
 
 ## Executive Summary
 
 The system consists of:
 
-- [**DACs**](#product-definition-dac) short for Decentralised Altruistic Community. Every DAC is a Community built around a cause to which users can donate. A DAC is owned by a Delegate who can delegate the donations to Campaigns linked to the DAC.
+- [**DACs**](#product-definition-dac) short for Decentralised Altruistic Community. Every DAC is a Community built around a cause to which users can donate. A DAC is run by a Delegate who can delegate the donations to Campaigns linked to the DAC.
 - [**Campaigns**](#product-definition-campaign) are individual projects which are owned by a Campaign Manager. These projects have Milestones through which the Campaign can get funding.
 - [**Milestones**](#product-definition-milestone) can be created within a Campaign and are the only way to get donations out of the Giveth system. Milestones can be proposed by the Campaign Manager and follow a workflow where multiple people can interact with it, to ensure the Milestone has been accomplished.
 

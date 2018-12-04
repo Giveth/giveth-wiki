@@ -26,8 +26,8 @@ What this document is not:
 
 
 *   A process to run Governance Meetings: As a decentralized organization, there are challenges with taking decisions in a confined time slot. The Governance Meeting should be seen as the right moment to do some stages of the advice process and take decisions if all the affected parties are present. 
-*   A dispute mechanism: I think we should have one, even if I hope we never have to use it.
-*   A stone table with fixed rules: it is being created through advise process and it can be modified through advise process
+*   A dispute mechanism: We should have one, even if we hope to never have to use it.
+*   A stone table with fixed rules: it is being created through advice process and it can be modified through advice process
 
 ********************************************************
 
@@ -55,7 +55,7 @@ Everyone has **authority** to take a decision, but they will be fully **accounta
 
 Important to notice that accountability doesn't mean blame in case things go wrong. <span style="text-decoration:underline;">If the advice process has been followed there will be an idea of the reasons why one takes an initiative</span> and everyone will have contributed to bring the initiative to the best possible outcome (or to not start it at all). Hence, it's hard to blame the instigator for trying something if the advice process has been properly followed. **<span style="text-decoration:underline;">It's OK to fail, as long as you do it properly!</span>**
 
-In such a system, tensions might arise over whether a decision was taken properly or not and instead of **decentralizing power **it might <span style="text-decoration:underline;">disengage people and create frustration</span>. Therefore, there needs to be a very clear process that one can refer to in order to check whether it has been respected or not, in order to ensure that, even if one disagrees with the proposal, it <span style="text-decoration:underline;">has been taken with the best intention for the organization in mind and collecting feedback and advice from all relevant parties</span>. 
+In such a system, tensions might arise over whether a decision was taken properly or not and instead of **decentralizing power** it might <span style="text-decoration:underline;">disengage people and create frustration</span>. Therefore, there needs to be a very clear process that one can refer to in order to check whether it has been respected or not, in order to ensure that, even if one disagrees with the proposal, it <span style="text-decoration:underline;">has been taken with the best intention for the organization in mind and collecting feedback and advice from all relevant parties</span>. 
 
 
 ## Benefits (from [reinventing organizations website](http://www.reinventingorganizationswiki.com/Decision_Making)):

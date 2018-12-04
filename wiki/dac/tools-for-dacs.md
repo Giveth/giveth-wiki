@@ -6,10 +6,9 @@ We always aim to streamlines processes and transfer between tools if it increase
 ### Chat
 The Giveth community mainly communicates through these platforms:
  - Riot.im (Integrative work chat) is currently the recommended option for joining the community
- - Slack (Team based work chat) was the first platform used to start-up the creation of Giveth DAC. However, since Slack does not offer a price model for large communities, we already started migration to Riot. Currently all public rooms are bridged between Riot and Slack.
 
 ## Documents and Files
 The Giveth DAC uses cloud-storage services for transparent document management. Most of our working documents are hosted and shared with Google Drive. Additionally we run our own [Sanstorm](https://sandstorm.io) installation for more sensitive files and documents.
 
 ## Organization
-Currently we are evaluating [loomio](https://www.loomio.org) which looks like an excellent open-source solution for decision-making, polls and votes.
+Currently we are evaluating [loomio](https://www.loomio.org) which looks like an excellent open-source solution for decision-making, polls and votes. 

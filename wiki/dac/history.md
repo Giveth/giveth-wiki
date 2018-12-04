@@ -2,7 +2,7 @@
 We share these learnings in the hope it can inspire other communities, that want to work in a decentralized way.
 
 ## 2016
-In the second half of 2016, Giveth is founded by Griff Green, Jordi Baylina and couple other members of the White Hat Group. They write the MiniMe Token contract, Vault contract and MilestoneTracker contract.  Near the end of the year Vojtech Simetka and Grace Torrellas join to round out the team and the Giveth Slack is created.
+In the second half of 2016, Giveth is founded by Griff Green, Jordi Baylina and couple other members of the White Hat Group. They wrote the MiniMe Token contract, Vault contract and MilestoneTracker contract.  Near the end of the year Vojtech Simetka and Grace Torrellas join to round out the team and the Giveth Slack is created.
 
 ## 2017
 ### Q1
@@ -42,7 +42,7 @@ Reduction of roles - especially those requiring regular contribution. The team i
 
   - Governance ( modeling the DAC, organization & administration of the team, reward dao)
   - Communication (for the outside communication of Giveth)
-  - Product Development (all aspects concerning the Giveth DApp and its integration with the Ethereum blockchain)
-  - Social Coding (as a laboratory for FOSS culture, tool and infrastructure focused software development)
+  - Dapp Development (all aspects concerning the Giveth DApp and its integration with the Ethereum blockchain)
+  - Social Coding (as a laboratory for open source culture, tool and infrastructure focused software development)
 
   Due to the new budget, certain people have to change their roles within the team. Governance meetings are ongoing and holacracy is still the preferred organizational structure. The teams effort as a decentralized community is ongoing. In finding what works best, we realize it takes a whole lot of adapability and trust when structures are in a constant flux (in our case established through familiarity between members) and bravery to look upon emerging technologies and just dive in, dogfooding your way and looking for consensus. Alas, this is the nature of an exploratory venture.
