@@ -4,7 +4,7 @@
 November 29th, 2018
 
 
-Youtube Livestream - Oh NO! We really truly lost this livestream, and didn't take much notes. Sorry folks! 
+Youtube Livestream - Oh NO! This livestream seriously glitched and failed, and we didn't take much notes. Sorry folks! 
 
 
 ### Attending
