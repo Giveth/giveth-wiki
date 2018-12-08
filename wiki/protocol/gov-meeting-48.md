@@ -4,7 +4,7 @@
 November 15th, 2018
 
 
-Youtube Livestream - Check the channel [here](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg/videos)
+[Youtube Livestream](https://www.youtube.com/watch?v=Tv04FUxjec0)
 
 
 ### Attending
