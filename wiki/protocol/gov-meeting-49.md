@@ -2,7 +2,7 @@
 
 November 22nd, 2018
 
-Youtube Livestream - https://www.youtube.com/watch?v=Tv04FUxjec0
+[Youtube Livestream](https://www.youtube.com/watch?v=Tv04FUxjec0)
 
 ### Attending
 Loie, Griff, Bowen, Michael, Kay, Don, Dani, Jeff
