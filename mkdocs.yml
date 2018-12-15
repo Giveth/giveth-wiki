@@ -61,7 +61,9 @@ nav:
         - Team Organisation: 'dac/team-organisation.md'
         - Finances: 'dac/finances.md'
         - Tools for DACs: 'dac/tools-for-dacs.md'
-        - Unicorn DAC: 'dac/Unicorn-DAC.md'
+        - Unicorn DAC: 
+            - About the DAC: 'dac/Unicorn-DAC.md'
+            - Getting Funded: 'dac/Unicorn-DAC-getfunded.md'
         - Policy:
             - Adopted Policies: 'policy/approved-policies.md'
             - Advice Process: 'policy/advice-process.md'
