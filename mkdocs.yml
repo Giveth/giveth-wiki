@@ -52,7 +52,6 @@ nav:
         - Contributors Guide: 'dac/contributors-guide.md'
         - Riot.im: 'tutorials/riot-migration.md'
         - Video Content Strategy: 'documentation/video-content-strategy.md'
-        - Visual Identity Guide: 'documentation/visual-identity.md'
         - Brand Identity Guide: 'documentation/Branding_Guidelines.md'
         - Milestones: 'tutorials/milestones.md'
 
@@ -62,11 +61,17 @@ nav:
         - Team Organisation: 'dac/team-organisation.md'
         - Finances: 'dac/finances.md'
         - Tools for DACs: 'dac/tools-for-dacs.md'
+        - Unicorn DAC: 
+            - About the DAC: 'dac/Unicorn-DAC.md'
+            - Getting Funded: 'dac/Unicorn-DAC-getfunded.md'
         - Policy:
             - Adopted Policies: 'policy/approved-policies.md'
             - Advice Process: 'policy/advice-process.md'
             - Holacratic Governance Meetings: 'protocol/governance-meetings.md'
             - Code of Conduct: 'policy/codeofconduct.md'
+            - Conflict Resolution: 'policy/conflict-res.md'
+            - Onboarding Process: 'policy/Unicorn-onboarding.md'
+            - Roles Process: 'policy/roles.md'
         - Protocol:
             - Governance Meeting 01: 'protocol/gov-meeting-1.md'
             - Governance Meeting 02: 'protocol/gov-meeting-2.md'
@@ -107,7 +112,15 @@ nav:
             - Governance Meeting 39: 'protocol/gov-meeting-39.md'
             - Governance Meeting 40: 'protocol/gov-meeting-40.md'
             - Governance Meeting 41: 'protocol/gov-meeting-41.md'
+            - Governance Meeting 42: 'protocol/gov-meeting-42.md'
             - Roles Meeting 1: 'protocol/roles-meeting-1.md'
+            - Governance Meeting 43: 'protocol/gov-meeting-43.md'
+            - Governance Meeting 44: 'protocol/gov-meeting-44.md'
+            - Governance Meeting 45: 'protocol/gov-meeting-45.md'
+            - Governance Meeting 47: 'protocol/gov-meeting-47.md'
+            - Governance Meeting 48: 'protocol/gov-meeting-48.md'
+            - Governance Meeting 49: 'protocol/gov-meeting-49.md'
+            - Governance Meeting 50: 'protocol/gov-meeting-50.md'
     
     - Giveth Donation Application (DApp):
         - DApp Beta: 'documentation/DApp/beta.md'

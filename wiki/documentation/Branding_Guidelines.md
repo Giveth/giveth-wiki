@@ -1,11 +1,11 @@
 # **Giveth Brand Identity**
 
-Giveth commits to develop an open source Dapp (Decentralized Application), that inspires 'Decentralized Altruistic Communities' to connect, transform and empowers and connects (DAC) to create and transform the world through good causes 
+Giveth commits to develop an open source Dapp (Decentralized Application), that inspires DACs (Decentralized Altruistic Communities) to connect, transform and empower the world through good causes.
 
 ## Dapp and DAC
 **Our Brand is represented in two environments: The Dapp vs DAC brand**
 
-Giveth is the Dapp (platform) developed by the Giveth DAC, both can be viewed as community led projects, not organizations, not charities, not legal entities. The Giveth DAC's mission is to develop the Giveth platform, it is defined by the team's drives and shared values supporting transparency, open-source development and collaborating like-minded projects. The Giveth DAC encourages similar initiatives to co-create and to organize themselves as similar DACs and not competitors, sharing similar goals and objectives, we all strive to make the world a better place.  
+Giveth is the Dapp (platform) developed by the Giveth DAC. Both can be viewed as community led projects, not organizations, not charities, not legal entities. The Giveth DAC's mission is to develop the Giveth platform, it is defined by the team's drives and shared values supporting transparency, open-source development and collaborating like-minded projects. The Giveth DAC encourages similar initiatives to co-create and to organize themselves as similar DACs and not competitors; sharing goals and objectives, we all strive to make the world a better place.  
 
 Brand identity is a bundle of mental and functional associations with the Giveth Dapp. Associations are not "reasons-to-donate", but provide familiarity and differentiation that's not replicable.
 
@@ -69,7 +69,12 @@ There is a strong advocacy to support open source and innovative projects and bu
 
 **Visual Guide**
 
-A visual identity guide is being developed, containing guidelines, do's and dont's for all public manifestations of Giveth. The visual guide includes: Logo, Typeface, Color scheme, layout implementation as well as UI & slide presentation templates.
+Below you'll find a detailed guide on how Giveth branding should be implemented, as well as ideas on how to play with Giveth assets to achieve good visual consistency in official design assets. This slideshow is a great place to start.
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPb9T__ae4HzAW2i9ii776ESLzY9vqWbsRlewgVFr1irIZqE86uR6Q0hDz3lcLIY-KQIs1b-uRzPzp/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 
 **Presentations**
 
@@ -81,9 +86,12 @@ Giveth internal will develop a common slide deck with guidelines for anyone to u
 
 ## **Logo, name, symbol**
 
+
+
+
 **Color**
 
-The Giveth colors represent diversity and optimism. Dark Purple and Dark Blue as used as background color with special accent on the cross positioned of various gradients of green and blue. 
+The Giveth colors represent diversity and optimism. Dark Purple and Dark Blue are used as background color with special accent on the cross positioned of various gradients of green and blue. 
 
 
 ![Giveth Color Palette](../images/branding-guidelines/giveth-color-palette.jpg)
@@ -103,6 +111,11 @@ Our logo may be the single most important graphic decision we made when developi
 
 
 ![Unicorn DAC Logo](../images/branding-guidelines/giveth-dac-logo-dark.png)
+
+
+  All assets can be downloaded from the website repo:
+
+  [https://github.com/Giveth/giveth-design-assets](https://github.com/Giveth/giveth-design-assets)
 
 
 **The Story**
@@ -138,18 +151,18 @@ The Giveth brand identity shall be  futuristic, the effect will be achieved with
 
 EXO
 
+   Giveth.io
 
-    Giveth.io
 
-
-    Exo is a contemporary geometric sans serif typeface that tries to convey a technological/futuristic feeling while keeping an elegant design. Exo was meant to be a very versatile font, so it has 9 weights (the maximum on the web) each with a true italic version. It works great as a display face but it also works good for small to intermediate size texts.
+   Exo is a contemporary geometric sans serif typeface that tries to convey a technological/futuristic feeling while keeping an elegant design. Exo was meant to be a very versatile font, so it has 9 weights (the maximum on the web) each with a true italic version. It works great as a display face but it also works good for small to intermediate size texts.</span>
+   
 
 Quicksand (contender for body, long-format text)
 
-	Giveth.io
+   Giveth.io
 
 
-    Quicksand is a display sans serif with rounded terminals. The project was initiated by Andrew Paglinawan in 2008 using geometric shapes as a core foundation. It is designed for display purposes but kept legible enough to use in small sizes as well. In 2016, in collaboration with Andrew, it was thoroughly revised by Thomas Jockin to improve the quality.
+   Quicksand is a display sans serif with rounded terminals. The project was initiated by Andrew Paglinawan in 2008 using geometric shapes as a core foundation. It is designed for display purposes but kept legible enough to use in small sizes as well. In 2016, in collaboration with Andrew, it was thoroughly revised by Thomas Jockin to improve the quality.</span>
 
 
     
@@ -157,7 +170,7 @@ Quicksand (contender for body, long-format text)
 
 ## **Brand Guidelines**
 
-Here are some guidelines to help us use our brand and assets, including our logo, word mark and content without having to ask questions about each use. To make any use of our marks in a way not covered by these guidelines, please contact us at info@giveth.io and include a visual mockup of intended use.
+Here are some guidelines to help you use our brand and assets, including our logo, word mark and content without having to ask questions about each use. To make any use of our marks in a way not covered by these guidelines, please contact us at info@giveth.io and include a visual mockup of intended use.
 
 
 ## **Usage**
@@ -231,6 +244,39 @@ We politely ask that you don't:
 
 *   We love the use of our marks on merchandise, specifically T-shirts. However, please do not use the Giveth name, the Giveth logo, or any other confusingly similar marks on any apparel, product, toy, or any other merchandise, unless approved by the Giveth DAC.
 
+
+
+---
+
+## **CSS**
+
+This template code can be used with Bootstrap4 websites and web-apps to set button, navbar styling and specify body and headline fonts:
+
+```  
+.navbar {
+    background-color: #2c0d54 !important;
+    filter: alpha(opacity=70);
+    opacity: 0.9;
+  }
+
+* {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, .logo-font {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  text-align: center;
+  color: #2c0d53;
+}
+
+.btn {
+  background-color: #2c0d54;
+  border-color: #2c0d54;
+}
+```
 
 
 ---

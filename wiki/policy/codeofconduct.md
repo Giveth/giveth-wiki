@@ -55,8 +55,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behaviour may be
-reported by contacting Griff (@griffgreen), Kay (@geleeroyale), or Kriss (@krrisis) through our official
-online chat interfaces.
+reported by contacting Griff (@griffgreen:matrix.org), Kay (@geleeroyale:matrix.org), or Kris (@krrisis:matrix.org) through our official online chat interfaces.
 
 All complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
