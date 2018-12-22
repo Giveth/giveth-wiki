@@ -1,4 +1,4 @@
-# Giveth Community Meeting #1
+# Giveth Community Meeting #53
 
 
 Dec 20th, 2018
@@ -32,6 +32,7 @@ Toggled-Off: Nobody
 
 *   Point1 - Announcement: Loomio scatter voting on dapp issues. Add your own issuse, anyone using it should feedback. Add to github/list. 
 *   Point2: Reviewers whitelist
+*   Point3: Monthly Video Call
 
 
 ### Point1 - Announcement
@@ -52,7 +53,6 @@ Adopting stricter ruleset for reviewers
 Non active reviewers are confusing newcomers to the DApp. We need a process to remove reviewers that show lack of participation.
 
 #### Proposal
-
 See loomio (https://www.loomio.org/d/BQmIrUFs/conditions-for-whitelisting-reviewers); this is about addition or removal of reviewers process
 
 ### Point2a
@@ -77,8 +77,11 @@ Loie - brings up questions about whos doing admin when scaled.... Sounds like we
 #### Result
 Approved
 
-#### Proposal
-Open community learning. Get guest, interview them/have them present/group - use for podcast. Propose topics, dont have to be expert, something we want. Will co-ordinate monthly speaker.
+### Point3
+Open community learning.
+
+#### Proposal 
+ Get guest, interview them/have them present/group - use for podcast. Propose topics, dont have to be expert, something we want. Will co-ordinate monthly speaker.
 
 #### Reactions
 Kay - awesome - please go ahead, maybe make a second slot in the week for alternating meeting topics
