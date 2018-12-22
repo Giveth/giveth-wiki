@@ -47,7 +47,7 @@ see [Gov Meeting #21](../protocol/gov-meeting-21/)
 ### Working with Giveth
 
 #### How work is assigned
-```Work is created by somebody spotting a problem that needs to be solved. The person/group discovering the problem is usually the best one to come up with a solution and should take responsibility for implementation``` - *missing source*
+```Work is created by somebody spotting a problem that needs to be solved. The person/group discovering the problem is usually the best one to come up with a solution and should take responsibility for implementation``` - *Elinor Ostrom*
 
 ```The most important guideline to follow is our Advice process, derived from the book 'Reinventing Organizations'.``` - *missing source*
 

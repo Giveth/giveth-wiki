@@ -13,7 +13,7 @@ Every month the 4 Circles or ‘Campaigns’ of the Giveth DAC (Dapp Team, Commu
 
   - Once you have picked up a task, the ideal place to *discuss your progress or ask questions* is in the linked channel ([#Product Development](https://riot.im/app/#/room/#giveth-product-development:matrix.org), [#Communication](https://riot.im/app/#/room/#giveth-communication:matrix.org), [#Governance](https://riot.im/app/#/room/#giveth-governance:matrix.org), [#Social Coding](https://riot.im/app/#/room/#giveth-social-coding:matrix.org)) or in direct messages with the person who requested this task.
   - Once your task is completed and approved by the task requester, do *share the result* in the appropriate channel.
-  - The task requester will *dish out points* for what you did in the relevant channel. These points will be paid out in ether at the end of the monthly reward period (15th of each month).
+  - The task requester will *dish out points* for what you did in the relevant channel. These points will be paid out in ether at the end of the monthly reward period (the end of each month).
 
 ## Step 3: Prove your work
 
@@ -23,7 +23,7 @@ Every month the 4 Circles or ‘Campaigns’ of the Giveth DAC (Dapp Team, Commu
     - Make sure you add your **chat handle** and a **public wallet address** that can hold ether.
     - **Share** the link to this video in the appropriate channels and in #contributors.
 
-At Giveth we strongly believe in transparency and accountability, so we take this video proof very seriously, please take a few minutes to create this before the 15th of the month, so we can pay you out the awarded points in ether! For work done in the last few days of this period, we allow a 3 day grace period for the video (until noon, 18th CET)
+At Giveth we strongly believe in transparency and accountability, so we take this video proof very seriously, please take a few minutes to create this before the end of the month, so we can pay you out the awarded points in ether! For work done in the last few days of this period, we allow a 3 day grace period for the video.
 
 ## Step 4: Get rewarded
 

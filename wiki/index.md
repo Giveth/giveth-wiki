@@ -1,18 +1,18 @@
 # Welcome to the Giveth Wiki
 
-**Hello friend!** You came to the right place to learn about [Giveth](http://giveth.io)!
+**Hello friend!** Welcome to the [Giveth](http://giveth.io) Galaxy! 
 
-We started this wiki in 2017 and **with your help and input** it's growing every day!
+We are a community focused on making the **world a better place** through the use of blockchain technology! Our flagship product, the Giveth Donation Application [DApp](https://giveth.io/#dapp) is striving to bring new governance models into the nonprofit space. We created the Giveth Galaxy to foster a larger network of organizations that will help us **build the future of giving** we envision; a truly decentralized one. 
 
-Giveth is structured as a Galaxy, but the four main planets or "circles" are:
+The Galaxy consists of 4 Circles:
 
-* [Governance](https://wiki.giveth.io/dac/governance/)
+* [Governance](../dac/governance/)
 
 * [Dapp](https://wiki.giveth.io/documentation/DApp/beta/)
 
 * [Social Coding](https://medium.com/giveth/what-is-social-coding-fa81feacfa32)
 
-* [Communications](https://wiki.giveth.io/dac/communications/)
+* [Communications](../dac/communications/)
 
 These also further subdivide internally for organisatinal purposes. Giveth is more than the sum of its parts, so if you are interested to know about some of the other things we focus on and why, head over to our [Mission Statement](https://wiki.giveth.io/dac/mission/)!
 
@@ -20,5 +20,5 @@ We are very active and keep an open [Calendar](../dac/calendar/) where you can f
 
 Read about the primordial soup from which Giveth first emereged, our first smart contracts *MiniMe*, the *Vault* and much much more on our  [Medium](https://medium.com/giveth). 
 
-If all this sounds rather curious and interesting, come and build Giveth! We invite all interested parties to do so: [Join the Giveth community!](http://join.giveth.io)
+We are a Community of Developers and **Makers**, we are the **Giveth Decentralized Altruistic Community ([Giveth DAC](https://giveth.io/#DAC))**, and we hope YOU will [join us!](http://join.giveth.io)
 <br><br>
