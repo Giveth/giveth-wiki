@@ -64,14 +64,14 @@ nav:
         - Unicorn DAC: 
             - About the DAC: 'dac/Unicorn-DAC.md'
             - Getting Funded: 'dac/Unicorn-DAC-getfunded.md'
-        # - Policy:
-           # - Adopted Policies: 'policy/approved-policies.md'
-           # - Advice Process: 'policy/advice-process.md'
-           # - Holacratic Governance Meetings: 'protocol/governance-meetings.md'
-           # - Code of Conduct: 'policy/codeofconduct.md'
-           # - Conflict Resolution: 'policy/conflict-res.md'
-           # - Onboarding Process: 'policy/Unicorn-onboarding.md'
-           # - Roles Process: 'policy/roles.md'
+        - Policy:
+            - Adopted Policies: 'policy/approved-policies.md'
+            - Advice Process: 'policy/advice-process.md'
+            - Holacratic Governance Meetings: 'protocol/governance-meetings.md'
+            - Code of Conduct: 'policy/codeofconduct.md'
+            - Conflict Resolution: 'policy/conflict-res.md'
+            - Onboarding Process: 'policy/Unicorn-onboarding.md'
+            - Roles Process: 'policy/roles.md'
         - Protocol:
             - Governance Meeting 01: 'protocol/gov-meeting-1.md'
             - Governance Meeting 02: 'protocol/gov-meeting-2.md'
