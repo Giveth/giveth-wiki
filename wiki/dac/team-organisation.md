@@ -20,6 +20,7 @@ Name | Riot Handle | Address |
 -----|--------------|-----------|
 **Kay** | @geleeroyale:matrix.org | 0x701d0ECB3BA780De7b2b36789aEC4493A426010a
 **Griff** | @griffgreen:matrix.org | 0x839395e20bbB182fa440d08F850E6c7A8f6F0780
+**Kris** | @krrisis:matrix.org | 0x93089749884BC1b91087EE2FA19fB248A3823873
 
 ## <a name="teamorga_members">Members</a>
 
