@@ -6,15 +6,12 @@
 The Giveth Donation Platform is live in *beta* stage on the Ethereum mainnet, bridged to Rinkeby testnet.
 
 It's been a quest getting to mainnet efficiency, challenged by scalability issues that were too prohibitive for real use, but we have found a smooth solution with the bridge. You can read a more detailed account here: 
-
 [Tackling Ethereum scalability issues (medium post)](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060)
 
 We are growing our community steadily!  The Giveth Galaxy of builders is ever-expanding, and an update on our current status is available here:
-
-[Status of the DApp (medium post](https://medium.com/giveth/where-are-we-now-status-of-the-giveth-dapp-5f5ba7791d12)
+[Status of the DApp (medium post)](https://medium.com/giveth/where-are-we-now-status-of-the-giveth-dapp-5f5ba7791d12)
 
 Check out the charitable projects onboarded into our live beta and register as a user by completing a profile. You can support the development of our Dapp by giving to a DAC or Campaign, or funding specific milestones directly to see exactly how your donation creates positive change in the world:
-
 [Giveth Live in Beta](https://beta.giveth.io)
 
 
