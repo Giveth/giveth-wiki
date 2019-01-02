@@ -30,6 +30,8 @@ see [Community Meeting #54](../protocol/community-meeting-54/)
 ```"If the governance campaign runs out of money, Griff is allowed to donate to it"```
 see [Gov Meeting #35](../protocol/gov-meeting-35/)
 
+```"The Unicorn DAC is resposible for some funding/steering of Giveth and those onboarded may delegate funds to milestones each week within the agreed upon parameters."``` see [Gov Meeting #45](../protocol/gov-meeting-45/) and [loomio 1](https://www.loomio.org/p/jkTKmJr1/unicorn-dac-voting-time-) and [2](https://www.loomio.org/d/KDYMhzE8/kickstarting-the-unicorn-dac)
+
 ### Governance Process
 
 ```"Decisions will be made using the Advice Process as described in the Advice Process document. Namely, following the steps 1)Ideation 2)Sounding / meta-thinking 3)Advice and 4)Decision making"```
