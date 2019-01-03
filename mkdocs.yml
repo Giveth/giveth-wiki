@@ -115,8 +115,8 @@ nav:
     
     - Giveth Donation Application (DApp):
         - DApp Beta: 'documentation/DApp/beta.md'
-        - DApp White Paper: 'documentation/DApp/white-paper.md'
         - Product Definition: 'documentation/DApp/product-definition.md'
+        - DApp White Paper: 'documentation/DApp/white-paper.md'
         - Development Process & Quality Assurance: 'documentation/DApp/product-development-testing.md'
         - Roadmap: 'documentation/DApp/product-roadmap.md'
         - Future: 'documentation/DApp/future.md'
