@@ -1,4 +1,4 @@
-`# Unicorn DAC
+# Unicorn DAC
 Congratulations, you've spotted the Unicorns! <br> 
 
 This Decentralized Altruistic Community is a governance experiment which aims to bring about a whole new chapter of decentralization for the Giveth Galaxy. By spreading the decision-making power of what work gets funded to **all** Unicorns, we test a truly community-steered project. How do we deliver on all this fantasy?
