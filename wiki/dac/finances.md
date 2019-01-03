@@ -4,7 +4,7 @@
 
 Giveth is a Decentralized Altruistic Community, meaning we depend on generous Givers ourselves. If you want to help us build the Future of Giving by contributing any amount, big or small, please contact @griffgreen on [Riot](http://riot.giveth.io) or donate directly to the address ```revolution.eth``` (which resolves to ```0x5ADF43DD006c6C36506e2b2DFA352E60002d22Dc```).
 
-You can see the options in more detail on our [Donation Page](https://donate.giveth.io)
+You can see the options in more detail on our [Donation Page](https://giveth.io/donate)
 
 ## <a name="finances_budget">Budget Overview</a>
 One of the core values of Giveth is transparency. We invite everyone to consult our publicly accessible expenses and budgets:

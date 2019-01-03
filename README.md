@@ -1,5 +1,5 @@
 # Giveth Wiki
-The wiki for the Giveth DApp, the Giveth DAC and everything else included in the Giveth universe. A place to get into detail about concepts, explanations and guides./customize parts of the wiki, please refer to: [http://www.mkdocs.org/](http://www.mkdocs.org/)
+The wiki for the Giveth DApp, the Giveth DAC and everything else included in the Giveth Galaxy. A place to get into detail about concepts, explanations and guides./customize parts of the wiki, please refer to: [http://www.mkdocs.org/](http://www.mkdocs.org/)
 
 ## About
 The wiki is accessible via this link: https://wiki.giveth.io

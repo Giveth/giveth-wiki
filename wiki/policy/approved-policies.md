@@ -24,13 +24,18 @@ The policy forming process at Giveth has been evolved to this flow of actions:
 see [Gov Meeting #39](../protocol/gov-meeting-39/) and [loomio](https://www.loomio.org/p/XQBSc0qa/whitelists-and-creating-dac-s-and-campaigns-at-will)
 
 ### Finances
+```"From Dec 15th 2018 all Regular Reward have to be filed in DAI. Expenses can be filed in DAI. Reward DAO stays in ETH. Giveth gets more DAI from soliciting more donations in DAI"```
+see [Community Meeting #54](../protocol/community-meeting-54/)
+
 ```"If the governance campaign runs out of money, Griff is allowed to donate to it"```
-see [Gove Meeting #35](../protocol/gov-meeting-35/)
+see [Gov Meeting #35](../protocol/gov-meeting-35/)
+
+```"The Unicorn DAC is resposible for some funding/steering of Giveth and those onboarded may delegate funds to milestones each week within the agreed upon parameters."``` see [Gov Meeting #45](../protocol/gov-meeting-45/) and [loomio 1](https://www.loomio.org/p/jkTKmJr1/unicorn-dac-voting-time-) and [2](https://www.loomio.org/d/KDYMhzE8/kickstarting-the-unicorn-dac)
 
 ### Governance Process
 
 ```"Decisions will be made using the Advice Process as described in the Advice Process document. Namely, following the steps 1)Ideation 2)Sounding / meta-thinking 3)Advice and 4)Decision making"```
-see [Advice Process doc](https://wiki.giveth.io/policy/advice-process/) and [loomio](https://www.loomio.org/d/j3mrFUYx/reinventing-is-it-safe-enough-to-try-)
+see [Advice Process](../advice-process/) and [loomio](https://www.loomio.org/d/j3mrFUYx/reinventing-is-it-safe-enough-to-try-)
 
 ```"Proposals have to go on loomio first - If no one objects on loomio, the proposal is passed. If somebody objects the proposal is discussed at the next Governance Meeting"```
 see [Gov meeting #41](../protocol/gov-meeting-41/) and [loomio](https://www.loomio.org/p/LkOa8KT4/which-proposals-are-proposed-in-governance-meeting)
@@ -47,9 +52,9 @@ see [Gov Meeting #21](../protocol/gov-meeting-21/)
 ### Working with Giveth
 
 #### How work is assigned
-```Work is created by somebody spotting a problem that needs to be solved. The person/group discovering the problem is usually the best one to come up with a solution and should take responsibility for implementation``` - *missing source*
+```Work is created by somebody spotting a problem that needs to be solved. The person/group discovering the problem is usually the best one to come up with a solution and should take responsibility for implementation``` - [Advice Process](../advice-process/) and [loomio](https://www.loomio.org/d/j3mrFUYx/reinventing-is-it-safe-enough-to-try-)
 
-```The most important guideline to follow is our Advice process, derived from the book 'Reinventing Organizations'.``` - *missing source*
+```The most important guideline to follow is our Advice process, derived from the book 'Reinventing Organizations'.``` - see [Advice Process](../advice-process/) and [loomio](https://www.loomio.org/d/j3mrFUYx/reinventing-is-it-safe-enough-to-try-)
 
 #### Reward DAO
 ```The Reward DAO is an evolving process-in-place to reward freelance contributions to Giveth.``` - *missing source*
