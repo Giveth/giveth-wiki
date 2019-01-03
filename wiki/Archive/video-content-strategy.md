@@ -43,7 +43,7 @@ Curated video content (official tutorials, documentaries, conference videos, exp
 
 Important live-streamed content (governance meetings, circle talks, show&tells, team-meetings) -> Giveth Transparency channel
 
-Short, uncurated content (giveth-dailies, reward DAO) -> https//fame.giveth.io
+Short, uncurated content (giveth-dailies, reward DAO) -> http://fame.giveth.io
 
 ---
 

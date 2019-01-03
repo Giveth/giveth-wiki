@@ -1,5 +1,5 @@
 # Giveth Wiki
-The wiki for the Giveth DApp, the Giveth DAC and everything else included in the Giveth universe. A place to get into detail about concepts, explanations and guides./customize parts of the wiki, please refer to: [http://www.mkdocs.org/](http://www.mkdocs.org/)
+The wiki for the Giveth DApp, the Giveth DAC and everything else included in the Giveth Galaxy. A place to get into detail about concepts, explanations and guides./customize parts of the wiki, please refer to: [http://www.mkdocs.org/](http://www.mkdocs.org/)
 
 ## About
 The wiki is accessible via this link: https://wiki.giveth.io
@@ -18,6 +18,14 @@ You can edit the files either directly on GitHub, or clone the project and push 
 ## Installation
 Requires MKdocs and Material theme to test locally.  [http://www.mkdocs.org/](http://www.mkdocs.org/). [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)
 
+Usually the steps to be followed come down to:
+1. Install Python (and set the PATH environment variable)
+[https://www.python.org/](https://www.python.org/)
+2. Install Mkdocs
+``pip install mkdocs``
+3. Install Material Theme
+``pip install mkdocs-material``
+
 ## User Guide
 See a detailed guide here: [http://www.mkdocs.org/user-guide/writing-your-docs/](http://www.mkdocs.org/user-guide/writing-your-docs/)
 
@@ -26,12 +34,12 @@ See a detailed guide here: [http://www.mkdocs.org/user-guide/writing-your-docs/]
 ### To add a new page:
   1 - Create a new markdown file (.md) in a subfolder of /wiki/
 
-  2 - Add a new entry that points to your newly created file under pages: in mkdocs.yml
+  2 - Add a new entry that points to your newly created file under the **nav-section** in *mkdocs.yml*
 
 ### To add a new category:
   1 - Create a subfolder in /wiki/
 
-  2 - Add a new entry that points to your newly created folder under pages: in mkdocs.yml
+  2 - Add a new entry that points to your newly created folder under  the **nav-section** in *mkdocs.yml*
 
 ### Visual Identity:
   If you consider implementing some graphics, pls refer to the visual identity page for info on typefaces, colors, and the asset repository here: [https://wiki.giveth.io/documentation/visual-identity/](https://wiki.giveth.io/documentation/visual-identity/)

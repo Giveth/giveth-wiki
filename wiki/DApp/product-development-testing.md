@@ -1,5 +1,5 @@
 # Development, Testing, Quality Assurance and Deployment
-This chapter details the development process, the deployment setup, how are new features included, tested and how is quality assurance handled. The aim is to provide answers to questions like how are new features decided, what is the deployment setup, git organization and how are new changes introduced and tested.
+This chapter details the development process, the deployment setup, how new features are included, tested and how quality assurance is handled. The aim is to provide answers to questions, like how are new features decided, what is the deployment setup, git organization and how are new changes introduced and tested.
 
 ![Development sprint planning](../../images/product-development/dapp-dev-cycle.svg)
 <a name="product-development-testing-fig-release">**The Product Development Cycle**</a> spans 4 weeks and consists of 1 week of planning, 2 weeks of development, and 1 week of integration, testing and release. The cycle is repeated every 2 weeks which means there is new release every 2 weeks and the new feature development is continuous.

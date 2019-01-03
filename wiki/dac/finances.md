@@ -2,16 +2,15 @@
 
 ## <a name="donations">Donations</a>
 
-Giveth is a Decentralized Altruistic Community, meaning we depend on generous Givers ourselves. If you want to help us build the Future of Giving by contributing any amount, big or small, please contact @griffgreen on [Riot](http://riot.giveth.io) or donate directly to the address ```revolution.eth``` (which resolves to ```0x5ADF43DD006c6C36506e2b2DFA352E60002d22Dc```).
+Unlike traditional charity, with Giveth every donation and pledge is transparent, so you always know exactly where your donation went and get a good sense of the impact it made in direct communication with your beneficiary.
 
-You can see the options in more detail on our [Donation Page](https://donate.giveth.io)
+If you truly want to help us Build the Future of Giving, donate by using the [Giveth DApp](https://beta.giveth.io/)! Just log in via MetaMask, trace your donations and join other Givers on the DAC Leaderboard. 
 
-## <a name="finances_budget">Budget Overview</a>
-One of the core values of Giveth is transparency. We invite everyone to consult our publicly accessible expenses and budgets:
+If you prefer to donate directly to our address or via MyCrypto or MetaMask, you can send Eth or tokens to the following address:
+```revolution.eth``` (which resolves to: ```0x5ADF43DD006c6C36506e2b2DFA352E60002d22Dc```).
 
- [Budget for 2018](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing)
+You can see the options in more detail on our [Donation Page](https://giveth.io/donate)
 
- [Budget for 2017](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing)
 
 ## <a name="finances_expenses">Expense Claiming</a>
 
@@ -29,22 +28,33 @@ By default only expenses with valid receipt are covered. Any expense will be jud
 
 ## <a name="finances_regular">Regular Rewards</a>
 
-The members working full time for Giveth are regularly compensated. Giveth uses a dogfooding approach, so every member makes milestones corresponding to their salary on our [DApp](https://alpha.giveth.io/), which are then paid by their respective circles.
+The members working full time for Giveth are regularly compensated. Giveth uses a dogfooding approach, so every member makes milestones corresponding to their salary on our [DApp](https://beta.giveth.io/dacs/5b37da13a239ac21b383d4da), which are then paid by their respective circles.
 
-Currently full time Givethers are:
+* [Communiations](https://beta.giveth.io/campaigns/5b3789513a65c31e4e4e8328)
+* [Governance](https://beta.giveth.io/campaigns/5b37e5caa239ac21b383d4dd)
+* [Social coding](https://beta.giveth.io/campaigns/5b3b3a34329bc64ae74d13cd)
+* [Dapp Development](https://beta.giveth.io/campaigns/5b39d45e14cec916d00dab20)
 
-Name | Handle | Salary
------|--------|-------
-**Yalor**  | @yalormewn | 600 EUR / week
-**Arthur** | @quazia | 600 EUR / week
-**Griff** | @griff | 600 EUR / week
-**Kay** | @geleeroyale | 650 EUR / week
-**Kris** | @krrisis | 650 EUR / week
-**Vojtech** | @vojtech | 1,234.75 EUR / week
-**Satya** | @satya | 987.80 EUR / week
-**Perrisology** | @perrisology | 1,620.60 EUR / week
-
+#### Regular Rewards
+```1 - Regular Rewards is our term for what closest comes to a normal *salary*. Who is eligible and how high is the compensation/week is determined by respective circle leads``` - *missing source*
+```2 - Regular Rewards are budgeted per year``` - *missing source*
+```3 - Milestones for RRs should be created per week and use the last day of the week to set the exchange rate``` - *missing source*
+```4 - RR Milestones are written *a posteriori (after the fact, describing tasks that were fulfilled)*``` - *missing source*
 
 ## <a name="finances_reward_dao">Rewards DAO</a>
 
 Every second week, Giveth rewards people who contributed their time and effort on Giveth. The Reward DAO is a system where every two weeks all full time team members vote on how to distribute 2000 USD. Please see the [contributors guide](../dac/contributors-guide/) for more information.
+
+#### Reward DAO
+```The Reward DAO is an evolving process-in-place to reward freelance contributions to Giveth.``` - *missing source*
+
+```In its current implementation, the four main circles of Giveth (Communication, DApp Development, Governance and Social Coding) give points in their respective Riot.im channel via pointsbot (A chat-bot that can be used to issue and record awarded points). At the 15th of each month, the circle leads meet up to sign-off on last periods' points. The Reward DAO allowance of each circle (in ETH) is divided by that circles total awarded points this period and every contributor gets a filled-out milestone on the Giveth DApp that is paid out soon after.``` - *missing source*
+
+
+
+## <a name="finances_budget">Budget Overview</a>
+One of the core values of Giveth is transparency. We invite everyone to consult our publicly accessible expenses and budgets:
+
+ [Budget for 2018](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing)
+
+ [Budget for 2017](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing)

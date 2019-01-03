@@ -1,5 +1,29 @@
 # Governance Meetings
 
+
+  - **When:** Every Friday at 18:00 Barcelona Time (UTC+1)
+  - **Where:** [https://meet.jit.si/giveth-gov](https://meet.jit.si/giveth-gov)
+  - **Minutes:** [https://drive.google.com/drive/folders/0B-CIs3wLk5T4TE1UbVVkUmp3SzA?usp=sharing](https://drive.google.com/drive/folders/0B-CIs3wLk5T4TE1UbVVkUmp3SzA?usp=sharing)
+  - **Historical Meetings:** [Governance meetings playlist on Youtube](https://www.youtube.com/watch?v=030qm_AqWl4&list=PL6oqELoqsEmpe1oycj7bJm_CdHZ-CGBJ6)
+  - **Description:** The aim is to discuss tensions and find solutions within Giveth.
+
+This meeting is structured following the example of [holocracy governance meetings](https://www.holacracy.org/governance-meetings):
+
+1. **A meeting Facilitator and a Secretary are determined** before the meeting begins, the facilitator moderates the discussion and the Secretary takes notes.
+1. **Everyone checks-in** by voicing their intention for the meeting and revealing momentary personal distractions.
+1. **A meeting agenda is created.** Agenda items are come from Loomio threads.
+1. **The meeting facilitator goes over the agenda and for every item:**
+  - The Proposer describes the tension and in one sentence makes a proposal. The proposal should in general be creation of a circle, role or policy.
+  - All the meetings participants may ask clarifying questions about the tension or proposal.
+  - The topic proposer repeats the proposal if there were any questions.
+  - All meeting participants in turn express their reactions.
+  - After the reaction round, the topic proposer can amend their proposal.
+  - Any meeting participant can object to the proposal.
+  - The topic proposer can amend their proposal and if there are no more objections the topic passes.
+5. The **Secretary summarizes** the meeting.
+1. **Everyone in turn checks-out** by expressing their opinion on the meeting.
+
+
 The purpose of a governance meeting is to:
 
 - Create, remove, or modify the Roles of the Circle
@@ -8,7 +32,9 @@ The purpose of a governance meeting is to:
 
 - Elect people to the core roles of the Circle
 
-There are Specific Roles to be filled… In general we use roles to avoid things getting personal. It is not that the Griff is interrupting Jordi, it's that the Facilitator is making sure the Smart Contract Reporter respects the meeting's process.
+There are Specific Roles to be filled… In general we use roles to avoid things getting personal. For instance it is not that the Griff is interrupting Jordi, it's that the Facilitator is making sure the Smart Contract Reporter respects the meeting's process.
+
+
 
 ## Meeting Roles
 
@@ -123,3 +149,5 @@ Once all objections are integrated, go back to an Objection round to ensure ther
 ### Check out
 
 Each person can share a closing reflection on this meeting. No discussion.
+
+

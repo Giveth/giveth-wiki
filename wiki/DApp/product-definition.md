@@ -1,14 +1,14 @@
 # Product Definition
 
-The Giveth platform is currently in a minimal viable product (MVP) state, and will allow users to give Ether contributions to Communities organized around causes. The system is a set of [smart contracts](https://github.com/Giveth) living on the [Ethereum blockchain](https://ethereum.org), with a [caching server](https://github.com/Giveth/feathers-giveth) middle-layer and a [graphical user interface (GUI)](https://github.com/Giveth/giveth-dapp). Currently we are in closed alpha testing, should you be interested to help us test the system, please contact `@vojtech` in the [Giveth community](http://join.giveth.io/).
+The Giveth platform is currently in a minimal viable product (MVP) state, and will allow users to give Ether contributions to Communities organized around causes. The system is a set of [smart contracts](https://github.com/Giveth) living on the [Ethereum blockchain](https://ethereum.org), with a [caching server](https://github.com/Giveth/feathers-giveth) middle-layer and a [graphical user interface (GUI)](https://github.com/Giveth/giveth-dapp). Currently we are in closed beta testing, should you be interested to help us test the system, please contact `@danibelle` in the [Giveth community](http://join.giveth.io/).
 
 ## Executive Summary
 
 The system consists of:
 
-- [**DACs**](#product-definition-dac) short for Decentralised Altruistic Community. Every DAC is a Community built around a cause to which users can donate. A DAC is owned by a Delegate who can delegate the donations to Campaigns linked to the DAC.
+- [**DACs**](#product-definition-dac) short for Decentralised Altruistic Community. Every DAC is a Community built around a cause to which users can donate. A DAC is owned by a Delegate who can delegate the donations to Campaigns that fund actions supportive of the DAC mission.
 - [**Campaigns**](#product-definition-campaign) are individual projects which are owned by a Campaign Manager. These projects have Milestones through which the Campaign can get funding.
-- [**Milestones**](#product-definition-milestone) can be created within a Campaign and are the only way to get donations out of the Giveth system. Milestones can be proposed by the Campaign Manager and follow a workflow where multiple people can interact with it, to ensure the Milestone has been accomplished.
+- [**Milestones**](#product-definition-milestone) can be created within a Campaign and are the only way to get donations out of the Giveth system. Proposed milestones must be approved by the Campaign Manager and follow a workflow where multiple people can interact with it, to ensure the Milestone has been accomplished.
 
 **There are 7 roles:**
 
@@ -146,10 +146,3 @@ Lastly, if a **Milestone is marked as complete and the Reviewers don't take any 
 ![Automatic Actions Usecase Diagram](../../images/product-definition/time-usecase.svg)
 
 <a name="product-definition-fig-recipient-usecase">Figure 16</a>: **Use case diagram** listing all [Automatic Actions](#product-definition-time).
-
-## <a name="product-definition-token">Tokens</a>
-
-Every DAC and Campaign creates a non-transferable MiniMe token which in the future could be used for governance. When someone donates to a DAC or Campaign they receive these tokens in return proportional to their donation in ETH. The rules for emitting the tokens are:
-
-1. The Giver donates to a Campaign -> The Giver receives Campaign tokens
-2. The Giver donates to a DAC, the DAC delegates the donation to a Campaign and the delegation is committed. Only then the Giver receives both: DAC tokens and Campaign tokens.
