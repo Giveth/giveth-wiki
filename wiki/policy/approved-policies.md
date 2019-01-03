@@ -24,8 +24,14 @@ The policy forming process at Giveth has been evolved to this flow of actions:
 see [Gov Meeting #39](../protocol/gov-meeting-39/) and [loomio](https://www.loomio.org/p/XQBSc0qa/whitelists-and-creating-dac-s-and-campaigns-at-will)
 
 ### Finances
+```"From Dec 15th 2018 all Regular Reward have to be filed in DAI. Expenses can be filed in DAI. Reward DAO stays in ETH. Giveth gets more DAI from soliciting more donations in DAI"```
+see [Community Meeting #54](../protocol/community-meeting-54/)
+
 ```"If the governance campaign runs out of money, Griff is allowed to donate to it"```
-see [Gove Meeting #35](../protocol/gov-meeting-35/)
+see [Gov Meeting #35](../protocol/gov-meeting-35/)
+
+```"The Unicorn DAC is resposible for some funding/steering of Giveth and those onboarded may delegate funds to milestones each week within the agreed upon parameters."``` see [Gov Meeting #45](../protocol/gov-meeting-45/) and [loomio 1](https://www.loomio.org/p/jkTKmJr1/unicorn-dac-voting-time-) and [2](https://www.loomio.org/d/KDYMhzE8/kickstarting-the-unicorn-dac)
+
 
 ### Governance Process
 
