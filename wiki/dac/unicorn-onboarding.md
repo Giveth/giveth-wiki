@@ -26,9 +26,10 @@ e) Will be present at any appraisals/evaluations of your work/roles. <br>
 2. Meet with these 3 people. 
 3. The commitment meeting begins with a wholeness practice, grounding, centering in to the place of deep care that brings and keeps us all at Giveth.
 4. Confirm that the above steps of recruitment and experience in the galaxy have happened. 
-5. **Answer these two questions:** <br>
+5. **Answer these three (multipart) questions:** <br>
 a) What is your sense of your life trajectory? How could working here fit with what you sense you are called to be and to do in the world? <br>
 b) What aspect of the Giveth purpose resonates with you? What unique talents and gifts could you contribute to Giveth’s journey? <br>
+c) How can your sponsors support your mission in the Giveth Galaxy, and to the sponsors, how do you see yourself supporting the Unicorn? ,br>
 6. **Confirm you have read and agree to:** <br>
 a) [Mission statement](https://docs.google.com/document/d/1NbdshyZEATW0N7C5_lYIozodvwe8F7pPn5SZfDOKG1Q/edit?usp=sharing) <br>
 b) [Manifesto](https://medium.com/giveth/giveth-masterpiece-manifesto-19649c57c6aa) <br>

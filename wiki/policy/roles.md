@@ -21,7 +21,7 @@ What happens next? You get some work done! Experiment by taking up specific task
 
 ## Step 3: Describe your role
 
-Go to the [roles sheet](https://docs.google.com/spreadsheets/d/10yFmRviEoeUCg8GfWizHBtkFqU9kgm_OhmIj9Lt-ONU/edit?usp=sharing) and add yourself here. 
+Go to the [roles sheet](https://docs.google.com/spreadsheets/d/10yFmRviEoeUCg8GfWizHBtkFqU9kgm_OhmIj9Lt-ONU/edit?usp=sharing) and add yourself. 
 How do you fill out this form? Below a short explanation of what to add in which column:
 
 (A) Describe your role in a few words <br>
@@ -74,3 +74,5 @@ In the near future, its likely we'll DAOify this process with Aragon.
 A few days before the meeting @loie, who will also facilitate this meeting, will announce the meeting and ask for your confirmation to join. 
 
 If you have any follow-up question about this, please contact @loie on [Riot](http://join.giveth.io)! 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQh5zyZ8ga2xtovtYK-43jT_mIiK_tg1O6O599pbPEMaHopvmRpTzgECq8_YyKl-MzhgOQ7cf-N3STL/pubhtml?gid=1761564124&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

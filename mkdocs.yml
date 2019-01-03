@@ -80,8 +80,7 @@ nav:
         - About the Team: 'dac/about-team.md' 
         - Tools for DACs: 'dac/tools-for-dacs.md'
         - Finances: 'dac/finances.md'
-        - History: 'dac/history.md'   
-        - Roles: 'dac/roles.md'         
+        - History: 'dac/history.md'        
         - Meeting Notes:
             - About these pages: 'meeting-notes/about-meeting-notes.md'
             - Governance Meeting 01: 'meeting-notes/gov-meeting-1.md'
