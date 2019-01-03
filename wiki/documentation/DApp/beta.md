@@ -16,3 +16,9 @@ contact @vojtech on [Riot](http://riot.giveth.io) for a tour!
 
 You can follow the development on [github](https://github.com/Giveth/giveth-dapp)
 <!-- and take a peak at the alpha version [here](https://mvp.giveth.io/) -->
+
+## Get your donation campaign onto Giveth!
+
+Please follow these steps to be considered for being onboarded:
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vStldqYjYwTMdr34ySOppsmrWt1lLyyUZPXcDDQzoAKsD5yODOhw3_s_AyO2m3okRI-wzWCQJLiHi6A/pub?embedded=true" frameborder="0" width="100%" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
