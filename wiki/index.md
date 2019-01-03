@@ -6,13 +6,13 @@ We are a community focused on making the **world a better place** through the us
 
 The Galaxy consists of 4 Circles:
 
-* [Governance](../dac/governance/)
+* [Dapp](../DApp/beta)
 
-* [Dapp](https://wiki.giveth.io/documentation/DApp/beta/)
+* [Social Coding](../social-coding/what-is-social-coding)
 
-* [Social Coding](https://medium.com/giveth/what-is-social-coding-fa81feacfa32)
+* [Communications](../communications/communications)
 
-* [Communications](../dac/communications/)
+* [Governance](../dac/governance)
 
 These also further subdivide internally for organisatinal purposes. Giveth is more than the sum of its parts, so if you are interested to know about some of the other things we focus on and why, head over to our [Mission Statement](https://wiki.giveth.io/dac/mission/)!
 
