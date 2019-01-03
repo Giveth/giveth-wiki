@@ -9,7 +9,7 @@ If you truly want to help us Build the Future of Giving, donate by using the [Gi
 If you prefer to donate directly to our address or via MyCrypto or MetaMask, you can send Eth or tokens to the following address:
 ```revolution.eth``` (which resolves to: ```0x5ADF43DD006c6C36506e2b2DFA352E60002d22Dc```).
 
-You can see the options in more detail on our [Donation Page](http://donate.giveth.io)
+You can see the options in more detail on our [Donation Page](https://giveth.io/donate)
 
 
 ## <a name="finances_expenses">Expense Claiming</a>

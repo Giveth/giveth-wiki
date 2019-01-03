@@ -64,6 +64,7 @@ nav:
       - Milestones: 'tutorials/milestones.md'
       - Unicorn DAC: 'dac/unicorn-dac.md'
       - Unicorn Onboarding: 'dac/unicorn-onboarding.md'
+      - Unicorn DAC Get Funding: 'dac/unicorn-dac-getfunded.md'
       - Policy and Research:
         #- Intro Page: 'policy/policy-introduction.md'
         - Code of Conduct: 'policy/codeofconduct.md'
@@ -129,5 +130,7 @@ nav:
             - Governance Meeting 45: 'meeting-notes/gov-meeting-45.md'
             - Governance Meeting 47: 'meeting-notes/gov-meeting-47.md'
             - Governance Meeting 48: 'meeting-notes/gov-meeting-48.md'
+            - Governance Meeting 49: 'meeting-notes/gov-meeting-49.md'
+            - Governance Meeting 50: 'meeting-notes/gov-meeting-50.md'
     
 
