@@ -70,7 +70,7 @@ nav:
       - Documentation and Tutorials:
         - Code of Conduct: 'Governance/codeofconduct.md'
         - Conflict Resolution: 'Governance/conflict-res.md'
-        - Governance of Meetings: 'Governance/meeting-notes/governance-meetings.md'
+        - Governance of Meetings: 'Governance/governance-meetings.md'
         - Advice Process: 'Governance/advice-process.md'
     - Communications:
        - Intro to Giveth Communications: 'Communications/index.md'
