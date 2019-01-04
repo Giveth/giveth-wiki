@@ -1,4 +1,5 @@
-DAC/site_name: 'Giveth Wiki'
+
+site_name: 'Giveth Wiki'
 site_url: https://wiki.giveth.io
 site_author: 'The Giveth DAC'
 site_description: 'Learn about Giveth'
@@ -47,7 +48,7 @@ nav:
       - Intro to the Giveth DApp: 'DApp/index.md'
       - Product Definition: 'DApp/product-definition.md'
       - Roadmap: 'DApp/product-roadmap.md'
-      - Documentation and Tutorials :
+      - Documentation and Tutorials:
         - How to make Milestones: 'DApp/milestones.md'
         - Future: 'DApp/future.md'
         - Exchange Rate: 'DApp/exchange-rate-calculation.md'
@@ -62,13 +63,13 @@ nav:
       - Intro to Giveth Governance: 'Governance/index.md'
       - Governance model: 'Governance/governance.md'
       - Tools for DACs: 'Governance/tools-for-dacs.md'
-      - Governance Experiments
-        - Unicorn DAC
-          - Unicorn DAC Intro: 'Governance/Unicorn-DAC/unicorn-dac.md'
+      - Governance Experiments:
+        - Unicorn DAC:
+          - Unicorn DAC Intro: 'Governance/Unicorn-DAC/index.md'
           - Unicorn Onboarding: 'Governance/Unicorn-DAC/unicorn-onboarding.md'
           - Get Funding: 'Governance/Unicorn-DAC/unicorn-dac-getfunded.md'
-          - Roles Process: 'Governance/Unicorn-DAC/roles.md
-      - Documentation and Tutorials :
+          - Roles Process: 'Governance/Unicorn-DAC/roles.md'
+      - Documentation and Tutorials:
         - Milestone Tutorial: 'Governance/milestones.md'
         - Code of Conduct: 'Governance/codeofconduct.md'
         - Conflict Resolution: 'Governance/conflict-res.md'
@@ -76,7 +77,7 @@ nav:
         - Advice Process: 'Governance/advice-process.md'
     - Communication:
        - Intro to Giveth Communications: 'Communications/index.md'
-       - Documentation and Tutorials :
+       - Documentation and Tutorials:
           - Brand Identity Guide: 'Communications/brand-guidelines.md'
           - Use of Riot Chat: 'Communications/riot-migration.md'
     - Giveth Community (DAC):
@@ -84,7 +85,7 @@ nav:
         - Team Organisation: 'DAC/team-organisation.md'
         - Finances: 'DAC/finances.md'
         - History: 'DAC/history.md'
-        - Documentation and Tutorials :
+        - Documentation and Tutorials:
           - Contributors Guide: 'DAC/contributors-guide.md'
           - Adopted Policies: 'DAC/approved-policies.md'
           - Meeting Notes:
