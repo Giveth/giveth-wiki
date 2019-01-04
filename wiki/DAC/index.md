@@ -1,8 +1,8 @@
-# About the Giveth team
+# About the Giveth DAC
 
 ![Team](../images/dac/givethteam.jpg)
 
-The Giveth Core Team is an eclectic mix of people from the Ethereum and nonprofit worlds. They are dedicated to building the tools that will make it easy for anyone to build a global community around a cause. In fact, this core team is using the Giveth Platform to build a community around the Giveth idea itself! If you want to help create the solution, join our [community](http://join.giveth.io)
+The Giveth Decentralized Altruistic Community (DAC) is an eclectic mix of people from the Ethereum and nonprofit worlds. They are dedicated to building the tools that will make it easy for anyone to build a global community around a cause. In fact, this core team is using the Giveth Platform to build a community around the Giveth idea itself! If you want to help create the solution, join our [community](http://join.giveth.io)
 
 We are Altruistic, we are entirely open-source and love to reach out proactively to similar initiatives, which we see as potential collaborators as opposed to competitors. The Giveth DAC works with volunteers, and genius developers who are working for a fraction of what they could be earning at for-profit Ethereum projects. To help us in building Giveth, please visit the [contributors guide](../dac/contributors-guide/)
 

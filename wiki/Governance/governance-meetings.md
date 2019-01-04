@@ -1,13 +1,8 @@
-# Governance Meetings
+# Governance of Meetings
 
+*If you are looking for more info on our Giveth DAC/Community Meetings, you can find this [here](wiki/DAC/meeting-notes/intro-recap.md)*
 
-  - **When:** Every Friday at 18:00 Barcelona Time (UTC+1)
-  - **Where:** [https://meet.jit.si/giveth-gov](https://meet.jit.si/giveth-gov)
-  - **Minutes:** [https://drive.google.com/drive/folders/0B-CIs3wLk5T4TE1UbVVkUmp3SzA?usp=sharing](https://drive.google.com/drive/folders/0B-CIs3wLk5T4TE1UbVVkUmp3SzA?usp=sharing)
-  - **Historical Meetings:** [Governance meetings playlist on Youtube](https://www.youtube.com/watch?v=030qm_AqWl4&list=PL6oqELoqsEmpe1oycj7bJm_CdHZ-CGBJ6)
-  - **Description:** The aim is to discuss tensions and find solutions within Giveth.
-
-This meeting is structured following the example of [holocracy governance meetings](https://www.holacracy.org/governance-meetings):
+For our Giveth DAC Meeting specifically we follow many of the holocratic principles, this meeting is structured following the example of [holocracy governance meetings](https://www.holacracy.org/governance-meetings):
 
 1. **A meeting Facilitator and a Secretary are determined** before the meeting begins, the facilitator moderates the discussion and the Secretary takes notes.
 1. **Everyone checks-in** by voicing their intention for the meeting and revealing momentary personal distractions.
@@ -21,7 +16,7 @@ This meeting is structured following the example of [holocracy governance meetin
   - Any meeting participant can object to the proposal.
   - The topic proposer can amend their proposal and if there are no more objections the topic passes.
 5. The **Secretary summarizes** the meeting.
-1. **Everyone in turn checks-out** by expressing their opinion on the meeting.
+1. **Everyone in turn checks out** by expressing their opinion on the meeting.
 
 
 The purpose of a governance meeting is to:
@@ -149,5 +144,3 @@ Once all objections are integrated, go back to an Objection round to ensure ther
 ### Check out
 
 Each person can share a closing reflection on this meeting. No discussion.
-
-

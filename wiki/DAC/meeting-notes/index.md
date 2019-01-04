@@ -1,4 +1,18 @@
-# Recap governance meetings
+In this part you can find the notes for all of our Giveth DAC meetings!
+
+Every week the Giveth DAC holds their weekly Community Meeting which is announced in our [Riot Chat](http://join.giveth.io). Everyone is always welcome to attend to check out how we work!
+
+- **When:** Every Thursday at 18:00 Barcelona Time (UTC+1)
+- **Where:** [https://meet.jit.si/giveth-gov](https://meet.jit.si/giveth-gov)
+
+Transparency is at the core of Giveth so you can watch all these live streamed meetings [here](https://www.youtube.com/channel/UClfutpRoY0WTVnq0oB0E0wQ).
+
+Our meetings initially were called 'Governance Meetings' but for clarity we now call these Community/DAC Meetings.
+Below you can find a short recap of Meetings 1-16, on your left you can dive into all of them!
+
+*For more info on the procedures we follow in our DAC meeting, more [here](wiki/Governance/governance-meetings.md)*
+
+# Recap initial Community meetings *(previously known as Governance meetings)*
 
 ## 2017:
 
