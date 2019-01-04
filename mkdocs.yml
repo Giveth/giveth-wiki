@@ -60,7 +60,6 @@ nav:
       #- Stars and Planets: 'social-coding/stars-and-planets.md'
     - Governance:
       - Intro to Giveth Governance: 'Governance/index.md'
-      - Governance model: 'Governance/governance.md'
       - Tools for DACs: 'Governance/tools-for-dacs.md'
       - Governance Experiments:
         - Unicorn DAC:
@@ -74,7 +73,7 @@ nav:
         - Conflict Resolution: 'Governance/conflict-res.md'
         - Governance of Meetings: 'Governance/meeting-notes/governance-meetings.md'
         - Advice Process: 'Governance/advice-process.md'
-    - Communication:
+    - Communications:
        - Intro to Giveth Communications: 'Communications/index.md'
        - Documentation and Tutorials:
           - Brand Identity Guide: 'Communications/brand-guidelines.md'
