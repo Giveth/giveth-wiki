@@ -55,7 +55,7 @@ nav:
         - Smart Contracts Roadmap: 'DApp/smart-contracts-roadmap.md'
         - Deployments: 'DApp/deployments.md'
     - Social Coding:
-      - Intro to Giveth Social Coding: 'social-coding/index.md'
+      - Intro to Giveth Social Coding: 'Social-Coding/index.md'
       #- The Blockternship: 'social-coding/blockternship.md'
       #- Stars and Planets: 'social-coding/stars-and-planets.md'
     - Governance:
@@ -68,7 +68,6 @@ nav:
           - Get Funding: 'Governance/Unicorn-DAC/unicorn-dac-getfunded.md'
           - Roles Process: 'Governance/Unicorn-DAC/roles.md'
       - Documentation and Tutorials:
-        - Milestone Tutorial: 'Governance/milestones.md'
         - Code of Conduct: 'Governance/codeofconduct.md'
         - Conflict Resolution: 'Governance/conflict-res.md'
         - Governance of Meetings: 'Governance/meeting-notes/governance-meetings.md'
