@@ -1,8 +1,8 @@
 # Governance of Meetings
 
-*If you are looking for more info on our Giveth DAC/Community Meetings, you can find this [here](wiki/DAC/meeting-notes/intro-recap.md)*
+*If you are looking for more info on our Giveth DAC/Community Meetings, you can find this [here](../../Dac/meeting-notes)*
 
-For our Giveth DAC Meeting specifically we follow many of the holocratic principles, this meeting is structured following the example of [holocracy governance meetings](https://www.holacracy.org/governance-meetings):
+For our Giveth DAC Meeting specifically we follow many of the holacratic principles, this meeting is structured following the example of [holocracy governance meetings](https://www.holacracy.org/governance-meetings):
 
 1. **A meeting Facilitator and a Secretary are determined** before the meeting begins, the facilitator moderates the discussion and the Secretary takes notes.
 1. **Everyone checks-in** by voicing their intention for the meeting and revealing momentary personal distractions.
