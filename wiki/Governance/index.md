@@ -16,4 +16,4 @@
 
 * <b>Strategy and Scope:</b> Lead the conversation in overall strategy especially in narrowing scope and selecting the audience to focus on.
 
-Community Meetings are held weekly online and can be found scheduled on the [Giveth calendar](../dac/calendar/). The meeting room can be found [here](https://meet.jit.si/https://meet.jit.si/giveth-gov) and the corresponding Riot channel [here](https://riot.im/app/#/room/#giveth-governance:matrix.org).
+Community Meetings are held weekly online and can be found scheduled on the [Giveth calendar](../dac/calendar/). The meeting room can be found [here](https://meet.jit.si/giveth-gov) and the corresponding Riot channel [here](https://riot.im/app/#/room/#giveth-governance:matrix.org).
