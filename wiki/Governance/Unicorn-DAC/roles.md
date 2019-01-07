@@ -73,4 +73,4 @@ A few days before the meeting @loie, who will also facilitate this meeting, will
 
 If you have any follow-up question about this, please contact @loie on [Riot](http://join.giveth.io)!
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQh5zyZ8ga2xtovtYK-43jT_mIiK_tg1O6O599pbPEMaHopvmRpTzgECq8_YyKl-MzhgOQ7cf-N3STL/pubhtml?gid=1761564124&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+Please find the roles sheet [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQh5zyZ8ga2xtovtYK-43jT_mIiK_tg1O6O599pbPEMaHopvmRpTzgECq8_YyKl-MzhgOQ7cf-N3STL/pubhtml?gid=1761564124&amp;single=true&amp;widget=true&amp;headers=false)
