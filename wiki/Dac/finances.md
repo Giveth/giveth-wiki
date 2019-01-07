@@ -28,29 +28,30 @@ By default only expenses with valid receipt are covered. Any expense will be jud
 
 ## <a name="finances_regular">Regular Rewards</a>
 
-The members working full time for Giveth are regularly compensated. Giveth uses a dogfooding approach, so every member makes milestones corresponding to their salary on our [DApp](https://beta.giveth.io/dacs/5b37da13a239ac21b383d4da), which are then paid by their respective circles.
+The members working full time for Giveth are regularly compensated. Giveth uses a dogfooding approach, so every member makes Milestones corresponding to their salary on our [DApp](https://beta.giveth.io/dacs/5b37da13a239ac21b383d4da), which are then paid by their respective circles.
 
-* [Communiations](https://beta.giveth.io/campaigns/5b3789513a65c31e4e4e8328)
+* [Communications](https://beta.giveth.io/campaigns/5b3789513a65c31e4e4e8328)
 * [Governance](https://beta.giveth.io/campaigns/5b37e5caa239ac21b383d4dd)
 * [Social coding](https://beta.giveth.io/campaigns/5b3b3a34329bc64ae74d13cd)
 * [Dapp Development](https://beta.giveth.io/campaigns/5b39d45e14cec916d00dab20)
 
 #### Regular Rewards
-```1 - Regular Rewards is our term for what closest comes to a normal *salary*. Who is eligible and how high is the compensation/week is determined by respective circle leads``` - *missing source*
-```2 - Regular Rewards are budgeted per year``` - *missing source*
-```3 - Milestones for RRs should be created per week and use the last day of the week to set the exchange rate``` - *missing source*
-```4 - RR Milestones are written *a posteriori (after the fact, describing tasks that were fulfilled)*``` - *missing source*
+1 - Regular Rewards is our term for what closest comes to a normal *salary*. Who is eligible and how high is the compensation/week is determined by respective circle leads - *missing source*
 
-## <a name="finances_reward_dao">Rewards DAO</a>
+2 - Regular Rewards are budgeted per year - *missing source*
 
-Every second week, Giveth rewards people who contributed their time and effort on Giveth. The Reward DAO is a system where every two weeks all full time team members vote on how to distribute 2000 USD. Please see the [contributors guide](../dac/contributors-guide/) for more information.
+3 - Milestones for RRs should be created per week and use the last day of the week to set the exchange rate - *missing source*
 
-#### Reward DAO
-```The Reward DAO is an evolving process-in-place to reward freelance contributions to Giveth.``` - *missing source*
+4 - RR Milestones are written *a posteriori (after the fact, describing tasks that were fulfilled)* - *missing source*
 
-```In its current implementation, the four main circles of Giveth (Communication, DApp Development, Governance and Social Coding) give points in their respective Riot.im channel via pointsbot (A chat-bot that can be used to issue and record awarded points). At the 15th of each month, the circle leads meet up to sign-off on last periods' points. The Reward DAO allowance of each circle (in ETH) is divided by that circles total awarded points this period and every contributor gets a filled-out milestone on the Giveth DApp that is paid out soon after.``` - *missing source*
+## <a name="finances_reward_dao">RewardDAO</a>
 
+Every second week, Giveth rewards people who contributed their time and effort on Giveth. The RewardDAO is a system where every two weeks all full time team members vote on how to distribute 2000 USD. Please see the [contributors guide](../contributors-guide/) for more information.
 
+#### RewardDAO
+The RewardDAO is an evolving process-in-place to reward freelance contributions to Giveth. - *missing source*
+
+In its current implementation, the four main circles of Giveth (Communication, DApp Development, Governance and Social Coding) give points in their respective Riot.im channel via pointsbot (A chat-bot that can be used to issue and record awarded points). At the end of each month, the circle leads meet up to sign-off on last periods' points. The RewardDAO allowance of each circle (in ETH) is divided by that circles total awarded points this period and every contributor gets a filled-out Milestone on the Giveth DApp that is paid out soon after. - *missing source*
 
 ## <a name="finances_budget">Budget Overview</a>
 One of the core values of Giveth is transparency. We invite everyone to consult our publicly accessible expenses and budgets:
