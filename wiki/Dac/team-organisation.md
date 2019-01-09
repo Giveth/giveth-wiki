@@ -8,19 +8,19 @@ Those four circles and their points of contact are:
   - [Governance](../../Governance) - Contact @griffgreen
   - [Communication](../../Communications) - Contact @krrisis
   - [Product Development](../../DApp) - Contact @vojtech
-  - [Social Coding](../../Social-Coding) - Contact by @yalor
+  - [Social Coding](../../Social-Coding) - Contact @bowensanders
 
-For more details, please see [our governance model](../dac/governance/)
+For more details, please visit the different sections linked above and join the related [chat rooms](http://join.giveth.io) for all questions!
 
 ## <a name="teamorga_online_meetings">Online Meetings</a>
 The Giveth community meets regularly online for video conferences:
 
-### Giveth Community Meetings
+### Giveth Community (DAC) Meetings
   - **When:** Every Friday at 18:00 Barcelona Time (UTC+1)
   - **Where:** [https://meet.jit.si/giveth-gov](https://meet.jit.si/giveth-gov)
-  - **Minutes:** [https://drive.google.com/drive/folders/0B-CIs3wLk5T4TE1UbVVkUmp3SzA?usp=sharing](https://drive.google.com/drive/folders/0B-CIs3wLk5T4TE1UbVVkUmp3SzA?usp=sharing)
-  - **Historical Meetings:** [Governance meetings playlist on Youtube](https://www.youtube.com/watch?v=030qm_AqWl4&list=PL6oqELoqsEmpe1oycj7bJm_CdHZ-CGBJ6)
-  - **Description:** The aim is to discuss tensions and find solutions within Giveth.
+  - **Minutes:** [All notes right here on our wiki](../dac/dac/meeting-notes/)
+  - **Historical Meetings:** [Community meetings playlist on Youtube](https://www.youtube.com/watch?v=030qm_AqWl4&list=PL6oqELoqsEmpe1oycj7bJm_CdHZ-CGBJ6)
+  - **Description:** The aim is to govern the Giveth DAC itself, for which we use the .
 
 ### Circle Meetings
 - **When:** At different times each week
