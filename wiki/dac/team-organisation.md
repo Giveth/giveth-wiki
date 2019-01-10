@@ -23,6 +23,7 @@ Name | Riot Handle | Address |
 **Kris** | @krrisis:matrix.org | 0x93089749884BC1b91087EE2FA19fB248A3823873
 **Dani** |  @danibelle:matrix.org | 0x5D28FE1e9F895464aab52287d85Ebff32B351674
 **Loie** | @loie:matrix.org | 0xB3e43abf014cb2d8cF8dc3D8C2e62157E6093343
+**Lanski** | @planski:matrix.org | 0xEB7D93b7c0a1d21002f0B60E9adD6174cb70F71c
 
 ## <a name="teamorga_members">Members</a>
 
