@@ -19,10 +19,10 @@ Check out the charitable projects onboarded into our live beta and register as a
 We are currently testing with a small group, if you have questions or would like to participate in the process,
 contact @danibelle on [Riot](http://riot.giveth.io) for a tour!
 
-You can follow the development on [github](https://github.com/Giveth/giveth-dapp)
-<!-- and take a peak at the alpha version [here](https://mvp.giveth.io/) -->
+You can follow the development on [github](https://github.com/Giveth/giveth-dapp) or by interacting with us in [Riot](https://riot.im/app/#/room/#giveth-product-development:matrix.org). Our meetings are on the [Giveth cal](https://calendar.google.com/calendar/embed?src=givethdotio@gmail.com&pli=1) and the link to the Jitsi 
 
-## Get your donation campaign onto Giveth!
+
+## Get your donation Campaign onto Giveth!
 
 Please follow these steps to be considered for being onboarded:
 

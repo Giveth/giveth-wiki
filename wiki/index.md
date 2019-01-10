@@ -6,19 +6,17 @@ We are a community focused on making the **world a better place** through the us
 
 The Galaxy consists of 4 Circles:
 
-* [Dapp](../DApp/index.md)
+* [Dapp](../dapp)
 
-* [Social Coding](../social-coding/index.md)
+* [Social Coding](../Social-Coding)
 
-* [Communications](../Communications/index.md)
+* [Communications](../Communications/)
 
-* [Governance](../Governance/index.md)
+* [Governance](../Governance)
 
 These also further subdivide internally for organizational purposes. Giveth is more than the sum of its parts, so if you are interested to know about some of the other things we focus on and why, head over to our [Mission Statement](https://wiki.giveth.io/dac/mission/)!
 
-The Giveth Galaxy is created by the [Giveth DAC](../DAC/index.md), a community of people (we call them unicorns) wanting to make the World a Better Place. Read on about our [Decentralized Altruistic Community (DAC)](../DAC/index.md).
-
-<br><br>
+The Giveth Galaxy is created by the [Giveth DAC](../DAC/), a community of people (we call them unicorns) wanting to make the World a Better Place. Read on about our [Decentralized Altruistic Community (DAC)](../DAC/).
 
 We are very active and keep an open [Calendar](../dac/calendar/) where you can find upcoming events and our community video discussions. You can also join our various chat channels on [Riot](https://riot.im/app/#/group/+giveth:matrix.org).
 

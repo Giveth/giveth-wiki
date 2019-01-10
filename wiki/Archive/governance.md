@@ -14,10 +14,10 @@ Giveth DAC is organized into four different circles to better manage the require
 
 The four circles:
 
-  - Governance
-  - Communication
-  - Product Development
-  - Social Coding
+  - [Governance](../../Governance)
+  - [Communication](../../Communication)
+  - [Product Development](../../DApp)
+  - [Social Coding](../../Social-Coding)
 
 ## Communication structure
 As Giveth operates globally, most members are far from each other most of the time, the community actively seeks conversation through online tools. We use a combination of work-chat platforms and video-chat to organize the operations of Giveth.

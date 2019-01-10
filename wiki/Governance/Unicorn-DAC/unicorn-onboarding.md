@@ -44,7 +44,7 @@ f) [Roles Process](https://wiki.giveth.io/policy/roles/) <br>
 ## Phase 4:  Nuts and Bolts
 - Add your role(s) to the Roles Sheet
 - Get public wallet address, Metamask, hardware wallet etc set up
-- Add yourself, your riot handle and Unicorn DAC address to the [List of Unicorns](https://github.com/Giveth/giveth-wiki/blob/master/wiki/dac/team-organisation.md#unicorn-dac)
+- Add yourself, your riot handle and Unicorn DAC address to the [List of Unicorns](../unicorns)
 - Schedule any orientation pieces like NVC class
 - Install and get oriented to any tools we use like Zenhub
 - Ensure you are in all the relevant riot rooms

@@ -1,6 +1,6 @@
 # Giveth Mission Statement
 
-Giveth is creating the Giveth [Donation Application](https://wiki.giveth.io/documentation/DApp/alpha/) but is doing so much more.
+Giveth is creating the Giveth [Donation Application](../../dapp) but is doing so much more.
 
 For all of this we are aligning ourselves through our shared values ([a work in progress](https://medium.com/giveth/giveth-masterpiece-manifesto-19649c57c6aa)) and our mission statement, that explains in a little more detail what we do.
 
@@ -25,4 +25,4 @@ For all of this we are aligning ourselves through our shared values ([a work in 
 
 <br><br>  
 
-Discover more about these four circles and their specific goals in [Our Goals (wiki entry)](../dac/goals.md) and by using [the DApp](http://beta.giveth.io) where they are represented as Campaigns under the [Giveth DAC](https://beta.giveth.io/dacs/5b37da13a239ac21b383d4da), and by joining the discussion directly in the respective rooms/channels on [Riot](http://join.giveth.io). 
+Discover more about these four circles and their specific goals in [Our Goals list](../Dac/goals.md), and by using [the DApp](http://beta.giveth.io) where they are represented as Campaigns under the [Giveth DAC](https://beta.giveth.io/dacs/5b37da13a239ac21b383d4da), and by joining the discussion directly in the respective rooms/channels on [Riot](http://join.giveth.io). 

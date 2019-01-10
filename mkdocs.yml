@@ -42,12 +42,12 @@ nav:
     - Welcome: 'index.md'
     - General:
         - Our Mission: 'Dac/mission.md'
-        - Calendar and Events: 'Dac/calendar.md'
+        - Calendar & Events: 'Dac/calendar.md'
     - Dapp Development:
       - Intro to the Giveth DApp: 'DApp/index.md'
       - Product Definition: 'DApp/product-definition.md'
       - Roadmap: 'DApp/product-roadmap.md'
-      - Documentation and Tutorials:
+      - Documentation & Tutorials:
         - How to make Milestones: 'DApp/milestones.md'
         - Future: 'DApp/future.md'
         - Exchange Rate: 'DApp/exchange-rate-calculation.md'
@@ -67,14 +67,15 @@ nav:
           - Unicorn Onboarding: 'Governance/Unicorn-DAC/unicorn-onboarding.md'
           - Get Funding: 'Governance/Unicorn-DAC/unicorn-dac-getfunded.md'
           - Roles Process: 'Governance/Unicorn-DAC/roles.md'
-      - Documentation and Tutorials:
+          - Known Unicorns: 'Governance/Unicorn-DAC/unicorns.md'
+      - Documentation & Tutorials:
         - Code of Conduct: 'Governance/codeofconduct.md'
         - Conflict Resolution: 'Governance/conflict-res.md'
         - Governance of Meetings: 'Governance/governance-meetings.md'
         - Advice Process: 'Governance/advice-process.md'
     - Communications:
        - Intro to Giveth Communications: 'Communications/index.md'
-       - Documentation and Tutorials:
+       - Documentation & Tutorials:
           - Brand Identity Guide: 'Communications/brand-guidelines.md'
           - Use of Riot Chat: 'Communications/riot-migration.md'
     - Giveth Community (DAC):
@@ -82,7 +83,7 @@ nav:
         - Team Organisation: 'Dac/team-organisation.md'
         - Finances: 'Dac/finances.md'
         - History: 'Dac/history.md'
-        - Documentation and Tutorials:
+        - Documentation & Tutorials:
           - Contributors Guide: 'Dac/contributors-guide.md'
           - Adopted Policies: 'Dac/approved-policies.md'
           - Meeting Notes:
@@ -135,3 +136,7 @@ nav:
             - Governance Meeting 48: 'Dac/meeting-notes/gov-meeting-48.md'
             - Governance Meeting 49: 'Dac/meeting-notes/gov-meeting-49.md'
             - Governance Meeting 50: 'Dac/meeting-notes/gov-meeting-50.md'
+
+            - Community Meeting 53: 'Dac/meeting-notes/community-meeting-53.md'
+            - Community Meeting 54: 'Dac/meeting-notes/community-meeting-54.md'
+            - Community Meeting 55: 'Dac/meeting-notes/community-meeting-55.md'

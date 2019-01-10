@@ -5,7 +5,7 @@ This chapter details the development process, the deployment setup, how new feat
 <a name="product-development-testing-fig-release">**The Product Development Cycle**</a> spans 4 weeks and consists of 1 week of planning, 2 weeks of development, and 1 week of integration, testing and release. The cycle is repeated every 2 weeks which means there is new release every 2 weeks and the new feature development is continuous.
 
 ## Design & Development Planning
-The development loosely follows the [product definition outlined in the wiki page](https://wiki.giveth.io/documentation/DApp/product-definition/). The planning is decided and presented every second week during the weekly [DApp Governance and Development Meeting](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com) which is open for anyone to attend. The rough development plan can be found in the [product roadmap page](https://wiki.giveth.io/documentation/product-roadmap/) and the more detailed in the [repository board](https://github.com/Giveth/giveth-dapp/issues#boards?repos=98920496,99012473) (you may need to install ZenHub).
+The development loosely follows the [product definition outlined in the wiki page](https://wiki.giveth.io/documentation/DApp/product-definition/). The planning is decided and presented every second week during the weekly [DApp Governance and Development Meeting](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com) which is open for anyone to attend. The rough development plan can be found in the [product roadmap page](../product-roadmap) and the more detailed in the [repository board](https://github.com/Giveth/giveth-dapp/issues#boards?repos=98920496,99012473) (you may need to install ZenHub).
 
 
 ## Deployments and Branch Organisation
