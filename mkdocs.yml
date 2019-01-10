@@ -54,10 +54,9 @@ nav:
         - Dev Process & QA: 'DApp/product-development-testing.md'
         - Smart Contracts Roadmap: 'DApp/smart-contracts-roadmap.md'
         - Deployments: 'DApp/deployments.md'
+        - Technical Challenges: 'DApp/technical-challenges.md'
     - Social Coding:
       - Intro to Giveth Social Coding: 'Social-Coding/index.md'
-      #- The Blockternship: 'social-coding/blockternship.md'
-      #- Stars and Planets: 'social-coding/stars-and-planets.md'
     - Governance:
       - Intro to Giveth Governance: 'Governance/index.md'
       - Tools for DACs: 'Governance/tools-for-dacs.md'
@@ -81,6 +80,8 @@ nav:
     - Giveth Community (DAC):
         - Welcome to the Giveth DAC: 'Dac/index.md'
         - Team Organisation: 'Dac/team-organisation.md'
+        - Mission: 'Dac/mission.md'
+        - Goals: 'Dac/goals.md'
         - Finances: 'Dac/finances.md'
         - History: 'Dac/history.md'
         - Documentation & Tutorials:

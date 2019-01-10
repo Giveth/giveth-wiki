@@ -4,12 +4,10 @@
 
 Unlike traditional charity, with Giveth every donation and pledge is transparent, so you always know exactly where your donation went and get a good sense of the impact it made in direct communication with your beneficiary.
 
-If you truly want to help us Build the Future of Giving, donate by using the [Giveth DApp](https://beta.giveth.io/)! Just log in via MetaMask, trace your donations and join other Givers on the DAC Leaderboard. 
+If you truly want to help us Build the Future of Giving, donate by using the [Giveth DApp](https://beta.giveth.io/)! Just log in via MetaMask, trace your donations and join other Givers on the DAC Leaderboard.
 
 If you prefer to donate directly to our address or via MyCrypto or MetaMask, you can send Eth or tokens to the following address:
-```revolution.eth``` (which resolves to: ```0x5ADF43DD006c6C36506e2b2DFA352E60002d22Dc```).
-
-You can see the options in more detail on our [Donation Page](https://giveth.io/donate)
+```revolution.eth``` (which resolves to: ```0x5ADF43DD006c6C36506e2b2DFA352E60002d22Dc```) or discover all the options in more detail on our [Donation Page](https://giveth.io/donate)
 
 
 ## <a name="finances_expenses">Expense Claiming</a>
@@ -36,13 +34,13 @@ The members working full time for Giveth are regularly compensated. Giveth uses 
 * [Dapp Development](https://beta.giveth.io/campaigns/5b39d45e14cec916d00dab20)
 
 #### Regular Rewards
-1 - Regular Rewards is our term for what closest comes to a normal *salary*. Who is eligible and how high is the compensation/week is determined by respective circle leads - *missing source*
+1 - Regular Rewards is our term for what closest comes to a normal *salary*. Who is eligible and how high is the compensation/week is determined by respective circle leads
 
-2 - Regular Rewards are budgeted per year - *missing source*
+2 - Regular Rewards are budgeted per year
 
-3 - Milestones for RRs should be created per week and use the last day of the week to set the exchange rate - *missing source*
+3 - Milestones for RRs should be created per week and use the last day of the week to set the exchange rate
 
-4 - RR Milestones are written *a posteriori (after the fact, describing tasks that were fulfilled)* - *missing source*
+4 - RR Milestones are written *a posteriori (after the fact, describing tasks that were fulfilled)* 
 
 ## <a name="finances_reward_dao">RewardDAO</a>
 

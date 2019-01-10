@@ -31,7 +31,7 @@ Challenge #3 is again resolved by our [vault](https://github.com/Giveth/vaultcon
 #### Determine if should transfer
 The rules for how transfers are approved (challenge #4), are handled by liquid-pledging plugins (lpp). These plugins are separate contracts reference by the liquid pledging contract (see challenge #2).
 
-For example, you could use our [lpp-milestone](https://github.com/Giveth/lpp-milestone) plugin to require reviewer approval as a condition to releasing Ether from its original donor. In this case, the reviewer is another Ethereum address. If 'acceptMilestone' is called from this approved reviewer address, then the ownership of donated Ether can be released to the milestone recipient address.
+For example, you could use our [lpp-milestone](https://github.com/Giveth/lpp-milestone) plugin to require reviewer approval as a condition to releasing Ether from its original donor. In this case, the reviewer is another Ethereum address. If 'acceptMilestone' is called from this approved reviewer address, then the ownership of donated Ether can be released to the Milestone recipient address.
 
 You don’t have to use our lpp-milestone plugin. You can make your own with whatever you want. Use a contract that mandates the rules you need for your community.
 
