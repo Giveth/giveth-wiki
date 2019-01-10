@@ -5,6 +5,8 @@ Restorative Justice is an approach to conflict resolution that centers the most 
 
 ----------------------------------------------
 
+#### * Update! On January 4th, 2018 in [community meeting 55](https://wiki.giveth.io/protocol/community-meeting-55/) it was decided that while the "Facilitator waits to be called upon" approach is our default, they also try to get to know Givethers and how they are with conflict, and proactively check in with them re: potential conflicts, to make sure people are fully supported (even those who don't speak up right away to initiate a process when something needs to be addressed). * 
+
 ## In Brief:
 
 Someone initiates a “circle.” A facilitator is selected, who has “pre-circles” with each person involved, then they set a date for the full circle meeting. In this circle, the facilitator supports participants to talk **to each other**, not through the facilitator (**not mediation!**). They then help the circle identify an Action Plan to heal the harm done and restore well being in the community. The Action Plan is checked up on at certain dates after the circle, to ensure folks are being **accountable** to their commitments.
