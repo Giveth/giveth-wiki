@@ -123,7 +123,8 @@ nav:
             - Governance Meeting 50: 'protocol/gov-meeting-50.md'
             - Community Meeting 53: 'protocol/community-meeting-53.md'
             - Community Meeting 54: 'protocol/community-meeting-54.md'
-            - Community Meeting 55: 'protocol/community-meeting-55a.md'
+            - Community Meeting 55: 'protocol/community-meeting-55.md'
+            - Community Meeting 55a: 'protocol/community-meeting-55a.md'
     
     - Giveth Donation Application (DApp):
         - DApp Beta: 'documentation/DApp/beta.md'
