@@ -9,7 +9,7 @@ Giveth is an underground cause. It is recreational. To continue development we t
 Each contributor starts as a regular community member of the Giveth community on Riot. All members are free to volunteer efforts to support Giveth projects in any way they want, or not. Tasks can be suggested on Riot by one member (let’s say @griff) and completed by another member of the community (for example @jbaylina).
 
 ### Policy
-Each contributor is their own lead but they are accountable for communicating their role through the [roles prcess](../policy/roles.md)
+Each contributor is their own lead but they are accountable for communicating their role through the [roles prcess](../governance/unicorn-dac/roles.md)
 
 ### Reward Dao
 The Reward Dao stems from an altruistic notion of community contribution. It is an evolving experiment to find a reward model that could eventually be fully automated.

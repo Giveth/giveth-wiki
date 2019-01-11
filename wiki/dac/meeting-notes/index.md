@@ -10,7 +10,7 @@ Transparency is at the core of Giveth so you can watch all these live streamed m
 Our meetings initially were called 'Governance Meetings' but for clarity we now call these Community/DAC Meetings.
 Below you can find a short recap of Meetings 1-16, on your left you can dive into all of them!
 
-*For more info on the procedures we follow in our DAC meeting, more [here](wiki/Governance/governance-meetings.md)*
+*For more info on the procedures we follow in our DAC meeting, more [here](../../governance/governance-meetings.md)*
 
 # Recap initial Community meetings *(previously known as Governance meetings)*
 

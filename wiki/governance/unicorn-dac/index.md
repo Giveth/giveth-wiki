@@ -27,7 +27,7 @@ We noticed some tensions that gave rise to the idea of this DAC:
 7. Great point brought up by Kris: teal organizations do best when people decide their own salary. This gives them that opportunity. In cases from Reinventing Organizations, a team member proposes their own salary to a council of relevant people who understand their work and then reflect back to them, almost every time suggesting higher pay than the team member proposed for themselves. This allows that process to be built outside of regular rewards.
 ## **How?**
 We create a DAC whose sole purpose is to **pay Unicorns to Steward the Giveth Galaxy**.
-Upon entry to Giveth core and receiving their Unicorn horn (see [Onboarding](https://wiki.giveth.io/policy/Unicorn-onboarding/) ), each Unicorn is given €600 from this DAC and kept at that balance each week. 
+Upon entry to Giveth core and receiving their Unicorn horn (see [Unicorn Onboarding](./unicorn-onboarding/) ), each Unicorn is given €600 from this DAC and kept at that balance each week. 
 
 - $150 DAI per week can go to their own Milestone. 
 
@@ -40,7 +40,7 @@ THIS IS SEPARATE FROM SALARY GIVEN BY CIRCLES. That is still their own domain :-
 
 **The goal is for Unicorns to be paid more fairly and to distribute decision power more fairly.**
 
-Once a month we have a big Unicorn party where we go around in a circle and explain the different milestones we donated to. This flows into the [roles](https://wiki.giveth.io/policy/roles/) conversation and helps us keep regular communication going about what we, as collective governing body of Unicorns would like to see Giveth doing, and who we see doing it, how much we value it, where there are pieces missing, etc.  <br>
+Once a month we have a big Unicorn party where we go around in a circle and explain the different milestones we donated to. This flows into the [roles](./roles/) conversation and helps us keep regular communication going about what we, as collective governing body of Unicorns would like to see Giveth doing, and who we see doing it, how much we value it, where there are pieces missing, etc.  <br>
 This monthly meeting is a space for:
 
 a) Sharing about who/what we donated to this month

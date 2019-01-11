@@ -25,4 +25,4 @@ For all of this we are aligning ourselves through our shared values ([a work in 
 
 <br>
 
-Discover more about these four circles and their specific goals in [Our Goals overview](../Dac/goals.md), and by using [the DApp](http://beta.giveth.io) where they are represented as Campaigns under the [Giveth DAC](https://beta.giveth.io/dacs/5b37da13a239ac21b383d4da). Feel very welcome to join the discussion directly in the respective rooms/channels via [Riot Chat](http://join.giveth.io)!
+Discover more about these four circles and their specific goals in [Our Goals overview](../dac/goals.md), and by using [the DApp](http://beta.giveth.io) where they are represented as Campaigns under the [Giveth DAC](https://beta.giveth.io/dacs/5b37da13a239ac21b383d4da). Feel very welcome to join the discussion directly in the respective rooms/channels via [Riot Chat](http://join.giveth.io)!

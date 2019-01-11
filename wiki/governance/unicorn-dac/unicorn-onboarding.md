@@ -31,12 +31,12 @@ a) What is your sense of your life trajectory? How could working here fit with w
 b) What aspect of the Giveth purpose resonates with you? What unique talents and gifts could you contribute to Giveth’s journey? <br>
 c) How can your sponsors support your mission in the Giveth Galaxy, and to the sponsors, how do you see yourself supporting the Unicorn? ,br>
 6. **Confirm you have read and agree to:** <br>
-a) [Mission statement](https://docs.google.com/document/d/1NbdshyZEATW0N7C5_lYIozodvwe8F7pPn5SZfDOKG1Q/edit?usp=sharing) <br>
+a) [Mission statement](../../../dac/mission) <br>
 b) [Manifesto](https://medium.com/giveth/giveth-masterpiece-manifesto-19649c57c6aa) <br>
-c) [Advice process](https://wiki.giveth.io/policy/advice-process/) <br>
-d) [Conflict resolution process](https://wiki.giveth.io/policy/conflict-res/) <br>
-e) [Milestone tutorial](https://wiki.giveth.io/tutorials/milestones/) <br>
-f) [Roles Process](https://wiki.giveth.io/policy/roles/) <br>
+c) [Advice process](../../advice-process/) <br>
+d) [Conflict resolution process](../../conflict-res/) <br>
+e) [Milestone tutorial](../../../dapp/milestones/) <br>
+f) [Roles Process](../roles/) <br>
 	If there is no written agreement, this meeting will be recorded.
 7. Present your roles (in Roles Spreadsheet format) to the meeting participants and **make clear your commitments.**
 8. Agree to/set a date for evaluation/appraisal meeting in the future. For example: “We agree that if it hasn’t happened organically in the roles meeting already, we will evaluate my roles after 10 years.” ;-P (Jk, probably like 6 months)

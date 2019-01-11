@@ -1,6 +1,6 @@
 # Governance of Meetings
 
-*If you are looking for more info on our Giveth DAC/Community Meetings, you can find this [here](../../Dac/meeting-notes)*
+*If you are looking for more info on our Giveth DAC/Community Meetings, you can find this [here](../../dac/meeting-notes)*
 
 For our Giveth DAC Meeting specifically we follow many of the holacratic principles, this meeting is structured following the example of [holocracy governance meetings](https://www.holacracy.org/governance-meetings):
 

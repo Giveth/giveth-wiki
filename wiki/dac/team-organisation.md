@@ -5,10 +5,10 @@ Giveth DAC is organized into four different circles to better manage the require
 
 Those four circles and their points of contact are:
 
-  - [Governance](../../Governance) - Contact @griffgreen
-  - [Communication](../../Communications) - Contact @krrisis
-  - [Product Development](../../DApp) - Contact @vojtech
-  - [Social Coding](../../Social-Coding) - Contact @bowensanders
+  - [Governance](../../governance) - Contact @griffgreen
+  - [Communication](../../communications) - Contact @krrisis
+  - [Product Development](../../dapp) - Contact @vojtech
+  - [Social Coding](../../social-coding) - Contact @bowensanders
 
 For more details, please visit the different sections linked above and join the related [chat rooms](http://join.giveth.io) for all questions!
 
@@ -18,7 +18,7 @@ The Giveth community meets regularly online for video conferences:
 ### Giveth Community (DAC) Meetings
   - **When:** Every Friday at 18:00 Barcelona Time (UTC+1)
   - **Where:** [https://meet.jit.si/giveth-gov](https://meet.jit.si/giveth-gov)
-  - **Minutes:** [All notes right here on our wiki](../dac/dac/meeting-notes/)
+  - **Minutes:** [All notes right here on our wiki](../meeting-notes/)
   - **Historical Meetings:** [Community meetings playlist on Youtube](https://www.youtube.com/watch?v=030qm_AqWl4&list=PL6oqELoqsEmpe1oycj7bJm_CdHZ-CGBJ6)
   - **Description:** The aim is to govern the Giveth DAC itself, for which we use the .
 
@@ -28,4 +28,4 @@ The Giveth community meets regularly online for video conferences:
 - **Historical Meetings:** [Giveth Transparency Channel on YouTube](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg/videos)
 - **Description:** Every circle holds one meeting per week
 
-To get more involved in our team please review the documentation under Unicorn DAC and especially check the [Roles](../Governance/Unicorn-DAC/roles) page
+To get more involved in our team please review the documentation under Unicorn DAC and especially check the [Roles](../governance/unicorn-dac/roles) page

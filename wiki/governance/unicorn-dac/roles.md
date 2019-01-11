@@ -1,6 +1,6 @@
 # Roles Procedure
 
-So, you are a Giveth Unicorn and would love to become part of our [Unicorn DAC](https://wiki.giveth.io/dac/Unicorn-DAC/)? Joining our monthly Roles Meeting is a crucial step in this one. The Roles Meeting takes place every month; so feel free to [join here](https://riot.im/app/#/room/#giveth-governance:matrix.org) to find out how we roll. 
+So, you are a Giveth Unicorn and would love to become part of our [Unicorn DAC](https://wiki.giveth.io/dac/unicorn-dac/)? Joining our monthly Roles Meeting is a crucial step in this one. The Roles Meeting takes place every month; so feel free to [join here](https://riot.im/app/#/room/#giveth-governance:matrix.org) to find out how we roll. 
 
 
 Our roles meeting procedure is part of our ongoing endeavor to be as inclusive and transparent as possible and is based on the holacratic principles as described [here](https://blog.holacracy.org/writing-roles-accountabilities-in-holacracy-eb9d83e363bf).

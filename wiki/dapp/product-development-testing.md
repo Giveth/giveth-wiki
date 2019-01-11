@@ -1,11 +1,11 @@
 # Development, Testing, Quality Assurance and Deployment
 This chapter details the development process, the deployment setup, how new features are included, tested and how quality assurance is handled. The aim is to provide answers to questions, like how are new features decided, what is the deployment setup, git organization and how are new changes introduced and tested.
 
-![Development sprint planning](../../images/product-development/dapp-dev-cycle.svg)
+![Development sprint planning](../images/product-development/dapp-dev-cycle.svg)
 <a name="product-development-testing-fig-release">**The Product Development Cycle**</a> spans 4 weeks and consists of 1 week of planning, 2 weeks of development, and 1 week of integration, testing and release. The cycle is repeated every 2 weeks which means there is new release every 2 weeks and the new feature development is continuous.
 
 ## Design & Development Planning
-The development loosely follows the [product definition outlined in the wiki page](https://wiki.giveth.io/documentation/DApp/product-definition/). The planning is decided and presented every second week during the weekly [DApp Governance and Development Meeting](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com) which is open for anyone to attend. The rough development plan can be found in the [product roadmap page](../product-roadmap) and the more detailed in the [repository board](https://github.com/Giveth/giveth-dapp/issues#boards?repos=98920496,99012473) (you may need to install ZenHub).
+The development loosely follows the [product definition outlined in the wiki page](../product-definition/). The planning is decided and presented every second week during the weekly [DApp Governance and Development Meeting](https://calendar.google.com/calendar/embed?src=givethdotio%40gmail.com) which is open for anyone to attend. The rough development plan can be found in the [product roadmap page](../product-roadmap) and the more detailed in the [repository board](https://github.com/Giveth/giveth-dapp/issues#boards?repos=98920496,99012473) (you may need to install ZenHub).
 
 
 ## Deployments and Branch Organisation
@@ -28,13 +28,13 @@ develop | As new development is completed, it gets merged back into the develop 
 feature | Feature branches are branched off of the develop branch, and finished features and fixes are merged back into the develop branch when they’re ready for release.
 hotfix | Hotfix branches are branched of master and contain emergency fixes only. They are merged to both develop and master.
 
-![Gitflow example](../../images/product-development/gitflow.svg)
+![Gitflow example](../images/product-development/gitflow.svg)
 **Example of a gitflow workflow.** Almost every git GUI software has gitflow functionality build it which automatically follows the gitflow workflow.
 
 You can read more in depth in [this atlassian gitflow article](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
 
 Before making new Pull Request, make sure that your code does not have any linter issues and can be deployed. Only PRs that successfully deploy and don't have any merge conflicts will be merged. You can also easily check the deploy preview on Github Netlify autodeploy integration.
-![Autodeploy Integration](../../images/product-development/deploy-preview.png)
+![Autodeploy Integration](../images/product-development/deploy-preview.png)
 **Deployment preview.** Each pull request to the DApp repository has a Netlify deploy preview. You can access it at the bottom of the Conversation tab after clicking **Show all checks** button and **Details**.
 
 ## Integration & Testing

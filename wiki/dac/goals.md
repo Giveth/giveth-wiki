@@ -1,6 +1,6 @@
 <h1>Goals of the different Circles</h1>
 
-Giveth is a **Decentralized Altruistic Community (DAC)** focused on using blockchain technology for good, to make the world a better place. This is our mission statement, read more on this [here](../Dac/mission.md).
+Giveth is a **Decentralized Altruistic Community (DAC)** focused on using blockchain technology for good, to make the world a better place. This is our mission statement, read more on this [here](../dac/mission.md).
 
 Out of this mission statement we have derived goals per circle, which you can find below.
 

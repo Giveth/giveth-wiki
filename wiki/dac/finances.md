@@ -14,7 +14,7 @@ If you prefer to donate directly to our address or via MyCrypto or MetaMask, you
 
 Giveth related expenses can be claimed through the Expense Claim form. If you never had an expense with Giveth before, you need to contact the team first.
 
-The individual Circles (see [Team Organization](../dac/team-organisation/)) are responsible for expenses of their members:
+The individual Circles (see [Team Organization](../team-organisation/)) are responsible for expenses of their members:
 
 - Conference tickets
 - Transportation tickets to and from official Giveth Team Meetups

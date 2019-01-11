@@ -6,7 +6,7 @@ There’s a group of Giveth Unicorns who each receive a delegation allowance of 
 
 ## Want some of this funding? WE WANT YOUR MILESTONES! Follow these steps:
 1. Do the work, or plan the work! You can get funded for something you already did in a volunteer capacity but would like to accept donations for, or you can request funding for something before you do it. 
-2. Ask yourself “Is this work contributing to the [mission](../../../Dac/mission) & [goals](../../../Dac/goals)?” Is it making the world a better place where open source, decentralized technology promotes altruism? This could be either by developing on one of the Giveth Galaxy current projects or something that supplements and supports Giveth.
+2. Ask yourself “Is this work contributing to the [mission](../../../dac/mission) & [goals](../../../dac/goals)?” Is it making the world a better place where open source, decentralized technology promotes altruism? This could be either by developing on one of the Giveth Galaxy current projects or something that supplements and supports Giveth.
 3. Propose a Milestone in the fitting campaign. Contact the campaign manager (unless it’s you ;) either before or after you make the milestone to let them know who you are and what your plans are! 
 4. Talk with people about your work! Be vocal and don’t hesitate to promote your milestone in various riot chat channels. Know a Unicorn personally? Lobby them to fund your milestone!
 

@@ -5,6 +5,8 @@ Restorative Justice is an approach to conflict resolution that centers the most 
 
 ----------------------------------------------
 
+#### * Update! On January 4th, 2018 in [community meeting 55](../../dac/meeting-notes/community-meeting-55/) it was decided that while the "Facilitator waits to be called upon" approach is our default, they also try to get to know Givethers and how they are with conflict, and proactively check in with them re: potential conflicts, to make sure people are fully supported (even those who don't speak up right away to initiate a process when something needs to be addressed). * 
+
 ## In Brief:
 
 Someone initiates a “circle.” A facilitator is selected, who has “pre-circles” with each person involved, then they set a date for the full circle meeting. In this circle, the facilitator supports participants to talk **to each other**, not through the facilitator (**not mediation!**). They then help the circle identify an Action Plan to heal the harm done and restore well being in the community. The Action Plan is checked up on at certain dates after the circle, to ensure folks are being **accountable** to their commitments.
@@ -34,7 +36,7 @@ Aaand for full **transparency**, read on to see process in detail...
   - **“And Bey, by whom do you need that known?” ** This is to invite reflective listening, an integral part of the RJ approach, so that mutual understanding is achieved. If that person doesn’t pick up the opportunity, **“Jay-Z, Can you reflect that back to Beyonce?”** 
   - Jay reflects and then for mutual understanding: **“Beyonce, was that right? Did Jay express what you were trying to say?”**
   - This goes back and forth until everybody has mutual understanding of what was broken and what needs to be fixed in order to restore a sense of well being and health in the community. 
-- We now have an understanding of what was broken and what needs to be fixed. From here, we develop an Action Plan for how the well being of the community will be restored (often  to an even better than before the conflict stirred things up!). This is the restorative equivalent of a punitive system’s “sentencing” period. It is explicit and has time markers. The facilitator helps make sure everyone is clear on their piece in the Action Plan, and then together we decide on a date for a post circle. 
+- We now have an understanding of what was broken and what needs to be fixed. From here, we develop an Action Plan for how the well being of the community will be restored (often times to even better than it was before the conflict stirred things up!). This is the restorative equivalent of a punitive system’s “sentencing” period. It is explicit and has time markers. The facilitator helps make sure everyone is clear on their piece in the Action Plan, and then together we decide on a date for a post circle. 
 
 ### Post-Circle
 - All participants gather once again to check in on the status of the Action Plan being upheld, and how the community feels in general in relation to the conflict now. 
@@ -46,4 +48,3 @@ Aaand for full **transparency**, read on to see process in detail...
 ## When does RJ facilitation not fit?
 
 Sometimes, decentralized facilitation is not the tool that a conflict needs. For example, in RJ communities around the globe many consider conflicts of Sexual Assault and Domestic Violence nature to be incompatible with restorative justice. Others have developed practices dedicated entirely to this type of conflict. In any case, conflicts as light as little tiffs and as heavy as murder have been approached successfully with restorative justice. It’s up to the conflict community(those impacted) to decide what is right for them. At Giveth, we believe strongly in walking our talk of decentralization at every level, and this means in the way we interact with each other as well. While we strive for communication to be approached in the most decentralized way, we also support people to use other approaches if they need! Some conflicts at Giveth have been mediated because direct contact was not the right fit.
-
