@@ -3,11 +3,13 @@ Congratulations, you've spotted the Unicorns! <br>
 
 This Decentralized Altruistic Community is a governance experiment which aims to bring about a whole new chapter of decentralization for the Giveth Galaxy. By spreading the decision-making power of what work gets funded to **all** Unicorns, we test a truly community-steered project. How do we deliver on all this fantasy?
 
+**TL;DR: Unicorn DAC onboards Unicorns and alotts them up to $600 every week, to be delegated to themselves and other Giveth milestones, thus giving them influence on the trajectory of Giveth, while testing new features of the DApp.**
+
 The Unicorn DAC has two main utilities: 
 
-1. To pay Unicorns a small weekly wage for stewarding the Giveth Galaxy. (€150)
+1. To pay Unicorns a small weekly wage for stewarding the Giveth Galaxy. ($150)
 
-2. To provide a weekly delegation allowance to Giveth Unicorns so that they can decide what milestones are funded while also testing the DApp. (€450) <br>
+2. To provide a weekly delegation allowance to Giveth Unicorns so that they can decide what milestones are funded while also testing the DApp. ($450) <br>
 Giveth Unicorns are Stewards and Guardians of the Giveth Galaxy. They are expected to be active participants and have other roles with other campaigns. We want to reward this participation and make it easy for the whole Unicorn community to author the trajectory of Giveth by funding what they believe is important work.
 ## **Why?**
 We noticed some tensions that gave rise to the idea of this DAC:
@@ -27,14 +29,14 @@ We noticed some tensions that gave rise to the idea of this DAC:
 7. Great point brought up by Kris: teal organizations do best when people decide their own salary. This gives them that opportunity. In cases from Reinventing Organizations, a team member proposes their own salary to a council of relevant people who understand their work and then reflect back to them, almost every time suggesting higher pay than the team member proposed for themselves. This allows that process to be built outside of regular rewards.
 ## **How?**
 We create a DAC whose sole purpose is to **pay Unicorns to Steward the Giveth Galaxy**.
-Upon entry to Giveth core and receiving their Unicorn horn (see [Onboarding](https://wiki.giveth.io/policy/Unicorn-onboarding/) ), each Unicorn is given €600 from this DAC and kept at that balance each week. 
+Upon entry to Giveth core and receiving their Unicorn horn (see [Onboarding](https://wiki.giveth.io/policy/Unicorn-onboarding/) ), each Unicorn is given $600 from this DAC and kept at that balance each week. 
 
-- €150 per week can go to their own Milestone. 
+- $150 per week **can** go to their own Milestone. 
 
-- €450-600 per week can be donated to other Giveth DAC projects.
+- $450-600 per week can be donated to other Giveth DAC projects.
 
 This gives Unicorns the ability to regulate their own pay, and influence what other Giveth work gets funded. It also incentivizes unicorns to go through an onboarding process so we are all on the same page from the start. <br>
-Unicorns can pay themselves anywhere from €0 to €150 for the week. They can donate anywhere from €0 to €600 to others for the week. If they do not use the funds in total that week, they will only be topped up the deficit amount. Everyone will end up with €600 in their Campaign at the beginning of each week.  <br>
+Unicorns can pay themselves anywhere from $0 to $150 for the week. They can donate anywhere from $0 to $600 to others for the week. If they do not use the funds in total that week, they will only be topped up the deficit amount. Everyone will end up with $600 in their Campaign at the beginning of each week.  <br>
 
 THIS IS SEPARATE FROM SALARY GIVEN BY CIRCLES. That is still their own domain :-) 
 
@@ -49,7 +51,7 @@ b) Using that to understand how well roles are working/not working
 
 c) Parts of the onboarding and offboarding processes.
 
-d) Share about how much we paid ourselves and why (this is important in cases where Unicorns aren’t doing the amount of work that feels right for €150 that week, but they don’t want to be kicked off. I think this is one great thing about our current system that we shouldn’t throw away: when folks haven’t been doing as much Giveth work on a certain week they don’t claim full reg rewards, this allows us to not feel pressure to kick them off because of wasting funds, and then they can re enter at capacity as soon as they are ready. We don’t want to lose potential great future work from Unicorns because it is too easy to vote them out when they are in a lull.)
+d) Share about how much we paid ourselves and why (this is important in cases where Unicorns aren’t doing the amount of work that feels right for $150 that week, but they don’t want to be kicked off. I think this is one great thing about our current system that we shouldn’t throw away: when folks haven’t been doing as much Giveth work on a certain week they don’t claim full reg rewards, this allows us to not feel pressure to kick them off because of wasting funds, and then they can re enter at capacity as soon as they are ready. We don’t want to lose potential great future work from Unicorns because it is too easy to vote them out when they are in a lull.)
 
 How this will work in the DApp:
 
@@ -57,7 +59,7 @@ The DApp isn’t necessarily able yet to handle all that this would require in a
 
 As of October 2018, the main part of this experiment (indidcating who, yourself and others, you will delegate your funds to) takes place on a spreadsheet. If you are interested in how this could work in the DApp, check out the [functional proposal](https://docs.google.com/document/d/1LGV2BME3GW0tOUH2klKTFKFeLhmbQd4YSQh6e7LucLc/edit?usp=sharing) we made to the DApp team and [the issue](https://github.com/Giveth/giveth-dapp/issues/487) in github detailing how to code it. This may end up being hosted on Aragon. We may never want to leave the spreadsheet (unlikely!!). But for now we are at a great place to begin this governance experiment so the functional details don’t need to built out all fancy yet; we can keep it running manually in a super simple way until it’s the right time to give this baby a shiny UX. <br> 
 
-**TL;DR: Unicorn DAC onboards Unicorns and alotts them up to €600 every week, to be delegated to themselves and other Giveth milestones, thus giving them influence on the trajectory of Giveth, while testing new features of the DApp.**
+**TL;DR: Unicorn DAC onboards Unicorns and alotts them up to $600 every week, to be delegated to themselves and other Giveth milestones, thus giving them influence on the trajectory of Giveth, while testing new features of the DApp.**
 
 
 
