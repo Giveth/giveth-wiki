@@ -41,13 +41,13 @@ Further notes:
 
 *****************************************************************
 
-Giveth is a decentralized organization based around the principles of self-management where a number of individuals decide to gather under its [the Giveth] umbrella to act together towards a purpose. 
+Giveth is a decentralized organization based around the principles of self-management, where a number of individuals decide to gather under its [the Giveth DAC] umbrella to act together towards a purpose. 
 
 As individuals, we have different backgrounds, expertise, methodologies and mental frameworks, among other differences - and through self-management we are tapping into the potential of such different angles to solve Giveth's challenges: 
 
-<p align="center"> Everyone is allowed to take any decision that drives us towards our purpose.</p>
+<p align="center"> Everyone is allowed to take any decision that drives us towards our *purpose*.</p>
 
-Everyone has **authority** to take a decision, but they will be fully **accountable **for deploying the practical side (or onboarding those who will have to deal with such) and for the consequences. Everyone? Yes, although the person starting the advice process is expected to have some sort of connection to the topic being decided, be it by being a Circle head, a contributor or a participating member in the Circle relevant to the decision. Accountability here means that they will be responsible for taking the steps to complete the purpose of the decision. 
+Everyone has **authority** to take a decision, but they will be fully **accountable** for deploying the practical side (or onboarding those who will have to deal with such) and for the consequences. Everyone? Yes, although the person starting the advice process is expected to have some sort of connection to the topic being decided, be it by being a Circle head, a contributor or a participating member in the Circle relevant to the decision. Accountability here means that they will be responsible for taking the steps to complete the purpose of the decision. 
 
 Important to notice that accountability doesn't mean blame in case things go wrong. <span style="text-decoration:underline;">If the advice process has been followed there will be an idea of the reasons why one takes an initiative</span> and everyone will have contributed to bring the initiative to the best possible outcome (or to not start it at all). Hence, it's hard to blame the instigator for trying something if the advice process has been properly followed. **<span style="text-decoration:underline;">It's OK to fail, as long as you do it properly!</span>**
 
@@ -71,8 +71,6 @@ The advice process is a tool that helps decision-making via collective intellige
 
 The advice process can proceed in several ways, depending on the mindset people bring to it:
 
-
-
 *   The initiator can approach it authoritatively ("I don't care about what others have said" or, alternatively, "I fully comply with what others - someone highly respected, or the majority - have said").
 *   They can approach from a perspective of negotiation or compromise ("I'll do some of what they say so they're happy, but it will increment my frustration account by 1").
 *   They can approach it **co-creatively**, <span style="text-decoration:underline;">which is the spirit of the advice process</span> ("I will listen to others, understand the real need in what they say, and think creatively about an elegant solution").
@@ -80,12 +78,9 @@ The advice process can proceed in several ways, depending on the mindset people 
 
 ## Process:
 
-
 #### **Steps in the advice process**
 
 There are a number of steps in the advice process:
-
-
 
 1.  **Ideation**: 
 
@@ -93,7 +88,6 @@ There are a number of steps in the advice process:
 
 
     Self-management implies **responsibility**: no boss nor subordinate is going to deal with the tension for anyone as in a traditional organization. If somebody else is better placed to do something about it, this someone will either have to be persuaded to lead the initiative or thoroughly consulted afterwards.
-
 
     **Channels:** This is an informal phase, so chat, face to face discussions, fireside chats, internal ideas... 
 
@@ -111,8 +105,6 @@ There are a number of steps in the advice process:
 
     **Channels:** Also informal and optional, same informal channels as above. 
 
-
-
 1.  **Advice**: 
 
     The initiator makes a proposal and seeks advice from those affected or those with expertise. 
@@ -124,7 +116,7 @@ There are a number of steps in the advice process:
     There is no specific time frame to gather advice. Again, it will depend on the scope of the decision. 
 
 
-    **Channels:** If it is a minor decision, consult via your preferred method with whomever is necessary. If it affects Giveth in general, Loomio is at the moment the platform of choice and a Loomio . Please note that Loomio shouldn't take the responsibility of consulting with the experts and directly affected people.
+    **Channels:** If it is a minor decision, consult via your preferred method with whomever is necessary. If it affects Giveth in general, Loomio is at the moment the platform of choice to create a decision for public discourse. Please note that Loomio shouldn't take the responsibility of consulting with the experts and directly affected people.
 
 
     **IT IS NOT OK TO JUSTIFY NOT CONSULTING AN AFFECTED/EXPERT PARTY UNDER THE EXCUSE THAT THIS PERSON DID NOT CHECK THE LOOMIO PROPOSALS.**
