@@ -2,18 +2,18 @@
 
 In the near future Giveth is launching its DApp. To Build the Future of Giving we need **your help**: may you be a developer, designer, writer, organizer, blogger, tester ... whatever you do or make, **we value your contribution** in the Giveth Decentralized Altruistic Community.
 
-Every month the 4 Circles or ‘Campaigns’ of the Giveth DAC (Product Development, Communication, Governance, Social Coding) award a considerable amount in eth to contributors who add value to our Community, via our [RewardDAO](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a). Below we explain how you can become a contributor and how you can be awarded and rewarded for your efforts! 
+Every month the 4 Circles or ‘Campaigns’ of the Giveth DAC (Dapp Team, Communication, Governance, Social Coding) award a considerable amount in eth to contributors who add value to our Community, via our [RewardDAO](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a). Below we explain how you can become a contributor and how you can be awarded and rewarded for your efforts! 
 
 ## Step 1: Join us
 
-  - We post all tasks to the #contributors room/channel on Riot & Slack on a weekly basis, be sure to *join* this room together with the relevant circle's room/channel.
+  - We post all tasks to the [#contributors](https://riot.im/app/#/room/#giveth-contributors:matrix.org) room/channel on [Riot](https://riot.im/app/#/group/+giveth:matrix.org) on a weekly basis, be sure to *join* this room together with the relevant circle's room/channel.
   - If we get to know you, we might also proactively *reach out* to you if we have tasks. To this end, you can fill out your info [here](http://bit.ly/GivethMaker). Know that through this info we can also refer you to non-profits that will be living on our platform, as they too will need your support.
 
 ## Step 2: Discuss your task
 
-  - Once you have picked up a task, the ideal place to *discuss your progress or ask questions* is in the linked channel (#Product Development, #Communication, #Governance, #Social Coding) or in direct messages with the person who requested this task.
+  - Once you have picked up a task, the ideal place to *discuss your progress or ask questions* is in the linked channel ([#Product Development](https://riot.im/app/#/room/#giveth-product-development:matrix.org), [#Communication](https://riot.im/app/#/room/#giveth-communication:matrix.org), [#Governance](https://riot.im/app/#/room/#giveth-governance:matrix.org), [#Social Coding](https://riot.im/app/#/room/#giveth-social-coding:matrix.org)) or in direct messages with the person who requested this task.
   - Once your task is completed and approved by the task requester, do *share the result* in the appropriate channel.
-  - The task requester will *dish out points* for what you did in the relevant channel. These points will be paid out in ether at the end of the monthly reward period (15th of each month).
+  - The task requester will *dish out points* for what you did in the relevant channel. These points will be paid out in ether at the end of the monthly reward period (the end of each month).
 
 ## Step 3: Prove your work
 
@@ -23,7 +23,7 @@ Every month the 4 Circles or ‘Campaigns’ of the Giveth DAC (Product Developm
     - Make sure you add your **chat handle** and a **public wallet address** that can hold ether.
     - **Share** the link to this video in the appropriate channels and in #contributors.
 
-At Giveth we strongly believe in transparency and accountability, so we take this video proof very seriously, please take a few minutes to create this before the 15th of the month, so we can pay you out the awarded points in ether! For work done in the last few days of this period, we allow a 3 day grace period for the video (until noon, 18th CET)
+At Giveth we strongly believe in transparency and accountability, so we take this video proof very seriously, please take a few minutes to create this before the end of the month, so we can pay you out the awarded points in ether! For work done in the last few days of this period, we allow a 3 day grace period for the video.
 
 ## Step 4: Get rewarded
 
@@ -35,6 +35,6 @@ You can find the live sheet of the awarded points throughout a month [here](http
 
 More info [here](https://medium.com/giveth/how-rewarddao-works-aka-what-are-points-7388f70269a) on how the RewardDAO works. A contribution for which Giveth contributor Cleo received points. :)
 
-If you have any questions about your contribution (and linked award), please contact LinzeeLou (@ljg583:matrix.org) via a direct message on Riot.
+If you have any questions about your contribution (and linked award), please contact Dani (@danibelle:matrix.org) via a direct message on Riot.
 
 &ast; Note: during 'calm' months (for example during the summer) when less points are dished, circles can decide to roll over part of the available eth to the next month, so that the dished points are a reasonable and fair amount in eth in comparison to previous months. The rolled over amounts are indicated in each sheet.
