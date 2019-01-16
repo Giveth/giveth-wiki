@@ -1,6 +1,8 @@
 # Welcome to the Giveth Wiki
 
-**Hello friend!** Welcome to [Giveth](http://giveth.io)!
+<p align="center">
+<b>Hello friend!</b> Welcome to <br>
+<a href="http://giveth.io">Giveth</a> </div>
 
 We are a community focused on making the **world a better place** through the use of blockchain technology! Our flagship product, the Giveth Donation Application [DApp](https://giveth.io/#dapp) is striving to bring new governance models into the nonprofit space. We created the Giveth Galaxy (the scope of projects we work on) to foster a larger network of organizations that will help us **build the Future of Giving** we envision; a truly decentralized one.
 
