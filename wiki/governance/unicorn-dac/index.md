@@ -3,13 +3,13 @@ Congratulations, you've spotted the Unicorns! <br>
 
 This Decentralized Altruistic Community is a governance experiment which aims to bring about a whole new chapter of decentralization for the Giveth Galaxy. By spreading the decision-making power of what work gets funded to **all** Unicorns, we test a truly community-steered project. How do we deliver on all this fantasy?
 
-**TL;DR: Unicorn DAC onboards Unicorns and alotts them up to $600 every week, to be delegated to themselves and other Giveth milestones, thus giving them influence on the trajectory of Giveth, while testing new features of the DApp.**
+**TL;DR: Unicorn DAC onboards Unicorns and alotts them up to 600 DAI every week, to be delegated to themselves and other Giveth milestones, thus giving them influence on the trajectory of Giveth, while testing new features of the DApp.**
 
 The Unicorn DAC has two main utilities: 
 
-1. To pay Unicorns a small weekly wage for stewarding the Giveth Galaxy. ($150)
+1. To pay Unicorns a small weekly wage for stewarding the Giveth Galaxy (150 DAI).
 
-2. To provide a weekly delegation allowance to Giveth Unicorns so that they can decide what milestones are funded while also testing the DApp. ($450) <br>
+2. To provide a weekly delegation allowance to Giveth Unicorns so that they can decide what milestones are funded while also testing the DApp. (450 DAI) <br>
 Giveth Unicorns are Stewards and Guardians of the Giveth Galaxy. They are expected to be active participants and have other roles with other campaigns. We want to reward this participation and make it easy for the whole Unicorn community to author the trajectory of Giveth by funding what they believe is important work.
 ## **Why?**
 We noticed some tensions that gave rise to the idea of this DAC:
