@@ -1,6 +1,6 @@
 # About the Giveth DAC
 
-Giveth is a community of Makers that is building the Giveth Galaxy, our ever-extending collection of initiatives that is driving Blockchain for Good innovation. Giveth strives to model the DAC concept as one of the first non-profit blockchain based entities.
+Giveth is a community of Makers that is building the Giveth Galaxy, our ever-extending collection of initiatives that is driving Blockchain for Good innovation. Giveth strives to model the DAC concept as one of the first non-profit blockchain based entities. If you would like to contribute please get involved by taking a look at our [Contributors Guide](../dac/contributors-guide).
 
 ![Team](../images/dac/givethteam.jpg)
 
