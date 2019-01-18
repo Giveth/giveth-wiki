@@ -23,6 +23,8 @@ The policy forming process at Giveth has been evolved to this flow of actions:
 ```"Everybody on the whitelist is allowed to create DACs and campaigns"```
 see [Gov Meeting #39](../meeting-notes/gov-meeting-39/) and [loomio](https://www.loomio.org/p/XQBSc0qa/whitelists-and-creating-dac-s-and-campaigns-at-will)
 
+```"Once the DApp works, Donations given to Giveth will no longer be using the 48/16/17/18 split"```  [Gov Meeting #11](../meeting-notes/gov-meeting-11/)
+
 ### Finances
 ```"From Dec 15th 2018 all Regular Reward have to be filed in DAI. Expenses can be filed in DAI. Reward DAO stays in ETH. Giveth gets more DAI from soliciting more donations in DAI"```
 see [Community Meeting #54](../meeting-notes/community-meeting-54/)
