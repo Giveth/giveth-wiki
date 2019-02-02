@@ -87,6 +87,7 @@ nav:
         - Documentation & Tutorials:
           - Contributors Guide: 'dac/contributors-guide.md'
           - Adopted Policies: 'dac/approved-policies.md'
+          - Meeting Guide: 'dac/meeting-guide.md'
           - Meeting Notes:
             - About our DAC Meetings: 'dac/meeting-notes/index.md'
             - Governance Meeting 01: 'dac/meeting-notes/gov-meeting-1.md'
