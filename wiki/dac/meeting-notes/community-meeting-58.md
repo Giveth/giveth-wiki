@@ -1,7 +1,7 @@
 # Giveth Community Meeting #58
 
 Date: 24/01/19
-[Youtube Livestream]()
+[Youtube Livestream](https://www.youtube.com/watch?v=5IX1xl0mHfM&feature=youtu.be)
 
 ### Attending
 Bowen, Griff, Josh, Gustavo, Kay
