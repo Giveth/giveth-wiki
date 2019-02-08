@@ -1,4 +1,4 @@
-# Holding a Giveth meeting
+# How to record a Giveth meeting
 
 We tried different software solutions for online video conferencing as this form of communication is a cornerstone how we maintain a high level of cooperation and organize discussions within our decentralized community.
 

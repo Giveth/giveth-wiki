@@ -2,7 +2,7 @@
 
 *If you are looking for more notes on past Giveth DAC/Community Meetings, you can find this [here](../../dac/meeting-notes)*
 
-*A rather practical and shorter guide can be found [here](../../dac/meeting-guide)*
+*A rather practical and shorter guide about recording a meeting can be found [here](/record-meetings-guide)*
 
 For our Giveth DAC Meeting specifically we follow many of the holacratic principles, this meeting is structured following the example of [holocracy governance meetings](https://www.holacracy.org/governance-meetings):
 
