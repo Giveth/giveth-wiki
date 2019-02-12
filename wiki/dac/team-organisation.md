@@ -17,7 +17,7 @@ The Giveth community meets regularly online for video conferences:
 
 ### Giveth Community (DAC) Meetings
   - **When:** Every Friday at 18:00 Barcelona Time (UTC+1)
-  - **Where:** [https://meet.jit.si/giveth-gov](https://meet.jit.si/giveth-gov)
+  - **Where:** [https://meet.jit.si/giveth-dac](https://meet.jit.si/giveth-dac)
   - **Minutes:** [All notes right here on our wiki](../meeting-notes/)
   - **Historical Meetings:** [Community meetings playlist on Youtube](https://www.youtube.com/watch?v=030qm_AqWl4&list=PL6oqELoqsEmpe1oycj7bJm_CdHZ-CGBJ6)
   - **Description:** The aim is to govern the Giveth DAC itself, for which we use the .
