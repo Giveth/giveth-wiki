@@ -5,7 +5,7 @@
 ## Current status
 The Giveth Donation Platform is currently live in *beta* stage on the Ethereum mainnet, bridged to Rinkeby testnet. You can read our most recent public updates [here](https://medium.com/giveth/tagged/dappening) and are welcome in our [chat](http://giveth.io/join) for any question!  
 
-Giveth is re-engineering charitable giving, by creating an entirely free, open-source platform, built on the Ethereum Blockchain. Our system cuts out bureaucracy and enables makers to create a high level of transparency and accountability towards Givers. For example: At any point until the moment funds are locked, a Giver can decide to withdraw them. You can read more about the basic components and the **logic behind our DApp (Donation Application) in this [post.](https://mediumc.com/giveth/what-is-the-future-of-giving-d50446b0a0e4)**
+Giveth is re-engineering charitable giving, by creating an entirely free, open-source platform, built on the Ethereum Blockchain. Our system cuts out bureaucracy and enables makers to create a high level of transparency and accountability towards Givers. For example: At any point until the moment funds are locked, a Giver can decide to withdraw them. You can read more about the basic components and the **logic behind our DApp (Donation Application) in this [post.](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4)**
 
 It's been a quest getting to mainnet efficiency, challenged by **scalability issues** that were too prohibitive for real use, but we found a smooth solution with a bridge. You can read **a more detailed account here: [Tackling Ethereum scalability issues (medium post)](https://medium.com/giveth/tackling-ethereum-scalability-issues-29bd700b5060)**
 
