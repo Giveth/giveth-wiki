@@ -40,53 +40,15 @@ extra_css:
 
 nav:
     - Welcome: 'index.md'
-    - General:
-        - Our Mission: 'dac/mission.md'
-        - Calendar & Events: 'dac/calendar.md'
-    - Dapp Development:
-      - Intro to the Giveth dapp: 'dapp/index.md'
-      - Product Definition: 'dapp/product-definition.md'
-      - Roadmap: 'dapp/product-roadmap.md'
-      - Documentation & Tutorials:
-        - How to make Milestones: 'dapp/milestones.md'
-        - Future: 'dapp/future.md'
-        - Exchange Rate: 'dapp/exchange-rate-calculation.md'
-        - Dev Process & QA: 'dapp/product-development-testing.md'
-        - Smart Contracts Roadmap: 'dapp/smart-contracts-roadmap.md'
-        - Deployments: 'dapp/deployments.md'
-        - Technical Challenges: 'dapp/technical-challenges.md'
-    - Social Coding:
-      - Intro to Giveth Social Coding: 'social-coding/index.md'
-    - Governance:
-      - Intro to Giveth Governance: 'governance/index.md'
-      - Tools for DACs: 'governance/tools-for-dacs.md'
-      - Governance Experiments:
-        - Unicorn DAC:
-          - Unicorn DAC Intro: 'governance/unicorn-dac/index.md'
-          - Unicorn Onboarding: 'governance/unicorn-dac/unicorn-onboarding.md'
-          - Get Funding: 'governance/unicorn-dac/unicorn-dac-getfunded.md'
-          - Roles Process: 'governance/unicorn-dac/roles.md'
-          - Known Unicorns: 'governance/unicorn-dac/unicorns.md'
-      - Documentation & Tutorials:
-        - Advice Process: 'governance/advice-process.md'
-        - Code of Conduct: 'governance/codeofconduct.md'
-        - Conflict Resolution: 'governance/conflict-res.md'
-        - Governance of Meetings: 'governance/governance-meetings.md'
-        - Recording Meetings Guide: 'governance/record-meetings-guide.md'
-    - Communications:
-       - Intro to Giveth Communications: 'communications/index.md'
-       - Documentation & Tutorials:
-          - Brand Identity Guide: 'communications/brand-guidelines.md'
-          - Use of Riot Chat: 'communications/riot-migration.md'
     - Giveth Community (DAC):
-        - Welcome to the Giveth DAC: 'dac/index.md'
+        - About the Giveth DAC: 'dac/index.md'
+        - Calendar & Events: 'dac/calendar.md'
         - Team Organisation: 'dac/team-organisation.md'
         - Mission: 'dac/mission.md'
         - Goals: 'dac/goals.md'
         - Finances: 'dac/finances.md'
         - History: 'dac/history.md'
-        - Documentation & Tutorials:
-          - Contributors Guide: 'dac/contributors-guide.md'
+        - Documentation:
           - Adopted Policies: 'dac/approved-policies.md'
           - Meeting Notes:
             - About our DAC Meetings: 'dac/meeting-notes/index.md'
@@ -146,3 +108,38 @@ nav:
             - Community Meeting 57: 'dac/meeting-notes/community-meeting-57.md'
             - Community Meeting 58: 'dac/meeting-notes/community-meeting-58.md'
             - Community Meeting 60: 'dac/meeting-notes/community-meeting-60.md'
+    - Dapp Development:
+      - Intro to the Giveth dapp: 'dapp/index.md'
+      - Product Definition: 'dapp/product-definition.md'
+      - Roadmap: 'dapp/product-roadmap.md'
+      - Documentation & Tutorials:
+        - How to make Milestones: 'dapp/milestones.md'
+        - Future: 'dapp/future.md'
+        - Exchange Rate: 'dapp/exchange-rate-calculation.md'
+        - Dev Process & QA: 'dapp/product-development-testing.md'
+        - Smart Contracts Roadmap: 'dapp/smart-contracts-roadmap.md'
+        - Deployments: 'dapp/deployments.md'
+        - Technical Challenges: 'dapp/technical-challenges.md'
+    - Governance:
+      - Intro to Giveth Governance: 'governance/index.md'
+      - Documentation & Tutorials:
+        - Contributors Guide: 'dac/contributors-guide.md'
+        - Governance of Meetings: 'governance/governance-meetings.md'
+        - Code of Conduct: 'governance/codeofconduct.md'
+        - Advice Process: 'governance/advice-process.md'
+        - Conflict Resolution: 'governance/conflict-res.md'
+        - Tools for DACs: 'governance/tools-for-dacs.md'
+        - Recording Meetings Guide: 'governance/record-meetings-guide.md'
+      - Unicorn DAC:
+        - Unicorn DAC Intro: 'governance/unicorn-dac/index.md'
+        - Unicorn Onboarding: 'governance/unicorn-dac/unicorn-onboarding.md'
+        - Get Funding: 'governance/unicorn-dac/unicorn-dac-getfunded.md'
+        - Roles Process: 'governance/unicorn-dac/roles.md'
+        - Known Unicorns: 'governance/unicorn-dac/unicorns.md'
+    - Communications:
+       - Intro to Giveth Communications: 'communications/index.md'
+       - Documentation & Tutorials:
+          - Brand Identity Guide: 'communications/brand-guidelines.md'
+          - Use of Riot Chat: 'communications/riot-migration.md'
+    - Social Coding:
+      - Intro to Giveth Social Coding: 'social-coding/index.md'

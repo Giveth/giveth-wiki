@@ -8,10 +8,10 @@ The Giveth community mainly communicates through these platforms:
  - [Riot.im](https://riot.im/app/#/group/+giveth:matrix.org) (Integrative work chat) is currently the recommended option for joining the community
 
 ## Documents and Files
-The Giveth DAC uses cloud-storage services for transparent document management. Most of our working documents are hosted and shared with Google Drive or hosted on this [wiki](https://github.com/Giveth/giveth-wiki). 
+The Giveth DAC uses cloud-storage services for transparent document management. Most of our working documents are hosted and shared with Google Drive or hosted on this [wiki](https://github.com/Giveth/giveth-wiki).
 
 ## Organization
-Currently we are evaluating [loomio](https://www.loomio.org) which is an excellent open-source solution for decision-making, polls and votes. Desscisions and activity on Loomio is currently non-binding, but it is used to signal preferences.
+Currently we are evaluating [loomio](https://www.loomio.org) which is an excellent open-source solution for decision-making, polls and votes. Decisions and activity on Loomio is currently non-binding, but it is used to signal preferences.
 
 ## Accounting
 Transparent tracking of spending on our own [Donation Application]((https://beta.giveth.io/dacs/5b37da13a239ac21b383d4da))
