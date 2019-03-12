@@ -1,6 +1,6 @@
 # Roles Procedure
 
-So, you are a Giveth Unicorn and would love to become part of our [Unicorn DAC](https://wiki.giveth.io/dac/unicorn-dac/)? Joining our monthly Roles Meeting is a crucial step in this one. The Roles Meeting takes place every month; so feel free to [join here](https://riot.im/app/#/room/#giveth-governance:matrix.org) to find out how we roll. 
+So, you are a Giveth contributor wanting to become part of our regular flow, or you're a unicorn already wanting to join the  [Unicorn DAC](https://wiki.giveth.io/dac/unicorn-dac/)? Joining our monthly Roles Meeting is a crucial step in this one. The Roles Meeting takes place every month; so feel free to [join here](https://riot.im/app/#/room/#giveth-governance:matrix.org) to find out how we roll. 
 
 
 Our roles meeting procedure is part of our ongoing endeavor to be as inclusive and transparent as possible and is based on the holacratic principles as described [here](https://blog.holacracy.org/writing-roles-accountabilities-in-holacracy-eb9d83e363bf).
@@ -19,7 +19,7 @@ What happens next? You get some work done! Experiment by taking up specific task
 
 ## Step 3: Describe your role
 
-Go to the [roles sheet](https://docs.google.com/spreadsheets/d/10yFmRviEoeUCg8GfWizHBtkFqU9kgm_OhmIj9Lt-ONU/edit?usp=sharing) and add yourself.
+Go to the [roles sheet](https://drive.google.com/drive/folders/1RMpEOAw_KjBqGfs5joe4mXjZZQRDuQt5?usp=sharing) and add yourself.
 How do you fill out this form? Below a short explanation of what to add in which column:
 
 (A) Describe your role in a few words <br>
@@ -36,13 +36,13 @@ How do you fill out this form? Below a short explanation of what to add in which
 
 Note:
 - At the top of the sheet you find a copy of the explanation above with all links included
-- The roles sheet linked [here](https://docs.google.com/spreadsheets/d/10yFmRviEoeUCg8GfWizHBtkFqU9kgm_OhmIj9Lt-ONU/edit?usp=sharing) is ‘comment only’, this will not prevent you to add anything, we will just approve for you. Once you’re a true Unicorn, just ask for edit rights to update easily.
+- The file of roles sheets linked [here](https://drive.google.com/drive/folders/1RMpEOAw_KjBqGfs5joe4mXjZZQRDuQt5?usp=sharing) is ‘view only’, since this is a public wiki and we need to keep things clean! Once you are participating in the Giveth community (whether in the Unicorn DAC or not) just ask for edit access. 
 
 ## Step 4: What are you working on
 
 Once you are up and running in the Giveth Galaxy it is time for the exciting stuff! and tell the other Unicorns what you are currently working on and what else is coming up.
 
-2 weeks before the Roles Meeting @loie will contact you (in a room or individually) and ask you to update your projects (H) and Next-actions (I) in the [roles sheet](https://docs.google.com/spreadsheets/d/10yFmRviEoeUCg8GfWizHBtkFqU9kgm_OhmIj9Lt-ONU/edit?usp=sharing).
+2 weeks before the Roles Meeting @loie will contact you (in a room or individually) and ask you to update your projects (H) and Next-actions (I) in the [roles sheet](https://drive.google.com/drive/folders/1RMpEOAw_KjBqGfs5joe4mXjZZQRDuQt5?usp=sharing).
 
 (H) In this column you list which projects you are currently working on and always think how they link back to the goals of your circle <br>
 (I) List some of the next, more granular steps coming out of these projects to make it more tangible
@@ -53,7 +53,7 @@ Once you are up and running in the Giveth Galaxy it is time for the exciting stu
 
 How to do this?
 
-- Go back into [the sheet](https://docs.google.com/spreadsheets/d/10yFmRviEoeUCg8GfWizHBtkFqU9kgm_OhmIj9Lt-ONU/edit?usp=sharing), scroll to the right, add your name in the top (row 2)
+- Go back into [the sheet](https://drive.google.com/drive/folders/1RMpEOAw_KjBqGfs5joe4mXjZZQRDuQt5?usp=sharing), scroll to the right, add your name in the top (row 2)
 - Add a score from 1-5 plus feedback per role you have relevant thoughts on
 
 
@@ -63,7 +63,7 @@ A few crucial notes here
 - The projects and next-actions help you to evaluate how people are filling in a role (and why)
 - Giveth is all about positivity so make sure to always give constructive and rational feedback
 - The feedback you give is about a specific role a person fulfills, not about the person: roles; not souls!
-- Please do vote on all the roles, but only give feedback (and possibly a score lower than 5) on roles you have actual and objective feedback on.
+- Please do vote on all the roles, but only give feedback (and possibly a score lower than 5) on roles you have actual feedback on.
 
 In the near future, its likely we'll DAOify this process with Aragon.
 
