@@ -114,7 +114,7 @@ nav:
             - Community Meeting 64: 'dac/meeting-notes/community-meeting-64.md'
             - Community Meeting 65: 'dac/meeting-notes/community-meeting-65.md'
     - Dapp Development:
-      - Intro to the Giveth dapp: 'dapp/index.md'
+      - Intro to the Giveth DApp: 'dapp/index.md'
       - Product Definition: 'dapp/product-definition.md'
       - Roadmap: 'dapp/product-roadmap.md'
       - Documentation & Tutorials:
