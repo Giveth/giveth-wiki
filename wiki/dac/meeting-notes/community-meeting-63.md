@@ -4,7 +4,7 @@
 
 Date: Thur 28th Feb 2019
 
-[Youtube Livestream](https://www.youtube.com/channel/UCdqmP4axeI1hNmX20aZsOwg)
+[Youtube Livestream](https://youtu.be/JTOO9umv5Vo)
 
 ### Attending
 Griff, Loie, Josh, Kay, Kris, Michael, Dani
