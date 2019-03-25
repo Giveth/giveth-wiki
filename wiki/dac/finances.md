@@ -54,6 +54,6 @@ In its current implementation, the four main circles of Giveth (Communication, D
 ## <a name="finances_budget">Budget Overview</a>
 One of the core values of Giveth is transparency. We invite everyone to consult our publicly accessible expenses and budgets:
 
- [Budget for 2018](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing)
+ [Budget for 2018](https://docs.google.com/spreadsheets/d/17twziTvlhWRcwP26R00bIkLHYxFd36bVEKbu349zff4/edit?usp=sharing)
 
  [Budget for 2017](https://docs.google.com/spreadsheets/d/1Qg7OiQ42jmsW3HCgtGA-v5NfxMEAR5SMo_oc7AtEqTE/edit?usp=sharing)
