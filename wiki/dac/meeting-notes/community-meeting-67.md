@@ -2,7 +2,7 @@
 
 
 Date: 28 March 2019
-[Youtube Livestream]()
+[Youtube Livestream](https://youtu.be/LMUFokiZppY)
 
 ### Attending
 Griff, Loie, Kris, Josh, Bowen, Danibelle
