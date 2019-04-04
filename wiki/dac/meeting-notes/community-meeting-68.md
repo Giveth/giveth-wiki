@@ -13,9 +13,9 @@ Attending
 Lorelei, Griff, Dani, Kris, Kay
 
 dropped-in: -
-left-early: Kris
+left-early: -
 
-toggled-Off: -
+toggled-off: -
 
 
 ###  Check-in
