@@ -1,58 +1,157 @@
 # Giveth Community Meeting #69
 
 
-April 25th, 2019
+April 18th, 2019
 
 
-Youtube Livestream - [https://youtu.be/qvOfMlXk7lA](https://youtu.be/qvOfMlXk7lA)
+Youtube Livestream - https://www.youtube.com/watch?v=o_Vo6qTazeA
 
 
 ### Logistics
 
 Attending
-Griff, Michael, Josh, Kay, Kris, 
+Griff, Lorelei, Kris, Jeff, Kay, Gilairmay, Bowen, Dani
 
-dropped-in: Pavle, Dani, Jeff
-left-early: Lorelei, Dani
-toggled-off: -
+dropped-in: -
+left-early: -
+toggled-off: Gilairmay
 
 
 ###  Check-in
-  
-Loie: Building a scraper with Edu. Blocked with something?? Organisational stuff for burn afrika. Distracted so gonna step out, wishes nice fireside chat!
 
-Kay: Still coming down from Odyssey. Lets keep the fire burning, wants to raise temprature form simmering. Creating hosting soloution. Community work. Better communications structure, feels like theres some general ingestion problems. Not distracted with intent to have a nice chat.
+Kay - Odyssey, not distracted, loomios and news
 
-Josh: Fun week, writing article that summarizes Odyssey. Exploring funding opportunities. Sad that "summer of code" expired for application.
+Gilairmay - First meeting, helping on the DApp, here to listen in to spend more time with Giveth
 
-Kris: Not a lot getting done. Social sharing and comms meeting, Jeff feedback for proposal, get into doc with Dani, maybe ledger proposal filing for Giveth later this week. Distracted by lack of energy. Looking forward to get-together for alignment. Needs clarity of strategy to plan work.
+Kris - Odyssey helped team3, bit through the wind but otherwise not distracted, catching up and listening in
 
-Michael: Gearing up new people to the giveth ecosystem with Marko and reached out to Sergi. Both interested. Talking to Nepalis helping us with Unicef grant. Mexicans offline till may so working in parallel. They'll join dapp meetings. Will beinvolved in next sprint meeting. RJ farewell! Looing for other people in Montreal, talking to William based in London. Ukranian folks also!? Took part in funding calls, working on Ledger grant with Josh. Not distracted, depressing weather! Looking fwd to summer :)
+Jeff - Odyssey, meeting stakeholders, Zarghum and Vinaj talk, Ixo relations, bit distracted by a thousand things
 
-Griff: Decentralised data now. Video calls, epicenter has a nice cut. Griff riff, curation markets meetup. Judged Eth capetown. Working on Commons Stack params and selling point (maths and narratives). reaching out to advisors. Got Jordi and Simon. Would like Trent and some others. Working on Doge central for decentral camp.
+Dani - created first reg rewards, holding down homefires while everybody was hacking away, fuzzy and in recovery, learning feathers admin, manage camp decentral, reward DAO
 
-Pavle: Only thing I did worth mentioning is mentioned in Tele/riot. Talked to local company interested in Unicef BC grant, told them to build on the commmons stack becuase their idea would most likely be lame. Happened about 4hrs back. Following up on the lead. differnt easter time. Distracted by a bit of persie stuff. 
+Bowen - difficult last couple weeks, tools for security guard not working, on it with Jorge to fix, ton of new improvements to bridge monitor
 
-Danibelle: Fights conspiratorial tendencies in bewitched gadgets. Intention to fireside chat. Week has felt deep and intense. Loves the media that gets out currently. feels awesome about being able to solve giveth problems and empowered to use her voice. getting tweets and docs out. 20 RT lots of like the last one so happy to help with getting media out in front of the right audiences. Great meeting with Marko and Dapp dev stuff and thinking engaging with funding. Strategising about dapp iterations and the. future of Giveth. Design and integration between dapp and comms. Onboarding Paslar. User feedback, working on updates as its becoming future based to give marko good data. How to build this out! New Campains; decentral and a few more drafts. Looing at roles for decentral, currently under fourty still, wants to see people engage for planning purposes. Barca retreat planning to get feedback from entire community from people with things to say about it. Please fill out retreat visioning doc. @TheOfficeMystic and @DaniGiveth/@ThePurpleDani. Would like to dial in on our hashtags
+Griff - Coordinate Odyssey, chase all the things, commons-stack campaign should be started, no sleep - much fun, lots of new contributors from Odyssey, increase devs in Tijuana, burning man stuff, no intentions/distractions
 
-## Fireside agenda
+Lorelei - Judged at hackathon, finished up Barcelona headquarter to host ~15 people, move forward
 
-*   Point1: Ledger proposal for Giveth.
-*   Point2: Ledger proposal for commons stack.
-*   Point3: Comms strategy for stack??
-*   Point4: Michael introduces William as potential DApp dev.
-*   Point5: Dev update on Dapp/stack
-*   Point6: Commons stack and Giveth boundry? 
-*   Point7: Comms channels for Commons Stack
+## Agenda
 
-## Action items
+*   Point1: Giveth offsite
+*   Point2: Reduce delay time
 
-Populate DApp meeting, Comms strategy alignment for Commons Stack and Giveth
+
+### Point1 Giveth offsite Late May
+
+
+#### Tension
+
+We did not meet as Giveth community for a long time.
+
+
+#### Proposal
+
+We have 4-7 days of unicorn time, open it up to more people to come in after that, more commmunity development/fun time. Some people need support to get travel costs covered. Dani and Lorelei put together workshop flow, multi day experience! 
+
+Bring together Giveth team for a visioning retreat to reflect on work so far and revision our work for the future with adjustments to our goals and objectives. Have a really good time together and house warming party. 
+
+#### Clarifying Questions
+
+Griff - how do you want to set the dates?
+<br>Dani - now that we have a Yes group, do a doodle poll find out latest and earliest. ideally have people min 7 days better 10-14 
+<br>Loie - is scholarships being given part of this proposal? 
+<br>Dani - at least to be able to creat milestones for scholarship funds
+
+
+#### Reactions
+
+Kris - big time yes from me! travel no worries. set agenda good to make the most of it.
+
+Kay - all for it. Timing is good for me. can my baby and partner come?
+
+Griff - full support. I hope to stay in SA until 25th may then after that we're good. Will need to go to states by 14th min. Will commons stack be part of this off-site? i think it might co opt it a bit
+
+Lorelei - Griff makes it seem like its more work than it is... building ikea furniture can be a team building exercise ;-) I am sooooo excited to get people to this house, as i put a lot of work to get it ready. We could also make some field trips to some of the intentional communities around the barcelona area. 
+
+Bowen - great idea, im the only person that said no... but if i can get a passport then i am good! I would love to come over. 
+
+Jeff - all good! 
+
+Guilerme would be interested in coming
+
+
+
+#### Amend and Clarify
+
+Will make a few more pieces: sign ups for contributions to the house (building before, cleaning after) <br>
+Ideally we get outside sponsorship...<br>
+Giveth community gathers in Barcelona at least 7 days open and all inclusive (except after house maxes out people set up their own accommodation) beginning in end of May ending early June. 
+
+#### Result
+
+Approved
+
+### Point2 Reduce delay time
+
+
+#### Tension
+
+People have to wait more than 48 hours for disbursement to happen. We have never had any problems in a year of this policy that would suggest we still need this amount of delay time. 
+
+
+#### Proposal
+
+
+We reduce that delay time to 24 hours after a couple weeks of a perfectly working bridge monitore
+
+#### Clarifying Questions
+Dani - when this 48 hour rule was created was their someone in your role Bowen checking all the time?<br>
+Bowen - 
+
+
+#### Reactions
+Griff - this loomio is really signaling, actual change requires a multisig vote. Underpromise, overachieve. So people aren't expecting less than 48 hour pay release since 
+<br>Lorelei - its a UX thing... this is an old rule and it should get fixed... its safe so lets do it
+<br>Kris - yes lets change it
+<br>Jeff - anything to improve throughput of payment processes is good in my books!
+<br>Dani - griff's "contracts calling contracts calling contracts is really fun" made me nervous haha. in support of this. what other things have been made with that assumption in place that change of this rule may affect?
+
+
+#### Amend and Clarify
+We reduce the disbursal delay from 48 to 24 once the monitor service is up for 2 weeks without crashing. 
+
+
+
+## Fireside Agenda
+* Talk more about deep dive
+* 
+
+Interactive lemonade stand out on the street - open up the "terrace" (the garage door to the street) and interact with passersby, set them up with burner wallets, any sort of public engagement building community in the neighborhood -> could be a way to get sponsored from status or something, have somebody who wants to promote their wallet come down and be a part of the neighborhood relations
+
+bus rental or trains to the out of the city places we want to visit
+
+cardona - need to ask Stephan and Mark if castle will have floors and be ready to host people in June. 
+
+
+
+## Recap
+
+XXX
 
 ## Check-out
 
-Mind meld achieved!
+Griff - see ya next week!<br>
+Dani - excited to put together IRL time<br>
+Guilerme - will be at DApp meeting - cool to be here!<br>
+Bowen - always good to hear from everybody, my favorite meeting<br>
+Kris - Griff are you following up on Odyssey prize money?<br>
+Kay - so looking forward to in person. Bowen i hope you can make it!!<br>
+Jeff - good chat, looking forward to seeing everybody
+
 
 ## End of meeting
 
-19:09
+00:00
+
+
+Event in late may
