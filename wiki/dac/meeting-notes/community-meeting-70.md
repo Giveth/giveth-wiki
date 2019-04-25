@@ -1,4 +1,4 @@
-# Giveth Community Meeting #69
+# Giveth Community Meeting #70
 
 
 April 25th, 2019
