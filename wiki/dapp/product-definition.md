@@ -1,6 +1,6 @@
 # Product Definition
 
-The Giveth platform is currently in a minimal viable product (MVP) state, and will allow users to give Ether contributions to Communities organized around causes. The system is a set of [smart contracts](https://github.com/Giveth) living on the [Ethereum blockchain](https://ethereum.org), with a [caching server](https://github.com/Giveth/feathers-giveth) middle-layer and a [graphical user interface (GUI)](https://github.com/Giveth/giveth-dapp). Currently we are in closed beta testing, should you be interested to help us test the system, please contact `@danibelle` in the [Giveth community](http://join.giveth.io/).
+The Giveth platform is currently in a minimal viable product (MVP) state, and will allow users to give ether and DAI contributions to Communities organized around causes. The system is a set of [smart contracts](https://github.com/Giveth) living on the [Ethereum blockchain](https://ethereum.org) bridged to Rinkeby, with a [caching server](https://github.com/Giveth/feathers-giveth) middle-layer and a [graphical user interface (GUI)](https://github.com/Giveth/giveth-dapp). Currently we are in closed beta testing, should you be interested to help us test the system, please contact `@danibelle` in the [Giveth community](http://join.giveth.io/).
 
 ## Executive Summary
 
@@ -17,14 +17,14 @@ The system consists of:
 - [**Delegate**](#product-definition-delegate) is the sole owner of a DAC and can delegate money from the DAC to a Campaign or a Milestone within the Campaign.
 - [**Giver**](#product-definition-giver) gives (donates) funds (Ether) to a DAC, Campaign or a Milestone.
 - [**Milestone Manager**](#product-definition-milestone-manager) is responsible for making sure that a Milestone is accomplished.
-- [**Milestone Reviewer**](#product-definition-milestone-reviewer) reviews the completion of a Milestone.
+- [**Milestone Reviewer**](#product-definition-milestone-reviewer) reviews the completion of a Milestone (Optional).
 - [**Recipient**](#product-definition-recipient) receives donations upon completion of Milestones.
 
-Please note: Any entity within the Giveth system is represented by an Ethereum address. For now these are simple accounts created upon registration; eventually, these roles could be filled by a multisig, oracle, DAO, etc.
+Please note: Every entity within the Giveth system is represented by an Ethereum address. For now these are simple accounts created upon registration; eventually, these roles could be filled by a multisig, oracle, DAO, etc.
 
 ## Giveth in Depth
 
-Lets have a second, more in-depth, look at the Giveth system. There are 3 distinct entities in the system which are handling the flow of donations. The relations between them are depicted in [Figure 1](#product-definition-fig-relations). Each of these 3 entities corresponds to one or more smart contracts.
+Let's have a second, more in-depth, look at the Giveth system. There are 3 distinct entities in the system which are handling the flow of donations. The relations between them are depicted in [Figure 1](#product-definition-fig-relations). Each of these 3 entities corresponds to one or more smart contracts.
 
 ![Relations between DACs, Campaigns and Milestones](../images/product-definition/relations.svg)
 
@@ -32,7 +32,7 @@ Lets have a second, more in-depth, look at the Giveth system. There are 3 distin
 
 ### <a name="product-definition-giver">Giver</a>
 
-Before we dive in the different entities, lets briefly talk about arguably the most important users in our system - Givers. The term Giver describes anyone who used our platform to give donations to a DAC, Campaign or a Milestone. You can see all possible versions of how funds flow in the system ([Figure 2](#product-definition-fig-money-flow)). Givers can interact with these 3 entities, but they are not explicitly part of any, unless they choose to join a DAC or assume another role as well. The 'roles locality' can be observed in [Figure 3](#product-definition-fig-role-locality). The full list of a Giver's possible interaction with other roles is depicted in the 'use case diagram' in [Figure 4](#product-definition-fig-giver-usecase).
+Before we dive in the different entities, let's briefly talk about arguably the most important users in our system - Givers. The term Giver describes anyone who used our platform to give donations to a DAC, Campaign or a Milestone. You can see all possible versions of how funds flow in the system ([Figure 2](#product-definition-fig-money-flow)). Givers can interact with these 3 entities, but they are not explicitly part of any, unless they choose to join a DAC or assume another role as well. The 'roles locality' can be observed in [Figure 3](#product-definition-fig-role-locality). The full list of a Giver's possible interaction with other roles is depicted in the 'use case diagram' in [Figure 4](#product-definition-fig-giver-usecase).
 
 ![Money Flow](../images/product-definition/money-flow.svg)
 
