@@ -1,8 +1,6 @@
 <H1> Giveth Weekly DAPP Design Meeting
 
-**DATE**
-
-
+**Date:**
 Monday May 13, 2019 - 7pm CEST
 7pm CET Time at https://meet.jit.si/giveth-dapp
 
