@@ -7,7 +7,7 @@ Unlike traditional charity, with Giveth every donation and pledge is transparent
 If you truly want to help us Build the Future of Giving, donate by using the [Giveth DApp](https://beta.giveth.io/)! Just log in via MetaMask, trace your donations and join other Givers on the [DAC Leaderboard](https://leaderboard.giveth.io).
 
 If you prefer to donate directly to our address or via MyCrypto or MetaMask, you can send Eth or tokens to the following address:
-```revolution.eth``` (which resolves to: ```0x5ADF43DD006c6C36506e2b2DFA352E60002d22Dc```) or discover all the options in more detail on our [Donation Page](https://giveth.io/donate)
+```revolution.eth``` (which resolves to: ```0x8f951903c9360345b4e1b536c7f5ae8f88a64e79```) or discover all the options in more detail on our [Donation Page](https://giveth.io/donate)
 
 
 ## <a name="finances_expenses">Expense Claiming</a>
