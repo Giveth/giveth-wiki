@@ -1,4 +1,4 @@
-**Giveth Community Meeting 81 Oct 30**
+# Giveth Community Meeting 81 Oct 30
 
 Attendees: Griff, Loie, Jeff, Kris, Dani, Bowen, Kay, Josh, Gustavo
 
