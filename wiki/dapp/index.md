@@ -3,7 +3,7 @@
 ![Beta in Progress](https://cdn-images-1.medium.com/max/2000/0*XouMtIGMcBmuX4k6)
 
 ## Current status
-The Giveth Donation Platform is currently live in *beta* stage on the Ethereum mainnet, bridged to Rinkeby testnet. You can read our most recent public updates [here](https://medium.com/giveth/tagged/dappening) and are welcome in our [chat](http://giveth.io/join) for any question!  
+The Giveth Donation Platform is currently live in *beta* stage on the Ethereum mainnet, bridged to Rinkeby testnet. You can read our most recent public updates [here](https://medium.com/giveth/tagged/dappening) and are welcome in our [chat](http://giveth.io/join) for any question! **NOTE**: We are currently in 'maintenance' mode, actively supporting existing projects on our platform but not accepting any new ones. In order to build a sustainable future for ourselves and any public good **we are building [the Commons Stack](http://commonsstack.org)**, a collaboration between [Giveth](http://giveth.io) and [BlockScience](http://block.science). We are however moving forward with the DApp in the context of its integration in the Commons Stack component library as the Giveth Proposal Engine. You can read more about this [on our medium](https://medium.com/giveth/the-future-of-giving-is-crowdfunding-the-commons-ac265e3010b8) and of course on [the Commons Stack website.](http://commonsstack.org)  
 
 Giveth is re-engineering charitable giving, by creating an entirely free, open-source platform, built on the Ethereum Blockchain. Our system cuts out bureaucracy and enables makers to create a high level of transparency and accountability towards Givers. For example: At any point until the moment funds are locked, a Giver can decide to withdraw them. You can read more about the basic components and the **logic behind our DApp (Donation Application) in this [post.](https://medium.com/giveth/what-is-the-future-of-giving-d50446b0a0e4)**
 
@@ -22,9 +22,7 @@ You can follow the development on [github](https://github.com/Giveth/giveth-dapp
 
 ## Get your donation Campaign onto Giveth!
 
-Please follow these steps to be considered for being onboarded and/or contact @danibelle in the #Communities channel on [Riot](http://riot.giveth.io) for more.
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vStldqYjYwTMdr34ySOppsmrWt1lLyyUZPXcDDQzoAKsD5yODOhw3_s_AyO2m3okRI-wzWCQJLiHi6A/pub?embedded=true" frameborder="0" width="100%" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+Currently we are not accepting any new projects, as we are building [the Commons Stack](http://commonsstack.org) project (see more under 'Status'). Contact @danibelle in the #Communities channel on [Riot](http://riot.giveth.io) for more.
 
 ## Goals of the DApp Circle
 
