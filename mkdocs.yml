@@ -137,7 +137,7 @@ nav:
         - Technical Challenges: 'dapp/technical-challenges.md'
     - Governance:
       - Intro to Giveth Governance: 'governance/index.md'
-      - Job openings: 'governance/jobs.md' 
+      - Job openings: 'governance/jobs.md'
       - Documentation & Tutorials:
         - Contributors Guide: 'dac/contributors-guide.md'
         - Governance of Meetings: 'governance/governance-meetings.md'
