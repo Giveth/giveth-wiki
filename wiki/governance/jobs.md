@@ -37,18 +37,20 @@ We need support to accomplish our mission - we need PROJECT MANAGEMENT!
 *********************************************************
 
 # Tasks that need your help 
-**(75%) Lead the planning and implementation of the Giveth 1 and Giveth 2 DApps** 
-* Work with product & dev team to create and execute agile project plans 
-* Participate and take notes during community & development calls (currently ~2 hours/week) 
-* During calls, ensure to-do’s are encapsulated in GitHub issues, prioritized, and assigned 
-* Prioritize issues in the to-do column of the Development and Operations kanban boards 
-* Review completed issues, mark them as ‘Done’ once all acceptance criteria have been met 
-* Manage the scope of projects firmly yet flexibly when appropriate 
-* Build iterative schedules for our goals and tasks 
-* Surface risks, issues, and opportunities for team assessment 
-* Cultivate relationships of trust with our team, allies and collaborators 
+* **(75%) Lead the planning and implementation of the Giveth 1 and Giveth 2 DApps** 
+
+ * Work with product & dev team to create and execute agile project plans 
+ * Participate and take notes during community & development calls (currently ~2 hours/week) 
+ * During calls, ensure to-do’s are encapsulated in GitHub issues, prioritized, and assigned 
+ * Prioritize issues in the to-do column of the Development and Operations kanban boards 
+ * Review completed issues, mark them as ‘Done’ once all acceptance criteria have been met 
+ * Manage the scope of projects firmly yet flexibly when appropriate 
+ * Build iterative schedules for our goals and tasks 
+ * Surface risks, issues, and opportunities for team assessment 
+ * Cultivate relationships of trust with our team, allies and collaborators 
 
 **(15%) Cat herd the team and deliverables with proactive communication** 
+
 * Organize and facilitate weekly project meetings 
 * Track issues, requests and changes in GitHub 
 * Monitor and engage in communication channels 
@@ -56,6 +58,7 @@ We need support to accomplish our mission - we need PROJECT MANAGEMENT!
 * Distribute updates, meeting minutes and call recordings 
 
 **(10%) Supporting the development of Giveth 1 & 2 DApps** 
+
 * Use the Giveth DApps! 
 * Test the new features before the features go live. 
 * Collect feedback from team and help make the app more user friendly 
@@ -67,4 +70,4 @@ We are dedicated to building systems that appreciate value creation in the care 
 
 Do you want to join our international team of changemakers and help us get there? Please send your resume or Curriculum Vitae (CV) and a cover letter telling us why you are a good fit to Julietsdesk@gmail.com with the subject header **“Giveth Project Manager”** by September 23rd. We plan to have a decision by September 30th and will start scheduling interviews right away, so do not delay! 
 
-This is a full-time position starting at $3000/mo (paid in cryptocurrency) for the first 2 months, to be evaluated for renewal and budget at that time.
+This is a full-time position starting at $3000/mo (paid in cryptocurrency) for the first 2 months.
