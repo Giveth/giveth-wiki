@@ -1,6 +1,7 @@
-Jump to 
-* [Project Manager & Cat Herder](#pm)
-* [Full Stack Developer](#fsd)
+Jump to
+
+ * [Project Manager & Cat Herder](#pm)
+ * [Full Stack Developer](#fsd)
 
 
 <a id="pm"></a>
