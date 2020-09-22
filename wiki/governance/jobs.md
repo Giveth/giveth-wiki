@@ -107,7 +107,7 @@ We’re seeking a full stack engineer to lead our growing community of developer
 
 # Tasks that need your help
 
-** (80%) Architect, build, and deploy the v2 Giveth application. After launch, help maintain and improve it based on user feedback.
+**(80%) Architect, build, and deploy the v2 Giveth application. After launch, help maintain and improve it based on user feedback.**
  * Work with product & design team to scope feature requirements and create actionable github issues
  * Assign issues to yourself and to the community of developers
  * Lead weekly development check ins with developer community
@@ -120,7 +120,7 @@ We’re seeking a full stack engineer to lead our growing community of developer
  * Help other developers when they get stuck or have questions
  * Squash bugs
 
-** (20%) Represent the development team to the world
+**(20%) Represent the development team to the world**
  * Attend weekly community calls to give an update on development progress and hear others’ updates
  * Monitor and participate in the Discord dev channel
  * Interested in being even more public? It’s not a requirement for this role, but let us know if this is something you’re interested in.
