@@ -1,3 +1,10 @@
+Jump to 
+- [Project Manager & Cat Herder](#pm)
+- [Full Stack Developer](#fsd)
+
+
+<a id="pm"></a>
+
 # We Are Hiring! 
 **Full Time Position:** Project Manager & Cat Herder
 
@@ -76,6 +83,8 @@ This is a full-time position starting at $3000/mo (paid in cryptocurrency) for t
 
 *********************************************************
 *********************************************************
+
+<a id="fsd"></a>
 
 # We Are Hiring! 
 **Full Time Position:** Full Stack Developer
