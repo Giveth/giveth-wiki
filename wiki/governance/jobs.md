@@ -19,6 +19,7 @@ And this is where Giveth can help.
 # Giveth's Mission
 
 Giveth is designed to be an interface between the prosocial value-driven collective-focused magic-makers, and the revolutionary funding streams that the crypto space (especially the Ethereum community) has opened up. 
+
 These funding mechanisms give donors the confidence needed to collaborate with non-profits in achieving shared goals, including becoming self-sustainable… and gives organizations that are caring for Public Goods the ability to cooperate with each other instead of competing for traditional funding. 
 
 Cryptoeconomic systems are creating value based economies that can enable non-profits around the world to support themselves without personal sacrifice. 
@@ -37,7 +38,7 @@ We need support to accomplish our mission - we need PROJECT MANAGEMENT!
 *********************************************************
 
 # Tasks that need your help 
-* **(75%) Lead the planning and implementation of the Giveth 1 and Giveth 2 DApps** 
+**(75%) Lead the planning and implementation of the Giveth 1 and Giveth 2 DApps** 
 
  * Work with product & dev team to create and execute agile project plans 
  * Participate and take notes during community & development calls (currently ~2 hours/week) 
@@ -71,3 +72,46 @@ We are dedicated to building systems that appreciate value creation in the care 
 Do you want to join our international team of changemakers and help us get there? Please send your resume or Curriculum Vitae (CV) and a cover letter telling us why you are a good fit to Julietsdesk@gmail.com with the subject header **“Giveth Project Manager”** by September 23rd. We plan to have a decision by September 30th and will start scheduling interviews right away, so do not delay! 
 
 This is a full-time position starting at $3000/mo (paid in cryptocurrency) for the first 2 months.
+
+
+*********************************************************
+*********************************************************
+
+# We Are Hiring! 
+**Full Time Position:** Full Stack Developer
+
+**Starting:** October 1 or sooner
+
+**Submit Resume & Cover Letter to:** Julietsdesk@gmail.com
+
+*********************************************************
+
+Giveth hopes to be the place where every organization that wants to support Public Goods is able to COOPERATE and COORDINATE in doing so. 
+
+This focus on cooperation between our allies is the only attitude that is required to join this organization. Otherwise we prefer to have a diversity of opinion and temperament styles. :-D
+
+If you want to glimpse a piece of this vision… Our Founder Griff Green’s talk at ETHCC in 2019 is probably the best overview of it.
+
+This job offer is focused on the ongoing development of Giveth, the donor-first donation platform.
+
+We’re seeking a full stack engineer to lead our growing community of developers in building the next version of the Giveth platform.
+
+# Tasks that need your help
+
+** (80%) Architect, build, and deploy the v2 Giveth application. After launch, help maintain and improve it based on user feedback.
+ * Work with product & design team to scope feature requirements and create actionable github issues
+ * Assign issues to yourself and to the community of developers
+ * Lead weekly development check ins with developer community
+ * Help set up and maintain the onboarding process with Kay for new developers
+ * Define, document, and uphold Giveth 2’s development standards and guidelines
+ * Help keep documentation up-to-date and accessible
+ * Review and merge pull requests
+ * Help manage CI pipeline
+ * Test new features before they’re released
+ * Help other developers when they get stuck or have questions
+ * Squash bugs
+
+** (20%) Represent the development team to the world
+ * Attend weekly community calls to give an update on development progress and hear others’ updates
+ * Monitor and participate in the Discord dev channel
+ * Interested in being even more public? It’s not a requirement for this role, but let us know if this is something you’re interested in.
