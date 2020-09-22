@@ -11,7 +11,7 @@ Jump to
 
 **Starting:** October 1 or sooner
 
-**Submit Resume & Cover Letter to:** Julietsdesk@gmail.com
+**Submit Resume & Cover Letter to [info@giveth.io](mailto:info@giveth.io)**
 
 *********************************************************
 
@@ -77,7 +77,7 @@ While we are open to a variety of backgrounds to accomplish these goals, we are 
 
 We are dedicated to building systems that appreciate value creation in the care work and stewardship of Public Goods which is currently under appreciated. Giveth is the critical interface that allows the legacy world to connect to the blockchain revolution that can value this important work and make it regenerative. 
 
-Do you want to join our international team of changemakers and help us get there? Please send your resume or Curriculum Vitae (CV) and a cover letter telling us why you are a good fit to Julietsdesk@gmail.com with the subject header **“Giveth Project Manager”** by September 23rd. We plan to have a decision by September 30th and will start scheduling interviews right away, so do not delay! 
+Do you want to join our international team of changemakers and help us get there? Please send your resume or Curriculum Vitae (CV) and a cover letter telling us why you are a good fit to [info@giveth.io](mailto:info@giveth.io) with the subject header **“Giveth Project Manager”** by September 23rd. We plan to have a decision by September 30th and will start scheduling interviews right away, so do not delay! 
 
 This is a full-time position starting at $3000/mo (paid in cryptocurrency) for the first 2 months.
 
@@ -92,7 +92,7 @@ This is a full-time position starting at $3000/mo (paid in cryptocurrency) for t
 
 **Starting:** October 1 or sooner
 
-**Submit Resume & Cover Letter to:** Julietsdesk@gmail.com
+**Submit Resume & Cover Letter to [info@giveth.io](mailto:info@giveth.io)**
 
 *********************************************************
 
@@ -109,6 +109,7 @@ We’re seeking a full stack engineer to lead our growing community of developer
 # Tasks that need your help
 
 **(80%) Architect, build, and deploy the v2 Giveth application. After launch, help maintain and improve it based on user feedback.**
+
  * Work with product & design team to scope feature requirements and create actionable github issues
  * Assign issues to yourself and to the community of developers
  * Lead weekly development check ins with developer community
@@ -122,6 +123,15 @@ We’re seeking a full stack engineer to lead our growing community of developer
  * Squash bugs
 
 **(20%) Represent the development team to the world**
+
  * Attend weekly community calls to give an update on development progress and hear others’ updates
  * Monitor and participate in the Discord dev channel
  * Interested in being even more public? It’s not a requirement for this role, but let us know if this is something you’re interested in.
+ 
+For this role we are seeking a talented full stack engineer with at least 3 years combined experience building both Web 2 and Web 3 applications. Ideally you are someone who is organized, has strong conversational English, and has a track record of successfully managing and executing projects remotely.
+We are dedicated to building systems that appreciate value creation in the care work and stewardship of Public Goods which is currently under appreciated. Giveth is the critical interface that allows the legacy world to connect to the blockchain revolution that can value this important work and make it regenerative.
+Do you want to join our international team of changemakers and help us get there? Please send your resume or Curriculum Vitae (CV) and a cover letter telling us why you are a good fit to [info@giveth.io](mailto:info@giveth.io) with the subject header “Giveth Full Stack Engineer” by September 23rd. We plan to have a decision by September 30th and will start scheduling interviews right away, so do not delay!
+This is a full-time position starting at $2500-$3500/mo (paid in cryptocurrency, range dependent on the cost of living in your area) for the first 2 months to launch the DApp, after that we will make a longer term agreement.
+
+ 
+ 
