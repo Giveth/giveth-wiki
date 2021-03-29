@@ -1,5 +1,5 @@
 mkdocs==1
-pygments==2.2
+pygments==2.7.4
 pymdown-extensions==4.11
 mkdocs-material==3
 Markdown>=2.6.0
